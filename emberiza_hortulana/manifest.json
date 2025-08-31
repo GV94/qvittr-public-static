@@ -1,0 +1,27 @@
+{
+  "directory": "emberiza_hortulana",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "emberiza_hortulana/1.jpg",
+      "size": 249318
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "emberiza_hortulana/1_thumb.jpg",
+      "size": 6889
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "emberiza_hortulana/1.jpg",
+      "size": 249318
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "emberiza_hortulana/1_thumb.jpg",
+      "size": 6889
+    }
+  }
+}

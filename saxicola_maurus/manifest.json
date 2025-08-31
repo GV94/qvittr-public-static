@@ -1,0 +1,27 @@
+{
+  "directory": "saxicola_maurus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "saxicola_maurus/1.jpg",
+      "size": 228869
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_maurus/1_thumb.jpg",
+      "size": 6286
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "saxicola_maurus/1.jpg",
+      "size": 228869
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_maurus/1_thumb.jpg",
+      "size": 6286
+    }
+  }
+}

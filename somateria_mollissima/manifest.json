@@ -1,0 +1,147 @@
+{
+  "directory": "somateria_mollissima",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/1.jpg",
+      "size": 244748
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/1_thumb.jpg",
+      "size": 6020
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/2.jpg",
+      "size": 249755
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/2_thumb.jpg",
+      "size": 7968
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/3.jpg",
+      "size": 203051
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/3_thumb.jpg",
+      "size": 6065
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/4.jpg",
+      "size": 261548
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/4_thumb.jpg",
+      "size": 6330
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/5.jpg",
+      "size": 303701
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/5_thumb.jpg",
+      "size": 7139
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/6.jpg",
+      "size": 218082
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/6_thumb.jpg",
+      "size": 5674
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/7.jpg",
+      "size": 231628
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/7_thumb.jpg",
+      "size": 5354
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/1.jpg",
+      "size": 244748
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/1_thumb.jpg",
+      "size": 6020
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/2.jpg",
+      "size": 249755
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/2_thumb.jpg",
+      "size": 7968
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/3.jpg",
+      "size": 203051
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/3_thumb.jpg",
+      "size": 6065
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/4.jpg",
+      "size": 261548
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/4_thumb.jpg",
+      "size": 6330
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/5.jpg",
+      "size": 303701
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/5_thumb.jpg",
+      "size": 7139
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/6.jpg",
+      "size": 218082
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/6_thumb.jpg",
+      "size": 5674
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/7.jpg",
+      "size": 231628
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "somateria_mollissima/7_thumb.jpg",
+      "size": 5354
+    }
+  }
+}

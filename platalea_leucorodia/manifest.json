@@ -1,0 +1,287 @@
+{
+  "directory": "platalea_leucorodia",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/1.jpg",
+      "size": 299368
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/10.jpg",
+      "size": 420200
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/10_thumb.jpg",
+      "size": 7489
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/11.jpg",
+      "size": 425507
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/11_thumb.jpg",
+      "size": 7616
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/12.jpg",
+      "size": 322517
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/12_thumb.jpg",
+      "size": 6127
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/13.jpg",
+      "size": 364270
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/13_thumb.jpg",
+      "size": 5044
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/14.jpg",
+      "size": 303613
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/14_thumb.jpg",
+      "size": 6183
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/1_thumb.jpg",
+      "size": 7044
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/2.jpg",
+      "size": 331163
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/2_thumb.jpg",
+      "size": 6445
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/3.jpg",
+      "size": 279350
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/3_thumb.jpg",
+      "size": 5995
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/4.jpg",
+      "size": 287650
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/4_thumb.jpg",
+      "size": 6182
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/5.jpg",
+      "size": 401572
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/5_thumb.jpg",
+      "size": 7992
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/6.jpg",
+      "size": 387369
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/6_thumb.jpg",
+      "size": 7510
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/7.jpg",
+      "size": 365501
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/7_thumb.jpg",
+      "size": 6988
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/8.jpg",
+      "size": 246584
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/8_thumb.jpg",
+      "size": 4648
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/9.jpg",
+      "size": 336039
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/9_thumb.jpg",
+      "size": 7090
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/1.jpg",
+      "size": 299368
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/10.jpg",
+      "size": 420200
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/10_thumb.jpg",
+      "size": 7489
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/11.jpg",
+      "size": 425507
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/11_thumb.jpg",
+      "size": 7616
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/12.jpg",
+      "size": 322517
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/12_thumb.jpg",
+      "size": 6127
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/13.jpg",
+      "size": 364270
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/13_thumb.jpg",
+      "size": 5044
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/14.jpg",
+      "size": 303613
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/14_thumb.jpg",
+      "size": 6183
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/1_thumb.jpg",
+      "size": 7044
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/2.jpg",
+      "size": 331163
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/2_thumb.jpg",
+      "size": 6445
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/3.jpg",
+      "size": 279350
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/3_thumb.jpg",
+      "size": 5995
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/4.jpg",
+      "size": 287650
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/4_thumb.jpg",
+      "size": 6182
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/5.jpg",
+      "size": 401572
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/5_thumb.jpg",
+      "size": 7992
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/6.jpg",
+      "size": 387369
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/6_thumb.jpg",
+      "size": 7510
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/7.jpg",
+      "size": 365501
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/7_thumb.jpg",
+      "size": 6988
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/8.jpg",
+      "size": 246584
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/8_thumb.jpg",
+      "size": 4648
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/9.jpg",
+      "size": 336039
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "platalea_leucorodia/9_thumb.jpg",
+      "size": 7090
+    }
+  }
+}

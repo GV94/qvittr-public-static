@@ -1,0 +1,27 @@
+{
+  "directory": "hydroprogne_caspia",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "hydroprogne_caspia/1.jpg",
+      "size": 327567
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "hydroprogne_caspia/1_thumb.jpg",
+      "size": 8536
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "hydroprogne_caspia/1.jpg",
+      "size": 327567
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "hydroprogne_caspia/1_thumb.jpg",
+      "size": 8536
+    }
+  }
+}

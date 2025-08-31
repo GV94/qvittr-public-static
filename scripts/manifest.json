@@ -1,0 +1,38 @@
+{
+  "directory": "/Users/victorgustafsson/Projects/qvittr-public-static/scripts",
+  "generated_at": "2025-08-31T21:02:37Z",
+  "contents": {
+    "hooks": {
+      "type": "directory",
+      "path": "/Users/victorgustafsson/Projects/qvittr-public-static/scripts/hooks"
+    }
+,
+    "install-hooks.sh": {
+      "type": "file",
+      "path": "/Users/victorgustafsson/Projects/qvittr-public-static/scripts/install-hooks.sh",
+      "size": 1153,
+      "modified": "2025-08-31T21:02:13Z"
+    }
+  },
+  "tree": {
+    "hooks": {
+      "type": "directory",
+      "path": "/Users/victorgustafsson/Projects/qvittr-public-static/scripts/hooks",
+      "contents": {
+        "pre-commit": {
+          "type": "file",
+          "path": "/Users/victorgustafsson/Projects/qvittr-public-static/scripts/hooks/pre-commit",
+          "size": 7728,
+          "modified": "2025-08-31T21:02:06Z"
+        }
+      }
+    }
+,
+    "install-hooks.sh": {
+      "type": "file",
+      "path": "/Users/victorgustafsson/Projects/qvittr-public-static/scripts/install-hooks.sh",
+      "size": 1153,
+      "modified": "2025-08-31T21:02:13Z"
+    }
+  }
+}

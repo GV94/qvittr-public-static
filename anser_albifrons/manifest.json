@@ -1,0 +1,47 @@
+{
+  "directory": "anser_albifrons",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/1.jpg",
+      "size": 215248
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/1_thumb.jpg",
+      "size": 5593
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/2.jpg",
+      "size": 164704
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/2_thumb.jpg",
+      "size": 5094
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/1.jpg",
+      "size": 215248
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/1_thumb.jpg",
+      "size": 5593
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/2.jpg",
+      "size": 164704
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "anser_albifrons/2_thumb.jpg",
+      "size": 5094
+    }
+  }
+}

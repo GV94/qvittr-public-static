@@ -1,0 +1,27 @@
+{
+  "directory": "acrocephalus_schoenobaenus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "acrocephalus_schoenobaenus/1.jpg",
+      "size": 177309
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "acrocephalus_schoenobaenus/1_thumb.jpg",
+      "size": 4437
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "acrocephalus_schoenobaenus/1.jpg",
+      "size": 177309
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "acrocephalus_schoenobaenus/1_thumb.jpg",
+      "size": 4437
+    }
+  }
+}

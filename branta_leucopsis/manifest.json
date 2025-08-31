@@ -1,0 +1,287 @@
+{
+  "directory": "branta_leucopsis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/1.jpg",
+      "size": 453029
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/10.jpg",
+      "size": 597655
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/10_thumb.jpg",
+      "size": 10461
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/11.jpg",
+      "size": 248497
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/11_thumb.jpg",
+      "size": 6777
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/12.jpg",
+      "size": 580190
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/12_thumb.jpg",
+      "size": 10449
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/13.jpg",
+      "size": 84634
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/13_thumb.jpg",
+      "size": 2568
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/14.jpg",
+      "size": 72700
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/14_thumb.jpg",
+      "size": 2521
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/1_thumb.jpg",
+      "size": 7864
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/2.jpg",
+      "size": 136499
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/2_thumb.jpg",
+      "size": 5169
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/3.jpg",
+      "size": 479772
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/3_thumb.jpg",
+      "size": 7726
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/4.jpg",
+      "size": 537626
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/4_thumb.jpg",
+      "size": 7343
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/5.jpg",
+      "size": 214850
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/5_thumb.jpg",
+      "size": 5897
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/6.jpg",
+      "size": 487102
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/6_thumb.jpg",
+      "size": 7467
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/7.jpg",
+      "size": 356135
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/7_thumb.jpg",
+      "size": 9862
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/8.jpg",
+      "size": 123530
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/8_thumb.jpg",
+      "size": 3986
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/9.jpg",
+      "size": 325456
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/9_thumb.jpg",
+      "size": 9006
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/1.jpg",
+      "size": 453029
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/10.jpg",
+      "size": 597655
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/10_thumb.jpg",
+      "size": 10461
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/11.jpg",
+      "size": 248497
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/11_thumb.jpg",
+      "size": 6777
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/12.jpg",
+      "size": 580190
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/12_thumb.jpg",
+      "size": 10449
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/13.jpg",
+      "size": 84634
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/13_thumb.jpg",
+      "size": 2568
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/14.jpg",
+      "size": 72700
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/14_thumb.jpg",
+      "size": 2521
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/1_thumb.jpg",
+      "size": 7864
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/2.jpg",
+      "size": 136499
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/2_thumb.jpg",
+      "size": 5169
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/3.jpg",
+      "size": 479772
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/3_thumb.jpg",
+      "size": 7726
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/4.jpg",
+      "size": 537626
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/4_thumb.jpg",
+      "size": 7343
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/5.jpg",
+      "size": 214850
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/5_thumb.jpg",
+      "size": 5897
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/6.jpg",
+      "size": 487102
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/6_thumb.jpg",
+      "size": 7467
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/7.jpg",
+      "size": 356135
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/7_thumb.jpg",
+      "size": 9862
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/8.jpg",
+      "size": 123530
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/8_thumb.jpg",
+      "size": 3986
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/9.jpg",
+      "size": 325456
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "branta_leucopsis/9_thumb.jpg",
+      "size": 9006
+    }
+  }
+}

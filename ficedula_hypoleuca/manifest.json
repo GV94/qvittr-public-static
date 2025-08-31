@@ -1,0 +1,127 @@
+{
+  "directory": "ficedula_hypoleuca",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/1.jpg",
+      "size": 327445
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/1_thumb.jpg",
+      "size": 10152
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/2.jpg",
+      "size": 217485
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/2_thumb.jpg",
+      "size": 7938
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/3.jpg",
+      "size": 255286
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/3_thumb.jpg",
+      "size": 8544
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/4.jpg",
+      "size": 155354
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/4_thumb.jpg",
+      "size": 5807
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/5.jpg",
+      "size": 198552
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/5_thumb.jpg",
+      "size": 5556
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/6.jpg",
+      "size": 105293
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/6_thumb.jpg",
+      "size": 3038
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/1.jpg",
+      "size": 327445
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/1_thumb.jpg",
+      "size": 10152
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/2.jpg",
+      "size": 217485
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/2_thumb.jpg",
+      "size": 7938
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/3.jpg",
+      "size": 255286
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/3_thumb.jpg",
+      "size": 8544
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/4.jpg",
+      "size": 155354
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/4_thumb.jpg",
+      "size": 5807
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/5.jpg",
+      "size": 198552
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/5_thumb.jpg",
+      "size": 5556
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/6.jpg",
+      "size": 105293
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_hypoleuca/6_thumb.jpg",
+      "size": 3038
+    }
+  }
+}

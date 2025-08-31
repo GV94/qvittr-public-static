@@ -1,0 +1,407 @@
+{
+  "directory": "aegithalos_caudatus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/1.jpg",
+      "size": 166916
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/10.jpg",
+      "size": 305049
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/10_thumb.jpg",
+      "size": 7553
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/11.jpg",
+      "size": 185846
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/11_thumb.jpg",
+      "size": 7477
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/12.jpg",
+      "size": 206038
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/12_thumb.jpg",
+      "size": 5953
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/13.jpg",
+      "size": 194751
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/13_thumb.jpg",
+      "size": 8570
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/14.jpg",
+      "size": 318849
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/14_thumb.jpg",
+      "size": 6855
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/15.jpg",
+      "size": 255111
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/15_thumb.jpg",
+      "size": 6616
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/16.jpg",
+      "size": 244389
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/16_thumb.jpg",
+      "size": 7486
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/17.jpg",
+      "size": 303547
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/17_thumb.jpg",
+      "size": 6955
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/18.jpg",
+      "size": 254835
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/18_thumb.jpg",
+      "size": 8488
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/19.jpg",
+      "size": 260595
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/19_thumb.jpg",
+      "size": 6675
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/1_thumb.jpg",
+      "size": 4458
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/2.jpg",
+      "size": 185160
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/20.jpg",
+      "size": 239837
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/20_thumb.jpg",
+      "size": 8905
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/2_thumb.jpg",
+      "size": 5603
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/3.jpg",
+      "size": 194806
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/3_thumb.jpg",
+      "size": 6048
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/4.jpg",
+      "size": 219775
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/4_thumb.jpg",
+      "size": 6468
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/5.jpg",
+      "size": 143914
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/5_thumb.jpg",
+      "size": 4319
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/6.jpg",
+      "size": 175435
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/6_thumb.jpg",
+      "size": 5104
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/7.jpg",
+      "size": 142896
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/7_thumb.jpg",
+      "size": 4512
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/8.jpg",
+      "size": 184895
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/8_thumb.jpg",
+      "size": 5437
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/9.jpg",
+      "size": 221684
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/9_thumb.jpg",
+      "size": 8061
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/1.jpg",
+      "size": 166916
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/10.jpg",
+      "size": 305049
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/10_thumb.jpg",
+      "size": 7553
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/11.jpg",
+      "size": 185846
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/11_thumb.jpg",
+      "size": 7477
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/12.jpg",
+      "size": 206038
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/12_thumb.jpg",
+      "size": 5953
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/13.jpg",
+      "size": 194751
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/13_thumb.jpg",
+      "size": 8570
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/14.jpg",
+      "size": 318849
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/14_thumb.jpg",
+      "size": 6855
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/15.jpg",
+      "size": 255111
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/15_thumb.jpg",
+      "size": 6616
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/16.jpg",
+      "size": 244389
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/16_thumb.jpg",
+      "size": 7486
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/17.jpg",
+      "size": 303547
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/17_thumb.jpg",
+      "size": 6955
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/18.jpg",
+      "size": 254835
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/18_thumb.jpg",
+      "size": 8488
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/19.jpg",
+      "size": 260595
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/19_thumb.jpg",
+      "size": 6675
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/1_thumb.jpg",
+      "size": 4458
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/2.jpg",
+      "size": 185160
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/20.jpg",
+      "size": 239837
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/20_thumb.jpg",
+      "size": 8905
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/2_thumb.jpg",
+      "size": 5603
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/3.jpg",
+      "size": 194806
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/3_thumb.jpg",
+      "size": 6048
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/4.jpg",
+      "size": 219775
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/4_thumb.jpg",
+      "size": 6468
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/5.jpg",
+      "size": 143914
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/5_thumb.jpg",
+      "size": 4319
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/6.jpg",
+      "size": 175435
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/6_thumb.jpg",
+      "size": 5104
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/7.jpg",
+      "size": 142896
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/7_thumb.jpg",
+      "size": 4512
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/8.jpg",
+      "size": 184895
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/8_thumb.jpg",
+      "size": 5437
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/9.jpg",
+      "size": 221684
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "aegithalos_caudatus/9_thumb.jpg",
+      "size": 8061
+    }
+  }
+}

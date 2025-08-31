@@ -1,0 +1,267 @@
+{
+  "directory": "branta_bernicla",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/1.jpg",
+      "size": 352781
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/10.jpg",
+      "size": 267838
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/10_thumb.jpg",
+      "size": 7560
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/11.jpg",
+      "size": 290148
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/11_thumb.jpg",
+      "size": 7975
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/12.jpg",
+      "size": 397291
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/12_thumb.jpg",
+      "size": 7399
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/13.jpg",
+      "size": 379810
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/13_thumb.jpg",
+      "size": 8477
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/1_thumb.jpg",
+      "size": 8551
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/2.jpg",
+      "size": 262500
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/2_thumb.jpg",
+      "size": 7299
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/3.jpg",
+      "size": 271123
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/3_thumb.jpg",
+      "size": 5806
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/4.jpg",
+      "size": 261265
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/4_thumb.jpg",
+      "size": 7799
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/5.jpg",
+      "size": 355338
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/5_thumb.jpg",
+      "size": 7689
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/6.jpg",
+      "size": 436294
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/6_thumb.jpg",
+      "size": 9237
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/7.jpg",
+      "size": 324320
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/7_thumb.jpg",
+      "size": 6114
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/8.jpg",
+      "size": 260605
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/8_thumb.jpg",
+      "size": 6064
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/9.jpg",
+      "size": 266673
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/9_thumb.jpg",
+      "size": 7702
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/1.jpg",
+      "size": 352781
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/10.jpg",
+      "size": 267838
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/10_thumb.jpg",
+      "size": 7560
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/11.jpg",
+      "size": 290148
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/11_thumb.jpg",
+      "size": 7975
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/12.jpg",
+      "size": 397291
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/12_thumb.jpg",
+      "size": 7399
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/13.jpg",
+      "size": 379810
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/13_thumb.jpg",
+      "size": 8477
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/1_thumb.jpg",
+      "size": 8551
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/2.jpg",
+      "size": 262500
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/2_thumb.jpg",
+      "size": 7299
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/3.jpg",
+      "size": 271123
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/3_thumb.jpg",
+      "size": 5806
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/4.jpg",
+      "size": 261265
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/4_thumb.jpg",
+      "size": 7799
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/5.jpg",
+      "size": 355338
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/5_thumb.jpg",
+      "size": 7689
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/6.jpg",
+      "size": 436294
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/6_thumb.jpg",
+      "size": 9237
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/7.jpg",
+      "size": 324320
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/7_thumb.jpg",
+      "size": 6114
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/8.jpg",
+      "size": 260605
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/8_thumb.jpg",
+      "size": 6064
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/9.jpg",
+      "size": 266673
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "branta_bernicla/9_thumb.jpg",
+      "size": 7702
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "directory": "carduelis_carduelis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/1.jpg",
+      "size": 265927
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/10.jpg",
+      "size": 94805
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/10_thumb.jpg",
+      "size": 3510
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/11.jpg",
+      "size": 296678
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/11_thumb.jpg",
+      "size": 10073
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/12.jpg",
+      "size": 91645
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/12_thumb.jpg",
+      "size": 4014
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/13.jpg",
+      "size": 178785
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/13_thumb.jpg",
+      "size": 5319
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/14.jpg",
+      "size": 214458
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/14_thumb.jpg",
+      "size": 7062
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/1_thumb.jpg",
+      "size": 12689
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/2.jpg",
+      "size": 205627
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/2_thumb.jpg",
+      "size": 3414
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/3.jpg",
+      "size": 349268
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/3_thumb.jpg",
+      "size": 12993
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/4.jpg",
+      "size": 174029
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/4_thumb.jpg",
+      "size": 6022
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/5.jpg",
+      "size": 150362
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/5_thumb.jpg",
+      "size": 4598
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/6.jpg",
+      "size": 236750
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/6_thumb.jpg",
+      "size": 9447
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/7.jpg",
+      "size": 147432
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/7_thumb.jpg",
+      "size": 4959
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/8.jpg",
+      "size": 118570
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/8_thumb.jpg",
+      "size": 4260
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/9.jpg",
+      "size": 297955
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/9_thumb.jpg",
+      "size": 10393
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/1.jpg",
+      "size": 265927
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/10.jpg",
+      "size": 94805
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/10_thumb.jpg",
+      "size": 3510
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/11.jpg",
+      "size": 296678
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/11_thumb.jpg",
+      "size": 10073
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/12.jpg",
+      "size": 91645
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/12_thumb.jpg",
+      "size": 4014
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/13.jpg",
+      "size": 178785
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/13_thumb.jpg",
+      "size": 5319
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/14.jpg",
+      "size": 214458
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/14_thumb.jpg",
+      "size": 7062
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/1_thumb.jpg",
+      "size": 12689
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/2.jpg",
+      "size": 205627
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/2_thumb.jpg",
+      "size": 3414
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/3.jpg",
+      "size": 349268
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/3_thumb.jpg",
+      "size": 12993
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/4.jpg",
+      "size": 174029
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/4_thumb.jpg",
+      "size": 6022
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/5.jpg",
+      "size": 150362
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/5_thumb.jpg",
+      "size": 4598
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/6.jpg",
+      "size": 236750
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/6_thumb.jpg",
+      "size": 9447
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/7.jpg",
+      "size": 147432
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/7_thumb.jpg",
+      "size": 4959
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/8.jpg",
+      "size": 118570
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/8_thumb.jpg",
+      "size": 4260
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/9.jpg",
+      "size": 297955
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "carduelis_carduelis/9_thumb.jpg",
+      "size": 10393
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "directory": "rissa_tridactyla",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/1.jpg",
+      "size": 91793
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/1_thumb.jpg",
+      "size": 3038
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/2.jpg",
+      "size": 156234
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/2_thumb.jpg",
+      "size": 4312
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/3.jpg",
+      "size": 146673
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/3_thumb.jpg",
+      "size": 3143
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/1.jpg",
+      "size": 91793
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/1_thumb.jpg",
+      "size": 3038
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/2.jpg",
+      "size": 156234
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/2_thumb.jpg",
+      "size": 4312
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/3.jpg",
+      "size": 146673
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "rissa_tridactyla/3_thumb.jpg",
+      "size": 3143
+    }
+  }
+}

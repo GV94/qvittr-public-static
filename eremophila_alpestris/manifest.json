@@ -1,0 +1,87 @@
+{
+  "directory": "eremophila_alpestris",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/1.jpg",
+      "size": 458365
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/1_thumb.jpg",
+      "size": 10431
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/2.jpg",
+      "size": 528301
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/2_thumb.jpg",
+      "size": 10623
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/3.jpg",
+      "size": 483106
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/3_thumb.jpg",
+      "size": 10681
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/4.jpg",
+      "size": 452542
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/4_thumb.jpg",
+      "size": 10477
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/1.jpg",
+      "size": 458365
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/1_thumb.jpg",
+      "size": 10431
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/2.jpg",
+      "size": 528301
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/2_thumb.jpg",
+      "size": 10623
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/3.jpg",
+      "size": 483106
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/3_thumb.jpg",
+      "size": 10681
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/4.jpg",
+      "size": 452542
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "eremophila_alpestris/4_thumb.jpg",
+      "size": 10477
+    }
+  }
+}

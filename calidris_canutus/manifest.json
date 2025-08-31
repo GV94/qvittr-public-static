@@ -1,0 +1,127 @@
+{
+  "directory": "calidris_canutus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/1.jpg",
+      "size": 244468
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/1_thumb.jpg",
+      "size": 7607
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/2.jpg",
+      "size": 126519
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/2_thumb.jpg",
+      "size": 4291
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/3.jpg",
+      "size": 171346
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/3_thumb.jpg",
+      "size": 6141
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/4.jpg",
+      "size": 127773
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/4_thumb.jpg",
+      "size": 4800
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/5.jpg",
+      "size": 175955
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/5_thumb.jpg",
+      "size": 5004
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/6.jpg",
+      "size": 233416
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/6_thumb.jpg",
+      "size": 6115
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/1.jpg",
+      "size": 244468
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/1_thumb.jpg",
+      "size": 7607
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/2.jpg",
+      "size": 126519
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/2_thumb.jpg",
+      "size": 4291
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/3.jpg",
+      "size": 171346
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/3_thumb.jpg",
+      "size": 6141
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/4.jpg",
+      "size": 127773
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/4_thumb.jpg",
+      "size": 4800
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/5.jpg",
+      "size": 175955
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/5_thumb.jpg",
+      "size": 5004
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/6.jpg",
+      "size": 233416
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_canutus/6_thumb.jpg",
+      "size": 6115
+    }
+  }
+}

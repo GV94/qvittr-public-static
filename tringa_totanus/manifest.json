@@ -1,0 +1,107 @@
+{
+  "directory": "tringa_totanus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/1.jpg",
+      "size": 117837
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/1_thumb.jpg",
+      "size": 3623
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/2.jpg",
+      "size": 177866
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/2_thumb.jpg",
+      "size": 4322
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/3.jpg",
+      "size": 428753
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/3_thumb.jpg",
+      "size": 9127
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/4.jpg",
+      "size": 164698
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/4_thumb.jpg",
+      "size": 5120
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/5.jpg",
+      "size": 499430
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/5_thumb.jpg",
+      "size": 9260
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/1.jpg",
+      "size": 117837
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/1_thumb.jpg",
+      "size": 3623
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/2.jpg",
+      "size": 177866
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/2_thumb.jpg",
+      "size": 4322
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/3.jpg",
+      "size": 428753
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/3_thumb.jpg",
+      "size": 9127
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/4.jpg",
+      "size": 164698
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/4_thumb.jpg",
+      "size": 5120
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/5.jpg",
+      "size": 499430
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_totanus/5_thumb.jpg",
+      "size": 9260
+    }
+  }
+}

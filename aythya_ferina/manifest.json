@@ -1,0 +1,87 @@
+{
+  "directory": "aythya_ferina",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/1.jpg",
+      "size": 358571
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/1_thumb.jpg",
+      "size": 8538
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/2.jpg",
+      "size": 373862
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/2_thumb.jpg",
+      "size": 8624
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/3.jpg",
+      "size": 251359
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/3_thumb.jpg",
+      "size": 5486
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/4.jpg",
+      "size": 305002
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/4_thumb.jpg",
+      "size": 7392
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/1.jpg",
+      "size": 358571
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/1_thumb.jpg",
+      "size": 8538
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/2.jpg",
+      "size": 373862
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/2_thumb.jpg",
+      "size": 8624
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/3.jpg",
+      "size": 251359
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/3_thumb.jpg",
+      "size": 5486
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/4.jpg",
+      "size": 305002
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_ferina/4_thumb.jpg",
+      "size": 7392
+    }
+  }
+}

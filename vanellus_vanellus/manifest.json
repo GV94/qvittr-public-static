@@ -1,0 +1,227 @@
+{
+  "directory": "vanellus_vanellus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/1.jpg",
+      "size": 372394
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/10.jpg",
+      "size": 240132
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/10_thumb.jpg",
+      "size": 7823
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/11.jpg",
+      "size": 298793
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/11_thumb.jpg",
+      "size": 7487
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/1_thumb.jpg",
+      "size": 8687
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/2.jpg",
+      "size": 431350
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/2_thumb.jpg",
+      "size": 9937
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/3.jpg",
+      "size": 430502
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/3_thumb.jpg",
+      "size": 10176
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/4.jpg",
+      "size": 441047
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/4_thumb.jpg",
+      "size": 8894
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/5.jpg",
+      "size": 242784
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/5_thumb.jpg",
+      "size": 6942
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/6.jpg",
+      "size": 299557
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/6_thumb.jpg",
+      "size": 5115
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/7.jpg",
+      "size": 324309
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/7_thumb.jpg",
+      "size": 8775
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/8.jpg",
+      "size": 116792
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/8_thumb.jpg",
+      "size": 3912
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/9.jpg",
+      "size": 575882
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/9_thumb.jpg",
+      "size": 10247
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/1.jpg",
+      "size": 372394
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/10.jpg",
+      "size": 240132
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/10_thumb.jpg",
+      "size": 7823
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/11.jpg",
+      "size": 298793
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/11_thumb.jpg",
+      "size": 7487
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/1_thumb.jpg",
+      "size": 8687
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/2.jpg",
+      "size": 431350
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/2_thumb.jpg",
+      "size": 9937
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/3.jpg",
+      "size": 430502
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/3_thumb.jpg",
+      "size": 10176
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/4.jpg",
+      "size": 441047
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/4_thumb.jpg",
+      "size": 8894
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/5.jpg",
+      "size": 242784
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/5_thumb.jpg",
+      "size": 6942
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/6.jpg",
+      "size": 299557
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/6_thumb.jpg",
+      "size": 5115
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/7.jpg",
+      "size": 324309
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/7_thumb.jpg",
+      "size": 8775
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/8.jpg",
+      "size": 116792
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/8_thumb.jpg",
+      "size": 3912
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/9.jpg",
+      "size": 575882
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "vanellus_vanellus/9_thumb.jpg",
+      "size": 10247
+    }
+  }
+}

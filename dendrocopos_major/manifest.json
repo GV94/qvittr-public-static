@@ -1,0 +1,407 @@
+{
+  "directory": "dendrocopos_major",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/1.jpg",
+      "size": 378933
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/10.jpg",
+      "size": 365339
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/10_thumb.jpg",
+      "size": 11374
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/11.jpg",
+      "size": 217550
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/11_thumb.jpg",
+      "size": 6445
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/12.jpg",
+      "size": 211125
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/12_thumb.jpg",
+      "size": 6601
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/13.jpg",
+      "size": 285178
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/13_thumb.jpg",
+      "size": 5414
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/14.jpg",
+      "size": 263591
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/14_thumb.jpg",
+      "size": 8356
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/15.jpg",
+      "size": 265285
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/15_thumb.jpg",
+      "size": 8544
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/16.jpg",
+      "size": 298170
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/16_thumb.jpg",
+      "size": 8810
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/17.jpg",
+      "size": 360075
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/17_thumb.jpg",
+      "size": 11117
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/18.jpg",
+      "size": 284868
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/18_thumb.jpg",
+      "size": 8536
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/19.jpg",
+      "size": 432897
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/19_thumb.jpg",
+      "size": 7605
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/1_thumb.jpg",
+      "size": 8845
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/2.jpg",
+      "size": 378971
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/20.jpg",
+      "size": 427462
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/20_thumb.jpg",
+      "size": 11656
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/2_thumb.jpg",
+      "size": 9200
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/3.jpg",
+      "size": 346449
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/3_thumb.jpg",
+      "size": 8059
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/4.jpg",
+      "size": 163327
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/4_thumb.jpg",
+      "size": 5402
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/5.jpg",
+      "size": 198595
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/5_thumb.jpg",
+      "size": 7617
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/6.jpg",
+      "size": 270547
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/6_thumb.jpg",
+      "size": 9188
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/7.jpg",
+      "size": 274570
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/7_thumb.jpg",
+      "size": 7929
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/8.jpg",
+      "size": 505393
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/8_thumb.jpg",
+      "size": 11856
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/9.jpg",
+      "size": 253136
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/9_thumb.jpg",
+      "size": 8260
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/1.jpg",
+      "size": 378933
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/10.jpg",
+      "size": 365339
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/10_thumb.jpg",
+      "size": 11374
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/11.jpg",
+      "size": 217550
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/11_thumb.jpg",
+      "size": 6445
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/12.jpg",
+      "size": 211125
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/12_thumb.jpg",
+      "size": 6601
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/13.jpg",
+      "size": 285178
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/13_thumb.jpg",
+      "size": 5414
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/14.jpg",
+      "size": 263591
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/14_thumb.jpg",
+      "size": 8356
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/15.jpg",
+      "size": 265285
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/15_thumb.jpg",
+      "size": 8544
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/16.jpg",
+      "size": 298170
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/16_thumb.jpg",
+      "size": 8810
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/17.jpg",
+      "size": 360075
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/17_thumb.jpg",
+      "size": 11117
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/18.jpg",
+      "size": 284868
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/18_thumb.jpg",
+      "size": 8536
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/19.jpg",
+      "size": 432897
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/19_thumb.jpg",
+      "size": 7605
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/1_thumb.jpg",
+      "size": 8845
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/2.jpg",
+      "size": 378971
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/20.jpg",
+      "size": 427462
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/20_thumb.jpg",
+      "size": 11656
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/2_thumb.jpg",
+      "size": 9200
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/3.jpg",
+      "size": 346449
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/3_thumb.jpg",
+      "size": 8059
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/4.jpg",
+      "size": 163327
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/4_thumb.jpg",
+      "size": 5402
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/5.jpg",
+      "size": 198595
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/5_thumb.jpg",
+      "size": 7617
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/6.jpg",
+      "size": 270547
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/6_thumb.jpg",
+      "size": 9188
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/7.jpg",
+      "size": 274570
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/7_thumb.jpg",
+      "size": 7929
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/8.jpg",
+      "size": 505393
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/8_thumb.jpg",
+      "size": 11856
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/9.jpg",
+      "size": 253136
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "dendrocopos_major/9_thumb.jpg",
+      "size": 8260
+    }
+  }
+}

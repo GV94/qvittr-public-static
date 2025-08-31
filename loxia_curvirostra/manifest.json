@@ -1,0 +1,47 @@
+{
+  "directory": "loxia_curvirostra",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/1.jpg",
+      "size": 245447
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/1_thumb.jpg",
+      "size": 6588
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/2.jpg",
+      "size": 358120
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/2_thumb.jpg",
+      "size": 7668
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/1.jpg",
+      "size": 245447
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/1_thumb.jpg",
+      "size": 6588
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/2.jpg",
+      "size": 358120
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "loxia_curvirostra/2_thumb.jpg",
+      "size": 7668
+    }
+  }
+}

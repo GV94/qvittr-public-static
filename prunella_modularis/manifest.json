@@ -1,0 +1,227 @@
+{
+  "directory": "prunella_modularis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/1.jpg",
+      "size": 292398
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/10.jpg",
+      "size": 348855
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/10_thumb.jpg",
+      "size": 8938
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/11.jpg",
+      "size": 75356
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/11_thumb.jpg",
+      "size": 6567
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/1_thumb.jpg",
+      "size": 7944
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/2.jpg",
+      "size": 335040
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/2_thumb.jpg",
+      "size": 6824
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/3.jpg",
+      "size": 249732
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/3_thumb.jpg",
+      "size": 7008
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/4.jpg",
+      "size": 302053
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/4_thumb.jpg",
+      "size": 8908
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/5.jpg",
+      "size": 367491
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/5_thumb.jpg",
+      "size": 9419
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/6.jpg",
+      "size": 214409
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/6_thumb.jpg",
+      "size": 6238
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/7.jpg",
+      "size": 430189
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/7_thumb.jpg",
+      "size": 7675
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/8.jpg",
+      "size": 414116
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/8_thumb.jpg",
+      "size": 7665
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/9.jpg",
+      "size": 100364
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/9_thumb.jpg",
+      "size": 3480
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/1.jpg",
+      "size": 292398
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/10.jpg",
+      "size": 348855
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/10_thumb.jpg",
+      "size": 8938
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/11.jpg",
+      "size": 75356
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/11_thumb.jpg",
+      "size": 6567
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/1_thumb.jpg",
+      "size": 7944
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/2.jpg",
+      "size": 335040
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/2_thumb.jpg",
+      "size": 6824
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/3.jpg",
+      "size": 249732
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/3_thumb.jpg",
+      "size": 7008
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/4.jpg",
+      "size": 302053
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/4_thumb.jpg",
+      "size": 8908
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/5.jpg",
+      "size": 367491
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/5_thumb.jpg",
+      "size": 9419
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/6.jpg",
+      "size": 214409
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/6_thumb.jpg",
+      "size": 6238
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/7.jpg",
+      "size": 430189
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/7_thumb.jpg",
+      "size": 7675
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/8.jpg",
+      "size": 414116
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/8_thumb.jpg",
+      "size": 7665
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/9.jpg",
+      "size": 100364
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_modularis/9_thumb.jpg",
+      "size": 3480
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "directory": "corvus_corone",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "corvus_corone/1.jpg",
+      "size": 231116
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "corvus_corone/10.jpg",
+      "size": 207924
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/10_thumb.jpg",
+      "size": 3477
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "corvus_corone/11.jpg",
+      "size": 135436
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/11_thumb.jpg",
+      "size": 4123
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "corvus_corone/12.jpg",
+      "size": 91151
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/12_thumb.jpg",
+      "size": 3277
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "corvus_corone/13.jpg",
+      "size": 249476
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/13_thumb.jpg",
+      "size": 5966
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "corvus_corone/14.jpg",
+      "size": 90564
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/14_thumb.jpg",
+      "size": 3213
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/1_thumb.jpg",
+      "size": 6139
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "corvus_corone/2.jpg",
+      "size": 317920
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/2_thumb.jpg",
+      "size": 8144
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "corvus_corone/3.jpg",
+      "size": 362647
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/3_thumb.jpg",
+      "size": 9433
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "corvus_corone/4.jpg",
+      "size": 188308
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/4_thumb.jpg",
+      "size": 4897
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "corvus_corone/5.jpg",
+      "size": 226026
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/5_thumb.jpg",
+      "size": 7663
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "corvus_corone/6.jpg",
+      "size": 219037
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/6_thumb.jpg",
+      "size": 7284
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "corvus_corone/7.jpg",
+      "size": 190881
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/7_thumb.jpg",
+      "size": 4799
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "corvus_corone/8.jpg",
+      "size": 174703
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/8_thumb.jpg",
+      "size": 5454
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "corvus_corone/9.jpg",
+      "size": 263569
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/9_thumb.jpg",
+      "size": 7519
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "corvus_corone/1.jpg",
+      "size": 231116
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "corvus_corone/10.jpg",
+      "size": 207924
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/10_thumb.jpg",
+      "size": 3477
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "corvus_corone/11.jpg",
+      "size": 135436
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/11_thumb.jpg",
+      "size": 4123
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "corvus_corone/12.jpg",
+      "size": 91151
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/12_thumb.jpg",
+      "size": 3277
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "corvus_corone/13.jpg",
+      "size": 249476
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/13_thumb.jpg",
+      "size": 5966
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "corvus_corone/14.jpg",
+      "size": 90564
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/14_thumb.jpg",
+      "size": 3213
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/1_thumb.jpg",
+      "size": 6139
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "corvus_corone/2.jpg",
+      "size": 317920
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/2_thumb.jpg",
+      "size": 8144
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "corvus_corone/3.jpg",
+      "size": 362647
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/3_thumb.jpg",
+      "size": 9433
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "corvus_corone/4.jpg",
+      "size": 188308
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/4_thumb.jpg",
+      "size": 4897
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "corvus_corone/5.jpg",
+      "size": 226026
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/5_thumb.jpg",
+      "size": 7663
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "corvus_corone/6.jpg",
+      "size": 219037
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/6_thumb.jpg",
+      "size": 7284
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "corvus_corone/7.jpg",
+      "size": 190881
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/7_thumb.jpg",
+      "size": 4799
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "corvus_corone/8.jpg",
+      "size": 174703
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/8_thumb.jpg",
+      "size": 5454
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "corvus_corone/9.jpg",
+      "size": 263569
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corone/9_thumb.jpg",
+      "size": 7519
+    }
+  }
+}

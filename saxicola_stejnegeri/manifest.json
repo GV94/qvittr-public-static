@@ -1,0 +1,67 @@
+{
+  "directory": "saxicola_stejnegeri",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/1.jpg",
+      "size": 149701
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/1_thumb.jpg",
+      "size": 2775
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/2.jpg",
+      "size": 149713
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/2_thumb.jpg",
+      "size": 2619
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/3.jpg",
+      "size": 150534
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/3_thumb.jpg",
+      "size": 2643
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/1.jpg",
+      "size": 149701
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/1_thumb.jpg",
+      "size": 2775
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/2.jpg",
+      "size": 149713
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/2_thumb.jpg",
+      "size": 2619
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/3.jpg",
+      "size": 150534
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_stejnegeri/3_thumb.jpg",
+      "size": 2643
+    }
+  }
+}

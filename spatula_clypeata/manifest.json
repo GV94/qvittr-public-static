@@ -1,0 +1,67 @@
+{
+  "directory": "spatula_clypeata",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/1.jpg",
+      "size": 486449
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/1_thumb.jpg",
+      "size": 9427
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/2.jpg",
+      "size": 427127
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/2_thumb.jpg",
+      "size": 9188
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/3.jpg",
+      "size": 428438
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/3_thumb.jpg",
+      "size": 7381
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/1.jpg",
+      "size": 486449
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/1_thumb.jpg",
+      "size": 9427
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/2.jpg",
+      "size": 427127
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/2_thumb.jpg",
+      "size": 9188
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/3.jpg",
+      "size": 428438
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_clypeata/3_thumb.jpg",
+      "size": 7381
+    }
+  }
+}

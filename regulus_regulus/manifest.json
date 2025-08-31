@@ -1,0 +1,407 @@
+{
+  "directory": "regulus_regulus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/1.jpg",
+      "size": 139126
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/10.jpg",
+      "size": 158001
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/10_thumb.jpg",
+      "size": 5279
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/11.jpg",
+      "size": 245635
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/11_thumb.jpg",
+      "size": 9780
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/12.jpg",
+      "size": 367827
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/12_thumb.jpg",
+      "size": 11148
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/13.jpg",
+      "size": 282889
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/13_thumb.jpg",
+      "size": 9298
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/14.jpg",
+      "size": 296573
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/14_thumb.jpg",
+      "size": 9876
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/15.jpg",
+      "size": 266816
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/15_thumb.jpg",
+      "size": 7689
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/16.jpg",
+      "size": 256447
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/16_thumb.jpg",
+      "size": 7768
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/17.jpg",
+      "size": 410704
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/17_thumb.jpg",
+      "size": 9015
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/18.jpg",
+      "size": 284390
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/18_thumb.jpg",
+      "size": 8644
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/19.jpg",
+      "size": 293686
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/19_thumb.jpg",
+      "size": 6018
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/1_thumb.jpg",
+      "size": 3915
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/2.jpg",
+      "size": 201261
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/20.jpg",
+      "size": 325699
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/20_thumb.jpg",
+      "size": 8195
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/2_thumb.jpg",
+      "size": 4907
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/3.jpg",
+      "size": 286059
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/3_thumb.jpg",
+      "size": 8635
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/4.jpg",
+      "size": 426582
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/4_thumb.jpg",
+      "size": 12714
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/5.jpg",
+      "size": 211300
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/5_thumb.jpg",
+      "size": 5884
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/6.jpg",
+      "size": 366095
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/6_thumb.jpg",
+      "size": 9226
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/7.jpg",
+      "size": 169701
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/7_thumb.jpg",
+      "size": 4864
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/8.jpg",
+      "size": 431436
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/8_thumb.jpg",
+      "size": 9234
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/9.jpg",
+      "size": 335567
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/9_thumb.jpg",
+      "size": 9901
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/1.jpg",
+      "size": 139126
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/10.jpg",
+      "size": 158001
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/10_thumb.jpg",
+      "size": 5279
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/11.jpg",
+      "size": 245635
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/11_thumb.jpg",
+      "size": 9780
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/12.jpg",
+      "size": 367827
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/12_thumb.jpg",
+      "size": 11148
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/13.jpg",
+      "size": 282889
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/13_thumb.jpg",
+      "size": 9298
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/14.jpg",
+      "size": 296573
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/14_thumb.jpg",
+      "size": 9876
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/15.jpg",
+      "size": 266816
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/15_thumb.jpg",
+      "size": 7689
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/16.jpg",
+      "size": 256447
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/16_thumb.jpg",
+      "size": 7768
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/17.jpg",
+      "size": 410704
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/17_thumb.jpg",
+      "size": 9015
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/18.jpg",
+      "size": 284390
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/18_thumb.jpg",
+      "size": 8644
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/19.jpg",
+      "size": 293686
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/19_thumb.jpg",
+      "size": 6018
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/1_thumb.jpg",
+      "size": 3915
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/2.jpg",
+      "size": 201261
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/20.jpg",
+      "size": 325699
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/20_thumb.jpg",
+      "size": 8195
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/2_thumb.jpg",
+      "size": 4907
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/3.jpg",
+      "size": 286059
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/3_thumb.jpg",
+      "size": 8635
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/4.jpg",
+      "size": 426582
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/4_thumb.jpg",
+      "size": 12714
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/5.jpg",
+      "size": 211300
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/5_thumb.jpg",
+      "size": 5884
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/6.jpg",
+      "size": 366095
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/6_thumb.jpg",
+      "size": 9226
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/7.jpg",
+      "size": 169701
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/7_thumb.jpg",
+      "size": 4864
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/8.jpg",
+      "size": 431436
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/8_thumb.jpg",
+      "size": 9234
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/9.jpg",
+      "size": 335567
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "regulus_regulus/9_thumb.jpg",
+      "size": 9901
+    }
+  }
+}

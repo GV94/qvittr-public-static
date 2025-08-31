@@ -1,0 +1,67 @@
+{
+  "directory": "spatula_querquedula",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/1.jpg",
+      "size": 621373
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/1_thumb.jpg",
+      "size": 11231
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/2.jpg",
+      "size": 631960
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/2_thumb.jpg",
+      "size": 11232
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/3.jpg",
+      "size": 514030
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/3_thumb.jpg",
+      "size": 10778
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/1.jpg",
+      "size": 621373
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/1_thumb.jpg",
+      "size": 11231
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/2.jpg",
+      "size": 631960
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/2_thumb.jpg",
+      "size": 11232
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/3.jpg",
+      "size": 514030
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "spatula_querquedula/3_thumb.jpg",
+      "size": 10778
+    }
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "directory": "corvus_corax",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "corvus_corax/1.jpg",
+      "size": 150134
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "corvus_corax/10.jpg",
+      "size": 281800
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/10_thumb.jpg",
+      "size": 6343
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "corvus_corax/11.jpg",
+      "size": 315196
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/11_thumb.jpg",
+      "size": 10327
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "corvus_corax/12.jpg",
+      "size": 321146
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/12_thumb.jpg",
+      "size": 9732
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "corvus_corax/13.jpg",
+      "size": 274901
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/13_thumb.jpg",
+      "size": 7248
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "corvus_corax/14.jpg",
+      "size": 296777
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/14_thumb.jpg",
+      "size": 9768
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "corvus_corax/15.jpg",
+      "size": 166766
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/15_thumb.jpg",
+      "size": 5415
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "corvus_corax/16.jpg",
+      "size": 323993
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/16_thumb.jpg",
+      "size": 7052
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "corvus_corax/17.jpg",
+      "size": 237592
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/17_thumb.jpg",
+      "size": 9738
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/1_thumb.jpg",
+      "size": 5825
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "corvus_corax/2.jpg",
+      "size": 294239
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/2_thumb.jpg",
+      "size": 8834
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "corvus_corax/3.jpg",
+      "size": 133870
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/3_thumb.jpg",
+      "size": 4232
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "corvus_corax/4.jpg",
+      "size": 225665
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/4_thumb.jpg",
+      "size": 6201
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "corvus_corax/5.jpg",
+      "size": 133478
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/5_thumb.jpg",
+      "size": 5410
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "corvus_corax/6.jpg",
+      "size": 333210
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/6_thumb.jpg",
+      "size": 9137
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "corvus_corax/7.jpg",
+      "size": 324477
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/7_thumb.jpg",
+      "size": 10068
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "corvus_corax/8.jpg",
+      "size": 406981
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/8_thumb.jpg",
+      "size": 11762
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "corvus_corax/9.jpg",
+      "size": 319864
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/9_thumb.jpg",
+      "size": 10068
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "corvus_corax/1.jpg",
+      "size": 150134
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "corvus_corax/10.jpg",
+      "size": 281800
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/10_thumb.jpg",
+      "size": 6343
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "corvus_corax/11.jpg",
+      "size": 315196
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/11_thumb.jpg",
+      "size": 10327
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "corvus_corax/12.jpg",
+      "size": 321146
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/12_thumb.jpg",
+      "size": 9732
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "corvus_corax/13.jpg",
+      "size": 274901
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/13_thumb.jpg",
+      "size": 7248
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "corvus_corax/14.jpg",
+      "size": 296777
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/14_thumb.jpg",
+      "size": 9768
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "corvus_corax/15.jpg",
+      "size": 166766
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/15_thumb.jpg",
+      "size": 5415
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "corvus_corax/16.jpg",
+      "size": 323993
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/16_thumb.jpg",
+      "size": 7052
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "corvus_corax/17.jpg",
+      "size": 237592
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/17_thumb.jpg",
+      "size": 9738
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/1_thumb.jpg",
+      "size": 5825
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "corvus_corax/2.jpg",
+      "size": 294239
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/2_thumb.jpg",
+      "size": 8834
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "corvus_corax/3.jpg",
+      "size": 133870
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/3_thumb.jpg",
+      "size": 4232
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "corvus_corax/4.jpg",
+      "size": 225665
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/4_thumb.jpg",
+      "size": 6201
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "corvus_corax/5.jpg",
+      "size": 133478
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/5_thumb.jpg",
+      "size": 5410
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "corvus_corax/6.jpg",
+      "size": 333210
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/6_thumb.jpg",
+      "size": 9137
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "corvus_corax/7.jpg",
+      "size": 324477
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/7_thumb.jpg",
+      "size": 10068
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "corvus_corax/8.jpg",
+      "size": 406981
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/8_thumb.jpg",
+      "size": 11762
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "corvus_corax/9.jpg",
+      "size": 319864
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_corax/9_thumb.jpg",
+      "size": 10068
+    }
+  }
+}

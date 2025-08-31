@@ -1,0 +1,127 @@
+{
+  "directory": "turdus_iliacus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/1.jpg",
+      "size": 298295
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/1_thumb.jpg",
+      "size": 9449
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/2.jpg",
+      "size": 354705
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/2_thumb.jpg",
+      "size": 10116
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/3.jpg",
+      "size": 397608
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/3_thumb.jpg",
+      "size": 10133
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/4.jpg",
+      "size": 270258
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/4_thumb.jpg",
+      "size": 8150
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/5.jpg",
+      "size": 122396
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/5_thumb.jpg",
+      "size": 5035
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/6.jpg",
+      "size": 368811
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/6_thumb.jpg",
+      "size": 10419
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/1.jpg",
+      "size": 298295
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/1_thumb.jpg",
+      "size": 9449
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/2.jpg",
+      "size": 354705
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/2_thumb.jpg",
+      "size": 10116
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/3.jpg",
+      "size": 397608
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/3_thumb.jpg",
+      "size": 10133
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/4.jpg",
+      "size": 270258
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/4_thumb.jpg",
+      "size": 8150
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/5.jpg",
+      "size": 122396
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/5_thumb.jpg",
+      "size": 5035
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/6.jpg",
+      "size": 368811
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_iliacus/6_thumb.jpg",
+      "size": 10419
+    }
+  }
+}

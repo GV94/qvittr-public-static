@@ -1,0 +1,27 @@
+{
+  "directory": "saxicola_rubicola",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "saxicola_rubicola/1.jpg",
+      "size": 137538
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_rubicola/1_thumb.jpg",
+      "size": 4489
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "saxicola_rubicola/1.jpg",
+      "size": 137538
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "saxicola_rubicola/1_thumb.jpg",
+      "size": 4489
+    }
+  }
+}

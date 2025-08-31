@@ -1,0 +1,27 @@
+{
+  "directory": "crex_crex",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "crex_crex/1.jpg",
+      "size": 420848
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "crex_crex/1_thumb.jpg",
+      "size": 11335
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "crex_crex/1.jpg",
+      "size": 420848
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "crex_crex/1_thumb.jpg",
+      "size": 11335
+    }
+  }
+}

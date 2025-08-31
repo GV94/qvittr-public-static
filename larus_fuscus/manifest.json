@@ -1,0 +1,127 @@
+{
+  "directory": "larus_fuscus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/1.jpg",
+      "size": 208675
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/1_thumb.jpg",
+      "size": 6360
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/2.jpg",
+      "size": 377711
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/2_thumb.jpg",
+      "size": 8269
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/3.jpg",
+      "size": 412374
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/3_thumb.jpg",
+      "size": 8466
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/4.jpg",
+      "size": 287896
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/4_thumb.jpg",
+      "size": 6189
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/5.jpg",
+      "size": 418733
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/5_thumb.jpg",
+      "size": 8417
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/6.jpg",
+      "size": 295324
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/6_thumb.jpg",
+      "size": 5999
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/1.jpg",
+      "size": 208675
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/1_thumb.jpg",
+      "size": 6360
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/2.jpg",
+      "size": 377711
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/2_thumb.jpg",
+      "size": 8269
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/3.jpg",
+      "size": 412374
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/3_thumb.jpg",
+      "size": 8466
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/4.jpg",
+      "size": 287896
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/4_thumb.jpg",
+      "size": 6189
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/5.jpg",
+      "size": 418733
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/5_thumb.jpg",
+      "size": 8417
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/6.jpg",
+      "size": 295324
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "larus_fuscus/6_thumb.jpg",
+      "size": 5999
+    }
+  }
+}

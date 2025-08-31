@@ -1,0 +1,407 @@
+{
+  "directory": "streptopelia_decaocto",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/1.jpg",
+      "size": 200839
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/10.jpg",
+      "size": 157480
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/10_thumb.jpg",
+      "size": 5345
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/11.jpg",
+      "size": 164646
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/11_thumb.jpg",
+      "size": 5241
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/12.jpg",
+      "size": 149718
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/12_thumb.jpg",
+      "size": 5392
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/13.jpg",
+      "size": 171239
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/13_thumb.jpg",
+      "size": 5241
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/14.jpg",
+      "size": 218914
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/14_thumb.jpg",
+      "size": 8173
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/15.jpg",
+      "size": 266924
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/15_thumb.jpg",
+      "size": 6665
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/16.jpg",
+      "size": 233869
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/16_thumb.jpg",
+      "size": 5852
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/17.jpg",
+      "size": 230898
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/17_thumb.jpg",
+      "size": 6580
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/18.jpg",
+      "size": 463109
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/18_thumb.jpg",
+      "size": 10660
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/19.jpg",
+      "size": 315332
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/19_thumb.jpg",
+      "size": 6636
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/1_thumb.jpg",
+      "size": 5501
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/2.jpg",
+      "size": 250592
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/20.jpg",
+      "size": 332912
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/20_thumb.jpg",
+      "size": 9186
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/2_thumb.jpg",
+      "size": 8235
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/3.jpg",
+      "size": 151042
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/3_thumb.jpg",
+      "size": 6042
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/4.jpg",
+      "size": 201441
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/4_thumb.jpg",
+      "size": 6263
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/5.jpg",
+      "size": 457012
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/5_thumb.jpg",
+      "size": 11701
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/6.jpg",
+      "size": 187652
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/6_thumb.jpg",
+      "size": 6984
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/7.jpg",
+      "size": 217181
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/7_thumb.jpg",
+      "size": 7423
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/8.jpg",
+      "size": 147670
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/8_thumb.jpg",
+      "size": 5853
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/9.jpg",
+      "size": 208892
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/9_thumb.jpg",
+      "size": 4304
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/1.jpg",
+      "size": 200839
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/10.jpg",
+      "size": 157480
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/10_thumb.jpg",
+      "size": 5345
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/11.jpg",
+      "size": 164646
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/11_thumb.jpg",
+      "size": 5241
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/12.jpg",
+      "size": 149718
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/12_thumb.jpg",
+      "size": 5392
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/13.jpg",
+      "size": 171239
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/13_thumb.jpg",
+      "size": 5241
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/14.jpg",
+      "size": 218914
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/14_thumb.jpg",
+      "size": 8173
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/15.jpg",
+      "size": 266924
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/15_thumb.jpg",
+      "size": 6665
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/16.jpg",
+      "size": 233869
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/16_thumb.jpg",
+      "size": 5852
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/17.jpg",
+      "size": 230898
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/17_thumb.jpg",
+      "size": 6580
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/18.jpg",
+      "size": 463109
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/18_thumb.jpg",
+      "size": 10660
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/19.jpg",
+      "size": 315332
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/19_thumb.jpg",
+      "size": 6636
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/1_thumb.jpg",
+      "size": 5501
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/2.jpg",
+      "size": 250592
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/20.jpg",
+      "size": 332912
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/20_thumb.jpg",
+      "size": 9186
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/2_thumb.jpg",
+      "size": 8235
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/3.jpg",
+      "size": 151042
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/3_thumb.jpg",
+      "size": 6042
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/4.jpg",
+      "size": 201441
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/4_thumb.jpg",
+      "size": 6263
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/5.jpg",
+      "size": 457012
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/5_thumb.jpg",
+      "size": 11701
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/6.jpg",
+      "size": 187652
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/6_thumb.jpg",
+      "size": 6984
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/7.jpg",
+      "size": 217181
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/7_thumb.jpg",
+      "size": 7423
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/8.jpg",
+      "size": 147670
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/8_thumb.jpg",
+      "size": 5853
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/9.jpg",
+      "size": 208892
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "streptopelia_decaocto/9_thumb.jpg",
+      "size": 4304
+    }
+  }
+}

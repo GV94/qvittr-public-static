@@ -1,0 +1,187 @@
+{
+  "directory": "picus_viridis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "picus_viridis/1.jpg",
+      "size": 458925
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/1_thumb.jpg",
+      "size": 9253
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "picus_viridis/2.jpg",
+      "size": 302729
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/2_thumb.jpg",
+      "size": 5848
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "picus_viridis/3.jpg",
+      "size": 351898
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/3_thumb.jpg",
+      "size": 9050
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "picus_viridis/4.jpg",
+      "size": 508194
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/4_thumb.jpg",
+      "size": 9665
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "picus_viridis/5.jpg",
+      "size": 277992
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/5_thumb.jpg",
+      "size": 8464
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "picus_viridis/6.jpg",
+      "size": 277224
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/6_thumb.jpg",
+      "size": 6910
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "picus_viridis/7.jpg",
+      "size": 361777
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/7_thumb.jpg",
+      "size": 8067
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "picus_viridis/8.jpg",
+      "size": 543912
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/8_thumb.jpg",
+      "size": 9590
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "picus_viridis/9.jpg",
+      "size": 386671
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/9_thumb.jpg",
+      "size": 9398
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "picus_viridis/1.jpg",
+      "size": 458925
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/1_thumb.jpg",
+      "size": 9253
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "picus_viridis/2.jpg",
+      "size": 302729
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/2_thumb.jpg",
+      "size": 5848
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "picus_viridis/3.jpg",
+      "size": 351898
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/3_thumb.jpg",
+      "size": 9050
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "picus_viridis/4.jpg",
+      "size": 508194
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/4_thumb.jpg",
+      "size": 9665
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "picus_viridis/5.jpg",
+      "size": 277992
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/5_thumb.jpg",
+      "size": 8464
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "picus_viridis/6.jpg",
+      "size": 277224
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/6_thumb.jpg",
+      "size": 6910
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "picus_viridis/7.jpg",
+      "size": 361777
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/7_thumb.jpg",
+      "size": 8067
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "picus_viridis/8.jpg",
+      "size": 543912
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/8_thumb.jpg",
+      "size": 9590
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "picus_viridis/9.jpg",
+      "size": 386671
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "picus_viridis/9_thumb.jpg",
+      "size": 9398
+    }
+  }
+}

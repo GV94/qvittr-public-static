@@ -1,0 +1,407 @@
+{
+  "directory": "cyanistes_caeruleus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/1.jpg",
+      "size": 241158
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/10.jpg",
+      "size": 356406
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/10_thumb.jpg",
+      "size": 11503
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/11.jpg",
+      "size": 248516
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/11_thumb.jpg",
+      "size": 8489
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/12.jpg",
+      "size": 222862
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/12_thumb.jpg",
+      "size": 6686
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/13.jpg",
+      "size": 285864
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/13_thumb.jpg",
+      "size": 8763
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/14.jpg",
+      "size": 189667
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/14_thumb.jpg",
+      "size": 3400
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/15.jpg",
+      "size": 198927
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/15_thumb.jpg",
+      "size": 8648
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/16.jpg",
+      "size": 238594
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/16_thumb.jpg",
+      "size": 6079
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/17.jpg",
+      "size": 122543
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/17_thumb.jpg",
+      "size": 4088
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/18.jpg",
+      "size": 296198
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/18_thumb.jpg",
+      "size": 11680
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/19.jpg",
+      "size": 241555
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/19_thumb.jpg",
+      "size": 6767
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/1_thumb.jpg",
+      "size": 9819
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/2.jpg",
+      "size": 295308
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/20.jpg",
+      "size": 206056
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/20_thumb.jpg",
+      "size": 5633
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/2_thumb.jpg",
+      "size": 8651
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/3.jpg",
+      "size": 438016
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/3_thumb.jpg",
+      "size": 9774
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/4.jpg",
+      "size": 203746
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/4_thumb.jpg",
+      "size": 5889
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/5.jpg",
+      "size": 254430
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/5_thumb.jpg",
+      "size": 6437
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/6.jpg",
+      "size": 168133
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/6_thumb.jpg",
+      "size": 5627
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/7.jpg",
+      "size": 217178
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/7_thumb.jpg",
+      "size": 6412
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/8.jpg",
+      "size": 220376
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/8_thumb.jpg",
+      "size": 7626
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/9.jpg",
+      "size": 275045
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/9_thumb.jpg",
+      "size": 7936
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/1.jpg",
+      "size": 241158
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/10.jpg",
+      "size": 356406
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/10_thumb.jpg",
+      "size": 11503
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/11.jpg",
+      "size": 248516
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/11_thumb.jpg",
+      "size": 8489
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/12.jpg",
+      "size": 222862
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/12_thumb.jpg",
+      "size": 6686
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/13.jpg",
+      "size": 285864
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/13_thumb.jpg",
+      "size": 8763
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/14.jpg",
+      "size": 189667
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/14_thumb.jpg",
+      "size": 3400
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/15.jpg",
+      "size": 198927
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/15_thumb.jpg",
+      "size": 8648
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/16.jpg",
+      "size": 238594
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/16_thumb.jpg",
+      "size": 6079
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/17.jpg",
+      "size": 122543
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/17_thumb.jpg",
+      "size": 4088
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/18.jpg",
+      "size": 296198
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/18_thumb.jpg",
+      "size": 11680
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/19.jpg",
+      "size": 241555
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/19_thumb.jpg",
+      "size": 6767
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/1_thumb.jpg",
+      "size": 9819
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/2.jpg",
+      "size": 295308
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/20.jpg",
+      "size": 206056
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/20_thumb.jpg",
+      "size": 5633
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/2_thumb.jpg",
+      "size": 8651
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/3.jpg",
+      "size": 438016
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/3_thumb.jpg",
+      "size": 9774
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/4.jpg",
+      "size": 203746
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/4_thumb.jpg",
+      "size": 5889
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/5.jpg",
+      "size": 254430
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/5_thumb.jpg",
+      "size": 6437
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/6.jpg",
+      "size": 168133
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/6_thumb.jpg",
+      "size": 5627
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/7.jpg",
+      "size": 217178
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/7_thumb.jpg",
+      "size": 6412
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/8.jpg",
+      "size": 220376
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/8_thumb.jpg",
+      "size": 7626
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/9.jpg",
+      "size": 275045
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "cyanistes_caeruleus/9_thumb.jpg",
+      "size": 7936
+    }
+  }
+}

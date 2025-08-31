@@ -1,0 +1,27 @@
+{
+  "directory": "species-images",
+  "contents": {
+    "file1.txt": {
+      "type": "file",
+      "path": "species-images/file1.txt",
+      "size": 5
+    },
+    "file2.txt": {
+      "type": "file",
+      "path": "species-images/file2.txt",
+      "size": 5
+    }
+  },
+  "tree": {
+    "file1.txt": {
+      "type": "file",
+      "path": "species-images/file1.txt",
+      "size": 5
+    },
+    "file2.txt": {
+      "type": "file",
+      "path": "species-images/file2.txt",
+      "size": 5
+    }
+  }
+}

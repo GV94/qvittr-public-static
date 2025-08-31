@@ -1,0 +1,27 @@
+{
+  "directory": "locustella_luscinioides",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "locustella_luscinioides/1.jpg",
+      "size": 225283
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "locustella_luscinioides/1_thumb.jpg",
+      "size": 3978
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "locustella_luscinioides/1.jpg",
+      "size": 225283
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "locustella_luscinioides/1_thumb.jpg",
+      "size": 3978
+    }
+  }
+}

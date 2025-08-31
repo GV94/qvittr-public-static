@@ -1,0 +1,27 @@
+{
+  "directory": "podiceps_nigricollis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "podiceps_nigricollis/1.jpg",
+      "size": 252196
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_nigricollis/1_thumb.jpg",
+      "size": 5738
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "podiceps_nigricollis/1.jpg",
+      "size": 252196
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_nigricollis/1_thumb.jpg",
+      "size": 5738
+    }
+  }
+}

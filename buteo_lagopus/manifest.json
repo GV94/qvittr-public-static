@@ -1,0 +1,47 @@
+{
+  "directory": "buteo_lagopus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/1.jpg",
+      "size": 219341
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/1_thumb.jpg",
+      "size": 5871
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/2.jpg",
+      "size": 241662
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/2_thumb.jpg",
+      "size": 5412
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/1.jpg",
+      "size": 219341
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/1_thumb.jpg",
+      "size": 5871
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/2.jpg",
+      "size": 241662
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "buteo_lagopus/2_thumb.jpg",
+      "size": 5412
+    }
+  }
+}

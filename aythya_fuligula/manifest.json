@@ -1,0 +1,207 @@
+{
+  "directory": "aythya_fuligula",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/1.jpg",
+      "size": 296883
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/10.jpg",
+      "size": 225469
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/10_thumb.jpg",
+      "size": 5670
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/1_thumb.jpg",
+      "size": 7866
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/2.jpg",
+      "size": 202340
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/2_thumb.jpg",
+      "size": 4504
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/3.jpg",
+      "size": 184816
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/3_thumb.jpg",
+      "size": 4013
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/4.jpg",
+      "size": 144965
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/4_thumb.jpg",
+      "size": 4543
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/5.jpg",
+      "size": 250999
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/5_thumb.jpg",
+      "size": 6339
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/6.jpg",
+      "size": 200520
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/6_thumb.jpg",
+      "size": 5370
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/7.jpg",
+      "size": 270371
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/7_thumb.jpg",
+      "size": 8260
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/8.jpg",
+      "size": 373611
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/8_thumb.jpg",
+      "size": 9749
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/9.jpg",
+      "size": 339106
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/9_thumb.jpg",
+      "size": 9568
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/1.jpg",
+      "size": 296883
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/10.jpg",
+      "size": 225469
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/10_thumb.jpg",
+      "size": 5670
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/1_thumb.jpg",
+      "size": 7866
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/2.jpg",
+      "size": 202340
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/2_thumb.jpg",
+      "size": 4504
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/3.jpg",
+      "size": 184816
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/3_thumb.jpg",
+      "size": 4013
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/4.jpg",
+      "size": 144965
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/4_thumb.jpg",
+      "size": 4543
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/5.jpg",
+      "size": 250999
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/5_thumb.jpg",
+      "size": 6339
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/6.jpg",
+      "size": 200520
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/6_thumb.jpg",
+      "size": 5370
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/7.jpg",
+      "size": 270371
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/7_thumb.jpg",
+      "size": 8260
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/8.jpg",
+      "size": 373611
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/8_thumb.jpg",
+      "size": 9749
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/9.jpg",
+      "size": 339106
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "aythya_fuligula/9_thumb.jpg",
+      "size": 9568
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "directory": "corvus_frugilegus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/1.jpg",
+      "size": 285124
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/10.jpg",
+      "size": 216691
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/10_thumb.jpg",
+      "size": 6004
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/11.jpg",
+      "size": 299312
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/11_thumb.jpg",
+      "size": 7258
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/12.jpg",
+      "size": 308704
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/12_thumb.jpg",
+      "size": 6855
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/1_thumb.jpg",
+      "size": 8921
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/2.jpg",
+      "size": 298757
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/2_thumb.jpg",
+      "size": 9021
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/3.jpg",
+      "size": 310861
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/3_thumb.jpg",
+      "size": 10381
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/4.jpg",
+      "size": 384986
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/4_thumb.jpg",
+      "size": 6516
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/5.jpg",
+      "size": 196120
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/5_thumb.jpg",
+      "size": 5972
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/6.jpg",
+      "size": 311280
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/6_thumb.jpg",
+      "size": 8529
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/7.jpg",
+      "size": 329329
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/7_thumb.jpg",
+      "size": 8241
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/8.jpg",
+      "size": 355751
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/8_thumb.jpg",
+      "size": 9126
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/9.jpg",
+      "size": 225863
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/9_thumb.jpg",
+      "size": 6941
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/1.jpg",
+      "size": 285124
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/10.jpg",
+      "size": 216691
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/10_thumb.jpg",
+      "size": 6004
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/11.jpg",
+      "size": 299312
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/11_thumb.jpg",
+      "size": 7258
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/12.jpg",
+      "size": 308704
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/12_thumb.jpg",
+      "size": 6855
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/1_thumb.jpg",
+      "size": 8921
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/2.jpg",
+      "size": 298757
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/2_thumb.jpg",
+      "size": 9021
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/3.jpg",
+      "size": 310861
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/3_thumb.jpg",
+      "size": 10381
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/4.jpg",
+      "size": 384986
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/4_thumb.jpg",
+      "size": 6516
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/5.jpg",
+      "size": 196120
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/5_thumb.jpg",
+      "size": 5972
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/6.jpg",
+      "size": 311280
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/6_thumb.jpg",
+      "size": 8529
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/7.jpg",
+      "size": 329329
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/7_thumb.jpg",
+      "size": 8241
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/8.jpg",
+      "size": 355751
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/8_thumb.jpg",
+      "size": 9126
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/9.jpg",
+      "size": 225863
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "corvus_frugilegus/9_thumb.jpg",
+      "size": 6941
+    }
+  }
+}

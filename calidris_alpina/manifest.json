@@ -1,0 +1,27 @@
+{
+  "directory": "calidris_alpina",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "calidris_alpina/1.jpg",
+      "size": 233509
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_alpina/1_thumb.jpg",
+      "size": 3192
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "calidris_alpina/1.jpg",
+      "size": 233509
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "calidris_alpina/1_thumb.jpg",
+      "size": 3192
+    }
+  }
+}

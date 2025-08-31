@@ -1,0 +1,27 @@
+{
+  "directory": "curruca_communis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "curruca_communis/1.jpg",
+      "size": 225257
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "curruca_communis/1_thumb.jpg",
+      "size": 8977
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "curruca_communis/1.jpg",
+      "size": 225257
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "curruca_communis/1_thumb.jpg",
+      "size": 8977
+    }
+  }
+}

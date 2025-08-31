@@ -1,0 +1,27 @@
+{
+  "directory": "alectoris_rufa",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "alectoris_rufa/1.jpg",
+      "size": 322929
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "alectoris_rufa/1_thumb.jpg",
+      "size": 6938
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "alectoris_rufa/1.jpg",
+      "size": 322929
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "alectoris_rufa/1_thumb.jpg",
+      "size": 6938
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "directory": "tachybaptus_ruficollis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/1.jpg",
+      "size": 263345
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/1_thumb.jpg",
+      "size": 7498
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/2.jpg",
+      "size": 271237
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/2_thumb.jpg",
+      "size": 7776
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/3.jpg",
+      "size": 275666
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/3_thumb.jpg",
+      "size": 7165
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/4.jpg",
+      "size": 261374
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/4_thumb.jpg",
+      "size": 7427
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/5.jpg",
+      "size": 263447
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/5_thumb.jpg",
+      "size": 6980
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/1.jpg",
+      "size": 263345
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/1_thumb.jpg",
+      "size": 7498
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/2.jpg",
+      "size": 271237
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/2_thumb.jpg",
+      "size": 7776
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/3.jpg",
+      "size": 275666
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/3_thumb.jpg",
+      "size": 7165
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/4.jpg",
+      "size": 261374
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/4_thumb.jpg",
+      "size": 7427
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/5.jpg",
+      "size": 263447
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "tachybaptus_ruficollis/5_thumb.jpg",
+      "size": 6980
+    }
+  }
+}

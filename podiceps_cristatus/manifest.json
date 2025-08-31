@@ -1,0 +1,287 @@
+{
+  "directory": "podiceps_cristatus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/1.jpg",
+      "size": 205653
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/10.jpg",
+      "size": 320131
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/10_thumb.jpg",
+      "size": 6719
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/11.jpg",
+      "size": 506410
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/11_thumb.jpg",
+      "size": 9988
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/12.jpg",
+      "size": 229244
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/12_thumb.jpg",
+      "size": 6371
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/13.jpg",
+      "size": 347610
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/13_thumb.jpg",
+      "size": 13697
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/14.jpg",
+      "size": 350926
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/14_thumb.jpg",
+      "size": 11869
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/1_thumb.jpg",
+      "size": 5294
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/2.jpg",
+      "size": 293656
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/2_thumb.jpg",
+      "size": 8115
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/3.jpg",
+      "size": 340151
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/3_thumb.jpg",
+      "size": 8811
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/4.jpg",
+      "size": 285317
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/4_thumb.jpg",
+      "size": 6806
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/5.jpg",
+      "size": 293709
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/5_thumb.jpg",
+      "size": 8199
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/6.jpg",
+      "size": 307893
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/6_thumb.jpg",
+      "size": 8182
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/7.jpg",
+      "size": 196333
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/7_thumb.jpg",
+      "size": 5605
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/8.jpg",
+      "size": 284401
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/8_thumb.jpg",
+      "size": 7178
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/9.jpg",
+      "size": 354211
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/9_thumb.jpg",
+      "size": 8063
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/1.jpg",
+      "size": 205653
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/10.jpg",
+      "size": 320131
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/10_thumb.jpg",
+      "size": 6719
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/11.jpg",
+      "size": 506410
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/11_thumb.jpg",
+      "size": 9988
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/12.jpg",
+      "size": 229244
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/12_thumb.jpg",
+      "size": 6371
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/13.jpg",
+      "size": 347610
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/13_thumb.jpg",
+      "size": 13697
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/14.jpg",
+      "size": 350926
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/14_thumb.jpg",
+      "size": 11869
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/1_thumb.jpg",
+      "size": 5294
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/2.jpg",
+      "size": 293656
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/2_thumb.jpg",
+      "size": 8115
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/3.jpg",
+      "size": 340151
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/3_thumb.jpg",
+      "size": 8811
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/4.jpg",
+      "size": 285317
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/4_thumb.jpg",
+      "size": 6806
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/5.jpg",
+      "size": 293709
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/5_thumb.jpg",
+      "size": 8199
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/6.jpg",
+      "size": 307893
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/6_thumb.jpg",
+      "size": 8182
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/7.jpg",
+      "size": 196333
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/7_thumb.jpg",
+      "size": 5605
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/8.jpg",
+      "size": 284401
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/8_thumb.jpg",
+      "size": 7178
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/9.jpg",
+      "size": 354211
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_cristatus/9_thumb.jpg",
+      "size": 8063
+    }
+  }
+}

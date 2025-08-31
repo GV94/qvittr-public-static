@@ -1,0 +1,27 @@
+{
+  "directory": "ciconia_abdimii",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ciconia_abdimii/1.jpg",
+      "size": 371162
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ciconia_abdimii/1_thumb.jpg",
+      "size": 8873
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ciconia_abdimii/1.jpg",
+      "size": 371162
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ciconia_abdimii/1_thumb.jpg",
+      "size": 8873
+    }
+  }
+}

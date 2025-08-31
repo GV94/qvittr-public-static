@@ -1,0 +1,347 @@
+{
+  "directory": "turdus_pilaris",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/1.jpg",
+      "size": 180301
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/10.jpg",
+      "size": 305260
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/10_thumb.jpg",
+      "size": 8453
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/11.jpg",
+      "size": 324042
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/11_thumb.jpg",
+      "size": 6066
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/12.jpg",
+      "size": 240984
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/12_thumb.jpg",
+      "size": 9019
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/13.jpg",
+      "size": 264270
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/13_thumb.jpg",
+      "size": 7384
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/14.jpg",
+      "size": 276004
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/14_thumb.jpg",
+      "size": 7342
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/15.jpg",
+      "size": 477684
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/15_thumb.jpg",
+      "size": 13134
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/16.jpg",
+      "size": 140861
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/16_thumb.jpg",
+      "size": 6209
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/17.jpg",
+      "size": 449892
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/17_thumb.jpg",
+      "size": 12883
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/1_thumb.jpg",
+      "size": 6375
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/2.jpg",
+      "size": 166324
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/2_thumb.jpg",
+      "size": 6122
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/3.jpg",
+      "size": 414032
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/3_thumb.jpg",
+      "size": 11040
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/4.jpg",
+      "size": 330862
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/4_thumb.jpg",
+      "size": 8616
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/5.jpg",
+      "size": 211963
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/5_thumb.jpg",
+      "size": 6799
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/6.jpg",
+      "size": 348198
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/6_thumb.jpg",
+      "size": 9992
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/7.jpg",
+      "size": 413779
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/7_thumb.jpg",
+      "size": 10975
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/8.jpg",
+      "size": 240210
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/8_thumb.jpg",
+      "size": 6488
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/9.jpg",
+      "size": 345173
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/9_thumb.jpg",
+      "size": 9617
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/1.jpg",
+      "size": 180301
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/10.jpg",
+      "size": 305260
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/10_thumb.jpg",
+      "size": 8453
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/11.jpg",
+      "size": 324042
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/11_thumb.jpg",
+      "size": 6066
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/12.jpg",
+      "size": 240984
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/12_thumb.jpg",
+      "size": 9019
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/13.jpg",
+      "size": 264270
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/13_thumb.jpg",
+      "size": 7384
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/14.jpg",
+      "size": 276004
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/14_thumb.jpg",
+      "size": 7342
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/15.jpg",
+      "size": 477684
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/15_thumb.jpg",
+      "size": 13134
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/16.jpg",
+      "size": 140861
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/16_thumb.jpg",
+      "size": 6209
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/17.jpg",
+      "size": 449892
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/17_thumb.jpg",
+      "size": 12883
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/1_thumb.jpg",
+      "size": 6375
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/2.jpg",
+      "size": 166324
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/2_thumb.jpg",
+      "size": 6122
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/3.jpg",
+      "size": 414032
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/3_thumb.jpg",
+      "size": 11040
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/4.jpg",
+      "size": 330862
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/4_thumb.jpg",
+      "size": 8616
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/5.jpg",
+      "size": 211963
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/5_thumb.jpg",
+      "size": 6799
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/6.jpg",
+      "size": 348198
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/6_thumb.jpg",
+      "size": 9992
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/7.jpg",
+      "size": 413779
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/7_thumb.jpg",
+      "size": 10975
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/8.jpg",
+      "size": 240210
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/8_thumb.jpg",
+      "size": 6488
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/9.jpg",
+      "size": 345173
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "turdus_pilaris/9_thumb.jpg",
+      "size": 9617
+    }
+  }
+}

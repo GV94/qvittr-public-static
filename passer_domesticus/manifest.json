@@ -1,0 +1,407 @@
+{
+  "directory": "passer_domesticus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/1.jpg",
+      "size": 355624
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/10.jpg",
+      "size": 215517
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/10_thumb.jpg",
+      "size": 7454
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/11.jpg",
+      "size": 300989
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/11_thumb.jpg",
+      "size": 7385
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/12.jpg",
+      "size": 256277
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/12_thumb.jpg",
+      "size": 7745
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/13.jpg",
+      "size": 243623
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/13_thumb.jpg",
+      "size": 7323
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/14.jpg",
+      "size": 176061
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/14_thumb.jpg",
+      "size": 7293
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/15.jpg",
+      "size": 198716
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/15_thumb.jpg",
+      "size": 5516
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/16.jpg",
+      "size": 230704
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/16_thumb.jpg",
+      "size": 6117
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/17.jpg",
+      "size": 265089
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/17_thumb.jpg",
+      "size": 7448
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/18.jpg",
+      "size": 144068
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/18_thumb.jpg",
+      "size": 4238
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/19.jpg",
+      "size": 448099
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/19_thumb.jpg",
+      "size": 10340
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/1_thumb.jpg",
+      "size": 8991
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/2.jpg",
+      "size": 333913
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/20.jpg",
+      "size": 184386
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/20_thumb.jpg",
+      "size": 6309
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/2_thumb.jpg",
+      "size": 7604
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/3.jpg",
+      "size": 253374
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/3_thumb.jpg",
+      "size": 7663
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/4.jpg",
+      "size": 147919
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/4_thumb.jpg",
+      "size": 4683
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/5.jpg",
+      "size": 355488
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/5_thumb.jpg",
+      "size": 10361
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/6.jpg",
+      "size": 247236
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/6_thumb.jpg",
+      "size": 5809
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/7.jpg",
+      "size": 242989
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/7_thumb.jpg",
+      "size": 9165
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/8.jpg",
+      "size": 273505
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/8_thumb.jpg",
+      "size": 6171
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/9.jpg",
+      "size": 220316
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/9_thumb.jpg",
+      "size": 7060
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/1.jpg",
+      "size": 355624
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/10.jpg",
+      "size": 215517
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/10_thumb.jpg",
+      "size": 7454
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/11.jpg",
+      "size": 300989
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/11_thumb.jpg",
+      "size": 7385
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/12.jpg",
+      "size": 256277
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/12_thumb.jpg",
+      "size": 7745
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/13.jpg",
+      "size": 243623
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/13_thumb.jpg",
+      "size": 7323
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/14.jpg",
+      "size": 176061
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/14_thumb.jpg",
+      "size": 7293
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/15.jpg",
+      "size": 198716
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/15_thumb.jpg",
+      "size": 5516
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/16.jpg",
+      "size": 230704
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/16_thumb.jpg",
+      "size": 6117
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/17.jpg",
+      "size": 265089
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/17_thumb.jpg",
+      "size": 7448
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/18.jpg",
+      "size": 144068
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/18_thumb.jpg",
+      "size": 4238
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/19.jpg",
+      "size": 448099
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/19_thumb.jpg",
+      "size": 10340
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/1_thumb.jpg",
+      "size": 8991
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/2.jpg",
+      "size": 333913
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/20.jpg",
+      "size": 184386
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/20_thumb.jpg",
+      "size": 6309
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/2_thumb.jpg",
+      "size": 7604
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/3.jpg",
+      "size": 253374
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/3_thumb.jpg",
+      "size": 7663
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/4.jpg",
+      "size": 147919
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/4_thumb.jpg",
+      "size": 4683
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/5.jpg",
+      "size": 355488
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/5_thumb.jpg",
+      "size": 10361
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/6.jpg",
+      "size": 247236
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/6_thumb.jpg",
+      "size": 5809
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/7.jpg",
+      "size": 242989
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/7_thumb.jpg",
+      "size": 9165
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/8.jpg",
+      "size": 273505
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/8_thumb.jpg",
+      "size": 6171
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/9.jpg",
+      "size": 220316
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "passer_domesticus/9_thumb.jpg",
+      "size": 7060
+    }
+  }
+}

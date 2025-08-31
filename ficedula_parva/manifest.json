@@ -1,0 +1,27 @@
+{
+  "directory": "ficedula_parva",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ficedula_parva/1.jpg",
+      "size": 242037
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_parva/1_thumb.jpg",
+      "size": 6473
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ficedula_parva/1.jpg",
+      "size": 242037
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ficedula_parva/1_thumb.jpg",
+      "size": 6473
+    }
+  }
+}

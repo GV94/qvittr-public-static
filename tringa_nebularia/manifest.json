@@ -1,0 +1,227 @@
+{
+  "directory": "tringa_nebularia",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/1.jpg",
+      "size": 234412
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/10.jpg",
+      "size": 246200
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/10_thumb.jpg",
+      "size": 3804
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/11.jpg",
+      "size": 399213
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/11_thumb.jpg",
+      "size": 6363
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/1_thumb.jpg",
+      "size": 5853
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/2.jpg",
+      "size": 220221
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/2_thumb.jpg",
+      "size": 4464
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/3.jpg",
+      "size": 211451
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/3_thumb.jpg",
+      "size": 4205
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/4.jpg",
+      "size": 204926
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/4_thumb.jpg",
+      "size": 5077
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/5.jpg",
+      "size": 217761
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/5_thumb.jpg",
+      "size": 4882
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/6.jpg",
+      "size": 209599
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/6_thumb.jpg",
+      "size": 4835
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/7.jpg",
+      "size": 206415
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/7_thumb.jpg",
+      "size": 4214
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/8.jpg",
+      "size": 211659
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/8_thumb.jpg",
+      "size": 4359
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/9.jpg",
+      "size": 244537
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/9_thumb.jpg",
+      "size": 4502
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/1.jpg",
+      "size": 234412
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/10.jpg",
+      "size": 246200
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/10_thumb.jpg",
+      "size": 3804
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/11.jpg",
+      "size": 399213
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/11_thumb.jpg",
+      "size": 6363
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/1_thumb.jpg",
+      "size": 5853
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/2.jpg",
+      "size": 220221
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/2_thumb.jpg",
+      "size": 4464
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/3.jpg",
+      "size": 211451
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/3_thumb.jpg",
+      "size": 4205
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/4.jpg",
+      "size": 204926
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/4_thumb.jpg",
+      "size": 5077
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/5.jpg",
+      "size": 217761
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/5_thumb.jpg",
+      "size": 4882
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/6.jpg",
+      "size": 209599
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/6_thumb.jpg",
+      "size": 4835
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/7.jpg",
+      "size": 206415
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/7_thumb.jpg",
+      "size": 4214
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/8.jpg",
+      "size": 211659
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/8_thumb.jpg",
+      "size": 4359
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/9.jpg",
+      "size": 244537
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "tringa_nebularia/9_thumb.jpg",
+      "size": 4502
+    }
+  }
+}

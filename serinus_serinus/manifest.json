@@ -1,0 +1,147 @@
+{
+  "directory": "serinus_serinus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/1.jpg",
+      "size": 245718
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/1_thumb.jpg",
+      "size": 7090
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/2.jpg",
+      "size": 311691
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/2_thumb.jpg",
+      "size": 8490
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/3.jpg",
+      "size": 207671
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/3_thumb.jpg",
+      "size": 6082
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/4.jpg",
+      "size": 227622
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/4_thumb.jpg",
+      "size": 7435
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/5.jpg",
+      "size": 335885
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/5_thumb.jpg",
+      "size": 8444
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/6.jpg",
+      "size": 374245
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/6_thumb.jpg",
+      "size": 9235
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/7.jpg",
+      "size": 294477
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/7_thumb.jpg",
+      "size": 8964
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/1.jpg",
+      "size": 245718
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/1_thumb.jpg",
+      "size": 7090
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/2.jpg",
+      "size": 311691
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/2_thumb.jpg",
+      "size": 8490
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/3.jpg",
+      "size": 207671
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/3_thumb.jpg",
+      "size": 6082
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/4.jpg",
+      "size": 227622
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/4_thumb.jpg",
+      "size": 7435
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/5.jpg",
+      "size": 335885
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/5_thumb.jpg",
+      "size": 8444
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/6.jpg",
+      "size": 374245
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/6_thumb.jpg",
+      "size": 9235
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/7.jpg",
+      "size": 294477
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "serinus_serinus/7_thumb.jpg",
+      "size": 8964
+    }
+  }
+}

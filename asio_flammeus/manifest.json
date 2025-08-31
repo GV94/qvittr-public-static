@@ -1,0 +1,27 @@
+{
+  "directory": "asio_flammeus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "asio_flammeus/1.jpg",
+      "size": 90551
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "asio_flammeus/1_thumb.jpg",
+      "size": 2555
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "asio_flammeus/1.jpg",
+      "size": 90551
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "asio_flammeus/1_thumb.jpg",
+      "size": 2555
+    }
+  }
+}

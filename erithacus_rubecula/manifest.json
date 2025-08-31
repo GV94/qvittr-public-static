@@ -1,0 +1,407 @@
+{
+  "directory": "erithacus_rubecula",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/1.jpg",
+      "size": 196342
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/10.jpg",
+      "size": 218710
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/10_thumb.jpg",
+      "size": 8064
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/11.jpg",
+      "size": 169809
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/11_thumb.jpg",
+      "size": 5467
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/12.jpg",
+      "size": 236456
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/12_thumb.jpg",
+      "size": 7831
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/13.jpg",
+      "size": 198609
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/13_thumb.jpg",
+      "size": 6652
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/14.jpg",
+      "size": 229725
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/14_thumb.jpg",
+      "size": 6142
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/15.jpg",
+      "size": 208429
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/15_thumb.jpg",
+      "size": 8525
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/16.jpg",
+      "size": 214585
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/16_thumb.jpg",
+      "size": 5224
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/17.jpg",
+      "size": 322047
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/17_thumb.jpg",
+      "size": 8569
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/18.jpg",
+      "size": 188147
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/18_thumb.jpg",
+      "size": 8572
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/19.jpg",
+      "size": 184022
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/19_thumb.jpg",
+      "size": 7525
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/1_thumb.jpg",
+      "size": 5960
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/2.jpg",
+      "size": 421375
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/20.jpg",
+      "size": 190858
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/20_thumb.jpg",
+      "size": 7824
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/2_thumb.jpg",
+      "size": 9879
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/3.jpg",
+      "size": 224273
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/3_thumb.jpg",
+      "size": 8546
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/4.jpg",
+      "size": 119526
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/4_thumb.jpg",
+      "size": 10001
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/5.jpg",
+      "size": 230104
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/5_thumb.jpg",
+      "size": 6163
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/6.jpg",
+      "size": 434515
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/6_thumb.jpg",
+      "size": 9254
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/7.jpg",
+      "size": 413363
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/7_thumb.jpg",
+      "size": 8372
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/8.jpg",
+      "size": 196371
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/8_thumb.jpg",
+      "size": 6112
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/9.jpg",
+      "size": 171631
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/9_thumb.jpg",
+      "size": 5594
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/1.jpg",
+      "size": 196342
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/10.jpg",
+      "size": 218710
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/10_thumb.jpg",
+      "size": 8064
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/11.jpg",
+      "size": 169809
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/11_thumb.jpg",
+      "size": 5467
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/12.jpg",
+      "size": 236456
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/12_thumb.jpg",
+      "size": 7831
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/13.jpg",
+      "size": 198609
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/13_thumb.jpg",
+      "size": 6652
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/14.jpg",
+      "size": 229725
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/14_thumb.jpg",
+      "size": 6142
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/15.jpg",
+      "size": 208429
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/15_thumb.jpg",
+      "size": 8525
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/16.jpg",
+      "size": 214585
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/16_thumb.jpg",
+      "size": 5224
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/17.jpg",
+      "size": 322047
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/17_thumb.jpg",
+      "size": 8569
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/18.jpg",
+      "size": 188147
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/18_thumb.jpg",
+      "size": 8572
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/19.jpg",
+      "size": 184022
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/19_thumb.jpg",
+      "size": 7525
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/1_thumb.jpg",
+      "size": 5960
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/2.jpg",
+      "size": 421375
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/20.jpg",
+      "size": 190858
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/20_thumb.jpg",
+      "size": 7824
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/2_thumb.jpg",
+      "size": 9879
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/3.jpg",
+      "size": 224273
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/3_thumb.jpg",
+      "size": 8546
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/4.jpg",
+      "size": 119526
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/4_thumb.jpg",
+      "size": 10001
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/5.jpg",
+      "size": 230104
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/5_thumb.jpg",
+      "size": 6163
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/6.jpg",
+      "size": 434515
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/6_thumb.jpg",
+      "size": 9254
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/7.jpg",
+      "size": 413363
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/7_thumb.jpg",
+      "size": 8372
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/8.jpg",
+      "size": 196371
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/8_thumb.jpg",
+      "size": 6112
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/9.jpg",
+      "size": 171631
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "erithacus_rubecula/9_thumb.jpg",
+      "size": 5594
+    }
+  }
+}

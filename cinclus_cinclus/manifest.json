@@ -1,0 +1,87 @@
+{
+  "directory": "cinclus_cinclus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/1.jpg",
+      "size": 308689
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/1_thumb.jpg",
+      "size": 8495
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/2.jpg",
+      "size": 319735
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/2_thumb.jpg",
+      "size": 8584
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/3.jpg",
+      "size": 471921
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/3_thumb.jpg",
+      "size": 9948
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/4.jpg",
+      "size": 309076
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/4_thumb.jpg",
+      "size": 8580
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/1.jpg",
+      "size": 308689
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/1_thumb.jpg",
+      "size": 8495
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/2.jpg",
+      "size": 319735
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/2_thumb.jpg",
+      "size": 8584
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/3.jpg",
+      "size": 471921
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/3_thumb.jpg",
+      "size": 9948
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/4.jpg",
+      "size": 309076
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "cinclus_cinclus/4_thumb.jpg",
+      "size": 8580
+    }
+  }
+}

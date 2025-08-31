@@ -1,0 +1,147 @@
+{
+  "directory": "grus_grus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "grus_grus/1.jpg",
+      "size": 327479
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/1_thumb.jpg",
+      "size": 7690
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "grus_grus/2.jpg",
+      "size": 180420
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/2_thumb.jpg",
+      "size": 5685
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "grus_grus/3.jpg",
+      "size": 250284
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/3_thumb.jpg",
+      "size": 5849
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "grus_grus/4.jpg",
+      "size": 74498
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/4_thumb.jpg",
+      "size": 2344
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "grus_grus/5.jpg",
+      "size": 573849
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/5_thumb.jpg",
+      "size": 9151
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "grus_grus/6.jpg",
+      "size": 468502
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/6_thumb.jpg",
+      "size": 8381
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "grus_grus/7.jpg",
+      "size": 586163
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/7_thumb.jpg",
+      "size": 8919
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "grus_grus/1.jpg",
+      "size": 327479
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/1_thumb.jpg",
+      "size": 7690
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "grus_grus/2.jpg",
+      "size": 180420
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/2_thumb.jpg",
+      "size": 5685
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "grus_grus/3.jpg",
+      "size": 250284
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/3_thumb.jpg",
+      "size": 5849
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "grus_grus/4.jpg",
+      "size": 74498
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/4_thumb.jpg",
+      "size": 2344
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "grus_grus/5.jpg",
+      "size": 573849
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/5_thumb.jpg",
+      "size": 9151
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "grus_grus/6.jpg",
+      "size": 468502
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/6_thumb.jpg",
+      "size": 8381
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "grus_grus/7.jpg",
+      "size": 586163
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "grus_grus/7_thumb.jpg",
+      "size": 8919
+    }
+  }
+}

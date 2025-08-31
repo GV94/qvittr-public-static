@@ -1,0 +1,47 @@
+{
+  "directory": "carpodacus_erythrinus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/1.jpg",
+      "size": 263835
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/1_thumb.jpg",
+      "size": 8791
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/2.jpg",
+      "size": 244083
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/2_thumb.jpg",
+      "size": 7898
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/1.jpg",
+      "size": 263835
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/1_thumb.jpg",
+      "size": 8791
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/2.jpg",
+      "size": 244083
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "carpodacus_erythrinus/2_thumb.jpg",
+      "size": 7898
+    }
+  }
+}

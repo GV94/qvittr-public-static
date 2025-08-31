@@ -1,0 +1,247 @@
+{
+  "directory": "poecile_palustris",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/1.jpg",
+      "size": 236916
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/10.jpg",
+      "size": 260167
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/10_thumb.jpg",
+      "size": 9192
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/11.jpg",
+      "size": 214028
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/11_thumb.jpg",
+      "size": 6640
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/12.jpg",
+      "size": 161985
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/12_thumb.jpg",
+      "size": 4622
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/1_thumb.jpg",
+      "size": 8562
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/2.jpg",
+      "size": 286273
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/2_thumb.jpg",
+      "size": 11021
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/3.jpg",
+      "size": 212898
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/3_thumb.jpg",
+      "size": 7600
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/4.jpg",
+      "size": 324036
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/4_thumb.jpg",
+      "size": 8199
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/5.jpg",
+      "size": 110328
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/5_thumb.jpg",
+      "size": 2678
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/6.jpg",
+      "size": 141493
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/6_thumb.jpg",
+      "size": 4461
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/7.jpg",
+      "size": 117721
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/7_thumb.jpg",
+      "size": 5115
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/8.jpg",
+      "size": 231664
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/8_thumb.jpg",
+      "size": 4785
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/9.jpg",
+      "size": 165882
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/9_thumb.jpg",
+      "size": 5698
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/1.jpg",
+      "size": 236916
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/10.jpg",
+      "size": 260167
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/10_thumb.jpg",
+      "size": 9192
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/11.jpg",
+      "size": 214028
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/11_thumb.jpg",
+      "size": 6640
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/12.jpg",
+      "size": 161985
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/12_thumb.jpg",
+      "size": 4622
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/1_thumb.jpg",
+      "size": 8562
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/2.jpg",
+      "size": 286273
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/2_thumb.jpg",
+      "size": 11021
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/3.jpg",
+      "size": 212898
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/3_thumb.jpg",
+      "size": 7600
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/4.jpg",
+      "size": 324036
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/4_thumb.jpg",
+      "size": 8199
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/5.jpg",
+      "size": 110328
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/5_thumb.jpg",
+      "size": 2678
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/6.jpg",
+      "size": 141493
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/6_thumb.jpg",
+      "size": 4461
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/7.jpg",
+      "size": 117721
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/7_thumb.jpg",
+      "size": 5115
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/8.jpg",
+      "size": 231664
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/8_thumb.jpg",
+      "size": 4785
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/9.jpg",
+      "size": 165882
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "poecile_palustris/9_thumb.jpg",
+      "size": 5698
+    }
+  }
+}

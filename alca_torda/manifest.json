@@ -1,0 +1,27 @@
+{
+  "directory": "alca_torda",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "alca_torda/1.jpg",
+      "size": 227448
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "alca_torda/1_thumb.jpg",
+      "size": 5193
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "alca_torda/1.jpg",
+      "size": 227448
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "alca_torda/1_thumb.jpg",
+      "size": 5193
+    }
+  }
+}

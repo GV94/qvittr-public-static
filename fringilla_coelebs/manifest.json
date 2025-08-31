@@ -1,0 +1,407 @@
+{
+  "directory": "fringilla_coelebs",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/1.jpg",
+      "size": 234744
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/10.jpg",
+      "size": 398089
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/10_thumb.jpg",
+      "size": 9463
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/11.jpg",
+      "size": 191795
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/11_thumb.jpg",
+      "size": 5820
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/12.jpg",
+      "size": 340646
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/12_thumb.jpg",
+      "size": 8947
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/13.jpg",
+      "size": 369645
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/13_thumb.jpg",
+      "size": 10300
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/14.jpg",
+      "size": 237014
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/14_thumb.jpg",
+      "size": 8118
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/15.jpg",
+      "size": 266459
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/15_thumb.jpg",
+      "size": 7200
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/16.jpg",
+      "size": 134989
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/16_thumb.jpg",
+      "size": 4193
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/17.jpg",
+      "size": 198665
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/17_thumb.jpg",
+      "size": 5730
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/18.jpg",
+      "size": 224886
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/18_thumb.jpg",
+      "size": 9143
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/19.jpg",
+      "size": 210743
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/19_thumb.jpg",
+      "size": 6209
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/1_thumb.jpg",
+      "size": 5737
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/2.jpg",
+      "size": 205212
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/20.jpg",
+      "size": 403241
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/20_thumb.jpg",
+      "size": 9196
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/2_thumb.jpg",
+      "size": 6597
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/3.jpg",
+      "size": 182168
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/3_thumb.jpg",
+      "size": 5650
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/4.jpg",
+      "size": 198584
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/4_thumb.jpg",
+      "size": 5660
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/5.jpg",
+      "size": 303935
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/5_thumb.jpg",
+      "size": 9499
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/6.jpg",
+      "size": 346377
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/6_thumb.jpg",
+      "size": 9995
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/7.jpg",
+      "size": 406029
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/7_thumb.jpg",
+      "size": 11667
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/8.jpg",
+      "size": 186876
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/8_thumb.jpg",
+      "size": 5655
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/9.jpg",
+      "size": 222432
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/9_thumb.jpg",
+      "size": 6713
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/1.jpg",
+      "size": 234744
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/10.jpg",
+      "size": 398089
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/10_thumb.jpg",
+      "size": 9463
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/11.jpg",
+      "size": 191795
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/11_thumb.jpg",
+      "size": 5820
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/12.jpg",
+      "size": 340646
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/12_thumb.jpg",
+      "size": 8947
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/13.jpg",
+      "size": 369645
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/13_thumb.jpg",
+      "size": 10300
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/14.jpg",
+      "size": 237014
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/14_thumb.jpg",
+      "size": 8118
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/15.jpg",
+      "size": 266459
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/15_thumb.jpg",
+      "size": 7200
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/16.jpg",
+      "size": 134989
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/16_thumb.jpg",
+      "size": 4193
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/17.jpg",
+      "size": 198665
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/17_thumb.jpg",
+      "size": 5730
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/18.jpg",
+      "size": 224886
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/18_thumb.jpg",
+      "size": 9143
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/19.jpg",
+      "size": 210743
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/19_thumb.jpg",
+      "size": 6209
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/1_thumb.jpg",
+      "size": 5737
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/2.jpg",
+      "size": 205212
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/20.jpg",
+      "size": 403241
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/20_thumb.jpg",
+      "size": 9196
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/2_thumb.jpg",
+      "size": 6597
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/3.jpg",
+      "size": 182168
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/3_thumb.jpg",
+      "size": 5650
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/4.jpg",
+      "size": 198584
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/4_thumb.jpg",
+      "size": 5660
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/5.jpg",
+      "size": 303935
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/5_thumb.jpg",
+      "size": 9499
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/6.jpg",
+      "size": 346377
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/6_thumb.jpg",
+      "size": 9995
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/7.jpg",
+      "size": 406029
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/7_thumb.jpg",
+      "size": 11667
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/8.jpg",
+      "size": 186876
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/8_thumb.jpg",
+      "size": 5655
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/9.jpg",
+      "size": 222432
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "fringilla_coelebs/9_thumb.jpg",
+      "size": 6713
+    }
+  }
+}

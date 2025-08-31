@@ -1,0 +1,407 @@
+{
+  "directory": "milvus_milvus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/1.jpg",
+      "size": 209575
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/10.jpg",
+      "size": 241801
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/10_thumb.jpg",
+      "size": 9395
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/11.jpg",
+      "size": 155122
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/11_thumb.jpg",
+      "size": 2805
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/12.jpg",
+      "size": 205421
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/12_thumb.jpg",
+      "size": 5880
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/13.jpg",
+      "size": 151728
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/13_thumb.jpg",
+      "size": 2405
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/14.jpg",
+      "size": 224590
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/14_thumb.jpg",
+      "size": 5075
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/15.jpg",
+      "size": 269195
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/15_thumb.jpg",
+      "size": 7975
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/16.jpg",
+      "size": 125103
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/16_thumb.jpg",
+      "size": 2304
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/17.jpg",
+      "size": 112624
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/17_thumb.jpg",
+      "size": 3164
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/18.jpg",
+      "size": 111447
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/18_thumb.jpg",
+      "size": 3069
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/19.jpg",
+      "size": 187708
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/19_thumb.jpg",
+      "size": 3964
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/1_thumb.jpg",
+      "size": 4825
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/2.jpg",
+      "size": 124025
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/20.jpg",
+      "size": 363824
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/20_thumb.jpg",
+      "size": 6989
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/2_thumb.jpg",
+      "size": 2511
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/3.jpg",
+      "size": 192520
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/3_thumb.jpg",
+      "size": 4773
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/4.jpg",
+      "size": 455092
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/4_thumb.jpg",
+      "size": 9637
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/5.jpg",
+      "size": 550463
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/5_thumb.jpg",
+      "size": 12862
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/6.jpg",
+      "size": 79460
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/6_thumb.jpg",
+      "size": 2741
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/7.jpg",
+      "size": 114327
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/7_thumb.jpg",
+      "size": 2438
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/8.jpg",
+      "size": 116866
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/8_thumb.jpg",
+      "size": 3275
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/9.jpg",
+      "size": 95581
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/9_thumb.jpg",
+      "size": 3219
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/1.jpg",
+      "size": 209575
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/10.jpg",
+      "size": 241801
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/10_thumb.jpg",
+      "size": 9395
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/11.jpg",
+      "size": 155122
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/11_thumb.jpg",
+      "size": 2805
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/12.jpg",
+      "size": 205421
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/12_thumb.jpg",
+      "size": 5880
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/13.jpg",
+      "size": 151728
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/13_thumb.jpg",
+      "size": 2405
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/14.jpg",
+      "size": 224590
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/14_thumb.jpg",
+      "size": 5075
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/15.jpg",
+      "size": 269195
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/15_thumb.jpg",
+      "size": 7975
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/16.jpg",
+      "size": 125103
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/16_thumb.jpg",
+      "size": 2304
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/17.jpg",
+      "size": 112624
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/17_thumb.jpg",
+      "size": 3164
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/18.jpg",
+      "size": 111447
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/18_thumb.jpg",
+      "size": 3069
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/19.jpg",
+      "size": 187708
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/19_thumb.jpg",
+      "size": 3964
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/1_thumb.jpg",
+      "size": 4825
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/2.jpg",
+      "size": 124025
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/20.jpg",
+      "size": 363824
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/20_thumb.jpg",
+      "size": 6989
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/2_thumb.jpg",
+      "size": 2511
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/3.jpg",
+      "size": 192520
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/3_thumb.jpg",
+      "size": 4773
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/4.jpg",
+      "size": 455092
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/4_thumb.jpg",
+      "size": 9637
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/5.jpg",
+      "size": 550463
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/5_thumb.jpg",
+      "size": 12862
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/6.jpg",
+      "size": 79460
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/6_thumb.jpg",
+      "size": 2741
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/7.jpg",
+      "size": 114327
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/7_thumb.jpg",
+      "size": 2438
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/8.jpg",
+      "size": 116866
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/8_thumb.jpg",
+      "size": 3275
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/9.jpg",
+      "size": 95581
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "milvus_milvus/9_thumb.jpg",
+      "size": 3219
+    }
+  }
+}

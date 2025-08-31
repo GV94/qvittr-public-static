@@ -1,0 +1,27 @@
+{
+  "directory": "burhinus_oedicnemus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "burhinus_oedicnemus/1.jpg",
+      "size": 643009
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "burhinus_oedicnemus/1_thumb.jpg",
+      "size": 12321
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "burhinus_oedicnemus/1.jpg",
+      "size": 643009
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "burhinus_oedicnemus/1_thumb.jpg",
+      "size": 12321
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "directory": "delichon_urbicum",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/1.jpg",
+      "size": 416851
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/1_thumb.jpg",
+      "size": 6913
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/2.jpg",
+      "size": 312784
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/2_thumb.jpg",
+      "size": 6153
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/1.jpg",
+      "size": 416851
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/1_thumb.jpg",
+      "size": 6913
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/2.jpg",
+      "size": 312784
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "delichon_urbicum/2_thumb.jpg",
+      "size": 6153
+    }
+  }
+}

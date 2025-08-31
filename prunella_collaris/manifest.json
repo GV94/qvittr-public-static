@@ -1,0 +1,127 @@
+{
+  "directory": "prunella_collaris",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/1.jpg",
+      "size": 359215
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/1_thumb.jpg",
+      "size": 7982
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/2.jpg",
+      "size": 422549
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/2_thumb.jpg",
+      "size": 10844
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/3.jpg",
+      "size": 371825
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/3_thumb.jpg",
+      "size": 11234
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/4.jpg",
+      "size": 387481
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/4_thumb.jpg",
+      "size": 9340
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/5.jpg",
+      "size": 382734
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/5_thumb.jpg",
+      "size": 7405
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/6.jpg",
+      "size": 360705
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/6_thumb.jpg",
+      "size": 8910
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/1.jpg",
+      "size": 359215
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/1_thumb.jpg",
+      "size": 7982
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/2.jpg",
+      "size": 422549
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/2_thumb.jpg",
+      "size": 10844
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/3.jpg",
+      "size": 371825
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/3_thumb.jpg",
+      "size": 11234
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/4.jpg",
+      "size": 387481
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/4_thumb.jpg",
+      "size": 9340
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/5.jpg",
+      "size": 382734
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/5_thumb.jpg",
+      "size": 7405
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/6.jpg",
+      "size": 360705
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "prunella_collaris/6_thumb.jpg",
+      "size": 8910
+    }
+  }
+}

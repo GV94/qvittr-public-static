@@ -1,0 +1,27 @@
+{
+  "directory": "emberiza_melanocephala",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "emberiza_melanocephala/1.jpg",
+      "size": 169526
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "emberiza_melanocephala/1_thumb.jpg",
+      "size": 4308
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "emberiza_melanocephala/1.jpg",
+      "size": 169526
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "emberiza_melanocephala/1_thumb.jpg",
+      "size": 4308
+    }
+  }
+}

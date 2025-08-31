@@ -1,0 +1,67 @@
+{
+  "directory": "apus_apus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "apus_apus/1.jpg",
+      "size": 245672
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "apus_apus/1_thumb.jpg",
+      "size": 7391
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "apus_apus/2.jpg",
+      "size": 333761
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "apus_apus/2_thumb.jpg",
+      "size": 9988
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "apus_apus/3.jpg",
+      "size": 339036
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "apus_apus/3_thumb.jpg",
+      "size": 9960
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "apus_apus/1.jpg",
+      "size": 245672
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "apus_apus/1_thumb.jpg",
+      "size": 7391
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "apus_apus/2.jpg",
+      "size": 333761
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "apus_apus/2_thumb.jpg",
+      "size": 9988
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "apus_apus/3.jpg",
+      "size": 339036
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "apus_apus/3_thumb.jpg",
+      "size": 9960
+    }
+  }
+}

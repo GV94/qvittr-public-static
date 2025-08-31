@@ -1,0 +1,247 @@
+{
+  "directory": "strix_nebulosa",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/1.jpg",
+      "size": 314248
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/10.jpg",
+      "size": 225918
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/10_thumb.jpg",
+      "size": 4589
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/11.jpg",
+      "size": 204686
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/11_thumb.jpg",
+      "size": 4152
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/12.jpg",
+      "size": 466802
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/12_thumb.jpg",
+      "size": 8304
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/1_thumb.jpg",
+      "size": 7229
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/2.jpg",
+      "size": 377574
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/2_thumb.jpg",
+      "size": 8005
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/3.jpg",
+      "size": 308781
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/3_thumb.jpg",
+      "size": 9684
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/4.jpg",
+      "size": 259058
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/4_thumb.jpg",
+      "size": 6292
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/5.jpg",
+      "size": 360377
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/5_thumb.jpg",
+      "size": 7921
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/6.jpg",
+      "size": 307882
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/6_thumb.jpg",
+      "size": 7354
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/7.jpg",
+      "size": 274250
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/7_thumb.jpg",
+      "size": 6733
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/8.jpg",
+      "size": 98286
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/8_thumb.jpg",
+      "size": 3284
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/9.jpg",
+      "size": 346080
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/9_thumb.jpg",
+      "size": 8215
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/1.jpg",
+      "size": 314248
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/10.jpg",
+      "size": 225918
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/10_thumb.jpg",
+      "size": 4589
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/11.jpg",
+      "size": 204686
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/11_thumb.jpg",
+      "size": 4152
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/12.jpg",
+      "size": 466802
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/12_thumb.jpg",
+      "size": 8304
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/1_thumb.jpg",
+      "size": 7229
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/2.jpg",
+      "size": 377574
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/2_thumb.jpg",
+      "size": 8005
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/3.jpg",
+      "size": 308781
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/3_thumb.jpg",
+      "size": 9684
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/4.jpg",
+      "size": 259058
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/4_thumb.jpg",
+      "size": 6292
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/5.jpg",
+      "size": 360377
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/5_thumb.jpg",
+      "size": 7921
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/6.jpg",
+      "size": 307882
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/6_thumb.jpg",
+      "size": 7354
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/7.jpg",
+      "size": 274250
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/7_thumb.jpg",
+      "size": 6733
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/8.jpg",
+      "size": 98286
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/8_thumb.jpg",
+      "size": 3284
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/9.jpg",
+      "size": 346080
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "strix_nebulosa/9_thumb.jpg",
+      "size": 8215
+    }
+  }
+}

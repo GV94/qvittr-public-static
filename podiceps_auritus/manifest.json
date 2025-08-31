@@ -1,0 +1,47 @@
+{
+  "directory": "podiceps_auritus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/1.jpg",
+      "size": 93811
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/1_thumb.jpg",
+      "size": 6398
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/2.jpg",
+      "size": 249213
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/2_thumb.jpg",
+      "size": 5340
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/1.jpg",
+      "size": 93811
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/1_thumb.jpg",
+      "size": 6398
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/2.jpg",
+      "size": 249213
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "podiceps_auritus/2_thumb.jpg",
+      "size": 5340
+    }
+  }
+}

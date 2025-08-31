@@ -1,0 +1,47 @@
+{
+  "directory": "certhia_familiaris",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/1.jpg",
+      "size": 334129
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/1_thumb.jpg",
+      "size": 8504
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/2.jpg",
+      "size": 334391
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/2_thumb.jpg",
+      "size": 7892
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/1.jpg",
+      "size": 334129
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/1_thumb.jpg",
+      "size": 8504
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/2.jpg",
+      "size": 334391
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "certhia_familiaris/2_thumb.jpg",
+      "size": 7892
+    }
+  }
+}

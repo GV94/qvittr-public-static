@@ -1,0 +1,407 @@
+{
+  "directory": "strix_uralensis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/1.jpg",
+      "size": 203745
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/10.jpg",
+      "size": 343943
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/10_thumb.jpg",
+      "size": 6447
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/11.jpg",
+      "size": 204673
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/11_thumb.jpg",
+      "size": 5691
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/12.jpg",
+      "size": 305203
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/12_thumb.jpg",
+      "size": 7363
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/13.jpg",
+      "size": 158182
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/13_thumb.jpg",
+      "size": 3612
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/14.jpg",
+      "size": 306165
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/14_thumb.jpg",
+      "size": 9044
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/15.jpg",
+      "size": 309326
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/15_thumb.jpg",
+      "size": 8673
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/16.jpg",
+      "size": 202518
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/16_thumb.jpg",
+      "size": 6283
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/17.jpg",
+      "size": 300118
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/17_thumb.jpg",
+      "size": 6778
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/18.jpg",
+      "size": 220167
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/18_thumb.jpg",
+      "size": 6174
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/19.jpg",
+      "size": 381933
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/19_thumb.jpg",
+      "size": 9531
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/1_thumb.jpg",
+      "size": 5073
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/2.jpg",
+      "size": 288113
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/20.jpg",
+      "size": 357463
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/20_thumb.jpg",
+      "size": 9354
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/2_thumb.jpg",
+      "size": 8707
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/3.jpg",
+      "size": 202416
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/3_thumb.jpg",
+      "size": 5893
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/4.jpg",
+      "size": 149418
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/4_thumb.jpg",
+      "size": 4492
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/5.jpg",
+      "size": 158949
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/5_thumb.jpg",
+      "size": 5157
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/6.jpg",
+      "size": 308643
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/6_thumb.jpg",
+      "size": 7412
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/7.jpg",
+      "size": 405261
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/7_thumb.jpg",
+      "size": 8904
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/8.jpg",
+      "size": 311248
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/8_thumb.jpg",
+      "size": 8725
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/9.jpg",
+      "size": 295015
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/9_thumb.jpg",
+      "size": 9006
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/1.jpg",
+      "size": 203745
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/10.jpg",
+      "size": 343943
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/10_thumb.jpg",
+      "size": 6447
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/11.jpg",
+      "size": 204673
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/11_thumb.jpg",
+      "size": 5691
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/12.jpg",
+      "size": 305203
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/12_thumb.jpg",
+      "size": 7363
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/13.jpg",
+      "size": 158182
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/13_thumb.jpg",
+      "size": 3612
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/14.jpg",
+      "size": 306165
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/14_thumb.jpg",
+      "size": 9044
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/15.jpg",
+      "size": 309326
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/15_thumb.jpg",
+      "size": 8673
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/16.jpg",
+      "size": 202518
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/16_thumb.jpg",
+      "size": 6283
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/17.jpg",
+      "size": 300118
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/17_thumb.jpg",
+      "size": 6778
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/18.jpg",
+      "size": 220167
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/18_thumb.jpg",
+      "size": 6174
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/19.jpg",
+      "size": 381933
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/19_thumb.jpg",
+      "size": 9531
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/1_thumb.jpg",
+      "size": 5073
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/2.jpg",
+      "size": 288113
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/20.jpg",
+      "size": 357463
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/20_thumb.jpg",
+      "size": 9354
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/2_thumb.jpg",
+      "size": 8707
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/3.jpg",
+      "size": 202416
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/3_thumb.jpg",
+      "size": 5893
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/4.jpg",
+      "size": 149418
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/4_thumb.jpg",
+      "size": 4492
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/5.jpg",
+      "size": 158949
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/5_thumb.jpg",
+      "size": 5157
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/6.jpg",
+      "size": 308643
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/6_thumb.jpg",
+      "size": 7412
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/7.jpg",
+      "size": 405261
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/7_thumb.jpg",
+      "size": 8904
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/8.jpg",
+      "size": 311248
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/8_thumb.jpg",
+      "size": 8725
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/9.jpg",
+      "size": 295015
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "strix_uralensis/9_thumb.jpg",
+      "size": 9006
+    }
+  }
+}

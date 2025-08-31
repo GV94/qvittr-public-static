@@ -1,0 +1,47 @@
+{
+  "directory": "anthus_trivialis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/1.jpg",
+      "size": 516865
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/1_thumb.jpg",
+      "size": 12526
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/2.jpg",
+      "size": 505153
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/2_thumb.jpg",
+      "size": 12054
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/1.jpg",
+      "size": 516865
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/1_thumb.jpg",
+      "size": 12526
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/2.jpg",
+      "size": 505153
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "anthus_trivialis/2_thumb.jpg",
+      "size": 12054
+    }
+  }
+}

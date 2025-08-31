@@ -1,0 +1,87 @@
+{
+  "directory": "sterna_hirundo",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/1.jpg",
+      "size": 165533
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/1_thumb.jpg",
+      "size": 4099
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/2.jpg",
+      "size": 308903
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/2_thumb.jpg",
+      "size": 5901
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/3.jpg",
+      "size": 177845
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/3_thumb.jpg",
+      "size": 4235
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/4.jpg",
+      "size": 395220
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/4_thumb.jpg",
+      "size": 7381
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/1.jpg",
+      "size": 165533
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/1_thumb.jpg",
+      "size": 4099
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/2.jpg",
+      "size": 308903
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/2_thumb.jpg",
+      "size": 5901
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/3.jpg",
+      "size": 177845
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/3_thumb.jpg",
+      "size": 4235
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/4.jpg",
+      "size": 395220
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "sterna_hirundo/4_thumb.jpg",
+      "size": 7381
+    }
+  }
+}

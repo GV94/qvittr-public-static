@@ -1,0 +1,87 @@
+{
+  "directory": "chrysolophus_pictus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/1.jpg",
+      "size": 268657
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/1_thumb.jpg",
+      "size": 7069
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/2.jpg",
+      "size": 250385
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/2_thumb.jpg",
+      "size": 6265
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/3.jpg",
+      "size": 186240
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/3_thumb.jpg",
+      "size": 6214
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/4.jpg",
+      "size": 286663
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/4_thumb.jpg",
+      "size": 7787
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/1.jpg",
+      "size": 268657
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/1_thumb.jpg",
+      "size": 7069
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/2.jpg",
+      "size": 250385
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/2_thumb.jpg",
+      "size": 6265
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/3.jpg",
+      "size": 186240
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/3_thumb.jpg",
+      "size": 6214
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/4.jpg",
+      "size": 286663
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "chrysolophus_pictus/4_thumb.jpg",
+      "size": 7787
+    }
+  }
+}

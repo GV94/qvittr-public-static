@@ -1,0 +1,47 @@
+{
+  "directory": "mareca_strepera",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/1.jpg",
+      "size": 201832
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/1_thumb.jpg",
+      "size": 5821
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/2.jpg",
+      "size": 537235
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/2_thumb.jpg",
+      "size": 9536
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/1.jpg",
+      "size": 201832
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/1_thumb.jpg",
+      "size": 5821
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/2.jpg",
+      "size": 537235
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "mareca_strepera/2_thumb.jpg",
+      "size": 9536
+    }
+  }
+}

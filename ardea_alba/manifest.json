@@ -1,0 +1,407 @@
+{
+  "directory": "ardea_alba",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ardea_alba/1.jpg",
+      "size": 306907
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "ardea_alba/10.jpg",
+      "size": 243264
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/10_thumb.jpg",
+      "size": 7950
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "ardea_alba/11.jpg",
+      "size": 309825
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/11_thumb.jpg",
+      "size": 6052
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "ardea_alba/12.jpg",
+      "size": 280008
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/12_thumb.jpg",
+      "size": 9753
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "ardea_alba/13.jpg",
+      "size": 401951
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/13_thumb.jpg",
+      "size": 12087
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "ardea_alba/14.jpg",
+      "size": 315186
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/14_thumb.jpg",
+      "size": 10283
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "ardea_alba/15.jpg",
+      "size": 237146
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/15_thumb.jpg",
+      "size": 7747
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "ardea_alba/16.jpg",
+      "size": 390262
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/16_thumb.jpg",
+      "size": 10589
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "ardea_alba/17.jpg",
+      "size": 203516
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/17_thumb.jpg",
+      "size": 5235
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "ardea_alba/18.jpg",
+      "size": 395334
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/18_thumb.jpg",
+      "size": 10954
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "ardea_alba/19.jpg",
+      "size": 423905
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/19_thumb.jpg",
+      "size": 10860
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/1_thumb.jpg",
+      "size": 9095
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "ardea_alba/2.jpg",
+      "size": 295892
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "ardea_alba/20.jpg",
+      "size": 261749
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/20_thumb.jpg",
+      "size": 8136
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/2_thumb.jpg",
+      "size": 8248
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "ardea_alba/3.jpg",
+      "size": 197605
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/3_thumb.jpg",
+      "size": 5933
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "ardea_alba/4.jpg",
+      "size": 238995
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/4_thumb.jpg",
+      "size": 7318
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "ardea_alba/5.jpg",
+      "size": 222917
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/5_thumb.jpg",
+      "size": 6732
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "ardea_alba/6.jpg",
+      "size": 224812
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/6_thumb.jpg",
+      "size": 7345
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "ardea_alba/7.jpg",
+      "size": 383208
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/7_thumb.jpg",
+      "size": 6493
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "ardea_alba/8.jpg",
+      "size": 219914
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/8_thumb.jpg",
+      "size": 7289
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "ardea_alba/9.jpg",
+      "size": 321069
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/9_thumb.jpg",
+      "size": 10512
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "ardea_alba/1.jpg",
+      "size": 306907
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "ardea_alba/10.jpg",
+      "size": 243264
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/10_thumb.jpg",
+      "size": 7950
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "ardea_alba/11.jpg",
+      "size": 309825
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/11_thumb.jpg",
+      "size": 6052
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "ardea_alba/12.jpg",
+      "size": 280008
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/12_thumb.jpg",
+      "size": 9753
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "ardea_alba/13.jpg",
+      "size": 401951
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/13_thumb.jpg",
+      "size": 12087
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "ardea_alba/14.jpg",
+      "size": 315186
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/14_thumb.jpg",
+      "size": 10283
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "ardea_alba/15.jpg",
+      "size": 237146
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/15_thumb.jpg",
+      "size": 7747
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "ardea_alba/16.jpg",
+      "size": 390262
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/16_thumb.jpg",
+      "size": 10589
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "ardea_alba/17.jpg",
+      "size": 203516
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/17_thumb.jpg",
+      "size": 5235
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "ardea_alba/18.jpg",
+      "size": 395334
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/18_thumb.jpg",
+      "size": 10954
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "ardea_alba/19.jpg",
+      "size": 423905
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/19_thumb.jpg",
+      "size": 10860
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/1_thumb.jpg",
+      "size": 9095
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "ardea_alba/2.jpg",
+      "size": 295892
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "ardea_alba/20.jpg",
+      "size": 261749
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/20_thumb.jpg",
+      "size": 8136
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/2_thumb.jpg",
+      "size": 8248
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "ardea_alba/3.jpg",
+      "size": 197605
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/3_thumb.jpg",
+      "size": 5933
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "ardea_alba/4.jpg",
+      "size": 238995
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/4_thumb.jpg",
+      "size": 7318
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "ardea_alba/5.jpg",
+      "size": 222917
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/5_thumb.jpg",
+      "size": 6732
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "ardea_alba/6.jpg",
+      "size": 224812
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/6_thumb.jpg",
+      "size": 7345
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "ardea_alba/7.jpg",
+      "size": 383208
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/7_thumb.jpg",
+      "size": 6493
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "ardea_alba/8.jpg",
+      "size": 219914
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/8_thumb.jpg",
+      "size": 7289
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "ardea_alba/9.jpg",
+      "size": 321069
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "ardea_alba/9_thumb.jpg",
+      "size": 10512
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "directory": "alopochen_aegyptiaca",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/1.jpg",
+      "size": 244499
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/10.jpg",
+      "size": 398355
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/10_thumb.jpg",
+      "size": 9254
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/11.jpg",
+      "size": 452575
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/11_thumb.jpg",
+      "size": 9292
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/1_thumb.jpg",
+      "size": 4814
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/2.jpg",
+      "size": 404231
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/2_thumb.jpg",
+      "size": 8445
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/3.jpg",
+      "size": 539439
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/3_thumb.jpg",
+      "size": 11906
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/4.jpg",
+      "size": 250787
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/4_thumb.jpg",
+      "size": 6861
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/5.jpg",
+      "size": 247192
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/5_thumb.jpg",
+      "size": 7345
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/6.jpg",
+      "size": 436111
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/6_thumb.jpg",
+      "size": 10221
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/7.jpg",
+      "size": 550526
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/7_thumb.jpg",
+      "size": 8358
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/8.jpg",
+      "size": 361330
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/8_thumb.jpg",
+      "size": 8703
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/9.jpg",
+      "size": 232039
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/9_thumb.jpg",
+      "size": 4972
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/1.jpg",
+      "size": 244499
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/10.jpg",
+      "size": 398355
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/10_thumb.jpg",
+      "size": 9254
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/11.jpg",
+      "size": 452575
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/11_thumb.jpg",
+      "size": 9292
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/1_thumb.jpg",
+      "size": 4814
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/2.jpg",
+      "size": 404231
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/2_thumb.jpg",
+      "size": 8445
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/3.jpg",
+      "size": 539439
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/3_thumb.jpg",
+      "size": 11906
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/4.jpg",
+      "size": 250787
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/4_thumb.jpg",
+      "size": 6861
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/5.jpg",
+      "size": 247192
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/5_thumb.jpg",
+      "size": 7345
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/6.jpg",
+      "size": 436111
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/6_thumb.jpg",
+      "size": 10221
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/7.jpg",
+      "size": 550526
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/7_thumb.jpg",
+      "size": 8358
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/8.jpg",
+      "size": 361330
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/8_thumb.jpg",
+      "size": 8703
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/9.jpg",
+      "size": 232039
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "alopochen_aegyptiaca/9_thumb.jpg",
+      "size": 4972
+    }
+  }
+}

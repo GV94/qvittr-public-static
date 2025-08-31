@@ -1,0 +1,67 @@
+{
+  "directory": "branta_ruficollis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/1.jpg",
+      "size": 367340
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/1_thumb.jpg",
+      "size": 10833
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/2.jpg",
+      "size": 349676
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/2_thumb.jpg",
+      "size": 10130
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/3.jpg",
+      "size": 364635
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/3_thumb.jpg",
+      "size": 10172
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/1.jpg",
+      "size": 367340
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/1_thumb.jpg",
+      "size": 10833
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/2.jpg",
+      "size": 349676
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/2_thumb.jpg",
+      "size": 10130
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/3.jpg",
+      "size": 364635
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "branta_ruficollis/3_thumb.jpg",
+      "size": 10172
+    }
+  }
+}

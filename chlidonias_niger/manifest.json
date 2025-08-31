@@ -1,0 +1,27 @@
+{
+  "directory": "chlidonias_niger",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "chlidonias_niger/1.jpg",
+      "size": 251553
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "chlidonias_niger/1_thumb.jpg",
+      "size": 7770
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "chlidonias_niger/1.jpg",
+      "size": 251553
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "chlidonias_niger/1_thumb.jpg",
+      "size": 7770
+    }
+  }
+}

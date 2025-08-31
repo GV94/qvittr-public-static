@@ -1,0 +1,407 @@
+{
+  "directory": "anas_platyrhynchos",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/1.jpg",
+      "size": 315708
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/10.jpg",
+      "size": 281809
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/10_thumb.jpg",
+      "size": 6818
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/11.jpg",
+      "size": 530671
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/11_thumb.jpg",
+      "size": 12884
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/12.jpg",
+      "size": 278935
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/12_thumb.jpg",
+      "size": 6610
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/13.jpg",
+      "size": 323204
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/13_thumb.jpg",
+      "size": 6961
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/14.jpg",
+      "size": 492661
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/14_thumb.jpg",
+      "size": 10339
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/15.jpg",
+      "size": 303021
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/15_thumb.jpg",
+      "size": 6584
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/16.jpg",
+      "size": 245453
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/16_thumb.jpg",
+      "size": 6982
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/17.jpg",
+      "size": 358689
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/17_thumb.jpg",
+      "size": 10346
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/18.jpg",
+      "size": 230853
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/18_thumb.jpg",
+      "size": 7025
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/19.jpg",
+      "size": 258166
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/19_thumb.jpg",
+      "size": 7805
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/1_thumb.jpg",
+      "size": 6887
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/2.jpg",
+      "size": 214978
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/20.jpg",
+      "size": 345725
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/20_thumb.jpg",
+      "size": 8829
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/2_thumb.jpg",
+      "size": 6431
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/3.jpg",
+      "size": 249142
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/3_thumb.jpg",
+      "size": 6009
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/4.jpg",
+      "size": 222744
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/4_thumb.jpg",
+      "size": 7833
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/5.jpg",
+      "size": 344535
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/5_thumb.jpg",
+      "size": 8315
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/6.jpg",
+      "size": 365272
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/6_thumb.jpg",
+      "size": 6426
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/7.jpg",
+      "size": 236206
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/7_thumb.jpg",
+      "size": 8066
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/8.jpg",
+      "size": 423180
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/8_thumb.jpg",
+      "size": 9843
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/9.jpg",
+      "size": 368574
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/9_thumb.jpg",
+      "size": 9235
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/1.jpg",
+      "size": 315708
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/10.jpg",
+      "size": 281809
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/10_thumb.jpg",
+      "size": 6818
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/11.jpg",
+      "size": 530671
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/11_thumb.jpg",
+      "size": 12884
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/12.jpg",
+      "size": 278935
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/12_thumb.jpg",
+      "size": 6610
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/13.jpg",
+      "size": 323204
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/13_thumb.jpg",
+      "size": 6961
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/14.jpg",
+      "size": 492661
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/14_thumb.jpg",
+      "size": 10339
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/15.jpg",
+      "size": 303021
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/15_thumb.jpg",
+      "size": 6584
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/16.jpg",
+      "size": 245453
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/16_thumb.jpg",
+      "size": 6982
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/17.jpg",
+      "size": 358689
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/17_thumb.jpg",
+      "size": 10346
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/18.jpg",
+      "size": 230853
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/18_thumb.jpg",
+      "size": 7025
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/19.jpg",
+      "size": 258166
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/19_thumb.jpg",
+      "size": 7805
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/1_thumb.jpg",
+      "size": 6887
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/2.jpg",
+      "size": 214978
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/20.jpg",
+      "size": 345725
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/20_thumb.jpg",
+      "size": 8829
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/2_thumb.jpg",
+      "size": 6431
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/3.jpg",
+      "size": 249142
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/3_thumb.jpg",
+      "size": 6009
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/4.jpg",
+      "size": 222744
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/4_thumb.jpg",
+      "size": 7833
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/5.jpg",
+      "size": 344535
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/5_thumb.jpg",
+      "size": 8315
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/6.jpg",
+      "size": 365272
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/6_thumb.jpg",
+      "size": 6426
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/7.jpg",
+      "size": 236206
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/7_thumb.jpg",
+      "size": 8066
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/8.jpg",
+      "size": 423180
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/8_thumb.jpg",
+      "size": 9843
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/9.jpg",
+      "size": 368574
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "anas_platyrhynchos/9_thumb.jpg",
+      "size": 9235
+    }
+  }
+}

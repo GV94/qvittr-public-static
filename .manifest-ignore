@@ -1,0 +1,24 @@
+# Files and directories to ignore when generating manifests
+# Supports glob patterns
+
+# Ignore scripts folder
+scripts/
+
+# Ignore git-related files
+.git/
+
+# Ignore manifest files themselves
+manifest.json
+
+# Ignore common temporary files
+*.tmp
+*.temp
+*~
+
+# Ignore common build artifacts
+node_modules/
+dist/
+build/
+*.log
+
+.manifest-ignore
