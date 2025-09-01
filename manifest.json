@@ -1731,18 +1731,10 @@
       "path": "Scolopax_rusticola.svg",
       "size": 790428
     },
-    "serinus_serinus": {
-      "type": "directory",
-      "path": "serinus_serinus"
-    },
     "Serinus_serinus.svg": {
       "type": "file",
       "path": "Serinus_serinus.svg",
       "size": 789025
-    },
-    "sitta_europaea": {
-      "type": "directory",
-      "path": "sitta_europaea"
     },
     "Sitta_europaea.svg": {
       "type": "file",
@@ -1754,10 +1746,6 @@
       "path": "Sitta_europaea_europaea.svg",
       "size": 788911
     },
-    "somateria_mollissima": {
-      "type": "directory",
-      "path": "somateria_mollissima"
-    },
     "Somateria_mollissima.svg": {
       "type": "file",
       "path": "Somateria_mollissima.svg",
@@ -1768,10 +1756,6 @@
       "path": "Somateria_spectabilis.svg",
       "size": 788987
     },
-    "spatula_clypeata": {
-      "type": "directory",
-      "path": "spatula_clypeata"
-    },
     "Spatula_clypeata.svg": {
       "type": "file",
       "path": "Spatula_clypeata.svg",
@@ -1781,10 +1765,6 @@
       "type": "file",
       "path": "Spatula_discors.svg",
       "size": 788864
-    },
-    "spatula_querquedula": {
-      "type": "directory",
-      "path": "spatula_querquedula"
     },
     "Spatula_querquedula.svg": {
       "type": "file",
@@ -3772,292 +3752,10 @@
       "path": "Scolopax_rusticola.svg",
       "size": 790428
     },
-    "serinus_serinus": {
-      "type": "directory",
-      "path": "serinus_serinus",
-      "contents": {
-        "1.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/1.jpg",
-          "size": 245718
-        },
-        "1_thumb.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/1_thumb.jpg",
-          "size": 7090
-        },
-        "2.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/2.jpg",
-          "size": 311691
-        },
-        "2_thumb.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/2_thumb.jpg",
-          "size": 8490
-        },
-        "3.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/3.jpg",
-          "size": 207671
-        },
-        "3_thumb.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/3_thumb.jpg",
-          "size": 6082
-        },
-        "4.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/4.jpg",
-          "size": 227622
-        },
-        "4_thumb.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/4_thumb.jpg",
-          "size": 7435
-        },
-        "5.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/5.jpg",
-          "size": 335885
-        },
-        "5_thumb.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/5_thumb.jpg",
-          "size": 8444
-        },
-        "6.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/6.jpg",
-          "size": 374245
-        },
-        "6_thumb.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/6_thumb.jpg",
-          "size": 9235
-        },
-        "7.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/7.jpg",
-          "size": 294477
-        },
-        "7_thumb.jpg": {
-          "type": "file",
-          "path": "serinus_serinus/7_thumb.jpg",
-          "size": 8964
-        }
-      }
-    },
     "Serinus_serinus.svg": {
       "type": "file",
       "path": "Serinus_serinus.svg",
       "size": 789025
-    },
-    "sitta_europaea": {
-      "type": "directory",
-      "path": "sitta_europaea",
-      "contents": {
-        "1.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/1.jpg",
-          "size": 258607
-        },
-        "10.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/10.jpg",
-          "size": 223263
-        },
-        "10_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/10_thumb.jpg",
-          "size": 6897
-        },
-        "11.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/11.jpg",
-          "size": 333663
-        },
-        "11_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/11_thumb.jpg",
-          "size": 10409
-        },
-        "12.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/12.jpg",
-          "size": 326971
-        },
-        "12_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/12_thumb.jpg",
-          "size": 10248
-        },
-        "13.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/13.jpg",
-          "size": 499485
-        },
-        "13_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/13_thumb.jpg",
-          "size": 8193
-        },
-        "14.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/14.jpg",
-          "size": 113875
-        },
-        "14_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/14_thumb.jpg",
-          "size": 3547
-        },
-        "15.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/15.jpg",
-          "size": 324638
-        },
-        "15_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/15_thumb.jpg",
-          "size": 7249
-        },
-        "16.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/16.jpg",
-          "size": 155655
-        },
-        "16_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/16_thumb.jpg",
-          "size": 5837
-        },
-        "17.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/17.jpg",
-          "size": 108444
-        },
-        "17_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/17_thumb.jpg",
-          "size": 3968
-        },
-        "18.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/18.jpg",
-          "size": 235664
-        },
-        "18_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/18_thumb.jpg",
-          "size": 5890
-        },
-        "19.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/19.jpg",
-          "size": 283954
-        },
-        "19_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/19_thumb.jpg",
-          "size": 8855
-        },
-        "1_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/1_thumb.jpg",
-          "size": 8563
-        },
-        "2.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/2.jpg",
-          "size": 251476
-        },
-        "20.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/20.jpg",
-          "size": 259975
-        },
-        "20_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/20_thumb.jpg",
-          "size": 6034
-        },
-        "2_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/2_thumb.jpg",
-          "size": 6243
-        },
-        "3.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/3.jpg",
-          "size": 192945
-        },
-        "3_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/3_thumb.jpg",
-          "size": 4794
-        },
-        "4.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/4.jpg",
-          "size": 224355
-        },
-        "4_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/4_thumb.jpg",
-          "size": 7468
-        },
-        "5.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/5.jpg",
-          "size": 269900
-        },
-        "5_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/5_thumb.jpg",
-          "size": 7264
-        },
-        "6.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/6.jpg",
-          "size": 327901
-        },
-        "6_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/6_thumb.jpg",
-          "size": 8266
-        },
-        "7.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/7.jpg",
-          "size": 247591
-        },
-        "7_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/7_thumb.jpg",
-          "size": 6401
-        },
-        "8.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/8.jpg",
-          "size": 264469
-        },
-        "8_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/8_thumb.jpg",
-          "size": 5802
-        },
-        "9.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/9.jpg",
-          "size": 279749
-        },
-        "9_thumb.jpg": {
-          "type": "file",
-          "path": "sitta_europaea/9_thumb.jpg",
-          "size": 7441
-        }
-      }
     },
     "Sitta_europaea.svg": {
       "type": "file",
@@ -4069,82 +3767,6 @@
       "path": "Sitta_europaea_europaea.svg",
       "size": 788911
     },
-    "somateria_mollissima": {
-      "type": "directory",
-      "path": "somateria_mollissima",
-      "contents": {
-        "1.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/1.jpg",
-          "size": 244748
-        },
-        "1_thumb.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/1_thumb.jpg",
-          "size": 6020
-        },
-        "2.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/2.jpg",
-          "size": 249755
-        },
-        "2_thumb.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/2_thumb.jpg",
-          "size": 7968
-        },
-        "3.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/3.jpg",
-          "size": 203051
-        },
-        "3_thumb.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/3_thumb.jpg",
-          "size": 6065
-        },
-        "4.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/4.jpg",
-          "size": 261548
-        },
-        "4_thumb.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/4_thumb.jpg",
-          "size": 6330
-        },
-        "5.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/5.jpg",
-          "size": 303701
-        },
-        "5_thumb.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/5_thumb.jpg",
-          "size": 7139
-        },
-        "6.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/6.jpg",
-          "size": 218082
-        },
-        "6_thumb.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/6_thumb.jpg",
-          "size": 5674
-        },
-        "7.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/7.jpg",
-          "size": 231628
-        },
-        "7_thumb.jpg": {
-          "type": "file",
-          "path": "somateria_mollissima/7_thumb.jpg",
-          "size": 5354
-        }
-      }
-    },
     "Somateria_mollissima.svg": {
       "type": "file",
       "path": "Somateria_mollissima.svg",
@@ -4155,42 +3777,6 @@
       "path": "Somateria_spectabilis.svg",
       "size": 788987
     },
-    "spatula_clypeata": {
-      "type": "directory",
-      "path": "spatula_clypeata",
-      "contents": {
-        "1.jpg": {
-          "type": "file",
-          "path": "spatula_clypeata/1.jpg",
-          "size": 486449
-        },
-        "1_thumb.jpg": {
-          "type": "file",
-          "path": "spatula_clypeata/1_thumb.jpg",
-          "size": 9427
-        },
-        "2.jpg": {
-          "type": "file",
-          "path": "spatula_clypeata/2.jpg",
-          "size": 427127
-        },
-        "2_thumb.jpg": {
-          "type": "file",
-          "path": "spatula_clypeata/2_thumb.jpg",
-          "size": 9188
-        },
-        "3.jpg": {
-          "type": "file",
-          "path": "spatula_clypeata/3.jpg",
-          "size": 428438
-        },
-        "3_thumb.jpg": {
-          "type": "file",
-          "path": "spatula_clypeata/3_thumb.jpg",
-          "size": 7381
-        }
-      }
-    },
     "Spatula_clypeata.svg": {
       "type": "file",
       "path": "Spatula_clypeata.svg",
@@ -4200,42 +3786,6 @@
       "type": "file",
       "path": "Spatula_discors.svg",
       "size": 788864
-    },
-    "spatula_querquedula": {
-      "type": "directory",
-      "path": "spatula_querquedula",
-      "contents": {
-        "1.jpg": {
-          "type": "file",
-          "path": "spatula_querquedula/1.jpg",
-          "size": 621373
-        },
-        "1_thumb.jpg": {
-          "type": "file",
-          "path": "spatula_querquedula/1_thumb.jpg",
-          "size": 11231
-        },
-        "2.jpg": {
-          "type": "file",
-          "path": "spatula_querquedula/2.jpg",
-          "size": 631960
-        },
-        "2_thumb.jpg": {
-          "type": "file",
-          "path": "spatula_querquedula/2_thumb.jpg",
-          "size": 11232
-        },
-        "3.jpg": {
-          "type": "file",
-          "path": "spatula_querquedula/3.jpg",
-          "size": 514030
-        },
-        "3_thumb.jpg": {
-          "type": "file",
-          "path": "spatula_querquedula/3_thumb.jpg",
-          "size": 10778
-        }
-      }
     },
     "Spatula_querquedula.svg": {
       "type": "file",
@@ -22686,6 +22236,436 @@
               "type": "file",
               "path": "species-images/saxicola_stejnegeri/3_thumb.jpg",
               "size": 2643
+            }
+          }
+        },
+        "serinus_serinus": {
+          "type": "directory",
+          "path": "species-images/serinus_serinus",
+          "contents": {
+            "1.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/1.jpg",
+              "size": 245718
+            },
+            "1_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/1_thumb.jpg",
+              "size": 7090
+            },
+            "2.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/2.jpg",
+              "size": 311691
+            },
+            "2_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/2_thumb.jpg",
+              "size": 8490
+            },
+            "3.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/3.jpg",
+              "size": 207671
+            },
+            "3_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/3_thumb.jpg",
+              "size": 6082
+            },
+            "4.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/4.jpg",
+              "size": 227622
+            },
+            "4_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/4_thumb.jpg",
+              "size": 7435
+            },
+            "5.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/5.jpg",
+              "size": 335885
+            },
+            "5_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/5_thumb.jpg",
+              "size": 8444
+            },
+            "6.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/6.jpg",
+              "size": 374245
+            },
+            "6_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/6_thumb.jpg",
+              "size": 9235
+            },
+            "7.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/7.jpg",
+              "size": 294477
+            },
+            "7_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/serinus_serinus/7_thumb.jpg",
+              "size": 8964
+            }
+          }
+        },
+        "sitta_europaea": {
+          "type": "directory",
+          "path": "species-images/sitta_europaea",
+          "contents": {
+            "1.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/1.jpg",
+              "size": 258607
+            },
+            "10.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/10.jpg",
+              "size": 223263
+            },
+            "10_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/10_thumb.jpg",
+              "size": 6897
+            },
+            "11.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/11.jpg",
+              "size": 333663
+            },
+            "11_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/11_thumb.jpg",
+              "size": 10409
+            },
+            "12.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/12.jpg",
+              "size": 326971
+            },
+            "12_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/12_thumb.jpg",
+              "size": 10248
+            },
+            "13.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/13.jpg",
+              "size": 499485
+            },
+            "13_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/13_thumb.jpg",
+              "size": 8193
+            },
+            "14.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/14.jpg",
+              "size": 113875
+            },
+            "14_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/14_thumb.jpg",
+              "size": 3547
+            },
+            "15.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/15.jpg",
+              "size": 324638
+            },
+            "15_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/15_thumb.jpg",
+              "size": 7249
+            },
+            "16.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/16.jpg",
+              "size": 155655
+            },
+            "16_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/16_thumb.jpg",
+              "size": 5837
+            },
+            "17.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/17.jpg",
+              "size": 108444
+            },
+            "17_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/17_thumb.jpg",
+              "size": 3968
+            },
+            "18.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/18.jpg",
+              "size": 235664
+            },
+            "18_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/18_thumb.jpg",
+              "size": 5890
+            },
+            "19.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/19.jpg",
+              "size": 283954
+            },
+            "19_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/19_thumb.jpg",
+              "size": 8855
+            },
+            "1_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/1_thumb.jpg",
+              "size": 8563
+            },
+            "2.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/2.jpg",
+              "size": 251476
+            },
+            "20.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/20.jpg",
+              "size": 259975
+            },
+            "20_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/20_thumb.jpg",
+              "size": 6034
+            },
+            "2_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/2_thumb.jpg",
+              "size": 6243
+            },
+            "3.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/3.jpg",
+              "size": 192945
+            },
+            "3_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/3_thumb.jpg",
+              "size": 4794
+            },
+            "4.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/4.jpg",
+              "size": 224355
+            },
+            "4_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/4_thumb.jpg",
+              "size": 7468
+            },
+            "5.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/5.jpg",
+              "size": 269900
+            },
+            "5_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/5_thumb.jpg",
+              "size": 7264
+            },
+            "6.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/6.jpg",
+              "size": 327901
+            },
+            "6_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/6_thumb.jpg",
+              "size": 8266
+            },
+            "7.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/7.jpg",
+              "size": 247591
+            },
+            "7_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/7_thumb.jpg",
+              "size": 6401
+            },
+            "8.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/8.jpg",
+              "size": 264469
+            },
+            "8_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/8_thumb.jpg",
+              "size": 5802
+            },
+            "9.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/9.jpg",
+              "size": 279749
+            },
+            "9_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/sitta_europaea/9_thumb.jpg",
+              "size": 7441
+            }
+          }
+        },
+        "somateria_mollissima": {
+          "type": "directory",
+          "path": "species-images/somateria_mollissima",
+          "contents": {
+            "1.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/1.jpg",
+              "size": 244748
+            },
+            "1_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/1_thumb.jpg",
+              "size": 6020
+            },
+            "2.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/2.jpg",
+              "size": 249755
+            },
+            "2_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/2_thumb.jpg",
+              "size": 7968
+            },
+            "3.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/3.jpg",
+              "size": 203051
+            },
+            "3_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/3_thumb.jpg",
+              "size": 6065
+            },
+            "4.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/4.jpg",
+              "size": 261548
+            },
+            "4_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/4_thumb.jpg",
+              "size": 6330
+            },
+            "5.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/5.jpg",
+              "size": 303701
+            },
+            "5_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/5_thumb.jpg",
+              "size": 7139
+            },
+            "6.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/6.jpg",
+              "size": 218082
+            },
+            "6_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/6_thumb.jpg",
+              "size": 5674
+            },
+            "7.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/7.jpg",
+              "size": 231628
+            },
+            "7_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/somateria_mollissima/7_thumb.jpg",
+              "size": 5354
+            }
+          }
+        },
+        "spatula_clypeata": {
+          "type": "directory",
+          "path": "species-images/spatula_clypeata",
+          "contents": {
+            "1.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_clypeata/1.jpg",
+              "size": 486449
+            },
+            "1_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_clypeata/1_thumb.jpg",
+              "size": 9427
+            },
+            "2.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_clypeata/2.jpg",
+              "size": 427127
+            },
+            "2_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_clypeata/2_thumb.jpg",
+              "size": 9188
+            },
+            "3.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_clypeata/3.jpg",
+              "size": 428438
+            },
+            "3_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_clypeata/3_thumb.jpg",
+              "size": 7381
+            }
+          }
+        },
+        "spatula_querquedula": {
+          "type": "directory",
+          "path": "species-images/spatula_querquedula",
+          "contents": {
+            "1.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_querquedula/1.jpg",
+              "size": 621373
+            },
+            "1_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_querquedula/1_thumb.jpg",
+              "size": 11231
+            },
+            "2.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_querquedula/2.jpg",
+              "size": 631960
+            },
+            "2_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_querquedula/2_thumb.jpg",
+              "size": 11232
+            },
+            "3.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_querquedula/3.jpg",
+              "size": 514030
+            },
+            "3_thumb.jpg": {
+              "type": "file",
+              "path": "species-images/spatula_querquedula/3_thumb.jpg",
+              "size": 10778
             }
           }
         },
