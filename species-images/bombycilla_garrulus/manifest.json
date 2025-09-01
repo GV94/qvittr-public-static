@@ -1,0 +1,147 @@
+{
+  "directory": "species-images/bombycilla_garrulus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/1.jpg",
+      "size": 220996
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/1_thumb.jpg",
+      "size": 8962
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/2.jpg",
+      "size": 261421
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/2_thumb.jpg",
+      "size": 11098
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/3.jpg",
+      "size": 264521
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/3_thumb.jpg",
+      "size": 10823
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/4.jpg",
+      "size": 261287
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/4_thumb.jpg",
+      "size": 11081
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/5.jpg",
+      "size": 290967
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/5_thumb.jpg",
+      "size": 11898
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/6.jpg",
+      "size": 279899
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/6_thumb.jpg",
+      "size": 10846
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/7.jpg",
+      "size": 1756367
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/7_thumb.jpg",
+      "size": 50269
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/1.jpg",
+      "size": 220996
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/1_thumb.jpg",
+      "size": 8962
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/2.jpg",
+      "size": 261421
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/2_thumb.jpg",
+      "size": 11098
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/3.jpg",
+      "size": 264521
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/3_thumb.jpg",
+      "size": 10823
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/4.jpg",
+      "size": 261287
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/4_thumb.jpg",
+      "size": 11081
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/5.jpg",
+      "size": 290967
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/5_thumb.jpg",
+      "size": 11898
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/6.jpg",
+      "size": 279899
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/6_thumb.jpg",
+      "size": 10846
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/7.jpg",
+      "size": 1756367
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/bombycilla_garrulus/7_thumb.jpg",
+      "size": 50269
+    }
+  }
+}

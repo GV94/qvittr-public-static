@@ -1,0 +1,227 @@
+{
+  "directory": "species-images/calidris_pugnax",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/1.jpg",
+      "size": 219119
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/10.jpg",
+      "size": 371191
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/10_thumb.jpg",
+      "size": 7274
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/11.jpg",
+      "size": 344933
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/11_thumb.jpg",
+      "size": 9990
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/1_thumb.jpg",
+      "size": 4241
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/2.jpg",
+      "size": 329235
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/2_thumb.jpg",
+      "size": 6996
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/3.jpg",
+      "size": 219153
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/3_thumb.jpg",
+      "size": 4257
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/4.jpg",
+      "size": 215844
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/4_thumb.jpg",
+      "size": 4375
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/5.jpg",
+      "size": 222123
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/5_thumb.jpg",
+      "size": 4491
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/6.jpg",
+      "size": 348495
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/6_thumb.jpg",
+      "size": 7196
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/7.jpg",
+      "size": 372501
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/7_thumb.jpg",
+      "size": 7224
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/8.jpg",
+      "size": 529188
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/8_thumb.jpg",
+      "size": 9015
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/9.jpg",
+      "size": 251859
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/9_thumb.jpg",
+      "size": 5927
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/1.jpg",
+      "size": 219119
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/10.jpg",
+      "size": 371191
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/10_thumb.jpg",
+      "size": 7274
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/11.jpg",
+      "size": 344933
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/11_thumb.jpg",
+      "size": 9990
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/1_thumb.jpg",
+      "size": 4241
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/2.jpg",
+      "size": 329235
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/2_thumb.jpg",
+      "size": 6996
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/3.jpg",
+      "size": 219153
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/3_thumb.jpg",
+      "size": 4257
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/4.jpg",
+      "size": 215844
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/4_thumb.jpg",
+      "size": 4375
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/5.jpg",
+      "size": 222123
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/5_thumb.jpg",
+      "size": 4491
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/6.jpg",
+      "size": 348495
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/6_thumb.jpg",
+      "size": 7196
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/7.jpg",
+      "size": 372501
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/7_thumb.jpg",
+      "size": 7224
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/8.jpg",
+      "size": 529188
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/8_thumb.jpg",
+      "size": 9015
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/9.jpg",
+      "size": 251859
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_pugnax/9_thumb.jpg",
+      "size": 5927
+    }
+  }
+}

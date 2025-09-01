@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/alauda_arvensis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/1.jpg",
+      "size": 145602
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/1_thumb.jpg",
+      "size": 4024
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/2.jpg",
+      "size": 634599
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/2_thumb.jpg",
+      "size": 11032
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/1.jpg",
+      "size": 145602
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/1_thumb.jpg",
+      "size": 4024
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/2.jpg",
+      "size": 634599
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alauda_arvensis/2_thumb.jpg",
+      "size": 11032
+    }
+  }
+}

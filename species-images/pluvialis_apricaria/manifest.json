@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/pluvialis_apricaria",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pluvialis_apricaria/1.jpg",
+      "size": 82029
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pluvialis_apricaria/1_thumb.jpg",
+      "size": 2096
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pluvialis_apricaria/1.jpg",
+      "size": 82029
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pluvialis_apricaria/1_thumb.jpg",
+      "size": 2096
+    }
+  }
+}

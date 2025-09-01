@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/icterus_galbula",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/icterus_galbula/1.jpg",
+      "size": 201482
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/icterus_galbula/1_thumb.jpg",
+      "size": 8310
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/icterus_galbula/1.jpg",
+      "size": 201482
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/icterus_galbula/1_thumb.jpg",
+      "size": 8310
+    }
+  }
+}

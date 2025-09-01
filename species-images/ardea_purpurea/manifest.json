@@ -1,0 +1,187 @@
+{
+  "directory": "species-images/ardea_purpurea",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/1.jpg",
+      "size": 396952
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/1_thumb.jpg",
+      "size": 16145
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/2.jpg",
+      "size": 370398
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/2_thumb.jpg",
+      "size": 7895
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/3.jpg",
+      "size": 525083
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/3_thumb.jpg",
+      "size": 8803
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/4.jpg",
+      "size": 558023
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/4_thumb.jpg",
+      "size": 10127
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/5.jpg",
+      "size": 583054
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/5_thumb.jpg",
+      "size": 10106
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/6.jpg",
+      "size": 620413
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/6_thumb.jpg",
+      "size": 9932
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/7.jpg",
+      "size": 645150
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/7_thumb.jpg",
+      "size": 10404
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/8.jpg",
+      "size": 567415
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/8_thumb.jpg",
+      "size": 10077
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/9.jpg",
+      "size": 591751
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/9_thumb.jpg",
+      "size": 10073
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/1.jpg",
+      "size": 396952
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/1_thumb.jpg",
+      "size": 16145
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/2.jpg",
+      "size": 370398
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/2_thumb.jpg",
+      "size": 7895
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/3.jpg",
+      "size": 525083
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/3_thumb.jpg",
+      "size": 8803
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/4.jpg",
+      "size": 558023
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/4_thumb.jpg",
+      "size": 10127
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/5.jpg",
+      "size": 583054
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/5_thumb.jpg",
+      "size": 10106
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/6.jpg",
+      "size": 620413
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/6_thumb.jpg",
+      "size": 9932
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/7.jpg",
+      "size": 645150
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/7_thumb.jpg",
+      "size": 10404
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/8.jpg",
+      "size": 567415
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/8_thumb.jpg",
+      "size": 10077
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/9.jpg",
+      "size": 591751
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ardea_purpurea/9_thumb.jpg",
+      "size": 10073
+    }
+  }
+}

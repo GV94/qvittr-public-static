@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/larus_delawarensis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/larus_delawarensis/1.jpg",
+      "size": 124982
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/larus_delawarensis/1_thumb.jpg",
+      "size": 3915
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/larus_delawarensis/1.jpg",
+      "size": 124982
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/larus_delawarensis/1_thumb.jpg",
+      "size": 3915
+    }
+  }
+}

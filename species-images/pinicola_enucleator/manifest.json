@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/pinicola_enucleator",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pinicola_enucleator/1.jpg",
+      "size": 91769
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pinicola_enucleator/1_thumb.jpg",
+      "size": 7818
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pinicola_enucleator/1.jpg",
+      "size": 91769
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pinicola_enucleator/1_thumb.jpg",
+      "size": 7818
+    }
+  }
+}

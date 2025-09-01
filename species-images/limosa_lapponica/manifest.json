@@ -1,0 +1,67 @@
+{
+  "directory": "species-images/limosa_lapponica",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/1.jpg",
+      "size": 250079
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/1_thumb.jpg",
+      "size": 6298
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/2.jpg",
+      "size": 224102
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/2_thumb.jpg",
+      "size": 7612
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/3.jpg",
+      "size": 346226
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/3_thumb.jpg",
+      "size": 7379
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/1.jpg",
+      "size": 250079
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/1_thumb.jpg",
+      "size": 6298
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/2.jpg",
+      "size": 224102
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/2_thumb.jpg",
+      "size": 7612
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/3.jpg",
+      "size": 346226
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/limosa_lapponica/3_thumb.jpg",
+      "size": 7379
+    }
+  }
+}

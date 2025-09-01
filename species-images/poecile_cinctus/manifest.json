@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/poecile_cinctus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_cinctus/1.jpg",
+      "size": 256068
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_cinctus/1_thumb.jpg",
+      "size": 4896
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_cinctus/1.jpg",
+      "size": 256068
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_cinctus/1_thumb.jpg",
+      "size": 4896
+    }
+  }
+}

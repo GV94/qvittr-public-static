@@ -1,0 +1,147 @@
+{
+  "directory": "species-images/muscicapa_striata",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/1.jpg",
+      "size": 255513
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/1_thumb.jpg",
+      "size": 9819
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/2.jpg",
+      "size": 292043
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/2_thumb.jpg",
+      "size": 9599
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/3.jpg",
+      "size": 218451
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/3_thumb.jpg",
+      "size": 7227
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/4.jpg",
+      "size": 249173
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/4_thumb.jpg",
+      "size": 8654
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/5.jpg",
+      "size": 285789
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/5_thumb.jpg",
+      "size": 7035
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/6.jpg",
+      "size": 223395
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/6_thumb.jpg",
+      "size": 7338
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/7.jpg",
+      "size": 207563
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/7_thumb.jpg",
+      "size": 2978
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/1.jpg",
+      "size": 255513
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/1_thumb.jpg",
+      "size": 9819
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/2.jpg",
+      "size": 292043
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/2_thumb.jpg",
+      "size": 9599
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/3.jpg",
+      "size": 218451
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/3_thumb.jpg",
+      "size": 7227
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/4.jpg",
+      "size": 249173
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/4_thumb.jpg",
+      "size": 8654
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/5.jpg",
+      "size": 285789
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/5_thumb.jpg",
+      "size": 7035
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/6.jpg",
+      "size": 223395
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/6_thumb.jpg",
+      "size": 7338
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/7.jpg",
+      "size": 207563
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/muscicapa_striata/7_thumb.jpg",
+      "size": 2978
+    }
+  }
+}

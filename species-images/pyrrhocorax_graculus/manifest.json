@@ -1,0 +1,167 @@
+{
+  "directory": "species-images/pyrrhocorax_graculus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/1.jpg",
+      "size": 168725
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/1_thumb.jpg",
+      "size": 6027
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/2.jpg",
+      "size": 238026
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/2_thumb.jpg",
+      "size": 5140
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/3.jpg",
+      "size": 309538
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/3_thumb.jpg",
+      "size": 8145
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/4.jpg",
+      "size": 222027
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/4_thumb.jpg",
+      "size": 7383
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/5.jpg",
+      "size": 491277
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/5_thumb.jpg",
+      "size": 10794
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/6.jpg",
+      "size": 304775
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/6_thumb.jpg",
+      "size": 5672
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/7.jpg",
+      "size": 188338
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/7_thumb.jpg",
+      "size": 4216
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/8.jpg",
+      "size": 126777
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/8_thumb.jpg",
+      "size": 3274
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/1.jpg",
+      "size": 168725
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/1_thumb.jpg",
+      "size": 6027
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/2.jpg",
+      "size": 238026
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/2_thumb.jpg",
+      "size": 5140
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/3.jpg",
+      "size": 309538
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/3_thumb.jpg",
+      "size": 8145
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/4.jpg",
+      "size": 222027
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/4_thumb.jpg",
+      "size": 7383
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/5.jpg",
+      "size": 491277
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/5_thumb.jpg",
+      "size": 10794
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/6.jpg",
+      "size": 304775
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/6_thumb.jpg",
+      "size": 5672
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/7.jpg",
+      "size": 188338
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/7_thumb.jpg",
+      "size": 4216
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/8.jpg",
+      "size": 126777
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pyrrhocorax_graculus/8_thumb.jpg",
+      "size": 3274
+    }
+  }
+}

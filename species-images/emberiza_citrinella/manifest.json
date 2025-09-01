@@ -1,0 +1,367 @@
+{
+  "directory": "species-images/emberiza_citrinella",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/1.jpg",
+      "size": 127858
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/10.jpg",
+      "size": 207427
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/10_thumb.jpg",
+      "size": 5184
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/11.jpg",
+      "size": 97736
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/11_thumb.jpg",
+      "size": 3271
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/12.jpg",
+      "size": 119916
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/12_thumb.jpg",
+      "size": 3442
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/13.jpg",
+      "size": 114286
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/13_thumb.jpg",
+      "size": 3131
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/14.jpg",
+      "size": 189998
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/14_thumb.jpg",
+      "size": 5322
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/15.jpg",
+      "size": 149955
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/15_thumb.jpg",
+      "size": 6538
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/16.jpg",
+      "size": 418826
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/16_thumb.jpg",
+      "size": 10319
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/17.jpg",
+      "size": 169968
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/17_thumb.jpg",
+      "size": 3804
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/18.jpg",
+      "size": 270708
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/18_thumb.jpg",
+      "size": 8481
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/1_thumb.jpg",
+      "size": 4412
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/2.jpg",
+      "size": 131910
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/2_thumb.jpg",
+      "size": 4840
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/3.jpg",
+      "size": 405930
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/3_thumb.jpg",
+      "size": 11900
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/4.jpg",
+      "size": 154751
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/4_thumb.jpg",
+      "size": 5285
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/5.jpg",
+      "size": 259188
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/5_thumb.jpg",
+      "size": 5615
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/6.jpg",
+      "size": 233519
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/6_thumb.jpg",
+      "size": 6288
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/7.jpg",
+      "size": 131227
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/7_thumb.jpg",
+      "size": 3922
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/8.jpg",
+      "size": 309752
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/8_thumb.jpg",
+      "size": 5662
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/9.jpg",
+      "size": 95454
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/9_thumb.jpg",
+      "size": 3662
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/1.jpg",
+      "size": 127858
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/10.jpg",
+      "size": 207427
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/10_thumb.jpg",
+      "size": 5184
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/11.jpg",
+      "size": 97736
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/11_thumb.jpg",
+      "size": 3271
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/12.jpg",
+      "size": 119916
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/12_thumb.jpg",
+      "size": 3442
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/13.jpg",
+      "size": 114286
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/13_thumb.jpg",
+      "size": 3131
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/14.jpg",
+      "size": 189998
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/14_thumb.jpg",
+      "size": 5322
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/15.jpg",
+      "size": 149955
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/15_thumb.jpg",
+      "size": 6538
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/16.jpg",
+      "size": 418826
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/16_thumb.jpg",
+      "size": 10319
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/17.jpg",
+      "size": 169968
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/17_thumb.jpg",
+      "size": 3804
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/18.jpg",
+      "size": 270708
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/18_thumb.jpg",
+      "size": 8481
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/1_thumb.jpg",
+      "size": 4412
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/2.jpg",
+      "size": 131910
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/2_thumb.jpg",
+      "size": 4840
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/3.jpg",
+      "size": 405930
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/3_thumb.jpg",
+      "size": 11900
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/4.jpg",
+      "size": 154751
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/4_thumb.jpg",
+      "size": 5285
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/5.jpg",
+      "size": 259188
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/5_thumb.jpg",
+      "size": 5615
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/6.jpg",
+      "size": 233519
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/6_thumb.jpg",
+      "size": 6288
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/7.jpg",
+      "size": 131227
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/7_thumb.jpg",
+      "size": 3922
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/8.jpg",
+      "size": 309752
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/8_thumb.jpg",
+      "size": 5662
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/9.jpg",
+      "size": 95454
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_citrinella/9_thumb.jpg",
+      "size": 3662
+    }
+  }
+}

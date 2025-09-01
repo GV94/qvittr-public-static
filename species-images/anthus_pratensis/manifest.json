@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/anthus_pratensis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/1.jpg",
+      "size": 214500
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/1_thumb.jpg",
+      "size": 6632
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/2.jpg",
+      "size": 271937
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/2_thumb.jpg",
+      "size": 5340
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/1.jpg",
+      "size": 214500
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/1_thumb.jpg",
+      "size": 6632
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/2.jpg",
+      "size": 271937
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_pratensis/2_thumb.jpg",
+      "size": 5340
+    }
+  }
+}

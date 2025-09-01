@@ -1,0 +1,407 @@
+{
+  "directory": "species-images/turdus_merula",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/1.jpg",
+      "size": 231435
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/10.jpg",
+      "size": 223058
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/10_thumb.jpg",
+      "size": 6566
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/11.jpg",
+      "size": 130342
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/11_thumb.jpg",
+      "size": 4433
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/12.jpg",
+      "size": 205280
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/12_thumb.jpg",
+      "size": 8597
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/13.jpg",
+      "size": 201082
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/13_thumb.jpg",
+      "size": 5758
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/14.jpg",
+      "size": 292153
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/14_thumb.jpg",
+      "size": 7031
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/15.jpg",
+      "size": 89794
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/15_thumb.jpg",
+      "size": 3149
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/16.jpg",
+      "size": 269139
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/16_thumb.jpg",
+      "size": 9369
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/17.jpg",
+      "size": 233569
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/17_thumb.jpg",
+      "size": 8727
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/18.jpg",
+      "size": 373418
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/18_thumb.jpg",
+      "size": 7130
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/19.jpg",
+      "size": 358587
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/19_thumb.jpg",
+      "size": 8452
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/1_thumb.jpg",
+      "size": 8988
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/2.jpg",
+      "size": 391815
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/20.jpg",
+      "size": 315052
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/20_thumb.jpg",
+      "size": 9435
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/2_thumb.jpg",
+      "size": 8883
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/3.jpg",
+      "size": 367520
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/3_thumb.jpg",
+      "size": 10388
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/4.jpg",
+      "size": 280349
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/4_thumb.jpg",
+      "size": 7567
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/5.jpg",
+      "size": 220981
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/5_thumb.jpg",
+      "size": 8159
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/6.jpg",
+      "size": 147726
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/6_thumb.jpg",
+      "size": 4395
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/7.jpg",
+      "size": 292725
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/7_thumb.jpg",
+      "size": 8371
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/8.jpg",
+      "size": 200967
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/8_thumb.jpg",
+      "size": 5627
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/9.jpg",
+      "size": 242157
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/9_thumb.jpg",
+      "size": 7593
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/1.jpg",
+      "size": 231435
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/10.jpg",
+      "size": 223058
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/10_thumb.jpg",
+      "size": 6566
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/11.jpg",
+      "size": 130342
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/11_thumb.jpg",
+      "size": 4433
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/12.jpg",
+      "size": 205280
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/12_thumb.jpg",
+      "size": 8597
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/13.jpg",
+      "size": 201082
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/13_thumb.jpg",
+      "size": 5758
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/14.jpg",
+      "size": 292153
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/14_thumb.jpg",
+      "size": 7031
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/15.jpg",
+      "size": 89794
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/15_thumb.jpg",
+      "size": 3149
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/16.jpg",
+      "size": 269139
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/16_thumb.jpg",
+      "size": 9369
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/17.jpg",
+      "size": 233569
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/17_thumb.jpg",
+      "size": 8727
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/18.jpg",
+      "size": 373418
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/18_thumb.jpg",
+      "size": 7130
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/19.jpg",
+      "size": 358587
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/19_thumb.jpg",
+      "size": 8452
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/1_thumb.jpg",
+      "size": 8988
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/2.jpg",
+      "size": 391815
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/20.jpg",
+      "size": 315052
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/20_thumb.jpg",
+      "size": 9435
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/2_thumb.jpg",
+      "size": 8883
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/3.jpg",
+      "size": 367520
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/3_thumb.jpg",
+      "size": 10388
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/4.jpg",
+      "size": 280349
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/4_thumb.jpg",
+      "size": 7567
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/5.jpg",
+      "size": 220981
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/5_thumb.jpg",
+      "size": 8159
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/6.jpg",
+      "size": 147726
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/6_thumb.jpg",
+      "size": 4395
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/7.jpg",
+      "size": 292725
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/7_thumb.jpg",
+      "size": 8371
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/8.jpg",
+      "size": 200967
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/8_thumb.jpg",
+      "size": 5627
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/9.jpg",
+      "size": 242157
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_merula/9_thumb.jpg",
+      "size": 7593
+    }
+  }
+}

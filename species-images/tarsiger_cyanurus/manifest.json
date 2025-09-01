@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/tarsiger_cyanurus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/tarsiger_cyanurus/1.jpg",
+      "size": 297904
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tarsiger_cyanurus/1_thumb.jpg",
+      "size": 9251
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/tarsiger_cyanurus/1.jpg",
+      "size": 297904
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tarsiger_cyanurus/1_thumb.jpg",
+      "size": 9251
+    }
+  }
+}

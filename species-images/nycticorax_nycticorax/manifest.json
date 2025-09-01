@@ -1,0 +1,187 @@
+{
+  "directory": "species-images/nycticorax_nycticorax",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/1.jpg",
+      "size": 301317
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/1_thumb.jpg",
+      "size": 7860
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/2.jpg",
+      "size": 439967
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/2_thumb.jpg",
+      "size": 8883
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/3.jpg",
+      "size": 443968
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/3_thumb.jpg",
+      "size": 9313
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/4.jpg",
+      "size": 180694
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/4_thumb.jpg",
+      "size": 4608
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/5.jpg",
+      "size": 403891
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/5_thumb.jpg",
+      "size": 10633
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/6.jpg",
+      "size": 227441
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/6_thumb.jpg",
+      "size": 6647
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/7.jpg",
+      "size": 178834
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/7_thumb.jpg",
+      "size": 4682
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/8.jpg",
+      "size": 474769
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/8_thumb.jpg",
+      "size": 10779
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/9.jpg",
+      "size": 517607
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/9_thumb.jpg",
+      "size": 9925
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/1.jpg",
+      "size": 301317
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/1_thumb.jpg",
+      "size": 7860
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/2.jpg",
+      "size": 439967
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/2_thumb.jpg",
+      "size": 8883
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/3.jpg",
+      "size": 443968
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/3_thumb.jpg",
+      "size": 9313
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/4.jpg",
+      "size": 180694
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/4_thumb.jpg",
+      "size": 4608
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/5.jpg",
+      "size": 403891
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/5_thumb.jpg",
+      "size": 10633
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/6.jpg",
+      "size": 227441
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/6_thumb.jpg",
+      "size": 6647
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/7.jpg",
+      "size": 178834
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/7_thumb.jpg",
+      "size": 4682
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/8.jpg",
+      "size": 474769
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/8_thumb.jpg",
+      "size": 10779
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/9.jpg",
+      "size": 517607
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/nycticorax_nycticorax/9_thumb.jpg",
+      "size": 9925
+    }
+  }
+}

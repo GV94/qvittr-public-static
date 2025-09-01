@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/lanius_excubitor",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/lanius_excubitor/1.jpg",
+      "size": 417560
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lanius_excubitor/1_thumb.jpg",
+      "size": 11849
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/lanius_excubitor/1.jpg",
+      "size": 417560
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lanius_excubitor/1_thumb.jpg",
+      "size": 11849
+    }
+  }
+}

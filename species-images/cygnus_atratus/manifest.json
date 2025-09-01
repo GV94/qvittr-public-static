@@ -1,0 +1,287 @@
+{
+  "directory": "species-images/cygnus_atratus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/1.jpg",
+      "size": 115262
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/10.jpg",
+      "size": 201246
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/10_thumb.jpg",
+      "size": 4946
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/11.jpg",
+      "size": 241211
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/11_thumb.jpg",
+      "size": 6832
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/12.jpg",
+      "size": 369376
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/12_thumb.jpg",
+      "size": 9349
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/13.jpg",
+      "size": 307145
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/13_thumb.jpg",
+      "size": 5656
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/14.jpg",
+      "size": 438256
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/14_thumb.jpg",
+      "size": 10649
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/1_thumb.jpg",
+      "size": 3170
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/2.jpg",
+      "size": 562257
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/2_thumb.jpg",
+      "size": 11188
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/3.jpg",
+      "size": 309291
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/3_thumb.jpg",
+      "size": 10650
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/4.jpg",
+      "size": 207705
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/4_thumb.jpg",
+      "size": 4882
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/5.jpg",
+      "size": 377600
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/5_thumb.jpg",
+      "size": 6584
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/6.jpg",
+      "size": 352127
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/6_thumb.jpg",
+      "size": 10160
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/7.jpg",
+      "size": 263952
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/7_thumb.jpg",
+      "size": 7346
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/8.jpg",
+      "size": 392013
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/8_thumb.jpg",
+      "size": 10689
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/9.jpg",
+      "size": 173350
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/9_thumb.jpg",
+      "size": 5808
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/1.jpg",
+      "size": 115262
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/10.jpg",
+      "size": 201246
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/10_thumb.jpg",
+      "size": 4946
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/11.jpg",
+      "size": 241211
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/11_thumb.jpg",
+      "size": 6832
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/12.jpg",
+      "size": 369376
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/12_thumb.jpg",
+      "size": 9349
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/13.jpg",
+      "size": 307145
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/13_thumb.jpg",
+      "size": 5656
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/14.jpg",
+      "size": 438256
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/14_thumb.jpg",
+      "size": 10649
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/1_thumb.jpg",
+      "size": 3170
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/2.jpg",
+      "size": 562257
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/2_thumb.jpg",
+      "size": 11188
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/3.jpg",
+      "size": 309291
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/3_thumb.jpg",
+      "size": 10650
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/4.jpg",
+      "size": 207705
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/4_thumb.jpg",
+      "size": 4882
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/5.jpg",
+      "size": 377600
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/5_thumb.jpg",
+      "size": 6584
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/6.jpg",
+      "size": 352127
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/6_thumb.jpg",
+      "size": 10160
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/7.jpg",
+      "size": 263952
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/7_thumb.jpg",
+      "size": 7346
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/8.jpg",
+      "size": 392013
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/8_thumb.jpg",
+      "size": 10689
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/9.jpg",
+      "size": 173350
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_atratus/9_thumb.jpg",
+      "size": 5808
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/calandrella_brachydactyla",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calandrella_brachydactyla/1.jpg",
+      "size": 401848
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calandrella_brachydactyla/1_thumb.jpg",
+      "size": 9945
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calandrella_brachydactyla/1.jpg",
+      "size": 401848
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calandrella_brachydactyla/1_thumb.jpg",
+      "size": 9945
+    }
+  }
+}

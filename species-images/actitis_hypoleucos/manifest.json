@@ -1,0 +1,127 @@
+{
+  "directory": "species-images/actitis_hypoleucos",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/1.jpg",
+      "size": 315481
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/1_thumb.jpg",
+      "size": 8044
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/2.jpg",
+      "size": 417792
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/2_thumb.jpg",
+      "size": 6309
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/3.jpg",
+      "size": 439883
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/3_thumb.jpg",
+      "size": 7762
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/4.jpg",
+      "size": 268924
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/4_thumb.jpg",
+      "size": 5836
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/5.jpg",
+      "size": 363289
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/5_thumb.jpg",
+      "size": 7481
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/6.jpg",
+      "size": 217881
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/6_thumb.jpg",
+      "size": 5366
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/1.jpg",
+      "size": 315481
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/1_thumb.jpg",
+      "size": 8044
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/2.jpg",
+      "size": 417792
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/2_thumb.jpg",
+      "size": 6309
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/3.jpg",
+      "size": 439883
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/3_thumb.jpg",
+      "size": 7762
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/4.jpg",
+      "size": 268924
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/4_thumb.jpg",
+      "size": 5836
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/5.jpg",
+      "size": 363289
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/5_thumb.jpg",
+      "size": 7481
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/6.jpg",
+      "size": 217881
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/actitis_hypoleucos/6_thumb.jpg",
+      "size": 5366
+    }
+  }
+}

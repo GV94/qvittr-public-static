@@ -1,0 +1,407 @@
+{
+  "directory": "species-images/poecile_montanus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/1.jpg",
+      "size": 147621
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/10.jpg",
+      "size": 256961
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/10_thumb.jpg",
+      "size": 6509
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/11.jpg",
+      "size": 148847
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/11_thumb.jpg",
+      "size": 3942
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/12.jpg",
+      "size": 163637
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/12_thumb.jpg",
+      "size": 4772
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/13.jpg",
+      "size": 254627
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/13_thumb.jpg",
+      "size": 5478
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/14.jpg",
+      "size": 189534
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/14_thumb.jpg",
+      "size": 4151
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/15.jpg",
+      "size": 158933
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/15_thumb.jpg",
+      "size": 4971
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/16.jpg",
+      "size": 231347
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/16_thumb.jpg",
+      "size": 4824
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/17.jpg",
+      "size": 259608
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/17_thumb.jpg",
+      "size": 5157
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/18.jpg",
+      "size": 205848
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/18_thumb.jpg",
+      "size": 7204
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/19.jpg",
+      "size": 116134
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/19_thumb.jpg",
+      "size": 5734
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/1_thumb.jpg",
+      "size": 4791
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/2.jpg",
+      "size": 174457
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/20.jpg",
+      "size": 140747
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/20_thumb.jpg",
+      "size": 5333
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/2_thumb.jpg",
+      "size": 3880
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/3.jpg",
+      "size": 148485
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/3_thumb.jpg",
+      "size": 4622
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/4.jpg",
+      "size": 151784
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/4_thumb.jpg",
+      "size": 6687
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/5.jpg",
+      "size": 122854
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/5_thumb.jpg",
+      "size": 5001
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/6.jpg",
+      "size": 217963
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/6_thumb.jpg",
+      "size": 7777
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/7.jpg",
+      "size": 192047
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/7_thumb.jpg",
+      "size": 3786
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/8.jpg",
+      "size": 152710
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/8_thumb.jpg",
+      "size": 6800
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/9.jpg",
+      "size": 230793
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/9_thumb.jpg",
+      "size": 6502
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/1.jpg",
+      "size": 147621
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/10.jpg",
+      "size": 256961
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/10_thumb.jpg",
+      "size": 6509
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/11.jpg",
+      "size": 148847
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/11_thumb.jpg",
+      "size": 3942
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/12.jpg",
+      "size": 163637
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/12_thumb.jpg",
+      "size": 4772
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/13.jpg",
+      "size": 254627
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/13_thumb.jpg",
+      "size": 5478
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/14.jpg",
+      "size": 189534
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/14_thumb.jpg",
+      "size": 4151
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/15.jpg",
+      "size": 158933
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/15_thumb.jpg",
+      "size": 4971
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/16.jpg",
+      "size": 231347
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/16_thumb.jpg",
+      "size": 4824
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/17.jpg",
+      "size": 259608
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/17_thumb.jpg",
+      "size": 5157
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/18.jpg",
+      "size": 205848
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/18_thumb.jpg",
+      "size": 7204
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/19.jpg",
+      "size": 116134
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/19_thumb.jpg",
+      "size": 5734
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/1_thumb.jpg",
+      "size": 4791
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/2.jpg",
+      "size": 174457
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/20.jpg",
+      "size": 140747
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/20_thumb.jpg",
+      "size": 5333
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/2_thumb.jpg",
+      "size": 3880
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/3.jpg",
+      "size": 148485
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/3_thumb.jpg",
+      "size": 4622
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/4.jpg",
+      "size": 151784
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/4_thumb.jpg",
+      "size": 6687
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/5.jpg",
+      "size": 122854
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/5_thumb.jpg",
+      "size": 5001
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/6.jpg",
+      "size": 217963
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/6_thumb.jpg",
+      "size": 7777
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/7.jpg",
+      "size": 192047
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/7_thumb.jpg",
+      "size": 3786
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/8.jpg",
+      "size": 152710
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/8_thumb.jpg",
+      "size": 6800
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/9.jpg",
+      "size": 230793
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/poecile_montanus/9_thumb.jpg",
+      "size": 6502
+    }
+  }
+}

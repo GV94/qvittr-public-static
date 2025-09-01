@@ -1,0 +1,87 @@
+{
+  "directory": "species-images/motacilla_cinerea",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/1.jpg",
+      "size": 127786
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/1_thumb.jpg",
+      "size": 3186
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/2.jpg",
+      "size": 185982
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/2_thumb.jpg",
+      "size": 4870
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/3.jpg",
+      "size": 361150
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/3_thumb.jpg",
+      "size": 9659
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/4.jpg",
+      "size": 240938
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/4_thumb.jpg",
+      "size": 7627
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/1.jpg",
+      "size": 127786
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/1_thumb.jpg",
+      "size": 3186
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/2.jpg",
+      "size": 185982
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/2_thumb.jpg",
+      "size": 4870
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/3.jpg",
+      "size": 361150
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/3_thumb.jpg",
+      "size": 9659
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/4.jpg",
+      "size": 240938
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/motacilla_cinerea/4_thumb.jpg",
+      "size": 7627
+    }
+  }
+}

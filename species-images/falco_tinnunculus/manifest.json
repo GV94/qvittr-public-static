@@ -1,0 +1,307 @@
+{
+  "directory": "species-images/falco_tinnunculus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/1.jpg",
+      "size": 206849
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/10.jpg",
+      "size": 320776
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/10_thumb.jpg",
+      "size": 6868
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/11.jpg",
+      "size": 290554
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/11_thumb.jpg",
+      "size": 11479
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/12.jpg",
+      "size": 366806
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/12_thumb.jpg",
+      "size": 8290
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/13.jpg",
+      "size": 358712
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/13_thumb.jpg",
+      "size": 3354
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/14.jpg",
+      "size": 379205
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/14_thumb.jpg",
+      "size": 4522
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/15.jpg",
+      "size": 122505
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/15_thumb.jpg",
+      "size": 2696
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/1_thumb.jpg",
+      "size": 5217
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/2.jpg",
+      "size": 294405
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/2_thumb.jpg",
+      "size": 6905
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/3.jpg",
+      "size": 106004
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/3_thumb.jpg",
+      "size": 2584
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/4.jpg",
+      "size": 323118
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/4_thumb.jpg",
+      "size": 7494
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/5.jpg",
+      "size": 263664
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/5_thumb.jpg",
+      "size": 6834
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/6.jpg",
+      "size": 408066
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/6_thumb.jpg",
+      "size": 9148
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/7.jpg",
+      "size": 424170
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/7_thumb.jpg",
+      "size": 9205
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/8.jpg",
+      "size": 328793
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/8_thumb.jpg",
+      "size": 7583
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/9.jpg",
+      "size": 167553
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/9_thumb.jpg",
+      "size": 3891
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/1.jpg",
+      "size": 206849
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/10.jpg",
+      "size": 320776
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/10_thumb.jpg",
+      "size": 6868
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/11.jpg",
+      "size": 290554
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/11_thumb.jpg",
+      "size": 11479
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/12.jpg",
+      "size": 366806
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/12_thumb.jpg",
+      "size": 8290
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/13.jpg",
+      "size": 358712
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/13_thumb.jpg",
+      "size": 3354
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/14.jpg",
+      "size": 379205
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/14_thumb.jpg",
+      "size": 4522
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/15.jpg",
+      "size": 122505
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/15_thumb.jpg",
+      "size": 2696
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/1_thumb.jpg",
+      "size": 5217
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/2.jpg",
+      "size": 294405
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/2_thumb.jpg",
+      "size": 6905
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/3.jpg",
+      "size": 106004
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/3_thumb.jpg",
+      "size": 2584
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/4.jpg",
+      "size": 323118
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/4_thumb.jpg",
+      "size": 7494
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/5.jpg",
+      "size": 263664
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/5_thumb.jpg",
+      "size": 6834
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/6.jpg",
+      "size": 408066
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/6_thumb.jpg",
+      "size": 9148
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/7.jpg",
+      "size": 424170
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/7_thumb.jpg",
+      "size": 9205
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/8.jpg",
+      "size": 328793
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/8_thumb.jpg",
+      "size": 7583
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/9.jpg",
+      "size": 167553
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_tinnunculus/9_thumb.jpg",
+      "size": 3891
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "directory": "species-images/ciconia_nigra",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/1.jpg",
+      "size": 369210
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/1_thumb.jpg",
+      "size": 11309
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/2.jpg",
+      "size": 524429
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/2_thumb.jpg",
+      "size": 10313
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/3.jpg",
+      "size": 254850
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/3_thumb.jpg",
+      "size": 7750
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/4.jpg",
+      "size": 432666
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/4_thumb.jpg",
+      "size": 9063
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/5.jpg",
+      "size": 484330
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/5_thumb.jpg",
+      "size": 8976
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/6.jpg",
+      "size": 265321
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/6_thumb.jpg",
+      "size": 6099
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/7.jpg",
+      "size": 216205
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/7_thumb.jpg",
+      "size": 6488
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/8.jpg",
+      "size": 414363
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/8_thumb.jpg",
+      "size": 8292
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/9.jpg",
+      "size": 469111
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/9_thumb.jpg",
+      "size": 11863
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/1.jpg",
+      "size": 369210
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/1_thumb.jpg",
+      "size": 11309
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/2.jpg",
+      "size": 524429
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/2_thumb.jpg",
+      "size": 10313
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/3.jpg",
+      "size": 254850
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/3_thumb.jpg",
+      "size": 7750
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/4.jpg",
+      "size": 432666
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/4_thumb.jpg",
+      "size": 9063
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/5.jpg",
+      "size": 484330
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/5_thumb.jpg",
+      "size": 8976
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/6.jpg",
+      "size": 265321
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/6_thumb.jpg",
+      "size": 6099
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/7.jpg",
+      "size": 216205
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/7_thumb.jpg",
+      "size": 6488
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/8.jpg",
+      "size": 414363
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/8_thumb.jpg",
+      "size": 8292
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/9.jpg",
+      "size": 469111
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/ciconia_nigra/9_thumb.jpg",
+      "size": 11863
+    }
+  }
+}

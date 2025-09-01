@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/numenius_phaeopus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/numenius_phaeopus/1.jpg",
+      "size": 377389
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/numenius_phaeopus/1_thumb.jpg",
+      "size": 7244
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/numenius_phaeopus/1.jpg",
+      "size": 377389
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/numenius_phaeopus/1_thumb.jpg",
+      "size": 7244
+    }
+  }
+}

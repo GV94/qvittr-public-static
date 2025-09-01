@@ -1,0 +1,87 @@
+{
+  "directory": "species-images/emberiza_calandra",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/1.jpg",
+      "size": 154145
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/1_thumb.jpg",
+      "size": 4150
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/2.jpg",
+      "size": 278567
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/2_thumb.jpg",
+      "size": 6332
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/3.jpg",
+      "size": 307971
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/3_thumb.jpg",
+      "size": 8244
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/4.jpg",
+      "size": 302567
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/4_thumb.jpg",
+      "size": 9800
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/1.jpg",
+      "size": 154145
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/1_thumb.jpg",
+      "size": 4150
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/2.jpg",
+      "size": 278567
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/2_thumb.jpg",
+      "size": 6332
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/3.jpg",
+      "size": 307971
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/3_thumb.jpg",
+      "size": 8244
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/4.jpg",
+      "size": 302567
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/emberiza_calandra/4_thumb.jpg",
+      "size": 9800
+    }
+  }
+}

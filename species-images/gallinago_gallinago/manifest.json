@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/gallinago_gallinago",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/gallinago_gallinago/1.jpg",
+      "size": 323591
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/gallinago_gallinago/1_thumb.jpg",
+      "size": 8025
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/gallinago_gallinago/1.jpg",
+      "size": 323591
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/gallinago_gallinago/1_thumb.jpg",
+      "size": 8025
+    }
+  }
+}

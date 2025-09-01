@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/falco_subbuteo",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/falco_subbuteo/1.jpg",
+      "size": 300920
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_subbuteo/1_thumb.jpg",
+      "size": 6585
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/falco_subbuteo/1.jpg",
+      "size": 300920
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/falco_subbuteo/1_thumb.jpg",
+      "size": 6585
+    }
+  }
+}

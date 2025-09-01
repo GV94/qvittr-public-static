@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/aegolius_funereus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/1.jpg",
+      "size": 328611
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/1_thumb.jpg",
+      "size": 10350
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/2.jpg",
+      "size": 578342
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/2_thumb.jpg",
+      "size": 11447
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/1.jpg",
+      "size": 328611
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/1_thumb.jpg",
+      "size": 10350
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/2.jpg",
+      "size": 578342
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/aegolius_funereus/2_thumb.jpg",
+      "size": 11447
+    }
+  }
+}

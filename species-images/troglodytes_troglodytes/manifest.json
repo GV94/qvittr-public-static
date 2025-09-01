@@ -1,0 +1,227 @@
+{
+  "directory": "species-images/troglodytes_troglodytes",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/1.jpg",
+      "size": 188031
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/10.jpg",
+      "size": 246805
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/10_thumb.jpg",
+      "size": 5621
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/11.jpg",
+      "size": 179873
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/11_thumb.jpg",
+      "size": 5390
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/1_thumb.jpg",
+      "size": 5552
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/2.jpg",
+      "size": 192203
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/2_thumb.jpg",
+      "size": 6473
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/3.jpg",
+      "size": 148095
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/3_thumb.jpg",
+      "size": 4375
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/4.jpg",
+      "size": 370268
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/4_thumb.jpg",
+      "size": 8879
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/5.jpg",
+      "size": 228919
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/5_thumb.jpg",
+      "size": 6905
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/6.jpg",
+      "size": 140064
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/6_thumb.jpg",
+      "size": 5473
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/7.jpg",
+      "size": 169533
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/7_thumb.jpg",
+      "size": 5277
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/8.jpg",
+      "size": 123903
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/8_thumb.jpg",
+      "size": 4653
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/9.jpg",
+      "size": 210599
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/9_thumb.jpg",
+      "size": 6583
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/1.jpg",
+      "size": 188031
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/10.jpg",
+      "size": 246805
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/10_thumb.jpg",
+      "size": 5621
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/11.jpg",
+      "size": 179873
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/11_thumb.jpg",
+      "size": 5390
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/1_thumb.jpg",
+      "size": 5552
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/2.jpg",
+      "size": 192203
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/2_thumb.jpg",
+      "size": 6473
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/3.jpg",
+      "size": 148095
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/3_thumb.jpg",
+      "size": 4375
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/4.jpg",
+      "size": 370268
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/4_thumb.jpg",
+      "size": 8879
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/5.jpg",
+      "size": 228919
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/5_thumb.jpg",
+      "size": 6905
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/6.jpg",
+      "size": 140064
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/6_thumb.jpg",
+      "size": 5473
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/7.jpg",
+      "size": 169533
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/7_thumb.jpg",
+      "size": 5277
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/8.jpg",
+      "size": 123903
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/8_thumb.jpg",
+      "size": 4653
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/9.jpg",
+      "size": 210599
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/troglodytes_troglodytes/9_thumb.jpg",
+      "size": 6583
+    }
+  }
+}

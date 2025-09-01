@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/buteo_rufinus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/1.jpg",
+      "size": 219602
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/1_thumb.jpg",
+      "size": 6423
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/2.jpg",
+      "size": 254114
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/2_thumb.jpg",
+      "size": 5786
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/1.jpg",
+      "size": 219602
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/1_thumb.jpg",
+      "size": 6423
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/2.jpg",
+      "size": 254114
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/buteo_rufinus/2_thumb.jpg",
+      "size": 5786
+    }
+  }
+}

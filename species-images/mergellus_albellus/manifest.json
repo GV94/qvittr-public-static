@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/mergellus_albellus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/mergellus_albellus/1.jpg",
+      "size": 221888
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/mergellus_albellus/1_thumb.jpg",
+      "size": 6551
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/mergellus_albellus/1.jpg",
+      "size": 221888
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/mergellus_albellus/1_thumb.jpg",
+      "size": 6551
+    }
+  }
+}

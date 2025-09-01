@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/spinus_spinus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/1.jpg",
+      "size": 159403
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/1_thumb.jpg",
+      "size": 4618
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/2.jpg",
+      "size": 197492
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/2_thumb.jpg",
+      "size": 5377
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/1.jpg",
+      "size": 159403
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/1_thumb.jpg",
+      "size": 4618
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/2.jpg",
+      "size": 197492
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/spinus_spinus/2_thumb.jpg",
+      "size": 5377
+    }
+  }
+}

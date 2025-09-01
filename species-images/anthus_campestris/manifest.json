@@ -1,0 +1,67 @@
+{
+  "directory": "species-images/anthus_campestris",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/1.jpg",
+      "size": 438962
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/1_thumb.jpg",
+      "size": 7742
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/2.jpg",
+      "size": 400299
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/2_thumb.jpg",
+      "size": 7859
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/3.jpg",
+      "size": 480139
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/3_thumb.jpg",
+      "size": 8025
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/1.jpg",
+      "size": 438962
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/1_thumb.jpg",
+      "size": 7742
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/2.jpg",
+      "size": 400299
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/2_thumb.jpg",
+      "size": 7859
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/3.jpg",
+      "size": 480139
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anthus_campestris/3_thumb.jpg",
+      "size": 8025
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "directory": "species-images/recurvirostra_avosetta",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/1.jpg",
+      "size": 372764
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/10.jpg",
+      "size": 334357
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/10_thumb.jpg",
+      "size": 6647
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/11.jpg",
+      "size": 369556
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/11_thumb.jpg",
+      "size": 8490
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/12.jpg",
+      "size": 201155
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/12_thumb.jpg",
+      "size": 8609
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/1_thumb.jpg",
+      "size": 5366
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/2.jpg",
+      "size": 255422
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/2_thumb.jpg",
+      "size": 4881
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/3.jpg",
+      "size": 320345
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/3_thumb.jpg",
+      "size": 7945
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/4.jpg",
+      "size": 244177
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/4_thumb.jpg",
+      "size": 7266
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/5.jpg",
+      "size": 324687
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/5_thumb.jpg",
+      "size": 8835
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/6.jpg",
+      "size": 136293
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/6_thumb.jpg",
+      "size": 4898
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/7.jpg",
+      "size": 225178
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/7_thumb.jpg",
+      "size": 3828
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/8.jpg",
+      "size": 210680
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/8_thumb.jpg",
+      "size": 3494
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/9.jpg",
+      "size": 374666
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/9_thumb.jpg",
+      "size": 8191
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/1.jpg",
+      "size": 372764
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/10.jpg",
+      "size": 334357
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/10_thumb.jpg",
+      "size": 6647
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/11.jpg",
+      "size": 369556
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/11_thumb.jpg",
+      "size": 8490
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/12.jpg",
+      "size": 201155
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/12_thumb.jpg",
+      "size": 8609
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/1_thumb.jpg",
+      "size": 5366
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/2.jpg",
+      "size": 255422
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/2_thumb.jpg",
+      "size": 4881
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/3.jpg",
+      "size": 320345
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/3_thumb.jpg",
+      "size": 7945
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/4.jpg",
+      "size": 244177
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/4_thumb.jpg",
+      "size": 7266
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/5.jpg",
+      "size": 324687
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/5_thumb.jpg",
+      "size": 8835
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/6.jpg",
+      "size": 136293
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/6_thumb.jpg",
+      "size": 4898
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/7.jpg",
+      "size": 225178
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/7_thumb.jpg",
+      "size": 3828
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/8.jpg",
+      "size": 210680
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/8_thumb.jpg",
+      "size": 3494
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/9.jpg",
+      "size": 374666
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/recurvirostra_avosetta/9_thumb.jpg",
+      "size": 8191
+    }
+  }
+}

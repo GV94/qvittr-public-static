@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/turdus_torquatus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/1.jpg",
+      "size": 212728
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/1_thumb.jpg",
+      "size": 6177
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/2.jpg",
+      "size": 207961
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/2_thumb.jpg",
+      "size": 6397
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/1.jpg",
+      "size": 212728
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/1_thumb.jpg",
+      "size": 6177
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/2.jpg",
+      "size": 207961
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/turdus_torquatus/2_thumb.jpg",
+      "size": 6397
+    }
+  }
+}

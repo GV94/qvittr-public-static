@@ -1,0 +1,407 @@
+{
+  "directory": "species-images/cygnus_olor",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/1.jpg",
+      "size": 226429
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/10.jpg",
+      "size": 210355
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/10_thumb.jpg",
+      "size": 5668
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/11.jpg",
+      "size": 157453
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/11_thumb.jpg",
+      "size": 4595
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/12.jpg",
+      "size": 204059
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/12_thumb.jpg",
+      "size": 5991
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/13.jpg",
+      "size": 251806
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/13_thumb.jpg",
+      "size": 5963
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/14.jpg",
+      "size": 164667
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/14_thumb.jpg",
+      "size": 5482
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/15.jpg",
+      "size": 328740
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/15_thumb.jpg",
+      "size": 6699
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/16.jpg",
+      "size": 137286
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/16_thumb.jpg",
+      "size": 5185
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/17.jpg",
+      "size": 185787
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/17_thumb.jpg",
+      "size": 4799
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/18.jpg",
+      "size": 177814
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/18_thumb.jpg",
+      "size": 5827
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/19.jpg",
+      "size": 274599
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/19_thumb.jpg",
+      "size": 6980
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/1_thumb.jpg",
+      "size": 9108
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/2.jpg",
+      "size": 365456
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/20.jpg",
+      "size": 196923
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/20_thumb.jpg",
+      "size": 5209
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/2_thumb.jpg",
+      "size": 8985
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/3.jpg",
+      "size": 372813
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/3_thumb.jpg",
+      "size": 8671
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/4.jpg",
+      "size": 283854
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/4_thumb.jpg",
+      "size": 6827
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/5.jpg",
+      "size": 274534
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/5_thumb.jpg",
+      "size": 7210
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/6.jpg",
+      "size": 309809
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/6_thumb.jpg",
+      "size": 8615
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/7.jpg",
+      "size": 318147
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/7_thumb.jpg",
+      "size": 7699
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/8.jpg",
+      "size": 295951
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/8_thumb.jpg",
+      "size": 6759
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/9.jpg",
+      "size": 256729
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/9_thumb.jpg",
+      "size": 7388
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/1.jpg",
+      "size": 226429
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/10.jpg",
+      "size": 210355
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/10_thumb.jpg",
+      "size": 5668
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/11.jpg",
+      "size": 157453
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/11_thumb.jpg",
+      "size": 4595
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/12.jpg",
+      "size": 204059
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/12_thumb.jpg",
+      "size": 5991
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/13.jpg",
+      "size": 251806
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/13_thumb.jpg",
+      "size": 5963
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/14.jpg",
+      "size": 164667
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/14_thumb.jpg",
+      "size": 5482
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/15.jpg",
+      "size": 328740
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/15_thumb.jpg",
+      "size": 6699
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/16.jpg",
+      "size": 137286
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/16_thumb.jpg",
+      "size": 5185
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/17.jpg",
+      "size": 185787
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/17_thumb.jpg",
+      "size": 4799
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/18.jpg",
+      "size": 177814
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/18_thumb.jpg",
+      "size": 5827
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/19.jpg",
+      "size": 274599
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/19_thumb.jpg",
+      "size": 6980
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/1_thumb.jpg",
+      "size": 9108
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/2.jpg",
+      "size": 365456
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/20.jpg",
+      "size": 196923
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/20_thumb.jpg",
+      "size": 5209
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/2_thumb.jpg",
+      "size": 8985
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/3.jpg",
+      "size": 372813
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/3_thumb.jpg",
+      "size": 8671
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/4.jpg",
+      "size": 283854
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/4_thumb.jpg",
+      "size": 6827
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/5.jpg",
+      "size": 274534
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/5_thumb.jpg",
+      "size": 7210
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/6.jpg",
+      "size": 309809
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/6_thumb.jpg",
+      "size": 8615
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/7.jpg",
+      "size": 318147
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/7_thumb.jpg",
+      "size": 7699
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/8.jpg",
+      "size": 295951
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/8_thumb.jpg",
+      "size": 6759
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/9.jpg",
+      "size": 256729
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cygnus_olor/9_thumb.jpg",
+      "size": 7388
+    }
+  }
+}

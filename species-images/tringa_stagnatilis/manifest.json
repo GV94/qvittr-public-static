@@ -1,0 +1,87 @@
+{
+  "directory": "species-images/tringa_stagnatilis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/1.jpg",
+      "size": 296271
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/1_thumb.jpg",
+      "size": 4549
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/2.jpg",
+      "size": 340081
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/2_thumb.jpg",
+      "size": 5739
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/3.jpg",
+      "size": 273830
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/3_thumb.jpg",
+      "size": 4830
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/4.jpg",
+      "size": 248579
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/4_thumb.jpg",
+      "size": 4579
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/1.jpg",
+      "size": 296271
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/1_thumb.jpg",
+      "size": 4549
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/2.jpg",
+      "size": 340081
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/2_thumb.jpg",
+      "size": 5739
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/3.jpg",
+      "size": 273830
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/3_thumb.jpg",
+      "size": 4830
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/4.jpg",
+      "size": 248579
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tringa_stagnatilis/4_thumb.jpg",
+      "size": 4579
+    }
+  }
+}

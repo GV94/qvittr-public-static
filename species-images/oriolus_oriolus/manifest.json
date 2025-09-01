@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/oriolus_oriolus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/oriolus_oriolus/1.jpg",
+      "size": 293202
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/oriolus_oriolus/1_thumb.jpg",
+      "size": 9061
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/oriolus_oriolus/1.jpg",
+      "size": 293202
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/oriolus_oriolus/1_thumb.jpg",
+      "size": 9061
+    }
+  }
+}

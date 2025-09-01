@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/jynx_torquilla",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/jynx_torquilla/1.jpg",
+      "size": 285184
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/jynx_torquilla/1_thumb.jpg",
+      "size": 7922
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/jynx_torquilla/1.jpg",
+      "size": 285184
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/jynx_torquilla/1_thumb.jpg",
+      "size": 7922
+    }
+  }
+}

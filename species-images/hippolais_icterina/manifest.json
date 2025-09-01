@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/hippolais_icterina",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/hippolais_icterina/1.jpg",
+      "size": 172181
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/hippolais_icterina/1_thumb.jpg",
+      "size": 4973
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/hippolais_icterina/1.jpg",
+      "size": 172181
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/hippolais_icterina/1_thumb.jpg",
+      "size": 4973
+    }
+  }
+}

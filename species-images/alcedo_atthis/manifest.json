@@ -1,0 +1,407 @@
+{
+  "directory": "species-images/alcedo_atthis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/1.jpg",
+      "size": 153988
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/10.jpg",
+      "size": 123904
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/10_thumb.jpg",
+      "size": 4278
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/11.jpg",
+      "size": 95207
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/11_thumb.jpg",
+      "size": 3831
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/12.jpg",
+      "size": 196401
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/12_thumb.jpg",
+      "size": 4437
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/13.jpg",
+      "size": 197581
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/13_thumb.jpg",
+      "size": 7864
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/14.jpg",
+      "size": 241784
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/14_thumb.jpg",
+      "size": 8601
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/15.jpg",
+      "size": 172237
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/15_thumb.jpg",
+      "size": 5665
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/16.jpg",
+      "size": 239599
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/16_thumb.jpg",
+      "size": 5671
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/17.jpg",
+      "size": 105181
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/17_thumb.jpg",
+      "size": 4467
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/18.jpg",
+      "size": 197602
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/18_thumb.jpg",
+      "size": 5716
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/19.jpg",
+      "size": 129108
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/19_thumb.jpg",
+      "size": 3909
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/1_thumb.jpg",
+      "size": 3913
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/2.jpg",
+      "size": 184438
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/20.jpg",
+      "size": 172220
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/20_thumb.jpg",
+      "size": 5683
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/2_thumb.jpg",
+      "size": 4434
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/3.jpg",
+      "size": 149919
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/3_thumb.jpg",
+      "size": 5630
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/4.jpg",
+      "size": 175135
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/4_thumb.jpg",
+      "size": 6412
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/5.jpg",
+      "size": 150758
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/5_thumb.jpg",
+      "size": 5164
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/6.jpg",
+      "size": 392878
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/6_thumb.jpg",
+      "size": 10481
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/7.jpg",
+      "size": 1074485
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/7_thumb.jpg",
+      "size": 21512
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/8.jpg",
+      "size": 211005
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/8_thumb.jpg",
+      "size": 6013
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/9.jpg",
+      "size": 120911
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/9_thumb.jpg",
+      "size": 5729
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/1.jpg",
+      "size": 153988
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/10.jpg",
+      "size": 123904
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/10_thumb.jpg",
+      "size": 4278
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/11.jpg",
+      "size": 95207
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/11_thumb.jpg",
+      "size": 3831
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/12.jpg",
+      "size": 196401
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/12_thumb.jpg",
+      "size": 4437
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/13.jpg",
+      "size": 197581
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/13_thumb.jpg",
+      "size": 7864
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/14.jpg",
+      "size": 241784
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/14_thumb.jpg",
+      "size": 8601
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/15.jpg",
+      "size": 172237
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/15_thumb.jpg",
+      "size": 5665
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/16.jpg",
+      "size": 239599
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/16_thumb.jpg",
+      "size": 5671
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/17.jpg",
+      "size": 105181
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/17_thumb.jpg",
+      "size": 4467
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/18.jpg",
+      "size": 197602
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/18_thumb.jpg",
+      "size": 5716
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/19.jpg",
+      "size": 129108
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/19_thumb.jpg",
+      "size": 3909
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/1_thumb.jpg",
+      "size": 3913
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/2.jpg",
+      "size": 184438
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/20.jpg",
+      "size": 172220
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/20_thumb.jpg",
+      "size": 5683
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/2_thumb.jpg",
+      "size": 4434
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/3.jpg",
+      "size": 149919
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/3_thumb.jpg",
+      "size": 5630
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/4.jpg",
+      "size": 175135
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/4_thumb.jpg",
+      "size": 6412
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/5.jpg",
+      "size": 150758
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/5_thumb.jpg",
+      "size": 5164
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/6.jpg",
+      "size": 392878
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/6_thumb.jpg",
+      "size": 10481
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/7.jpg",
+      "size": 1074485
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/7_thumb.jpg",
+      "size": 21512
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/8.jpg",
+      "size": 211005
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/8_thumb.jpg",
+      "size": 6013
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/9.jpg",
+      "size": 120911
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/alcedo_atthis/9_thumb.jpg",
+      "size": 5729
+    }
+  }
+}

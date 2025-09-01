@@ -1,0 +1,187 @@
+{
+  "directory": "species-images/circus_aeruginosus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/1.jpg",
+      "size": 276554
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/1_thumb.jpg",
+      "size": 4411
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/2.jpg",
+      "size": 252165
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/2_thumb.jpg",
+      "size": 6174
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/3.jpg",
+      "size": 283427
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/3_thumb.jpg",
+      "size": 6552
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/4.jpg",
+      "size": 266442
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/4_thumb.jpg",
+      "size": 5951
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/5.jpg",
+      "size": 178338
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/5_thumb.jpg",
+      "size": 4359
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/6.jpg",
+      "size": 130713
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/6_thumb.jpg",
+      "size": 4057
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/7.jpg",
+      "size": 258256
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/7_thumb.jpg",
+      "size": 5701
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/8.jpg",
+      "size": 203364
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/8_thumb.jpg",
+      "size": 3725
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/9.jpg",
+      "size": 179769
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/9_thumb.jpg",
+      "size": 5117
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/1.jpg",
+      "size": 276554
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/1_thumb.jpg",
+      "size": 4411
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/2.jpg",
+      "size": 252165
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/2_thumb.jpg",
+      "size": 6174
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/3.jpg",
+      "size": 283427
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/3_thumb.jpg",
+      "size": 6552
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/4.jpg",
+      "size": 266442
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/4_thumb.jpg",
+      "size": 5951
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/5.jpg",
+      "size": 178338
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/5_thumb.jpg",
+      "size": 4359
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/6.jpg",
+      "size": 130713
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/6_thumb.jpg",
+      "size": 4057
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/7.jpg",
+      "size": 258256
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/7_thumb.jpg",
+      "size": 5701
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/8.jpg",
+      "size": 203364
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/8_thumb.jpg",
+      "size": 3725
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/9.jpg",
+      "size": 179769
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/circus_aeruginosus/9_thumb.jpg",
+      "size": 5117
+    }
+  }
+}

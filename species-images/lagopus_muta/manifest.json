@@ -1,0 +1,67 @@
+{
+  "directory": "species-images/lagopus_muta",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/1.jpg",
+      "size": 551566
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/1_thumb.jpg",
+      "size": 10388
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/2.jpg",
+      "size": 193644
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/2_thumb.jpg",
+      "size": 4075
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/3.jpg",
+      "size": 226373
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/3_thumb.jpg",
+      "size": 5048
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/1.jpg",
+      "size": 551566
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/1_thumb.jpg",
+      "size": 10388
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/2.jpg",
+      "size": 193644
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/2_thumb.jpg",
+      "size": 4075
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/3.jpg",
+      "size": 226373
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/lagopus_muta/3_thumb.jpg",
+      "size": 5048
+    }
+  }
+}

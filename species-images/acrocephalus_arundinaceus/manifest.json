@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/acrocephalus_arundinaceus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_arundinaceus/1.jpg",
+      "size": 150376
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_arundinaceus/1_thumb.jpg",
+      "size": 4315
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_arundinaceus/1.jpg",
+      "size": 150376
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_arundinaceus/1_thumb.jpg",
+      "size": 4315
+    }
+  }
+}

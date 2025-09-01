@@ -1,0 +1,287 @@
+{
+  "directory": "species-images/tyto_alba",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/1.jpg",
+      "size": 191059
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/10.jpg",
+      "size": 138886
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/10_thumb.jpg",
+      "size": 4223
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/11.jpg",
+      "size": 236579
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/11_thumb.jpg",
+      "size": 6965
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/12.jpg",
+      "size": 167827
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/12_thumb.jpg",
+      "size": 5934
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/13.jpg",
+      "size": 126537
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/13_thumb.jpg",
+      "size": 3743
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/14.jpg",
+      "size": 213227
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/14_thumb.jpg",
+      "size": 6145
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/1_thumb.jpg",
+      "size": 5944
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/2.jpg",
+      "size": 197993
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/2_thumb.jpg",
+      "size": 6711
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/3.jpg",
+      "size": 246550
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/3_thumb.jpg",
+      "size": 8213
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/4.jpg",
+      "size": 242566
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/4_thumb.jpg",
+      "size": 5101
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/5.jpg",
+      "size": 165998
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/5_thumb.jpg",
+      "size": 5410
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/6.jpg",
+      "size": 269123
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/6_thumb.jpg",
+      "size": 6255
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/7.jpg",
+      "size": 211089
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/7_thumb.jpg",
+      "size": 5774
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/8.jpg",
+      "size": 196888
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/8_thumb.jpg",
+      "size": 5364
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/9.jpg",
+      "size": 208308
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/9_thumb.jpg",
+      "size": 5411
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/1.jpg",
+      "size": 191059
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/10.jpg",
+      "size": 138886
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/10_thumb.jpg",
+      "size": 4223
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/11.jpg",
+      "size": 236579
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/11_thumb.jpg",
+      "size": 6965
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/12.jpg",
+      "size": 167827
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/12_thumb.jpg",
+      "size": 5934
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/13.jpg",
+      "size": 126537
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/13_thumb.jpg",
+      "size": 3743
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/14.jpg",
+      "size": 213227
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/14_thumb.jpg",
+      "size": 6145
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/1_thumb.jpg",
+      "size": 5944
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/2.jpg",
+      "size": 197993
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/2_thumb.jpg",
+      "size": 6711
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/3.jpg",
+      "size": 246550
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/3_thumb.jpg",
+      "size": 8213
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/4.jpg",
+      "size": 242566
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/4_thumb.jpg",
+      "size": 5101
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/5.jpg",
+      "size": 165998
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/5_thumb.jpg",
+      "size": 5410
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/6.jpg",
+      "size": 269123
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/6_thumb.jpg",
+      "size": 6255
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/7.jpg",
+      "size": 211089
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/7_thumb.jpg",
+      "size": 5774
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/8.jpg",
+      "size": 196888
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/8_thumb.jpg",
+      "size": 5364
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/9.jpg",
+      "size": 208308
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/tyto_alba/9_thumb.jpg",
+      "size": 5411
+    }
+  }
+}

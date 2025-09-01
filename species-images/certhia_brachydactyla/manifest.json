@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/certhia_brachydactyla",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/certhia_brachydactyla/1.jpg",
+      "size": 182960
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/certhia_brachydactyla/1_thumb.jpg",
+      "size": 5277
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/certhia_brachydactyla/1.jpg",
+      "size": 182960
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/certhia_brachydactyla/1_thumb.jpg",
+      "size": 5277
+    }
+  }
+}

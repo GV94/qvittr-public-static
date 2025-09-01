@@ -1,0 +1,207 @@
+{
+  "directory": "species-images/phalacrocorax_carbo",
+  "contents": {
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/10_thumb.jpg",
+      "size": 7042
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/11_thumb.jpg",
+      "size": 7077
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/12_thumb.jpg",
+      "size": 8508
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/13_thumb.jpg",
+      "size": 3924
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/14_thumb.jpg",
+      "size": 7306
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/15_thumb.jpg",
+      "size": 6669
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/16_thumb.jpg",
+      "size": 3997
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/17_thumb.jpg",
+      "size": 10875
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/18_thumb.jpg",
+      "size": 7507
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/19_thumb.jpg",
+      "size": 8285
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/1_thumb.jpg",
+      "size": 6665
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/20_thumb.jpg",
+      "size": 7740
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/2_thumb.jpg",
+      "size": 5677
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/3_thumb.jpg",
+      "size": 8091
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/4_thumb.jpg",
+      "size": 7398
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/5_thumb.jpg",
+      "size": 6839
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/6_thumb.jpg",
+      "size": 12321
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/7_thumb.jpg",
+      "size": 9854
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/8_thumb.jpg",
+      "size": 6916
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/9_thumb.jpg",
+      "size": 5424
+    }
+  },
+  "tree": {
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/10_thumb.jpg",
+      "size": 7042
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/11_thumb.jpg",
+      "size": 7077
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/12_thumb.jpg",
+      "size": 8508
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/13_thumb.jpg",
+      "size": 3924
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/14_thumb.jpg",
+      "size": 7306
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/15_thumb.jpg",
+      "size": 6669
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/16_thumb.jpg",
+      "size": 3997
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/17_thumb.jpg",
+      "size": 10875
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/18_thumb.jpg",
+      "size": 7507
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/19_thumb.jpg",
+      "size": 8285
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/1_thumb.jpg",
+      "size": 6665
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/20_thumb.jpg",
+      "size": 7740
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/2_thumb.jpg",
+      "size": 5677
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/3_thumb.jpg",
+      "size": 8091
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/4_thumb.jpg",
+      "size": 7398
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/5_thumb.jpg",
+      "size": 6839
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/6_thumb.jpg",
+      "size": 12321
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/7_thumb.jpg",
+      "size": 9854
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/8_thumb.jpg",
+      "size": 6916
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phalacrocorax_carbo/9_thumb.jpg",
+      "size": 5424
+    }
+  }
+}

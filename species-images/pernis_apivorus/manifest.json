@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/pernis_apivorus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/1.jpg",
+      "size": 314458
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/1_thumb.jpg",
+      "size": 9352
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/2.jpg",
+      "size": 288490
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/2_thumb.jpg",
+      "size": 7572
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/1.jpg",
+      "size": 314458
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/1_thumb.jpg",
+      "size": 9352
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/2.jpg",
+      "size": 288490
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pernis_apivorus/2_thumb.jpg",
+      "size": 7572
+    }
+  }
+}

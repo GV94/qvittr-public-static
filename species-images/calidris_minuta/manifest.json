@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/calidris_minuta",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_minuta/1.jpg",
+      "size": 271895
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_minuta/1_thumb.jpg",
+      "size": 5102
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_minuta/1.jpg",
+      "size": 271895
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_minuta/1_thumb.jpg",
+      "size": 5102
+    }
+  }
+}

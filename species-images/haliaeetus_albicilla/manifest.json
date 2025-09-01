@@ -1,0 +1,167 @@
+{
+  "directory": "species-images/haliaeetus_albicilla",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/1.jpg",
+      "size": 255683
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/1_thumb.jpg",
+      "size": 7074
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/2.jpg",
+      "size": 258420
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/2_thumb.jpg",
+      "size": 5852
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/3.jpg",
+      "size": 377600
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/3_thumb.jpg",
+      "size": 8666
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/4.jpg",
+      "size": 186951
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/4_thumb.jpg",
+      "size": 5633
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/5.jpg",
+      "size": 274690
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/5_thumb.jpg",
+      "size": 8987
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/6.jpg",
+      "size": 326670
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/6_thumb.jpg",
+      "size": 8905
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/7.jpg",
+      "size": 160461
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/7_thumb.jpg",
+      "size": 5006
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/8.jpg",
+      "size": 168954
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/8_thumb.jpg",
+      "size": 5357
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/1.jpg",
+      "size": 255683
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/1_thumb.jpg",
+      "size": 7074
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/2.jpg",
+      "size": 258420
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/2_thumb.jpg",
+      "size": 5852
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/3.jpg",
+      "size": 377600
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/3_thumb.jpg",
+      "size": 8666
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/4.jpg",
+      "size": 186951
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/4_thumb.jpg",
+      "size": 5633
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/5.jpg",
+      "size": 274690
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/5_thumb.jpg",
+      "size": 8987
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/6.jpg",
+      "size": 326670
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/6_thumb.jpg",
+      "size": 8905
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/7.jpg",
+      "size": 160461
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/7_thumb.jpg",
+      "size": 5006
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/8.jpg",
+      "size": 168954
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haliaeetus_albicilla/8_thumb.jpg",
+      "size": 5357
+    }
+  }
+}

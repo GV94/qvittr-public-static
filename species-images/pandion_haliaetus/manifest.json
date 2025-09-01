@@ -1,0 +1,107 @@
+{
+  "directory": "species-images/pandion_haliaetus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/1.jpg",
+      "size": 150515
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/1_thumb.jpg",
+      "size": 4577
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/2.jpg",
+      "size": 127539
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/2_thumb.jpg",
+      "size": 4061
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/3.jpg",
+      "size": 237148
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/3_thumb.jpg",
+      "size": 5274
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/4.jpg",
+      "size": 421136
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/4_thumb.jpg",
+      "size": 6504
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/5.jpg",
+      "size": 164765
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/5_thumb.jpg",
+      "size": 1951
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/1.jpg",
+      "size": 150515
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/1_thumb.jpg",
+      "size": 4577
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/2.jpg",
+      "size": 127539
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/2_thumb.jpg",
+      "size": 4061
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/3.jpg",
+      "size": 237148
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/3_thumb.jpg",
+      "size": 5274
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/4.jpg",
+      "size": 421136
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/4_thumb.jpg",
+      "size": 6504
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/5.jpg",
+      "size": 164765
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/pandion_haliaetus/5_thumb.jpg",
+      "size": 1951
+    }
+  }
+}

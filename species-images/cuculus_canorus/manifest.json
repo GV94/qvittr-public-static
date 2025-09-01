@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/cuculus_canorus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cuculus_canorus/1.jpg",
+      "size": 218469
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cuculus_canorus/1_thumb.jpg",
+      "size": 5277
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cuculus_canorus/1.jpg",
+      "size": 218469
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cuculus_canorus/1_thumb.jpg",
+      "size": 5277
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "directory": "species-images/anas_crecca",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/1.jpg",
+      "size": 315205
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/1_thumb.jpg",
+      "size": 4973
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/2.jpg",
+      "size": 337646
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/2_thumb.jpg",
+      "size": 7453
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/3.jpg",
+      "size": 326207
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/3_thumb.jpg",
+      "size": 7537
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/1.jpg",
+      "size": 315205
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/1_thumb.jpg",
+      "size": 4973
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/2.jpg",
+      "size": 337646
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/2_thumb.jpg",
+      "size": 7453
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/3.jpg",
+      "size": 326207
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anas_crecca/3_thumb.jpg",
+      "size": 7537
+    }
+  }
+}

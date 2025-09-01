@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/dryocopus_martius",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/1.jpg",
+      "size": 287192
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/1_thumb.jpg",
+      "size": 6454
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/2.jpg",
+      "size": 304824
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/2_thumb.jpg",
+      "size": 7375
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/1.jpg",
+      "size": 287192
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/1_thumb.jpg",
+      "size": 6454
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/2.jpg",
+      "size": 304824
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/dryocopus_martius/2_thumb.jpg",
+      "size": 7375
+    }
+  }
+}

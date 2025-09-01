@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/cepphus_grylle",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cepphus_grylle/1.jpg",
+      "size": 204966
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cepphus_grylle/1_thumb.jpg",
+      "size": 6031
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/cepphus_grylle/1.jpg",
+      "size": 204966
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/cepphus_grylle/1_thumb.jpg",
+      "size": 6031
+    }
+  }
+}

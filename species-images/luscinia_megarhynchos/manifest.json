@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/luscinia_megarhynchos",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/luscinia_megarhynchos/1.jpg",
+      "size": 1856508
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/luscinia_megarhynchos/1_thumb.jpg",
+      "size": 37600
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/luscinia_megarhynchos/1.jpg",
+      "size": 1856508
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/luscinia_megarhynchos/1_thumb.jpg",
+      "size": 37600
+    }
+  }
+}

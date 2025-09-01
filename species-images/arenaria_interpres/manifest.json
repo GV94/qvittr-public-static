@@ -1,0 +1,287 @@
+{
+  "directory": "species-images/arenaria_interpres",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/1.jpg",
+      "size": 313143
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/10.jpg",
+      "size": 520341
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/10_thumb.jpg",
+      "size": 9799
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/11.jpg",
+      "size": 299384
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/11_thumb.jpg",
+      "size": 6983
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/12.jpg",
+      "size": 336640
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/12_thumb.jpg",
+      "size": 8629
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/13.jpg",
+      "size": 162699
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/13_thumb.jpg",
+      "size": 6106
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/14.jpg",
+      "size": 233739
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/14_thumb.jpg",
+      "size": 7139
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/1_thumb.jpg",
+      "size": 9568
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/2.jpg",
+      "size": 218492
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/2_thumb.jpg",
+      "size": 7498
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/3.jpg",
+      "size": 263510
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/3_thumb.jpg",
+      "size": 5630
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/4.jpg",
+      "size": 254759
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/4_thumb.jpg",
+      "size": 6211
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/5.jpg",
+      "size": 264300
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/5_thumb.jpg",
+      "size": 8603
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/6.jpg",
+      "size": 433777
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/6_thumb.jpg",
+      "size": 9295
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/7.jpg",
+      "size": 272494
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/7_thumb.jpg",
+      "size": 6487
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/8.jpg",
+      "size": 151039
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/8_thumb.jpg",
+      "size": 4393
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/9.jpg",
+      "size": 260203
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/9_thumb.jpg",
+      "size": 7804
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/1.jpg",
+      "size": 313143
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/10.jpg",
+      "size": 520341
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/10_thumb.jpg",
+      "size": 9799
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/11.jpg",
+      "size": 299384
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/11_thumb.jpg",
+      "size": 6983
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/12.jpg",
+      "size": 336640
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/12_thumb.jpg",
+      "size": 8629
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/13.jpg",
+      "size": 162699
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/13_thumb.jpg",
+      "size": 6106
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/14.jpg",
+      "size": 233739
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/14_thumb.jpg",
+      "size": 7139
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/1_thumb.jpg",
+      "size": 9568
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/2.jpg",
+      "size": 218492
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/2_thumb.jpg",
+      "size": 7498
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/3.jpg",
+      "size": 263510
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/3_thumb.jpg",
+      "size": 5630
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/4.jpg",
+      "size": 254759
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/4_thumb.jpg",
+      "size": 6211
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/5.jpg",
+      "size": 264300
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/5_thumb.jpg",
+      "size": 8603
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/6.jpg",
+      "size": 433777
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/6_thumb.jpg",
+      "size": 9295
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/7.jpg",
+      "size": 272494
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/7_thumb.jpg",
+      "size": 6487
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/8.jpg",
+      "size": 151039
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/8_thumb.jpg",
+      "size": 4393
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/9.jpg",
+      "size": 260203
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/arenaria_interpres/9_thumb.jpg",
+      "size": 7804
+    }
+  }
+}

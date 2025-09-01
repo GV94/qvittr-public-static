@@ -1,0 +1,67 @@
+{
+  "directory": "species-images/acrocephalus_dumetorum",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/1.jpg",
+      "size": 209483
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/1_thumb.jpg",
+      "size": 6488
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/2.jpg",
+      "size": 218072
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/2_thumb.jpg",
+      "size": 6438
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/3.jpg",
+      "size": 190877
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/3_thumb.jpg",
+      "size": 5946
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/1.jpg",
+      "size": 209483
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/1_thumb.jpg",
+      "size": 6488
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/2.jpg",
+      "size": 218072
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/2_thumb.jpg",
+      "size": 6438
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/3.jpg",
+      "size": 190877
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/acrocephalus_dumetorum/3_thumb.jpg",
+      "size": 5946
+    }
+  }
+}

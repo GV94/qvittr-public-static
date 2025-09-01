@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/calidris_maritima",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_maritima/1.jpg",
+      "size": 238758
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_maritima/1_thumb.jpg",
+      "size": 7979
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_maritima/1.jpg",
+      "size": 238758
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/calidris_maritima/1_thumb.jpg",
+      "size": 7979
+    }
+  }
+}

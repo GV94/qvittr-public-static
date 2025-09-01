@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/linaria_cannabina",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/1.jpg",
+      "size": 216871
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/1_thumb.jpg",
+      "size": 5962
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/2.jpg",
+      "size": 275541
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/2_thumb.jpg",
+      "size": 5680
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/1.jpg",
+      "size": 216871
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/1_thumb.jpg",
+      "size": 5962
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/2.jpg",
+      "size": 275541
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/linaria_cannabina/2_thumb.jpg",
+      "size": 5680
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/rallus_aquaticus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/rallus_aquaticus/1.jpg",
+      "size": 373459
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/rallus_aquaticus/1_thumb.jpg",
+      "size": 11139
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/rallus_aquaticus/1.jpg",
+      "size": 373459
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/rallus_aquaticus/1_thumb.jpg",
+      "size": 11139
+    }
+  }
+}

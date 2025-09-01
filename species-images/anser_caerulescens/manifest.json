@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/anser_caerulescens",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/1.jpg",
+      "size": 136499
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/1_thumb.jpg",
+      "size": 4438
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/2.jpg",
+      "size": 167474
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/2_thumb.jpg",
+      "size": 7953
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/1.jpg",
+      "size": 136499
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/1_thumb.jpg",
+      "size": 4438
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/2.jpg",
+      "size": 167474
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/anser_caerulescens/2_thumb.jpg",
+      "size": 7953
+    }
+  }
+}

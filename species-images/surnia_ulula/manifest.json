@@ -1,0 +1,167 @@
+{
+  "directory": "species-images/surnia_ulula",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/1.jpg",
+      "size": 104835
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/1_thumb.jpg",
+      "size": 2719
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/2.jpg",
+      "size": 144429
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/2_thumb.jpg",
+      "size": 4894
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/3.jpg",
+      "size": 180925
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/3_thumb.jpg",
+      "size": 5398
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/4.jpg",
+      "size": 148668
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/4_thumb.jpg",
+      "size": 5044
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/5.jpg",
+      "size": 165283
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/5_thumb.jpg",
+      "size": 4184
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/6.jpg",
+      "size": 152385
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/6_thumb.jpg",
+      "size": 5164
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/7.jpg",
+      "size": 174608
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/7_thumb.jpg",
+      "size": 5891
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/8.jpg",
+      "size": 225336
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/8_thumb.jpg",
+      "size": 7466
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/1.jpg",
+      "size": 104835
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/1_thumb.jpg",
+      "size": 2719
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/2.jpg",
+      "size": 144429
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/2_thumb.jpg",
+      "size": 4894
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/3.jpg",
+      "size": 180925
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/3_thumb.jpg",
+      "size": 5398
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/4.jpg",
+      "size": 148668
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/4_thumb.jpg",
+      "size": 5044
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/5.jpg",
+      "size": 165283
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/5_thumb.jpg",
+      "size": 4184
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/6.jpg",
+      "size": 152385
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/6_thumb.jpg",
+      "size": 5164
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/7.jpg",
+      "size": 174608
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/7_thumb.jpg",
+      "size": 5891
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/8.jpg",
+      "size": 225336
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/surnia_ulula/8_thumb.jpg",
+      "size": 7466
+    }
+  }
+}

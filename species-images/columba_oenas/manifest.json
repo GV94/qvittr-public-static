@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/columba_oenas",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/columba_oenas/1.jpg",
+      "size": 173958
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/columba_oenas/1_thumb.jpg",
+      "size": 4217
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/columba_oenas/1.jpg",
+      "size": 173958
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/columba_oenas/1_thumb.jpg",
+      "size": 4217
+    }
+  }
+}

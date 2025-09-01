@@ -1,0 +1,107 @@
+{
+  "directory": "species-images/strix_aluco",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/1.jpg",
+      "size": 291718
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/1_thumb.jpg",
+      "size": 7756
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/2.jpg",
+      "size": 393822
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/2_thumb.jpg",
+      "size": 8188
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/3.jpg",
+      "size": 376514
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/3_thumb.jpg",
+      "size": 6154
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/4.jpg",
+      "size": 373825
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/4_thumb.jpg",
+      "size": 8232
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/5.jpg",
+      "size": 324538
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/5_thumb.jpg",
+      "size": 8280
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/1.jpg",
+      "size": 291718
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/1_thumb.jpg",
+      "size": 7756
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/2.jpg",
+      "size": 393822
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/2_thumb.jpg",
+      "size": 8188
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/3.jpg",
+      "size": 376514
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/3_thumb.jpg",
+      "size": 6154
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/4.jpg",
+      "size": 373825
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/4_thumb.jpg",
+      "size": 8232
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/5.jpg",
+      "size": 324538
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/strix_aluco/5_thumb.jpg",
+      "size": 8280
+    }
+  }
+}

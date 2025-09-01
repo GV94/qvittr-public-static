@@ -1,0 +1,147 @@
+{
+  "directory": "species-images/phylloscopus_trochilus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/1.jpg",
+      "size": 192685
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/1_thumb.jpg",
+      "size": 10082
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/2.jpg",
+      "size": 270737
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/2_thumb.jpg",
+      "size": 14018
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/3.jpg",
+      "size": 238783
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/3_thumb.jpg",
+      "size": 11944
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/4.jpg",
+      "size": 210296
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/4_thumb.jpg",
+      "size": 7947
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/5.jpg",
+      "size": 211738
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/5_thumb.jpg",
+      "size": 5839
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/6.jpg",
+      "size": 234911
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/6_thumb.jpg",
+      "size": 6426
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/7.jpg",
+      "size": 246413
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/7_thumb.jpg",
+      "size": 8411
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/1.jpg",
+      "size": 192685
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/1_thumb.jpg",
+      "size": 10082
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/2.jpg",
+      "size": 270737
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/2_thumb.jpg",
+      "size": 14018
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/3.jpg",
+      "size": 238783
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/3_thumb.jpg",
+      "size": 11944
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/4.jpg",
+      "size": 210296
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/4_thumb.jpg",
+      "size": 7947
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/5.jpg",
+      "size": 211738
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/5_thumb.jpg",
+      "size": 5839
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/6.jpg",
+      "size": 234911
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/6_thumb.jpg",
+      "size": 6426
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/7.jpg",
+      "size": 246413
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/phylloscopus_trochilus/7_thumb.jpg",
+      "size": 8411
+    }
+  }
+}

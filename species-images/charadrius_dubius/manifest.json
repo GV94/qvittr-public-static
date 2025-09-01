@@ -1,0 +1,107 @@
+{
+  "directory": "species-images/charadrius_dubius",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/1.jpg",
+      "size": 384023
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/1_thumb.jpg",
+      "size": 9495
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/2.jpg",
+      "size": 314471
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/2_thumb.jpg",
+      "size": 7331
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/3.jpg",
+      "size": 261854
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/3_thumb.jpg",
+      "size": 6827
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/4.jpg",
+      "size": 303273
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/4_thumb.jpg",
+      "size": 5908
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/5.jpg",
+      "size": 459218
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/5_thumb.jpg",
+      "size": 10039
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/1.jpg",
+      "size": 384023
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/1_thumb.jpg",
+      "size": 9495
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/2.jpg",
+      "size": 314471
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/2_thumb.jpg",
+      "size": 7331
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/3.jpg",
+      "size": 261854
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/3_thumb.jpg",
+      "size": 6827
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/4.jpg",
+      "size": 303273
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/4_thumb.jpg",
+      "size": 5908
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/5.jpg",
+      "size": 459218
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/charadrius_dubius/5_thumb.jpg",
+      "size": 10039
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/oenanthe_oenanthe",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/oenanthe_oenanthe/1.jpg",
+      "size": 202468
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/oenanthe_oenanthe/1_thumb.jpg",
+      "size": 6113
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/oenanthe_oenanthe/1.jpg",
+      "size": 202468
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/oenanthe_oenanthe/1_thumb.jpg",
+      "size": 6113
+    }
+  }
+}

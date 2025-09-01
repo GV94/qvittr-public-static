@@ -1,0 +1,27 @@
+{
+  "directory": "species-images/aquila_heliaca",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/aquila_heliaca/1.jpg",
+      "size": 333059
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/aquila_heliaca/1_thumb.jpg",
+      "size": 5670
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/aquila_heliaca/1.jpg",
+      "size": 333059
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/aquila_heliaca/1_thumb.jpg",
+      "size": 5670
+    }
+  }
+}

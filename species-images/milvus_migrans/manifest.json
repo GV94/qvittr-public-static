@@ -1,0 +1,407 @@
+{
+  "directory": "species-images/milvus_migrans",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/1.jpg",
+      "size": 108577
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/10.jpg",
+      "size": 329620
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/10_thumb.jpg",
+      "size": 6697
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/11.jpg",
+      "size": 117510
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/11_thumb.jpg",
+      "size": 3673
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/12.jpg",
+      "size": 377224
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/12_thumb.jpg",
+      "size": 9061
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/13.jpg",
+      "size": 446337
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/13_thumb.jpg",
+      "size": 12216
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/14.jpg",
+      "size": 388436
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/14_thumb.jpg",
+      "size": 10068
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/15.jpg",
+      "size": 330459
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/15_thumb.jpg",
+      "size": 9983
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/16.jpg",
+      "size": 249040
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/16_thumb.jpg",
+      "size": 6724
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/17.jpg",
+      "size": 253088
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/17_thumb.jpg",
+      "size": 6158
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/18.jpg",
+      "size": 558785
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/18_thumb.jpg",
+      "size": 11555
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/19.jpg",
+      "size": 274928
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/19_thumb.jpg",
+      "size": 9332
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/1_thumb.jpg",
+      "size": 4285
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/2.jpg",
+      "size": 108481
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/20.jpg",
+      "size": 126403
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/20_thumb.jpg",
+      "size": 1752
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/2_thumb.jpg",
+      "size": 2656
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/3.jpg",
+      "size": 197839
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/3_thumb.jpg",
+      "size": 5019
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/4.jpg",
+      "size": 118769
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/4_thumb.jpg",
+      "size": 2417
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/5.jpg",
+      "size": 69610
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/5_thumb.jpg",
+      "size": 2576
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/6.jpg",
+      "size": 484720
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/6_thumb.jpg",
+      "size": 8928
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/7.jpg",
+      "size": 201456
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/7_thumb.jpg",
+      "size": 5860
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/8.jpg",
+      "size": 178602
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/8_thumb.jpg",
+      "size": 3661
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/9.jpg",
+      "size": 71843
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/9_thumb.jpg",
+      "size": 1729
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/1.jpg",
+      "size": 108577
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/10.jpg",
+      "size": 329620
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/10_thumb.jpg",
+      "size": 6697
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/11.jpg",
+      "size": 117510
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/11_thumb.jpg",
+      "size": 3673
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/12.jpg",
+      "size": 377224
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/12_thumb.jpg",
+      "size": 9061
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/13.jpg",
+      "size": 446337
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/13_thumb.jpg",
+      "size": 12216
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/14.jpg",
+      "size": 388436
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/14_thumb.jpg",
+      "size": 10068
+    },
+    "15.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/15.jpg",
+      "size": 330459
+    },
+    "15_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/15_thumb.jpg",
+      "size": 9983
+    },
+    "16.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/16.jpg",
+      "size": 249040
+    },
+    "16_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/16_thumb.jpg",
+      "size": 6724
+    },
+    "17.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/17.jpg",
+      "size": 253088
+    },
+    "17_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/17_thumb.jpg",
+      "size": 6158
+    },
+    "18.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/18.jpg",
+      "size": 558785
+    },
+    "18_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/18_thumb.jpg",
+      "size": 11555
+    },
+    "19.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/19.jpg",
+      "size": 274928
+    },
+    "19_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/19_thumb.jpg",
+      "size": 9332
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/1_thumb.jpg",
+      "size": 4285
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/2.jpg",
+      "size": 108481
+    },
+    "20.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/20.jpg",
+      "size": 126403
+    },
+    "20_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/20_thumb.jpg",
+      "size": 1752
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/2_thumb.jpg",
+      "size": 2656
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/3.jpg",
+      "size": 197839
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/3_thumb.jpg",
+      "size": 5019
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/4.jpg",
+      "size": 118769
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/4_thumb.jpg",
+      "size": 2417
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/5.jpg",
+      "size": 69610
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/5_thumb.jpg",
+      "size": 2576
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/6.jpg",
+      "size": 484720
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/6_thumb.jpg",
+      "size": 8928
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/7.jpg",
+      "size": 201456
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/7_thumb.jpg",
+      "size": 5860
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/8.jpg",
+      "size": 178602
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/8_thumb.jpg",
+      "size": 3661
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/9.jpg",
+      "size": 71843
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/milvus_migrans/9_thumb.jpg",
+      "size": 1729
+    }
+  }
+}

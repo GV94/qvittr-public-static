@@ -1,0 +1,187 @@
+{
+  "directory": "species-images/haematopus_ostralegus",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/1.jpg",
+      "size": 546596
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/1_thumb.jpg",
+      "size": 11208
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/2.jpg",
+      "size": 419985
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/2_thumb.jpg",
+      "size": 9347
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/3.jpg",
+      "size": 244262
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/3_thumb.jpg",
+      "size": 6931
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/4.jpg",
+      "size": 190964
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/4_thumb.jpg",
+      "size": 5058
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/5.jpg",
+      "size": 167141
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/5_thumb.jpg",
+      "size": 5670
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/6.jpg",
+      "size": 45389
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/6_thumb.jpg",
+      "size": 1992
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/7.jpg",
+      "size": 288001
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/7_thumb.jpg",
+      "size": 7957
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/8.jpg",
+      "size": 233750
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/8_thumb.jpg",
+      "size": 7586
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/9.jpg",
+      "size": 304592
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/9_thumb.jpg",
+      "size": 9836
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/1.jpg",
+      "size": 546596
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/1_thumb.jpg",
+      "size": 11208
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/2.jpg",
+      "size": 419985
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/2_thumb.jpg",
+      "size": 9347
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/3.jpg",
+      "size": 244262
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/3_thumb.jpg",
+      "size": 6931
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/4.jpg",
+      "size": 190964
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/4_thumb.jpg",
+      "size": 5058
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/5.jpg",
+      "size": 167141
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/5_thumb.jpg",
+      "size": 5670
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/6.jpg",
+      "size": 45389
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/6_thumb.jpg",
+      "size": 1992
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/7.jpg",
+      "size": 288001
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/7_thumb.jpg",
+      "size": 7957
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/8.jpg",
+      "size": 233750
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/8_thumb.jpg",
+      "size": 7586
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/9.jpg",
+      "size": 304592
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/haematopus_ostralegus/9_thumb.jpg",
+      "size": 9836
+    }
+  }
+}

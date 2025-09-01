@@ -1,0 +1,287 @@
+{
+  "directory": "species-images/corvus_cornix",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/1.jpg",
+      "size": 179629
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/10.jpg",
+      "size": 301095
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/10_thumb.jpg",
+      "size": 7795
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/11.jpg",
+      "size": 330001
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/11_thumb.jpg",
+      "size": 8734
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/12.jpg",
+      "size": 200353
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/12_thumb.jpg",
+      "size": 7173
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/13.jpg",
+      "size": 378057
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/13_thumb.jpg",
+      "size": 11646
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/14.jpg",
+      "size": 381379
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/14_thumb.jpg",
+      "size": 8335
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/1_thumb.jpg",
+      "size": 4973
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/2.jpg",
+      "size": 199696
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/2_thumb.jpg",
+      "size": 6874
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/3.jpg",
+      "size": 231837
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/3_thumb.jpg",
+      "size": 6055
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/4.jpg",
+      "size": 410429
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/4_thumb.jpg",
+      "size": 10263
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/5.jpg",
+      "size": 159071
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/5_thumb.jpg",
+      "size": 6457
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/6.jpg",
+      "size": 248530
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/6_thumb.jpg",
+      "size": 7046
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/7.jpg",
+      "size": 349350
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/7_thumb.jpg",
+      "size": 10161
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/8.jpg",
+      "size": 105091
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/8_thumb.jpg",
+      "size": 3667
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/9.jpg",
+      "size": 196226
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/9_thumb.jpg",
+      "size": 7115
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/1.jpg",
+      "size": 179629
+    },
+    "10.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/10.jpg",
+      "size": 301095
+    },
+    "10_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/10_thumb.jpg",
+      "size": 7795
+    },
+    "11.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/11.jpg",
+      "size": 330001
+    },
+    "11_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/11_thumb.jpg",
+      "size": 8734
+    },
+    "12.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/12.jpg",
+      "size": 200353
+    },
+    "12_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/12_thumb.jpg",
+      "size": 7173
+    },
+    "13.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/13.jpg",
+      "size": 378057
+    },
+    "13_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/13_thumb.jpg",
+      "size": 11646
+    },
+    "14.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/14.jpg",
+      "size": 381379
+    },
+    "14_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/14_thumb.jpg",
+      "size": 8335
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/1_thumb.jpg",
+      "size": 4973
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/2.jpg",
+      "size": 199696
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/2_thumb.jpg",
+      "size": 6874
+    },
+    "3.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/3.jpg",
+      "size": 231837
+    },
+    "3_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/3_thumb.jpg",
+      "size": 6055
+    },
+    "4.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/4.jpg",
+      "size": 410429
+    },
+    "4_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/4_thumb.jpg",
+      "size": 10263
+    },
+    "5.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/5.jpg",
+      "size": 159071
+    },
+    "5_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/5_thumb.jpg",
+      "size": 6457
+    },
+    "6.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/6.jpg",
+      "size": 248530
+    },
+    "6_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/6_thumb.jpg",
+      "size": 7046
+    },
+    "7.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/7.jpg",
+      "size": 349350
+    },
+    "7_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/7_thumb.jpg",
+      "size": 10161
+    },
+    "8.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/8.jpg",
+      "size": 105091
+    },
+    "8_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/8_thumb.jpg",
+      "size": 3667
+    },
+    "9.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/9.jpg",
+      "size": 196226
+    },
+    "9_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/corvus_cornix/9_thumb.jpg",
+      "size": 7115
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "directory": "species-images/fulmarus_glacialis",
+  "contents": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/1.jpg",
+      "size": 187793
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/1_thumb.jpg",
+      "size": 6304
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/2.jpg",
+      "size": 245870
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/2_thumb.jpg",
+      "size": 6327
+    }
+  },
+  "tree": {
+    "1.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/1.jpg",
+      "size": 187793
+    },
+    "1_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/1_thumb.jpg",
+      "size": 6304
+    },
+    "2.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/2.jpg",
+      "size": 245870
+    },
+    "2_thumb.jpg": {
+      "type": "file",
+      "path": "species-images/fulmarus_glacialis/2_thumb.jpg",
+      "size": 6327
+    }
+  }
+}
