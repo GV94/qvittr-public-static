@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/mergus_serrator/cde39693aab7ca53b82adcc02f740f99891d15a40c2ecab789c6fe02cd6a5d93.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Peter Massas",
+      "url": "https://www.flickr.com/photos/23505652@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/mergus_serrator/cde39693aab7ca53b82adcc02f740f99891d15a40c2ecab789c6fe02cd6a5d93_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/mergus_serrator/49bd1c88e898650de2e6d2e832cce896cb9f00792279496772c76b5f9f59f9e9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Virginia State Parks staff",
+        "url": "https://www.flickr.com/people/37922399@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_serrator/49bd1c88e898650de2e6d2e832cce896cb9f00792279496772c76b5f9f59f9e9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_serrator/6153be890d1ddf3358dede1094ad158078b3583e5945c2fa7dbc7210e19add27.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Virginia State Parks staff",
+        "url": "https://www.flickr.com/people/37922399@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_serrator/6153be890d1ddf3358dede1094ad158078b3583e5945c2fa7dbc7210e19add27_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_serrator/b3d1bebc1e8f906e49213d1daf13a5c26f65c915a7605fc81954ff164e7dbe0f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bureau  of Land Management",
+        "url": "https://www.flickr.com/people/91981596@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_serrator/b3d1bebc1e8f906e49213d1daf13a5c26f65c915a7605fc81954ff164e7dbe0f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_serrator/b4fc25418cdf842e128a3683ae1eb288810145c11e884a1b5699be3c0ed1a1da.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_serrator/b4fc25418cdf842e128a3683ae1eb288810145c11e884a1b5699be3c0ed1a1da_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_serrator/b79062f105ed7a0affd6d575c30b14789161d691882bac45b9a10d4af5990d20.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Virginia State Parks staff",
+        "url": "https://www.flickr.com/people/37922399@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_serrator/b79062f105ed7a0affd6d575c30b14789161d691882bac45b9a10d4af5990d20_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_calandra/f41fbe30670d05477d26cb5e607b958ac93004644992f8694550b3ae8d2103a0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ra\u00fal Baena Casado",
+      "url": "https://www.flickr.com/people/48997085@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_calandra/f41fbe30670d05477d26cb5e607b958ac93004644992f8694550b3ae8d2103a0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_calandra/399cabf7145664730feffb632ce6d28840fbdc9b6b5e4c695ae73c397e8b189f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_calandra/399cabf7145664730feffb632ce6d28840fbdc9b6b5e4c695ae73c397e8b189f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/4d9a49de2f1806e2a00e35ac045ba0851addb6d948d205b01b8d737e0690b5fc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, muffinn",
+        "url": "https://www.flickr.com/people/26445715@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_calandra/4d9a49de2f1806e2a00e35ac045ba0851addb6d948d205b01b8d737e0690b5fc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/6ac6c9026b86e81def9c7ecd372bf2a8ed21eb37b42cde822738f43c55180a87.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_calandra/6ac6c9026b86e81def9c7ecd372bf2a8ed21eb37b42cde822738f43c55180a87_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/8099f5311fa6380a26cd4e5e999fe685ee1ffbee8dc0695ec78f34e78297ec99.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_calandra/8099f5311fa6380a26cd4e5e999fe685ee1ffbee8dc0695ec78f34e78297ec99_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/9325564daa80caf03700aa22e3326da7a58e53a98fa3d7477939cb2ec152babe.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_calandra/9325564daa80caf03700aa22e3326da7a58e53a98fa3d7477939cb2ec152babe_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/b8bbfd8f941606072f638330dd68dbe6bf8f7534f534ed42663a0e18c42c8a72.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_calandra/b8bbfd8f941606072f638330dd68dbe6bf8f7534f534ed42663a0e18c42c8a72_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/cf90db59ec65caf933392edabb23e38c089d6c2628d18a28efc217e2442f6976.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_calandra/cf90db59ec65caf933392edabb23e38c089d6c2628d18a28efc217e2442f6976_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/f3450b7350ebfeee7eaf5925727c699041901d59715bf950bf1a83ec60451fac.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_calandra/f3450b7350ebfeee7eaf5925727c699041901d59715bf950bf1a83ec60451fac_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_calandra/fc221307f46555ad42c3b4c336d338dd8ff5eeef5c6da95dccc19efb93e22d0a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alastair Rae",
+        "url": "https://www.flickr.com/people/55663585@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_calandra/fc221307f46555ad42c3b4c336d338dd8ff5eeef5c6da95dccc19efb93e22d0a_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/sturnus_vulgaris/112ba7a784a26a9515bf11e68ece8faa218c3bb43ea935e480293892f8d8b79b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mathias Appel",
+      "url": "https://www.flickr.com/people/91501748@N07"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/sturnus_vulgaris/112ba7a784a26a9515bf11e68ece8faa218c3bb43ea935e480293892f8d8b79b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/28d57f9be177f21f6df376745eb7de43d2cecc5bce77cb4105a88132c493f896.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sturnus_vulgaris/28d57f9be177f21f6df376745eb7de43d2cecc5bce77cb4105a88132c493f896_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/43d9f117a57f4cb0963b92e6d6fe4e0cd378e4fc0503d7d9442e26f276829e8b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sturnus_vulgaris/43d9f117a57f4cb0963b92e6d6fe4e0cd378e4fc0503d7d9442e26f276829e8b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/513f6572ab0f7099e99b9724e79d155f9cd1919f8de574cf08d4858903789927.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Michael Palmer",
+        "url": "https://commons.wikimedia.org/wiki/User:Michael_Palmer"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sturnus_vulgaris/513f6572ab0f7099e99b9724e79d155f9cd1919f8de574cf08d4858903789927_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/5205470a0a51dd67e3ab2c735feac181128c0a11032f872bec64d55f8adac3f3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sturnus_vulgaris/5205470a0a51dd67e3ab2c735feac181128c0a11032f872bec64d55f8adac3f3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/6370e68153be2a71c6e707e587aefc834714f00f4c34bb259b71cb3f8d048fb8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jacob  Spinks",
+        "url": "https://www.flickr.com/people/91677891@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sturnus_vulgaris/6370e68153be2a71c6e707e587aefc834714f00f4c34bb259b71cb3f8d048fb8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/78b306337a1a9aff3683cf930858bfe08a1d396a9fa645451d4226a51d2b8d30.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sturnus_vulgaris/78b306337a1a9aff3683cf930858bfe08a1d396a9fa645451d4226a51d2b8d30_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/bd43acd1fdc8758027bc54eab0e825479e28b56aa6042a298c16223790c10ecd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sturnus_vulgaris/bd43acd1fdc8758027bc54eab0e825479e28b56aa6042a298c16223790c10ecd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/e5c98372af8904c7b6228c7008f966c97344eb8024efa5632f463438a7b2c50c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sturnus_vulgaris/e5c98372af8904c7b6228c7008f966c97344eb8024efa5632f463438a7b2c50c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sturnus_vulgaris/f27ac1bea13d11c192e71c5aedeb30a373dbb9cd9706b70caf3421eee1067528.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sturnus_vulgaris/f27ac1bea13d11c192e71c5aedeb30a373dbb9cd9706b70caf3421eee1067528_thumb.jpg"
+    }
+  ]
+}

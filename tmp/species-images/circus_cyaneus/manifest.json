@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/circus_cyaneus/e257817ffa13a9c297204bec20a850f7de3ab8d5f27c2b6fce57754f3b5b1903.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Isle of Man Government",
+      "url": "https://www.flickr.com/people/36662144@N05"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/circus_cyaneus/e257817ffa13a9c297204bec20a850f7de3ab8d5f27c2b6fce57754f3b5b1903_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/circus_cyaneus/19ac4e4e180776441954afbe6131182927b9cfcae1fe6ed4046cd9ed3db02d54.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_cyaneus/19ac4e4e180776441954afbe6131182927b9cfcae1fe6ed4046cd9ed3db02d54_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_cyaneus/9848a1798e2ab7457c05662ec2305a2aecd337ace896ed2d35adea1e6b176f9f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_cyaneus/9848a1798e2ab7457c05662ec2305a2aecd337ace896ed2d35adea1e6b176f9f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_cyaneus/bc04819e8563570225551df31e03ca3bd86193284b8f5b236b950ef9c6396839.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_cyaneus/bc04819e8563570225551df31e03ca3bd86193284b8f5b236b950ef9c6396839_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/numenius_phaeopus/0310fbc1b0c00bdfd366484779ea4a9bc97cff0cf206426b7cd7bfe4fd7b6d5d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, axelkr on Flickr",
+      "url": "https://www.flickr.com/photos/axelkr/"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/numenius_phaeopus/0310fbc1b0c00bdfd366484779ea4a9bc97cff0cf206426b7cd7bfe4fd7b6d5d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/numenius_phaeopus/007f0b94fe903973bccbc0c798524cc051de1345a0d72545f8b6955662fad9d2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jarl Str\u00f6mbom",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Jarl_Str%C3%B6mbom&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_phaeopus/007f0b94fe903973bccbc0c798524cc051de1345a0d72545f8b6955662fad9d2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_phaeopus/25ceea5acaef16e2011d750310e59946db82a614da03a68d74a8b9901651211b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Shagil Kannur",
+        "url": "https://commons.wikimedia.org/wiki/User:Shagil_Kannur"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_phaeopus/25ceea5acaef16e2011d750310e59946db82a614da03a68d74a8b9901651211b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_phaeopus/45d3dc7e529dfae46a734af07aabe5a74089c23347f6c18b0849237b498fdacc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Phadke09",
+        "url": "https://commons.wikimedia.org/wiki/User:Phadke09"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_phaeopus/45d3dc7e529dfae46a734af07aabe5a74089c23347f6c18b0849237b498fdacc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_phaeopus/494f04afe1fd12c3a574a5e44ef3198ec91146fe334ebe56473b49a89c1c1e38.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ibex73",
+        "url": "https://commons.wikimedia.org/wiki/User:Ibex73"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_phaeopus/494f04afe1fd12c3a574a5e44ef3198ec91146fe334ebe56473b49a89c1c1e38_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_phaeopus/79f01093949e8e794e603dd9ffff9b9fc97b158cb4937d1cef0bb22e0e1085cb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/numenius_phaeopus/79f01093949e8e794e603dd9ffff9b9fc97b158cb4937d1cef0bb22e0e1085cb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_phaeopus/cb7c4d1826ce394a8aeeb21e917af96ec71cbc81656f68e5e035e0386c6ee95b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Shagil Kannur",
+        "url": "https://commons.wikimedia.org/wiki/User:Shagil_Kannur"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_phaeopus/cb7c4d1826ce394a8aeeb21e917af96ec71cbc81656f68e5e035e0386c6ee95b_thumb.jpg"
+    }
+  ]
+}

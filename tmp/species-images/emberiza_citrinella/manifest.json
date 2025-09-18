@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_citrinella/fea272b7635500aae1979eb07e6e98d9e2cd0f772a971688b86921dab57f337e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_citrinella/fea272b7635500aae1979eb07e6e98d9e2cd0f772a971688b86921dab57f337e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_citrinella/0e8cf836e8bef0bed747b29f397fe640c0f1cf88bd8634e4875e87c0fb16aeed.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_citrinella/0e8cf836e8bef0bed747b29f397fe640c0f1cf88bd8634e4875e87c0fb16aeed_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/145b13c6e55e5219fd876687841ff973ce5aa642bf204fd737e05343b83f4206.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_citrinella/145b13c6e55e5219fd876687841ff973ce5aa642bf204fd737e05343b83f4206_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/17f1be7be72aab75fc2f66029e1eefdfd9419be51dda510de09db448ec6835f9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_citrinella/17f1be7be72aab75fc2f66029e1eefdfd9419be51dda510de09db448ec6835f9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/20f2f95a102809717b6e0267528277dbbb977d2ef6f037816c3fbdf18ac9a38a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_citrinella/20f2f95a102809717b6e0267528277dbbb977d2ef6f037816c3fbdf18ac9a38a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/27773126130731946f5acc77db571c07fda9cfbda247d6afc5b79914301bbb04.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_citrinella/27773126130731946f5acc77db571c07fda9cfbda247d6afc5b79914301bbb04_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/a31e9428e88a01bbd31099f83953d2ea90b6075bff71a86f4d5b35f2f5643374.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_citrinella/a31e9428e88a01bbd31099f83953d2ea90b6075bff71a86f4d5b35f2f5643374_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/a402675aee379c14c1d671dee4187756deafdfca72fb20ce9df080f5573aa071.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_citrinella/a402675aee379c14c1d671dee4187756deafdfca72fb20ce9df080f5573aa071_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/dc3c7a8b7863160d29802d4d353bf97d6550921d628b4e33d772327f695147b6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_citrinella/dc3c7a8b7863160d29802d4d353bf97d6550921d628b4e33d772327f695147b6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_citrinella/f07215677764308f7be1c0f72a6556159ad6153547a2f9d91c51d3e79e07bdc1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_citrinella/f07215677764308f7be1c0f72a6556159ad6153547a2f9d91c51d3e79e07bdc1_thumb.jpg"
+    }
+  ]
+}

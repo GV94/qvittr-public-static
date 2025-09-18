@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/buteo_lagopus/12268d2f8bd5425dfd7710514addcba89a36d1a25b858a25ffdc3935bcdc4713.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Rob Hanson",
+      "url": "https://www.flickr.com/photos/7147444@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/buteo_lagopus/12268d2f8bd5425dfd7710514addcba89a36d1a25b858a25ffdc3935bcdc4713_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/buteo_lagopus/4ca05a7c2617ab773659d4c49d24d383dcb0cc775094fe2c862d26c71674c231.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/buteo_lagopus/4ca05a7c2617ab773659d4c49d24d383dcb0cc775094fe2c862d26c71674c231_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/buteo_lagopus/778192fb62cbc301e1672226e97688f4db08c4996cc7b1c3c90c55a96e45961f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/buteo_lagopus/778192fb62cbc301e1672226e97688f4db08c4996cc7b1c3c90c55a96e45961f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/buteo_lagopus/da32a6d39811c653111394a07d907e80ab90df22144485cfa9d860bbc93c5403.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/buteo_lagopus/da32a6d39811c653111394a07d907e80ab90df22144485cfa9d860bbc93c5403_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/buteo_lagopus/e518e60cd0a75cf528ff2281d1a61c1b3c4f3b8dc9f5f505f2fa5b60b88e3641.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/buteo_lagopus/e518e60cd0a75cf528ff2281d1a61c1b3c4f3b8dc9f5f505f2fa5b60b88e3641_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/buteo_lagopus/f9a9d7de11bb02f77e2b2a960cd0a650c4e074e96bbf60a299162fa55fa88769.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/buteo_lagopus/f9a9d7de11bb02f77e2b2a960cd0a650c4e074e96bbf60a299162fa55fa88769_thumb.jpg"
+    }
+  ]
+}

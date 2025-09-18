@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gallinago_delicata/6ed0e4fdb638cd669859801e7d7f49525cfb925abf16ec5faaf5de5cb40bde7c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mdf",
+      "url": "https://commons.wikimedia.org/wiki/User:Mdf"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gallinago_delicata/6ed0e4fdb638cd669859801e7d7f49525cfb925abf16ec5faaf5de5cb40bde7c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gallinago_delicata/0af979b849dc736174ef2c271f0265c8b3302c0edb0c8da5f2984f7b5a7818e8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_delicata/0af979b849dc736174ef2c271f0265c8b3302c0edb0c8da5f2984f7b5a7818e8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_delicata/2ab7d9b0ba1afab84e464bab33c1041c9b90bfabb788b94a480be94a24cffd60.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_delicata/2ab7d9b0ba1afab84e464bab33c1041c9b90bfabb788b94a480be94a24cffd60_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_delicata/92526c069fb40131871dcc30c3df5065a399e271c2bc5595a5ce10e556fc7b2a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_delicata/92526c069fb40131871dcc30c3df5065a399e271c2bc5595a5ce10e556fc7b2a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_delicata/a939d75db2ddbfda3588998f8e5721ff957bde262352755f2d81977312d49775.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_delicata/a939d75db2ddbfda3588998f8e5721ff957bde262352755f2d81977312d49775_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_delicata/ae0c1d29b95ddb2196a094fc4283d07c3301222d7c7b905ef3e71ec5fa9ad4f5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kubichek, W.F./USFWS",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_delicata/ae0c1d29b95ddb2196a094fc4283d07c3301222d7c7b905ef3e71ec5fa9ad4f5_thumb.jpg"
+    }
+  ]
+}

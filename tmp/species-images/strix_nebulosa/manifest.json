@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/strix_nebulosa/52cf6c00f08019f9f3aaf5d53019bb73e3fa435924709e3f0542f17bda37bb5e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Arne List",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/strix_nebulosa/52cf6c00f08019f9f3aaf5d53019bb73e3fa435924709e3f0542f17bda37bb5e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/strix_nebulosa/06afca0c38eb6f94f0132e992234dca2787be92a5faf9151d262bfda85f1250a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u041f\u043e\u043f\u043e\u0432 \u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_nebulosa/06afca0c38eb6f94f0132e992234dca2787be92a5faf9151d262bfda85f1250a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/12302b246465ea604e98cdbf49ae4a45abb489339e73d36d85728abf439bc8ca.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_nebulosa/12302b246465ea604e98cdbf49ae4a45abb489339e73d36d85728abf439bc8ca_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/1f39d2eedfd9380f9a137b09828b477edf5b5e4eb8c2b8b7790952aa08d28715.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bureau of Land Management Oregon and Washington",
+        "url": "https://www.flickr.com/people/50169152@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_nebulosa/1f39d2eedfd9380f9a137b09828b477edf5b5e4eb8c2b8b7790952aa08d28715_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/273c7440d213244909678146fdaa4b67c01dd7bab1dd2a0eff883e90cfb89553.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_nebulosa/273c7440d213244909678146fdaa4b67c01dd7bab1dd2a0eff883e90cfb89553_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/28013063d7d0e14736ca3df520517299bf816b371b013401e91e036c03a00332.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kameron Perensovich",
+        "url": "https://www.flickr.com/people/55620964@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_nebulosa/28013063d7d0e14736ca3df520517299bf816b371b013401e91e036c03a00332_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/5389a8c67ea7c72c0a91fe0def24955b7a0a2f600519fb634f9d83804c70fefd.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_nebulosa/5389a8c67ea7c72c0a91fe0def24955b7a0a2f600519fb634f9d83804c70fefd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/563cecf3f4bf055a3943ce4bf39225d4441dea5c9fb6da7a8919b494a3d51ee8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_nebulosa/563cecf3f4bf055a3943ce4bf39225d4441dea5c9fb6da7a8919b494a3d51ee8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/d47f60f6c2009d96072fe96d4673800919d818bdda1d4695fe6d2436b3f59f27.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, California Department of Fish and Wildlife",
+        "url": "https://www.flickr.com/people/41723647@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_nebulosa/d47f60f6c2009d96072fe96d4673800919d818bdda1d4695fe6d2436b3f59f27_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_nebulosa/f44eb9cbe44fe6ecce5a4ecceb0e7211a43ba3c46f5348c52f774bb1cd2296c8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_nebulosa/f44eb9cbe44fe6ecce5a4ecceb0e7211a43ba3c46f5348c52f774bb1cd2296c8_thumb.jpg"
+    }
+  ]
+}

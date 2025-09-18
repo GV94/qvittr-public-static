@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/carduelis_carduelis/f371efc92d8cfb71c525eb8f18cc39762d492c7d519a9a2f20149bfffc27fa17.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Marek Szczepanek",
+      "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/carduelis_carduelis/f371efc92d8cfb71c525eb8f18cc39762d492c7d519a9a2f20149bfffc27fa17_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/carduelis_carduelis/0a69501ca2ff5d0bd2212beee95af40d06dd304f7fb34308794bc63bdca73241.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/carduelis_carduelis/0a69501ca2ff5d0bd2212beee95af40d06dd304f7fb34308794bc63bdca73241_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/34a258b724847ab9294dc86d0a383bcece0ef097ab0930da89535f04fd796931.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carduelis_carduelis/34a258b724847ab9294dc86d0a383bcece0ef097ab0930da89535f04fd796931_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/43d9b9de0537c2414039ae071f82e077624a0d373240ad175c672fd70a44afbb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/carduelis_carduelis/43d9b9de0537c2414039ae071f82e077624a0d373240ad175c672fd70a44afbb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/6e05287eb71cb138c9be0624b9eaffc46390bfb2a7742fd0a56ff4cd27c946de.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carduelis_carduelis/6e05287eb71cb138c9be0624b9eaffc46390bfb2a7742fd0a56ff4cd27c946de_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/864aff892ce14e32d3dfcf4f37f3aba97f6007fbb4dadf13481e3fb7b4f2850a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/carduelis_carduelis/864aff892ce14e32d3dfcf4f37f3aba97f6007fbb4dadf13481e3fb7b4f2850a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/974efe3af27ff0a72bb3483ca5234a0eab1526ef7f997cf944c157d43209e763.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/carduelis_carduelis/974efe3af27ff0a72bb3483ca5234a0eab1526ef7f997cf944c157d43209e763_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/b03278d108004cc5eb070b834f2081c345627d60e7e4f9d6e2da385210b40c64.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carduelis_carduelis/b03278d108004cc5eb070b834f2081c345627d60e7e4f9d6e2da385210b40c64_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/bdf7906857fa5f463cb6a644393f541ec20ee17f1a88b96e9020279adf8d61b2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carduelis_carduelis/bdf7906857fa5f463cb6a644393f541ec20ee17f1a88b96e9020279adf8d61b2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carduelis_carduelis/fcf8f8b93080d3231433bcd538ddf83631c1ee9f0eafe93b0391e81674639c7c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/carduelis_carduelis/fcf8f8b93080d3231433bcd538ddf83631c1ee9f0eafe93b0391e81674639c7c_thumb.jpg"
+    }
+  ]
+}

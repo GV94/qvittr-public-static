@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/hydroprogne_caspia/53fb517b5c01f83c085425c50be9a07a1bc8094043bb85bb1e7622d70b104b31.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, JJ Harrison",
+      "url": "https://commons.wikimedia.org/wiki/User:JJ_Harrison"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/hydroprogne_caspia/53fb517b5c01f83c085425c50be9a07a1bc8094043bb85bb1e7622d70b104b31_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/hydroprogne_caspia/226de27dc3aaa767f23a77c0608ad46e6f8eb32524ad4a52620e17bf17a00954.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, stevevoght",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydroprogne_caspia/226de27dc3aaa767f23a77c0608ad46e6f8eb32524ad4a52620e17bf17a00954_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hydroprogne_caspia/35405a2dfb7f1230c8db09250aa95c1a624b3863c64fc73e4334fcc59944178e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Sid Mosdell",
+        "url": "https://www.flickr.com/people/22357152@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydroprogne_caspia/35405a2dfb7f1230c8db09250aa95c1a624b3863c64fc73e4334fcc59944178e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hydroprogne_caspia/38107af9fa484ae7027e7320d060f714920f29c7ec5e5486d7a8ade06b99ed0e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydroprogne_caspia/38107af9fa484ae7027e7320d060f714920f29c7ec5e5486d7a8ade06b99ed0e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hydroprogne_caspia/5dc81257d4dd7a45870724ffb1bd9a222c2692359191df9cc65f0e8eaacae106.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles J. Sharp",
+        "url": "https://www.wikidata.org/wiki/Q54800218"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydroprogne_caspia/5dc81257d4dd7a45870724ffb1bd9a222c2692359191df9cc65f0e8eaacae106_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hydroprogne_caspia/c25ae013b6416e772d246cd661f84eb880786dbf070fb65cae97beb119113324.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dick Daniels",
+        "url": "https://commons.wikimedia.org/wiki/User:DickDaniels"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydroprogne_caspia/c25ae013b6416e772d246cd661f84eb880786dbf070fb65cae97beb119113324_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hydroprogne_caspia/e657d8ff3298c7617a1064c75748f072fe2e3da05c6a4d0d3cec829d1144596c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/hydroprogne_caspia/e657d8ff3298c7617a1064c75748f072fe2e3da05c6a4d0d3cec829d1144596c_thumb.jpg"
+    }
+  ]
+}

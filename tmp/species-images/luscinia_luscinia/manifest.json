@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/luscinia_luscinia/8c36aa07c44e585afae11aea3afde28064da57716935e9c94e476b6caf2ed66a.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dion Art",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Dion_Art&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/luscinia_luscinia/8c36aa07c44e585afae11aea3afde28064da57716935e9c94e476b6caf2ed66a_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/luscinia_luscinia/0ced21c6f4f3a18a2b690a39588d3ec4082a0fdcee249d322c6ce6a7859da9b9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_luscinia/0ced21c6f4f3a18a2b690a39588d3ec4082a0fdcee249d322c6ce6a7859da9b9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_luscinia/1289575344e467e42781a488c18400ba543177af5aaff789f39d47cd2f861b54.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_luscinia/1289575344e467e42781a488c18400ba543177af5aaff789f39d47cd2f861b54_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_luscinia/5415a465dd97f18835ee07d8bed682584d6e076b95ab3fb3a1e533a69c6435a7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_luscinia/5415a465dd97f18835ee07d8bed682584d6e076b95ab3fb3a1e533a69c6435a7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_luscinia/6d19326d80b9ded81c0519c600ddb0d2ca9c359f1b330970486953bcdcfb86b8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_luscinia/6d19326d80b9ded81c0519c600ddb0d2ca9c359f1b330970486953bcdcfb86b8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_luscinia/a12a55f228e3af7e83e71a0ce3d620919548417486ab4181559c00f5e76463ca.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_luscinia/a12a55f228e3af7e83e71a0ce3d620919548417486ab4181559c00f5e76463ca_thumb.jpg"
+    }
+  ]
+}

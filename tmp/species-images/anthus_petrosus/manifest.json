@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_petrosus/12cc6773bc9366616e4a293ef7de43ac26c77695153e827ce20a2199c1952e08.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mike Pennington",
+      "url": "https://www.geograph.org.uk/profile/9715"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_petrosus/12cc6773bc9366616e4a293ef7de43ac26c77695153e827ce20a2199c1952e08_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_petrosus/1e1c344adeac38fa2532ddd6d5a3485e9bca6dc3f6ba39bb5a00fd5db9a293a6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, gailhampshire",
+        "url": "https://www.flickr.com/people/43272765@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_petrosus/1e1c344adeac38fa2532ddd6d5a3485e9bca6dc3f6ba39bb5a00fd5db9a293a6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_petrosus/44e67673ac8e17d1bd3945bb6ec39351a3be663266fbce2eedc873edc343407e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_petrosus/44e67673ac8e17d1bd3945bb6ec39351a3be663266fbce2eedc873edc343407e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_petrosus/a809769f2f13163c1213bcf8770318cd8e1b44d12f6d53d118a689a2bb24b8ad.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, gailhampshire",
+        "url": "https://www.flickr.com/people/43272765@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_petrosus/a809769f2f13163c1213bcf8770318cd8e1b44d12f6d53d118a689a2bb24b8ad_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_petrosus/eea23f1fef55472fff599f7802552af19f2f961fb96db73cbf54c0f6757677d7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_petrosus/eea23f1fef55472fff599f7802552af19f2f961fb96db73cbf54c0f6757677d7_thumb.jpg"
+    }
+  ]
+}

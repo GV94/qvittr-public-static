@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/strix_uralensis/ee97c855af79bbf6ce7e721435afea2afc11f884792ea424226e478d1c92704d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Jyrki Salmi",
+      "url": "https://www.flickr.com/people/47089990@N02"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/strix_uralensis/ee97c855af79bbf6ce7e721435afea2afc11f884792ea424226e478d1c92704d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/strix_uralensis/21dfe77c6546c46c37735b9a95ebace4a3089a45fd014df8e2d9923b8c55a33b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_uralensis/21dfe77c6546c46c37735b9a95ebace4a3089a45fd014df8e2d9923b8c55a33b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_uralensis/2dfe78d55b73f154adaf2b3b32170d646da9e3f01912c6084e5e8888c7049225.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ireen Trummer",
+        "url": "https://commons.wikimedia.org/wiki/User:Ireena"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_uralensis/2dfe78d55b73f154adaf2b3b32170d646da9e3f01912c6084e5e8888c7049225_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_uralensis/54d06157bee6a2a1c11c3e1afac01bd4b17d05ad0ae2ad8ccd48ecf61c62ce57.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jens Freitag",
+        "url": "http://www.naturgalerie.com"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_uralensis/54d06157bee6a2a1c11c3e1afac01bd4b17d05ad0ae2ad8ccd48ecf61c62ce57_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_uralensis/61174c794659002c264f0c0a96f3fdfa5cef44fc12581f721f5beec4c104f51e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_uralensis/61174c794659002c264f0c0a96f3fdfa5cef44fc12581f721f5beec4c104f51e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_uralensis/620ecacdf8218bbd9113909f50caefa88eca48d667574836e6ca36eb59fb5528.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zoran Gavrilovi\u0107",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Nikola_Veljkovi%C4%87&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_uralensis/620ecacdf8218bbd9113909f50caefa88eca48d667574836e6ca36eb59fb5528_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_uralensis/7edd235b830c9c45b95e2655bb2ab15a31f82f24e750e961f15628ae95c25865.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_uralensis/7edd235b830c9c45b95e2655bb2ab15a31f82f24e750e961f15628ae95c25865_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_uralensis/cb3068ee0d048b57dcc7e11ffc92ac7a955d1dd4d451ea0c0389fd5290b5baf2.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_uralensis/cb3068ee0d048b57dcc7e11ffc92ac7a955d1dd4d451ea0c0389fd5290b5baf2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_uralensis/e79e8701fe10288e31384897c3eec93dfbd1be0a1b8e0800febe4b2cb4c46081.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_uralensis/e79e8701fe10288e31384897c3eec93dfbd1be0a1b8e0800febe4b2cb4c46081_thumb.jpg"
+    }
+  ]
+}

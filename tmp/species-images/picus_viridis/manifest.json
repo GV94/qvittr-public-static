@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/picus_viridis/c62a4e70e44ed9c148d121af8a95db3c88f70321cf72080a1ef962d16b319428.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, hedera.baltica",
+      "url": "https://www.flickr.com/people/125741467@N05"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/picus_viridis/c62a4e70e44ed9c148d121af8a95db3c88f70321cf72080a1ef962d16b319428_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/picus_viridis/12843a9587e106e343f9b913d95dbe2ac350d83591a581fe65e46e36366473c7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/picus_viridis/12843a9587e106e343f9b913d95dbe2ac350d83591a581fe65e46e36366473c7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/35e596e3ac5057c3773d0dfe2134c828352e6c9864c90ccd084450e311acb001.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_viridis/35e596e3ac5057c3773d0dfe2134c828352e6c9864c90ccd084450e311acb001_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/433cc1fb05789be5d853b55d7597cb58cf51bc4345e47bcba1f9472af2a411ef.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rolf Dietrich Brecher",
+        "url": "https://www.flickr.com/people/104249543@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_viridis/433cc1fb05789be5d853b55d7597cb58cf51bc4345e47bcba1f9472af2a411ef_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/4556306e4d702b39b19a6fd6ecd63700a387a5b07ec6b1c189895f9a356abab0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/picus_viridis/4556306e4d702b39b19a6fd6ecd63700a387a5b07ec6b1c189895f9a356abab0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/69b939219c186ad4dc97f74ce33944f7e1d4a60e1207d34ed5b39e539d8187cb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steinr\u00f6sel",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Steinr%C3%B6sel&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_viridis/69b939219c186ad4dc97f74ce33944f7e1d4a60e1207d34ed5b39e539d8187cb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/70b080566ea39d62f796897ef8a94c646e0779a28ef84d4c0f4d109bd86172e0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/picus_viridis/70b080566ea39d62f796897ef8a94c646e0779a28ef84d4c0f4d109bd86172e0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/9e7910f5693c9cbc09fd1a5a171b5a3f636103a4dc10980b2da242479e539b85.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/picus_viridis/9e7910f5693c9cbc09fd1a5a171b5a3f636103a4dc10980b2da242479e539b85_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/bf3af5eab6b60cae623e00354634682f8969e6b4c7cae90d9b979b6b9d455da8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/picus_viridis/bf3af5eab6b60cae623e00354634682f8969e6b4c7cae90d9b979b6b9d455da8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_viridis/e2880d1fe6ef6bb88f954dada0f6a117542e7a158d599185c97a738786d4f899.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Glyn Baker",
+        "url": "https://www.geograph.org.uk/profile/1601"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_viridis/e2880d1fe6ef6bb88f954dada0f6a117542e7a158d599185c97a738786d4f899_thumb.jpg"
+    }
+  ]
+}

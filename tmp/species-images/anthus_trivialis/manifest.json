@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_trivialis/cc8bf8253a6180e82e5d9a099731b1af7e75843bd522081e2753735da70df3b7.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Vogelartinfo",
+      "url": "https://commons.wikimedia.org/wiki/User:Vogelartinfo"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_trivialis/cc8bf8253a6180e82e5d9a099731b1af7e75843bd522081e2753735da70df3b7_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_trivialis/1a709a4ec776d8f14ccfe50fc45413729d3db853f8b4f0825485fcbb5efa0b56.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, xulescu_g",
+        "url": "https://www.flickr.com/people/59161444@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_trivialis/1a709a4ec776d8f14ccfe50fc45413729d3db853f8b4f0825485fcbb5efa0b56_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_trivialis/25ec09ae3252bf087f7b0672f65accad0b1be55cdb94838de612594b46dbf48a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_trivialis/25ec09ae3252bf087f7b0672f65accad0b1be55cdb94838de612594b46dbf48a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_trivialis/62629748271bdd8b649715b0b48dc1f3f98cee2ff7edaf9bea1fe52e1b12742b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_trivialis/62629748271bdd8b649715b0b48dc1f3f98cee2ff7edaf9bea1fe52e1b12742b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_trivialis/7476cb89bad503e7677aa93abf087f94ed688feb4c58420be12d7de9fe52e783.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_trivialis/7476cb89bad503e7677aa93abf087f94ed688feb4c58420be12d7de9fe52e783_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_trivialis/87ee0abf21b8d2d5f18bd1ab5cd4719b64ac7bedfc3be8fefdaef41e80c2c7c3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anthus_trivialis/87ee0abf21b8d2d5f18bd1ab5cd4719b64ac7bedfc3be8fefdaef41e80c2c7c3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_trivialis/eee37654c26b9eaeed08c30a14deda581f2c306b4e17a1883e99b0368152cb74.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00d3mar Run\u00f3lfsson",
+        "url": "https://www.flickr.com/people/29174969@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_trivialis/eee37654c26b9eaeed08c30a14deda581f2c306b4e17a1883e99b0368152cb74_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_trivialis/f3ae310c9e8a61e2bd02d0c9290bba4d4739178d6f903ed051f3b198786b6e06.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anthus_trivialis/f3ae310c9e8a61e2bd02d0c9290bba4d4739178d6f903ed051f3b198786b6e06_thumb.jpg"
+    }
+  ]
+}

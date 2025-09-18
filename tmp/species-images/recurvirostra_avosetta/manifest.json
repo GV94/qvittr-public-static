@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/recurvirostra_avosetta/2bb34b3c574ebc4d63e73593dcf2965d68c3624a2c98de0b07383b7e0883cf37.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/recurvirostra_avosetta/2bb34b3c574ebc4d63e73593dcf2965d68c3624a2c98de0b07383b7e0883cf37_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/19632e9e9bbc9cc452b003bc1b1570c29f221c94d78265ac1d327f06e5a2e9a2.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/recurvirostra_avosetta/19632e9e9bbc9cc452b003bc1b1570c29f221c94d78265ac1d327f06e5a2e9a2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/7f049c875fe73a9075b61b02ecdca230b3b66c906ca9d8d69ae2735a59e86548.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/recurvirostra_avosetta/7f049c875fe73a9075b61b02ecdca230b3b66c906ca9d8d69ae2735a59e86548_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/ad04bfd632c099784559d5faffae5a458d6cf7af1e0d73ed4b23da7af272b0bf.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/recurvirostra_avosetta/ad04bfd632c099784559d5faffae5a458d6cf7af1e0d73ed4b23da7af272b0bf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/afccbdbda3003b50cdfbe5071ca40a2733cf858e36e2751eca95fb5e9d18b8d1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 0x010C",
+        "url": "https://commons.wikimedia.org/wiki/User:0x010C"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/recurvirostra_avosetta/afccbdbda3003b50cdfbe5071ca40a2733cf858e36e2751eca95fb5e9d18b8d1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/b0f2fa5afd408769174500466e5a67d42e08d98f881cab0671dc6a0634df4e6b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/recurvirostra_avosetta/b0f2fa5afd408769174500466e5a67d42e08d98f881cab0671dc6a0634df4e6b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/cbdb0cf791b80021acd52455952836af825b42876aca499c8aee70a2990a0200.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 0x010C",
+        "url": "https://commons.wikimedia.org/wiki/User:0x010C"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/recurvirostra_avosetta/cbdb0cf791b80021acd52455952836af825b42876aca499c8aee70a2990a0200_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/f6c6c370f2f2500a245f76f7e4a7ec7d9181f49c37b0d2ef1ceda57d7905e78f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 0x010C",
+        "url": "https://commons.wikimedia.org/wiki/User:0x010C"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/recurvirostra_avosetta/f6c6c370f2f2500a245f76f7e4a7ec7d9181f49c37b0d2ef1ceda57d7905e78f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/recurvirostra_avosetta/ff7066d268f8eea85a902f6894586f224b60542ba7f4a8043ae4e643700e2b98.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/recurvirostra_avosetta/ff7066d268f8eea85a902f6894586f224b60542ba7f4a8043ae4e643700e2b98_thumb.jpg"
+    }
+  ]
+}

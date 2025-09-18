@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/podiceps_grisegena/26676df32d25e10550620f233cc41ff4359de938d2794d4bbce6e87de5b518e5.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Martin Olsson (mnemo on en/sv wikipedia and commons, martin@minimum.se).",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/podiceps_grisegena/26676df32d25e10550620f233cc41ff4359de938d2794d4bbce6e87de5b518e5_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/podiceps_grisegena/29a5532401894d0afb0dfe2bfaafa982da9b7aa4eccabca57d99969d549e4093.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, TRinaud",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:TRinaud&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_grisegena/29a5532401894d0afb0dfe2bfaafa982da9b7aa4eccabca57d99969d549e4093_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_grisegena/b8d8a7a2bb0d03ddfb721bc13c908fb271a468bf53779417563ac80d5342a173.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, TRinaud",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:TRinaud&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_grisegena/b8d8a7a2bb0d03ddfb721bc13c908fb271a468bf53779417563ac80d5342a173_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_godlewskii/12012f318323942e1b68d5581b25afbb78fb9cde44fbe36f8c9eca644927c87b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_godlewskii/12012f318323942e1b68d5581b25afbb78fb9cde44fbe36f8c9eca644927c87b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_godlewskii/181170d03af58d02bdef7c8d8199d9de561a1d8836d7f0a5fa5d884d6e60ea81.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Flickr user Stefan Johansson",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_godlewskii/181170d03af58d02bdef7c8d8199d9de561a1d8836d7f0a5fa5d884d6e60ea81_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_godlewskii/2dd071bb3625783a162dcd543304ff3397ec1c277e2374363ab4374891a00dfa.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_godlewskii/2dd071bb3625783a162dcd543304ff3397ec1c277e2374363ab4374891a00dfa_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_godlewskii/4b6197bcf7f6b7d579a124bfccc23cdb7278287e562b179510ac73646e7bea0b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Slaunger",
+        "url": "https://commons.wikimedia.org/wiki/User:Slaunger"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_godlewskii/4b6197bcf7f6b7d579a124bfccc23cdb7278287e562b179510ac73646e7bea0b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_godlewskii/50634c0b9ecde38d9d582324c869ba81ddffe6837d317bbc2268456040ad6541.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_godlewskii/50634c0b9ecde38d9d582324c869ba81ddffe6837d317bbc2268456040ad6541_thumb.jpg"
+    }
+  ]
+}

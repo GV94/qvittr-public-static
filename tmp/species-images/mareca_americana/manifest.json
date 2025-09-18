@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/mareca_americana/a59b8c288c8f55d3f9ef2e5689cab19bbc938105246e84797d20579a99c5d81d.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Davefoc",
+      "url": "https://commons.wikimedia.org/wiki/User:Davefoc"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/mareca_americana/a59b8c288c8f55d3f9ef2e5689cab19bbc938105246e84797d20579a99c5d81d_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/mareca_americana/5a672886cf54cc6dd967e582b7b53c5a55749c5124a6d06968ae6943e31fc293.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Oregon Department of Fish &amp; Wildlife",
+        "url": "https://www.flickr.com/people/39743308@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_americana/5a672886cf54cc6dd967e582b7b53c5a55749c5124a6d06968ae6943e31fc293_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_americana/813c209b55b08c3c19b5df654b2f22ccd3c6c7236935bd3dced3720a8ae93887.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Oregon Department of Fish &amp; Wildlife",
+        "url": "https://www.flickr.com/people/39743308@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_americana/813c209b55b08c3c19b5df654b2f22ccd3c6c7236935bd3dced3720a8ae93887_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_americana/9601b6c856d9af9023498054d58501e25fe99f27418e57d23160d0bceda1a7ba.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Oregon Department of Fish &amp; Wildlife",
+        "url": "https://www.flickr.com/people/39743308@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_americana/9601b6c856d9af9023498054d58501e25fe99f27418e57d23160d0bceda1a7ba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_americana/a00b6a4313c0c889ecdc841b10a370e12a7e0054c00d528bc64848fdac799fe1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_americana/a00b6a4313c0c889ecdc841b10a370e12a7e0054c00d528bc64848fdac799fe1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_americana/fab5ff4ce7851dee444a3325ea4f37ab138d73997736584714ae74542a6bf8a8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_americana/fab5ff4ce7851dee444a3325ea4f37ab138d73997736584714ae74542a6bf8a8_thumb.jpg"
+    }
+  ]
+}

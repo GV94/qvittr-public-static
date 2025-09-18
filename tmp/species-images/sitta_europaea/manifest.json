@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/sitta_europaea/56dad5071c977606e6ff33d2efcf6792028240ecbd53bf74e62d257fc98f01da.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Paethon",
+      "url": "https://commons.wikimedia.org/wiki/User:Paethon"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/sitta_europaea/56dad5071c977606e6ff33d2efcf6792028240ecbd53bf74e62d257fc98f01da_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/sitta_europaea/2b5cc037c2113dd4807a73b1406e6eb0ca7974dc35876df4be8ad2e8f7d857bb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sitta_europaea/2b5cc037c2113dd4807a73b1406e6eb0ca7974dc35876df4be8ad2e8f7d857bb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/3861e073abb217beb14b565a225180402cc56f1a5dca02645cb8938bf7bcac3d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marek Cicho\u0144",
+        "url": "https://commons.wikimedia.org/wiki/User:Nefesz"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sitta_europaea/3861e073abb217beb14b565a225180402cc56f1a5dca02645cb8938bf7bcac3d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/3d4219b26b4bc7f30820447031cd279415f934deb4061964ccfda91d9bf46459.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Georgi.petrov66",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Georgi.petrov66&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sitta_europaea/3d4219b26b4bc7f30820447031cd279415f934deb4061964ccfda91d9bf46459_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/498330522d07787d3bea7d11055a8bd7377b6fa598a920733e8ce44b030af0be.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, m.shattock",
+        "url": "https://www.flickr.com/people/100037639@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sitta_europaea/498330522d07787d3bea7d11055a8bd7377b6fa598a920733e8ce44b030af0be_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/8ce98d8a0dcda99a34d34e5d21a181331d2f655cebec59d1c38fe355fc8cb9dc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sitta_europaea/8ce98d8a0dcda99a34d34e5d21a181331d2f655cebec59d1c38fe355fc8cb9dc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/ae7f2f83a76105bc88412537ff6d4ab2eb98f29c8a1176091c558b3f49ce637a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sitta_europaea/ae7f2f83a76105bc88412537ff6d4ab2eb98f29c8a1176091c558b3f49ce637a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/aee4c667d1484bb5511416aaa7b95e90ec7aff2a1af534fdc4f26247be4f8592.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sitta_europaea/aee4c667d1484bb5511416aaa7b95e90ec7aff2a1af534fdc4f26247be4f8592_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/bd62320f93b912f889c2f8cc13aa4344e185a7e20d6999b128b7cae78d2a826b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sitta_europaea/bd62320f93b912f889c2f8cc13aa4344e185a7e20d6999b128b7cae78d2a826b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sitta_europaea/bdd576f87b2023b5c2ce55d6f6688b0a6ea0ef102e86539af9ca4949d8749744.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Yurij Garmash",
+        "url": "https://www.flickr.com/people/41804246@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sitta_europaea/bdd576f87b2023b5c2ce55d6f6688b0a6ea0ef102e86539af9ca4949d8749744_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/columba_oenas/f08192c30b6d07c0019b15f58105504a0a5c845f754130263fd4e812d791d8a9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Chris Cant",
+      "url": "https://www.flickr.com/people/81624096@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/columba_oenas/f08192c30b6d07c0019b15f58105504a0a5c845f754130263fd4e812d791d8a9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/columba_oenas/1fa969a7609a773828816f3bafc46e28f1b9e566c08c6dd84f3cb1b6c88f2ad5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/columba_oenas/1fa969a7609a773828816f3bafc46e28f1b9e566c08c6dd84f3cb1b6c88f2ad5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/columba_oenas/966647f8511b064790d466443415d128651c47d25589887fe853671610cea113.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/columba_oenas/966647f8511b064790d466443415d128651c47d25589887fe853671610cea113_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/columba_oenas/c88478727a2819c7b4bf6180f399577acea9a071f56bb917daa52ca0de7d5972.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/columba_oenas/c88478727a2819c7b4bf6180f399577acea9a071f56bb917daa52ca0de7d5972_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/columba_oenas/fffb07b53e50ccaf387da3036cacdd3e1fdedc8d7205a6b8b11c373c433b2343.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/columba_oenas/fffb07b53e50ccaf387da3036cacdd3e1fdedc8d7205a6b8b11c373c433b2343_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/iduna_caligata/bc3a80566417106fa60e14f5aff7db9523146cd4487dbc02f45fc4fd4e2f14ec.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/iduna_caligata/bc3a80566417106fa60e14f5aff7db9523146cd4487dbc02f45fc4fd4e2f14ec_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/iduna_caligata/42859099add8e31c12d1261a9c0b2f1e410dbd2b4f4f3240229c7602644af3c7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari K  Patibanda",
+        "url": "https://www.flickr.com/people/34176693@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/iduna_caligata/42859099add8e31c12d1261a9c0b2f1e410dbd2b4f4f3240229c7602644af3c7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/iduna_caligata/6c7bbf71bfa9e0ccacc96054cafaf0420399aacb88c6d4e82b0bcda6da3a88ce.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari K  Patibanda",
+        "url": "https://www.flickr.com/people/34176693@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/iduna_caligata/6c7bbf71bfa9e0ccacc96054cafaf0420399aacb88c6d4e82b0bcda6da3a88ce_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/iduna_caligata/6d2615101c7853266b9d4df08f5f1db28ddaf10ac921ece3c71512f76b7e95b5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari K  Patibanda",
+        "url": "https://www.flickr.com/people/34176693@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/iduna_caligata/6d2615101c7853266b9d4df08f5f1db28ddaf10ac921ece3c71512f76b7e95b5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/iduna_caligata/c88d7637b9aee3cf3b66d1800e4f8a90fa0582908ebcf66dcaddd4565ac590c9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Manojk",
+        "url": "https://commons.wikimedia.org/wiki/User:Manojk"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/iduna_caligata/c88d7637b9aee3cf3b66d1800e4f8a90fa0582908ebcf66dcaddd4565ac590c9_thumb.jpg"
+    }
+  ]
+}

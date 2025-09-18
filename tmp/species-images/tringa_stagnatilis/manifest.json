@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tringa_stagnatilis/01d1d0ba6d1427fff8a4f074f72a0697fe039a09fa5a20c20bd8c8686faa1473.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, JJ Harrison",
+      "url": "https://commons.wikimedia.org/wiki/User:JJ_Harrison"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tringa_stagnatilis/01d1d0ba6d1427fff8a4f074f72a0697fe039a09fa5a20c20bd8c8686faa1473_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/1388b177759e55230212d8acdc327e49e8aa184afb317ea9de95dc92c6af3b7f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_stagnatilis/1388b177759e55230212d8acdc327e49e8aa184afb317ea9de95dc92c6af3b7f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/18ac8b21bcc47c8478dcd63bd7a737f6fc2287b09a708bd9a4f202f5a21e20fb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_stagnatilis/18ac8b21bcc47c8478dcd63bd7a737f6fc2287b09a708bd9a4f202f5a21e20fb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/49750bc6728afe1f5c3d0aa21c814202eb740e1c41385a68006e647d4b296d9e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_stagnatilis/49750bc6728afe1f5c3d0aa21c814202eb740e1c41385a68006e647d4b296d9e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/6c7d57bcc537591617d3434df9dc4d0a84941c80654203121bf1ff0f889040a3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_stagnatilis/6c7d57bcc537591617d3434df9dc4d0a84941c80654203121bf1ff0f889040a3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/96a5720f74b19c171e7db95ba53a0c374702176c0414186f09bac07b032350fb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Norelius",
+        "url": "https://www.flickr.com/people/96457262@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_stagnatilis/96a5720f74b19c171e7db95ba53a0c374702176c0414186f09bac07b032350fb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/9e4fcd09825049a7f4cd4f14f2c7a7ff7c001175699452e5d6db03230ec7750a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_stagnatilis/9e4fcd09825049a7f4cd4f14f2c7a7ff7c001175699452e5d6db03230ec7750a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/a54cbee5bcad547a15836c6029d1c9dc906b121fdfe3b35a59df893e4e2609d8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_stagnatilis/a54cbee5bcad547a15836c6029d1c9dc906b121fdfe3b35a59df893e4e2609d8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_stagnatilis/ad2c4b0b92fe7e29b798e53e1d3362445f544a0acde309a73c97779765303f62.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_stagnatilis/ad2c4b0b92fe7e29b798e53e1d3362445f544a0acde309a73c97779765303f62_thumb.jpg"
+    }
+  ]
+}

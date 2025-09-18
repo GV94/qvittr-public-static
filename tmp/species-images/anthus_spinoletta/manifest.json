@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_spinoletta/4edf3e6004dcfc01fbd1321d95e5f21ee635e1c712d555a00b80dd89c40bac74.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_spinoletta/4edf3e6004dcfc01fbd1321d95e5f21ee635e1c712d555a00b80dd89c40bac74_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_spinoletta/28b92f49c1ff6400f0f793c676bd5b6aecdbe666c1dce98a82869c64424d54b0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, xulescu_g",
+        "url": "https://www.flickr.com/people/59161444@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_spinoletta/28b92f49c1ff6400f0f793c676bd5b6aecdbe666c1dce98a82869c64424d54b0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_spinoletta/45b46ef7c65533f9325a00fbb486a6383611e9a4d58c2a1d89252031a437e390.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, xulescu_g",
+        "url": "https://www.flickr.com/people/59161444@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_spinoletta/45b46ef7c65533f9325a00fbb486a6383611e9a4d58c2a1d89252031a437e390_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_spinoletta/5fddb6411bb57437081accfbbf1e826ed4472340afd2e7c6c59258e594eb0dd2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_spinoletta/5fddb6411bb57437081accfbbf1e826ed4472340afd2e7c6c59258e594eb0dd2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_spinoletta/e55b5c6dba575efab9b5ae5df8a1fe58a16692937dad7f9f2a00d69f7b8b2b86.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_spinoletta/e55b5c6dba575efab9b5ae5df8a1fe58a16692937dad7f9f2a00d69f7b8b2b86_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_spinoletta/e62c6cb79ff0fae207e32310bd608f166936fb73470684c76a14903288777523.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, xulescu_g",
+        "url": "https://www.flickr.com/people/59161444@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_spinoletta/e62c6cb79ff0fae207e32310bd608f166936fb73470684c76a14903288777523_thumb.jpg"
+    }
+  ]
+}

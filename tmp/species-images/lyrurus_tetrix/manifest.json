@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/lyrurus_tetrix/7b1f9247cde2baba99d12a8359824e9b9819f4e72dcc7cbb0ca68d4ed045c62b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Spjutkastare",
+      "url": "https://commons.wikimedia.org/wiki/User:Spjutkastare"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/lyrurus_tetrix/7b1f9247cde2baba99d12a8359824e9b9819f4e72dcc7cbb0ca68d4ed045c62b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/lyrurus_tetrix/79ebf399ef94d24cc81a5994aefb963ddc42ac686f077a1e91413b209cbc772a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Carlo Maria Pensa",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lyrurus_tetrix/79ebf399ef94d24cc81a5994aefb963ddc42ac686f077a1e91413b209cbc772a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lyrurus_tetrix/dfb26ac2a13c03c789b99c26d87bde011a421e246b13b4fdfb6d94871d6c1902.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Vnp",
+        "url": "https://en.wikipedia.org/wiki/de:User:Vnp"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lyrurus_tetrix/dfb26ac2a13c03c789b99c26d87bde011a421e246b13b4fdfb6d94871d6c1902_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lyrurus_tetrix/f9c2b3b117399fce647dd2cc01d0b084c72c2afe5c2190345154b8795a478b90.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Carlo Maria Pensa",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lyrurus_tetrix/f9c2b3b117399fce647dd2cc01d0b084c72c2afe5c2190345154b8795a478b90_thumb.jpg"
+    }
+  ]
+}

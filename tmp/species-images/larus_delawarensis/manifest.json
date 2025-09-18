@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/larus_delawarensis/3d22130183b6b172b9784c214e7b734015d5adf476df5f211ca00b6cc19f8248.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/larus_delawarensis/3d22130183b6b172b9784c214e7b734015d5adf476df5f211ca00b6cc19f8248_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/larus_delawarensis/038f4e5a5943d721fd06522cbe948cd6ff6ddfbfb2b1b435b5bc59db6d743cc1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/larus_delawarensis/038f4e5a5943d721fd06522cbe948cd6ff6ddfbfb2b1b435b5bc59db6d743cc1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_delawarensis/087fa72e6f834356b0fe9f2d1876c07c1aa6866e9c8b4ccd9d4888ce1417f197.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Tim Ross",
+        "url": "https://commons.wikimedia.org/wiki/User:Tim_Ross"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_delawarensis/087fa72e6f834356b0fe9f2d1876c07c1aa6866e9c8b4ccd9d4888ce1417f197_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_delawarensis/4976854902f67ce87cacfb3c53d06d079d6e0e2027d50617374775ccc81e34a3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 0x010C",
+        "url": "https://commons.wikimedia.org/wiki/User:0x010C"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_delawarensis/4976854902f67ce87cacfb3c53d06d079d6e0e2027d50617374775ccc81e34a3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_delawarensis/53742495703cb0e5870bce7eb09f57279f927b4eff174702d3d3fad5b3ab1256.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 0x010C",
+        "url": "https://commons.wikimedia.org/wiki/User:0x010C"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_delawarensis/53742495703cb0e5870bce7eb09f57279f927b4eff174702d3d3fad5b3ab1256_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_delawarensis/ae886450ea4d672d8b39dfd3d434ff824414c10799453193833de565570a5396.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 0x010C",
+        "url": "https://commons.wikimedia.org/wiki/User:0x010C"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_delawarensis/ae886450ea4d672d8b39dfd3d434ff824414c10799453193833de565570a5396_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_delawarensis/d6de55abe4de5ca8a42b9b8ebc2981293f45983904bc056bea924c499cba2405.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Joao Carlos Medau",
+        "url": "https://www.flickr.com/people/26657772@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_delawarensis/d6de55abe4de5ca8a42b9b8ebc2981293f45983904bc056bea924c499cba2405_thumb.jpg"
+    }
+  ]
+}

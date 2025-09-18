@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/ficedula_albicollis/c6a747f20d30043263201ad1f7b436b3dfbba2fff098600be226db32fd7b4eda.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, https://www.flickr.com/photos/andrej_chudy",
+      "url": "https://www.flickr.com/photos/andrej_chudy"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/ficedula_albicollis/c6a747f20d30043263201ad1f7b436b3dfbba2fff098600be226db32fd7b4eda_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/ficedula_albicollis/7a6d74bc782532e128c9df4c8e6ace05e5863f7d754fa539c7dfbdd35fed5659.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Morffew",
+        "url": "https://www.flickr.com/people/66020093@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_albicollis/7a6d74bc782532e128c9df4c8e6ace05e5863f7d754fa539c7dfbdd35fed5659_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_albicollis/7e929e2e5015a3d07d7112aec6800c8a2b6806b470348bdcfaaf356f50ee580c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_albicollis/7e929e2e5015a3d07d7112aec6800c8a2b6806b470348bdcfaaf356f50ee580c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_albicollis/896ccee88437f785ead75d1e69fb2951ab2b31da04482c5d20607542cafdc1ee.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, hedera.baltica",
+        "url": "https://www.flickr.com/people/125741467@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_albicollis/896ccee88437f785ead75d1e69fb2951ab2b31da04482c5d20607542cafdc1ee_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_albicollis/8d7589779603edb0b712e9cc233ad7c02f258f048a75c8e0768daccf43564ee3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_albicollis/8d7589779603edb0b712e9cc233ad7c02f258f048a75c8e0768daccf43564ee3_thumb.jpg"
+    }
+  ]
+}

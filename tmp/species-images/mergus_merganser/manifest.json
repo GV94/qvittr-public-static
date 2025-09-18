@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/mergus_merganser/5f3a17ee6ffff10293e039241a1ba55c9203ccc0850af3867f01de7a2a7d05c2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Bengt Nyman",
+      "url": "https://www.flickr.com/people/97469566@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/mergus_merganser/5f3a17ee6ffff10293e039241a1ba55c9203ccc0850af3867f01de7a2a7d05c2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/mergus_merganser/015939c3064781f08894faca86eae6b614df663a6095fa6c4df6c720424f02cc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, TRinaud",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:TRinaud&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_merganser/015939c3064781f08894faca86eae6b614df663a6095fa6c4df6c720424f02cc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_merganser/12625f8c2ab6afc1265c6dad75412727c565930ced608c85b2e7b0769f7fb869.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mergus_merganser/12625f8c2ab6afc1265c6dad75412727c565930ced608c85b2e7b0769f7fb869_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_merganser/809fa8c200adb1c9f4e94457eb0b44477c205ecbf7c93955a1a6353cd0b9f7e2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, TRinaud",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:TRinaud&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_merganser/809fa8c200adb1c9f4e94457eb0b44477c205ecbf7c93955a1a6353cd0b9f7e2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_merganser/a648dddcc944b71a0305593394b9245ac38c8c46a7dbb04a46fba25cb964befa.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hobbyfotowiki",
+        "url": "https://commons.wikimedia.org/wiki/User:Hobbyfotowiki"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergus_merganser/a648dddcc944b71a0305593394b9245ac38c8c46a7dbb04a46fba25cb964befa_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_merganser/a9b5df66dd9b3eefae04fabaf5451a85646ec726560760ed496b367d78d16550.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mergus_merganser/a9b5df66dd9b3eefae04fabaf5451a85646ec726560760ed496b367d78d16550_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_merganser/d5ce2f1a3daa65778e3f1f6fd87f96bb2bf79f00df18aa1f9ec8c16ad1bdfb85.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mergus_merganser/d5ce2f1a3daa65778e3f1f6fd87f96bb2bf79f00df18aa1f9ec8c16ad1bdfb85_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_merganser/e32845f0da722ed59710cce2d7349a81f7783d7a55d27ec2568442c865d87d0f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mergus_merganser/e32845f0da722ed59710cce2d7349a81f7783d7a55d27ec2568442c865d87d0f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergus_merganser/f1d420eceea2d381ee5365e15ce44d8e297acbe798e1e8cb24ff0e08498ac760.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mergus_merganser/f1d420eceea2d381ee5365e15ce44d8e297acbe798e1e8cb24ff0e08498ac760_thumb.jpg"
+    }
+  ]
+}

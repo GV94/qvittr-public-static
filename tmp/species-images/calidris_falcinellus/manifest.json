@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_falcinellus/814ead9e114cf1018d9b0c629901c3a43376e7f6064aaff3acfab22818b8aab7.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Tokumi",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_falcinellus/814ead9e114cf1018d9b0c629901c3a43376e7f6064aaff3acfab22818b8aab7_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_falcinellus/4fd10e081ba3dae489dfeb203a832aa910f5dcd67e2e4134bd6118b3421b9858.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_falcinellus/4fd10e081ba3dae489dfeb203a832aa910f5dcd67e2e4134bd6118b3421b9858_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_falcinellus/52d0a4f815ef1fc85e13386facbd947b4f5b3a8b6504cfd155614611c23dda09.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Sreedev Puthur",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Sreedev_Puthur&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_falcinellus/52d0a4f815ef1fc85e13386facbd947b4f5b3a8b6504cfd155614611c23dda09_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_falcinellus/5afb21ea4f722dbcf148ddfc10345c8efd7bbb1588d429d2ab3d53081a633ac2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_falcinellus/5afb21ea4f722dbcf148ddfc10345c8efd7bbb1588d429d2ab3d53081a633ac2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_falcinellus/8bdcc9cda4e0cad9cd3539dc692f0d82c7919031ab9f01bae812c2a825299926.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_falcinellus/8bdcc9cda4e0cad9cd3539dc692f0d82c7919031ab9f01bae812c2a825299926_thumb.jpg"
+    }
+  ]
+}

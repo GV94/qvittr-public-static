@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/larus_marinus/039a6625bff5452fdea9fb7142d7b6be46706b3e41bb40f30fcd7fec5bd66ae6.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/larus_marinus/039a6625bff5452fdea9fb7142d7b6be46706b3e41bb40f30fcd7fec5bd66ae6_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/larus_marinus/64b17dea6bad5c9a843ef2c9e1f43633083cd4f6ae2b78beaa6a75998228fae7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Vitor Oliveira",
+        "url": "https://www.flickr.com/people/21446942@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_marinus/64b17dea6bad5c9a843ef2c9e1f43633083cd4f6ae2b78beaa6a75998228fae7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_marinus/6ef82e77d14a05745e77a75630ac300c0260a618a82a9868a80be23e17b7c16b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0415\u0433\u043e\u0440 \u0416\u0443\u0440\u0430\u0432\u043b\u0451\u0432",
+        "url": "https://www.flickr.com/people/142171772@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_marinus/6ef82e77d14a05745e77a75630ac300c0260a618a82a9868a80be23e17b7c16b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_marinus/e632cb70554f3e21c162364e7f82a5706b4af0f4fed4bc54780985bcad319419.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, DreamingKoala",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:DreamingKoala&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_marinus/e632cb70554f3e21c162364e7f82a5706b4af0f4fed4bc54780985bcad319419_thumb.jpg"
+    }
+  ]
+}

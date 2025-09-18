@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_schoeniclus/9829a1c4eaf66ef112e068d5f599feebaf9f582f00f973b1aa665910a444fcbd.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Vogelartinfo",
+      "url": "https://commons.wikimedia.org/wiki/User:Vogelartinfo"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_schoeniclus/9829a1c4eaf66ef112e068d5f599feebaf9f582f00f973b1aa665910a444fcbd_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_schoeniclus/43c19a6f178b2ab4d1e9c049cb7e8a76ee922470ebdb3df8a7d07e92ba3255f6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MilanIlic553",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:MilanIlic553&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_schoeniclus/43c19a6f178b2ab4d1e9c049cb7e8a76ee922470ebdb3df8a7d07e92ba3255f6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_schoeniclus/9f416c821966e56827bdd38fdaee1c8aac5a754216a993169e47f3f5138750fa.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MilanIlic553",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:MilanIlic553&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_schoeniclus/9f416c821966e56827bdd38fdaee1c8aac5a754216a993169e47f3f5138750fa_thumb.jpg"
+    }
+  ]
+}

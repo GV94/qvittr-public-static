@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/melanitta_nigra/1a316bc40ed996eb18a92a05cd402d96d26da4786581bafce06b4f2ffdea05e2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Jason Thompson",
+      "url": "https://www.flickr.com/people/79492850@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/melanitta_nigra/1a316bc40ed996eb18a92a05cd402d96d26da4786581bafce06b4f2ffdea05e2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/melanitta_nigra/4185bf4cb897490a5c22e96a490fc25dff10ef1de98ae2897e1a2b38fbd1934e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_nigra/4185bf4cb897490a5c22e96a490fc25dff10ef1de98ae2897e1a2b38fbd1934e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_nigra/eeb34656d64193f7c91a8268b5a66b89484a17a806e15444845c28334b5ae5b2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_nigra/eeb34656d64193f7c91a8268b5a66b89484a17a806e15444845c28334b5ae5b2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_nigra/f2d432f83aa029339340b5e56833e35434172a98565649e03dbf69cf5f3871ae.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Common Scoter Melanitta nigra, Hrafns\u00f6nd, Iceland.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:Common_Scoter_Melanitta_nigra,_Hrafns%C3%B6nd,_Iceland.jpg"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_nigra/f2d432f83aa029339340b5e56833e35434172a98565649e03dbf69cf5f3871ae_thumb.jpg"
+    }
+  ]
+}

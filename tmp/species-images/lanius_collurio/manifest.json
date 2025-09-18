@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/lanius_collurio/5dc4b72eecb706b11ad614be76cb42a3b8c1601dc0691313dc283b2f0040794d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Juan lacruz",
+      "url": "https://commons.wikimedia.org/wiki/User:Juan_lacruz"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/lanius_collurio/5dc4b72eecb706b11ad614be76cb42a3b8c1601dc0691313dc283b2f0040794d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/lanius_collurio/21e7501967e653925ba74737383204459d08a82be655b0e5257cda3514dedece.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lanius_collurio/21e7501967e653925ba74737383204459d08a82be655b0e5257cda3514dedece_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/2a7ff1cdf1361806c359abc02ee98b8b61476cf398ae0e19accf84c24f13c30c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lanius_collurio/2a7ff1cdf1361806c359abc02ee98b8b61476cf398ae0e19accf84c24f13c30c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/35c3d10a0d07a015cb55bbd68c75eaf37a89019096de1a8c497b0274b8405c8c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lanius_collurio/35c3d10a0d07a015cb55bbd68c75eaf37a89019096de1a8c497b0274b8405c8c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/b525b8ed7a7f67bd20338eaaa1426dfb555967552fc07e548771cfe475b9203b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lanius_collurio/b525b8ed7a7f67bd20338eaaa1426dfb555967552fc07e548771cfe475b9203b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/b5cf337fdc935be7d90317be55c3daf530e5216926dd5422a9529cf696c67a3d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rosa-Maria Rinkl",
+        "url": "https://commons.wikimedia.org/wiki/User:Rosa-Maria_Rinkl"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_collurio/b5cf337fdc935be7d90317be55c3daf530e5216926dd5422a9529cf696c67a3d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/bf06c97f8a4de9cdc4d74b3475c0d2e18f1bd9d932201c8301a71915ec2eee72.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Pennington",
+        "url": "https://www.geograph.org.uk/profile/9715"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_collurio/bf06c97f8a4de9cdc4d74b3475c0d2e18f1bd9d932201c8301a71915ec2eee72_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/dbdd1955808734ff82d9299d0dda6d892cefabf4d3061f77b969e5e724c4bed0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lanius_collurio/dbdd1955808734ff82d9299d0dda6d892cefabf4d3061f77b969e5e724c4bed0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/e0667c58ab3836fa451de8500256809adf6bceb70485bf6a6f0bbd1efbefac2c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Muelder",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Muelder&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_collurio/e0667c58ab3836fa451de8500256809adf6bceb70485bf6a6f0bbd1efbefac2c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_collurio/eecf9a403d497ed31aa81538fce43f94560e9718411bd6b536162aa6cebb963b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pierre-Marie Epiney",
+        "url": "https://www.flickr.com/people/83657186@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_collurio/eecf9a403d497ed31aa81538fce43f94560e9718411bd6b536162aa6cebb963b_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_canagicus/64172414456ebe5d6909500e79395540de64ee01e12f4f0349a7e465d22c56a4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, U.S. Fish and Wildlife Service Headquarters",
+      "url": "https://www.flickr.com/people/50838842@N06"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_canagicus/64172414456ebe5d6909500e79395540de64ee01e12f4f0349a7e465d22c56a4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_canagicus/129089fa8a4d9db59d9380c3b26130458659c9d8331155c76672f23ce5de8cdf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, user:Factumquintus",
+        "url": "https://commons.wikimedia.org/wiki/User:Factumquintus"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_canagicus/129089fa8a4d9db59d9380c3b26130458659c9d8331155c76672f23ce5de8cdf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_canagicus/b8ddfd23a9557daf9f2d0d2857264de06cd4214d457188a52b8f905ca0edb732.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Boylan",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_canagicus/b8ddfd23a9557daf9f2d0d2857264de06cd4214d457188a52b8f905ca0edb732_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_canagicus/d4773d60e15825148094b60aefd1620109f4a24e5fc941f42ff4280b54944359.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Boylan",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_canagicus/d4773d60e15825148094b60aefd1620109f4a24e5fc941f42ff4280b54944359_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_canagicus/fb4ba9f345ab8ce360e165ba37675b2be8aa932875a7a147584514700b6797c9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, D. Dewhurst",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_canagicus/fb4ba9f345ab8ce360e165ba37675b2be8aa932875a7a147584514700b6797c9_thumb.jpg"
+    }
+  ]
+}

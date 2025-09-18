@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/coloeus_monedula/7f58bc4ad3e649633fe4a43b0be320e487aaa430c46006f7add17a2c20dea506.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dion Art",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Dion_Art&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/coloeus_monedula/7f58bc4ad3e649633fe4a43b0be320e487aaa430c46006f7add17a2c20dea506_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/coloeus_monedula/00c6f1012d0e28108605d47389b968dff1c92dbdc8dddd17289a9dae36aa9de7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coloeus_monedula/00c6f1012d0e28108605d47389b968dff1c92dbdc8dddd17289a9dae36aa9de7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/30a45b02b2198cfc2e49f3aeb6f9cb97b18bb5f7d6187a4c1686f45a3ffe5eb8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/coloeus_monedula/30a45b02b2198cfc2e49f3aeb6f9cb97b18bb5f7d6187a4c1686f45a3ffe5eb8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/33a0b70cfd2077d806a27eac109e6f4e9eacb58e8346c45415e8075b59275441.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, olavk",
+        "url": "https://www.flickr.com/people/33888403@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coloeus_monedula/33a0b70cfd2077d806a27eac109e6f4e9eacb58e8346c45415e8075b59275441_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/4a06a478b1e05db1289f22e4d7852f0eaa3ded38c0765cd27515958b427d9c48.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/coloeus_monedula/4a06a478b1e05db1289f22e4d7852f0eaa3ded38c0765cd27515958b427d9c48_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/5d8fce22987c94a4357ec996ee959b06341f3f103f69aee56f1a8b8e39aaa65d.jpeg",
+      "attribution": {
+        "label": "Wikimedia Commons, Grzegorz Chrupa\u0142a",
+        "url": "https://500px.com/gchrupala"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coloeus_monedula/5d8fce22987c94a4357ec996ee959b06341f3f103f69aee56f1a8b8e39aaa65d_thumb.jpeg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/68a07f5488529390b3c85c3c84d5b0e6a51d05aba03f7dd02adfddb9f8a8de17.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Miguel Discart",
+        "url": "https://www.flickr.com/people/151639852@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coloeus_monedula/68a07f5488529390b3c85c3c84d5b0e6a51d05aba03f7dd02adfddb9f8a8de17_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/a8e849c1200ef154c0ec54b7661ce4918d56c6252e7399bb1d618b0a4a9723ab.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coloeus_monedula/a8e849c1200ef154c0ec54b7661ce4918d56c6252e7399bb1d618b0a4a9723ab_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/c2c5ce6335d4f0154194439374114057a953b540d890069dab8bfd20909aea36.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/coloeus_monedula/c2c5ce6335d4f0154194439374114057a953b540d890069dab8bfd20909aea36_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coloeus_monedula/e53eed50a4e02443c3349655b775afff3c7255393bc710ae7690e8d1b7596418.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/coloeus_monedula/e53eed50a4e02443c3349655b775afff3c7255393bc710ae7690e8d1b7596418_thumb.jpg"
+    }
+  ]
+}

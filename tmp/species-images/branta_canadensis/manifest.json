@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/branta_canadensis/3d44b84f3129f54867b208a6de6681828e539513d48e2ff402d349ea0b740258.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Karrackoo",
+      "url": "https://de.wikipedia.org/wiki/benutzer:karrackoo"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/branta_canadensis/3d44b84f3129f54867b208a6de6681828e539513d48e2ff402d349ea0b740258_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/branta_canadensis/0d688037fb7e320cff299924ee7eb83de1bac60c48a9b3a9480498c7a6eac16c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_canadensis/0d688037fb7e320cff299924ee7eb83de1bac60c48a9b3a9480498c7a6eac16c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/3a57b30507a1007809fdd1eaf3e4407d29f4d969c42a97bf9011190a281abda8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mountain Cat Images",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Mountain_Cat_Images&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_canadensis/3a57b30507a1007809fdd1eaf3e4407d29f4d969c42a97bf9011190a281abda8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/4d64e0bc5765a1201d59f1ee8ceaf9bfd95f9ddac4b6ba1a5f297a6157d10bfb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Judy Gallagher",
+        "url": "https://www.flickr.com/people/52450054@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_canadensis/4d64e0bc5765a1201d59f1ee8ceaf9bfd95f9ddac4b6ba1a5f297a6157d10bfb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/500eee56b26be744afd6b225dee22753fb6ee0545cd2bf3521f5aa2947019d20.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_canadensis/500eee56b26be744afd6b225dee22753fb6ee0545cd2bf3521f5aa2947019d20_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/73bb47bcf3f819a089b0b5453826a41c388454acbeca571b2190b53d332e3edf.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_canadensis/73bb47bcf3f819a089b0b5453826a41c388454acbeca571b2190b53d332e3edf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/9d05d15c4ce22fb24035272fdca744e0bd7b5c0c20b7b705609d95e0c1ea9ab9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Paul Danese",
+        "url": "https://commons.wikimedia.org/wiki/User:Pdanese"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_canadensis/9d05d15c4ce22fb24035272fdca744e0bd7b5c0c20b7b705609d95e0c1ea9ab9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/a9a0255eb36b7e6cc09223d5cd45041778a685370a3a3fc79050f4ce8d145280.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Paul Danese",
+        "url": "https://commons.wikimedia.org/wiki/User:Pdanese"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_canadensis/a9a0255eb36b7e6cc09223d5cd45041778a685370a3a3fc79050f4ce8d145280_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/c68890adc8494b0dd38621f86bc8ef7e961b35af10ece73bcc8139954b78546b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Paul Danese",
+        "url": "https://commons.wikimedia.org/wiki/User:Pdanese"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_canadensis/c68890adc8494b0dd38621f86bc8ef7e961b35af10ece73bcc8139954b78546b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_canadensis/fc656c5969df91f49816bf7ddfa6035c328c4ca59d8d61ff5a7a1a520745d4cc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_canadensis/fc656c5969df91f49816bf7ddfa6035c328c4ca59d8d61ff5a7a1a520745d4cc_thumb.jpg"
+    }
+  ]
+}

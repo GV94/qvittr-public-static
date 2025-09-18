@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/larus_glaucoides/8516fb6b7165099d2e23d1b1b452fe012a16cc1ace5e4541eea4b17688db23c2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, gailhampshire",
+      "url": "https://www.flickr.com/people/43272765@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/larus_glaucoides/8516fb6b7165099d2e23d1b1b452fe012a16cc1ace5e4541eea4b17688db23c2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/larus_glaucoides/1143fe07d78b07b1885975d88e01b98771cdf9d58c48a6544a6ad985897916d0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_glaucoides/1143fe07d78b07b1885975d88e01b98771cdf9d58c48a6544a6ad985897916d0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_glaucoides/1a52b4655fc2f19b8295dc3b5d2865e6eef095641a1aae64af73acb6061156c3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_glaucoides/1a52b4655fc2f19b8295dc3b5d2865e6eef095641a1aae64af73acb6061156c3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_glaucoides/495caaffb92bd7321307568c0226212906791f68a4c0eb490d41cab376868444.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_glaucoides/495caaffb92bd7321307568c0226212906791f68a4c0eb490d41cab376868444_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_glaucoides/4d66d373d68673cf3e2cd17283a82684f8ce7c3c7df53bf35915b1bf1b0a4ece.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_glaucoides/4d66d373d68673cf3e2cd17283a82684f8ce7c3c7df53bf35915b1bf1b0a4ece_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_glaucoides/92a5e982be2e63bf02d3d9c5a978f3a366f2b349fe92463d5503fa52e40d45f3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Paul Danese",
+        "url": "https://commons.wikimedia.org/wiki/User:Pdanese"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_glaucoides/92a5e982be2e63bf02d3d9c5a978f3a366f2b349fe92463d5503fa52e40d45f3_thumb.jpg"
+    }
+  ]
+}

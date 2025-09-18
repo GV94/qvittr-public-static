@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/clanga_clanga/482bd8a12ac3bebb8d9de66565abdb45edd3c7686cc5ddf7d16752a3d518ab90.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, J.M.Garg",
+      "url": "https://commons.wikimedia.org/wiki/User:J.M.Garg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/clanga_clanga/482bd8a12ac3bebb8d9de66565abdb45edd3c7686cc5ddf7d16752a3d518ab90_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/clanga_clanga/04638b7f9f13782c8aa3e13b6e64299f0861d6099c9d36d7f1e7723c7f3a454e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Christoph Moning",
+        "url": "https://www.inaturalist.org/users/2533480"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clanga_clanga/04638b7f9f13782c8aa3e13b6e64299f0861d6099c9d36d7f1e7723c7f3a454e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clanga_clanga/4b3bcaeaff0dd5d123515e74ad214ffdc2ccd35e82bdc7c6d5216969dcc2e353.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Christoph Moning",
+        "url": "https://www.inaturalist.org/users/2533480"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clanga_clanga/4b3bcaeaff0dd5d123515e74ad214ffdc2ccd35e82bdc7c6d5216969dcc2e353_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clanga_clanga/8923425f018d68a28022cfbccd16966e5ab9b50f243a10d0ed42a61c06cec28e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clanga_clanga/8923425f018d68a28022cfbccd16966e5ab9b50f243a10d0ed42a61c06cec28e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clanga_clanga/c594755c0c7faed34f66d673428cf1635f93eea33fa612ab106c8d13b4078d12.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Koshy Koshy",
+        "url": "https://www.flickr.com/people/kkoshy/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clanga_clanga/c594755c0c7faed34f66d673428cf1635f93eea33fa612ab106c8d13b4078d12_thumb.jpg"
+    }
+  ]
+}

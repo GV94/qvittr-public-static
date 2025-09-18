@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/numenius_arquata/5c975e6d26f7d4a84de81500493e1eb79d10af351d99d1d78325a9179d2e0a00.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ken Billington",
+      "url": "https://commons.wikimedia.org/wiki/User:Ken_Billington"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/numenius_arquata/5c975e6d26f7d4a84de81500493e1eb79d10af351d99d1d78325a9179d2e0a00_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/numenius_arquata/0076ceb84b964b8831cf0b2941c28efccc39c14ce722b0a726d2010797ea850a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Artemio Terna",
+        "url": "https://commons.wikimedia.org/wiki/User:Artemio_Terna"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_arquata/0076ceb84b964b8831cf0b2941c28efccc39c14ce722b0a726d2010797ea850a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_arquata/429d3ee811b9756fe5c4c7cff1a1f10d7386825b827d68fb4745fa294b84f898.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/numenius_arquata/429d3ee811b9756fe5c4c7cff1a1f10d7386825b827d68fb4745fa294b84f898_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_arquata/46518826f2a115605621b25711e1333780109d18def2a73120d5c50dbbbbde3a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/numenius_arquata/46518826f2a115605621b25711e1333780109d18def2a73120d5c50dbbbbde3a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_arquata/59086ce85b0b8cf09c23b085389e0f9e7ce0108b251ca464e1c4ddaad83ed48a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Peter van der Sluijs",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_arquata/59086ce85b0b8cf09c23b085389e0f9e7ce0108b251ca464e1c4ddaad83ed48a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_arquata/616cd1318cf61e07a31e7620dc037ff642db2c757a45789dab3f849385e27dad.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Joachim Aschenbrenner",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Joachim_Aschenbrenner&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_arquata/616cd1318cf61e07a31e7620dc037ff642db2c757a45789dab3f849385e27dad_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_arquata/9002c93cfcee46d898b98fc9711319cb3ef182f1703194bfd04320b0455c6e16.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alan Morrison",
+        "url": "https://www.geograph.org.uk/profile/20800"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_arquata/9002c93cfcee46d898b98fc9711319cb3ef182f1703194bfd04320b0455c6e16_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_arquata/99785aa30c6dadb8cfcb82ab06ba3c4d507dee815abcd3897bca716baeacbce5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 15230181h",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:15230181h&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/numenius_arquata/99785aa30c6dadb8cfcb82ab06ba3c4d507dee815abcd3897bca716baeacbce5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/numenius_arquata/a722d1d5d85762afaddb254c4d6f9bf1b1c198526eb28807cc3b0da32075bf1a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/numenius_arquata/a722d1d5d85762afaddb254c4d6f9bf1b1c198526eb28807cc3b0da32075bf1a_thumb.jpg"
+    }
+  ]
+}

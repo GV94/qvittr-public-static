@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/turdus_viscivorus/c8ee9ba6d8b83a4762fa14a696f6e4d9a1e10ff650291dd9f112647a605e3ea8.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Alun Williams333",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Alun_Williams333&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/turdus_viscivorus/c8ee9ba6d8b83a4762fa14a696f6e4d9a1e10ff650291dd9f112647a605e3ea8_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/turdus_viscivorus/0149c9808426e782d32ad1a2023c10660b1e9f232111cd044ef287445154cb28.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00c5sa Berndtsson",
+        "url": "https://www.flickr.com/people/93892629@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_viscivorus/0149c9808426e782d32ad1a2023c10660b1e9f232111cd044ef287445154cb28_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_viscivorus/1a1e0c85b32ed29a716249117294e11a1706f566de562cdb02252a6a67e7f9b8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alun Williams333",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Alun_Williams333&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_viscivorus/1a1e0c85b32ed29a716249117294e11a1706f566de562cdb02252a6a67e7f9b8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_viscivorus/98c41cb3cc8d9a0a5ca565b0e3c078f4688bc33b39d3b9e4fc96e821c8d3bbcd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, marsupium photography",
+        "url": "https://www.flickr.com/people/43405950@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_viscivorus/98c41cb3cc8d9a0a5ca565b0e3c078f4688bc33b39d3b9e4fc96e821c8d3bbcd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_viscivorus/b78b0d3b33beac419bb4ec9698d0fcc868e1b5836755dde4d2157ed85dc98a31.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00c5sa Berndtsson",
+        "url": "https://www.flickr.com/people/93892629@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_viscivorus/b78b0d3b33beac419bb4ec9698d0fcc868e1b5836755dde4d2157ed85dc98a31_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/porzana_porzana/95fe9937824cf9ab014cee117566b71568d5524dbb37478293c098198ab3c787.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Noel Reynolds",
+      "url": "https://www.flickr.com/people/29237715@N05"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/porzana_porzana/95fe9937824cf9ab014cee117566b71568d5524dbb37478293c098198ab3c787_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/porzana_porzana/8b4cb06d71ef0c87c054c4b8f24b823ba1997e7d03da839113cc2ea0ff082b39.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pmau",
+        "url": "https://commons.wikimedia.org/wiki/User:Pmau"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/porzana_porzana/8b4cb06d71ef0c87c054c4b8f24b823ba1997e7d03da839113cc2ea0ff082b39_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/porzana_porzana/c427c779b0fcd5303b51417e54c65308d70af6d6c621a0f11c02afc9aa489937.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pmau",
+        "url": "https://commons.wikimedia.org/wiki/User:Pmau"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/porzana_porzana/c427c779b0fcd5303b51417e54c65308d70af6d6c621a0f11c02afc9aa489937_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/porzana_porzana/ee4ff91ae6cf47e06f97bd61554be89c1f6d8c0d7fc741481e51ea6e9d393445.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Greg Schechter",
+        "url": "https://www.flickr.com/people/17004938@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/porzana_porzana/ee4ff91ae6cf47e06f97bd61554be89c1f6d8c0d7fc741481e51ea6e9d393445_thumb.jpg"
+    }
+  ]
+}

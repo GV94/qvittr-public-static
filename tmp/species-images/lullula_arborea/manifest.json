@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/lullula_arborea/efe3f19ab36d667b9077afc81aca303b07d94a50405aeda55989b773b7aec65f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, J\u00e1n Svetl\u00edk",
+      "url": "https://www.flickr.com/people/svetlik/"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/lullula_arborea/efe3f19ab36d667b9077afc81aca303b07d94a50405aeda55989b773b7aec65f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/lullula_arborea/2127e26484cb58c63b5312d24e954f16ca82a9b33467d9c238fae90262373df1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lullula_arborea/2127e26484cb58c63b5312d24e954f16ca82a9b33467d9c238fae90262373df1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lullula_arborea/82140325e3070c6a9a577744b545cce1345c523d3574eb2cde84ed577a8d521e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rodrigo  de Almeida",
+        "url": "https://www.flickr.com/people/32639361@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lullula_arborea/82140325e3070c6a9a577744b545cce1345c523d3574eb2cde84ed577a8d521e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lullula_arborea/d2cd88b59bf226aff32c7ab97c809152aa5467c04de8eabb0cba285bb741fee5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lullula_arborea/d2cd88b59bf226aff32c7ab97c809152aa5467c04de8eabb0cba285bb741fee5_thumb.jpg"
+    }
+  ]
+}

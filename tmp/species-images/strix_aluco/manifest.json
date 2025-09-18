@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/strix_aluco/5d2335dab8586e78e17e282dc7c65881d98612627e6f4ccc6208714c7356d33e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/strix_aluco/5d2335dab8586e78e17e282dc7c65881d98612627e6f4ccc6208714c7356d33e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/strix_aluco/3e7f036c2108b98dd1b36c8375b1ed11af3a81e7ac1d37f69119457d73eb467b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_aluco/3e7f036c2108b98dd1b36c8375b1ed11af3a81e7ac1d37f69119457d73eb467b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/483c6a8ab96f66682f4c261ca992e6a6a293ffc54d57772b36c2c5fe9240cef4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Soner Bekir",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Soner_Bekir&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_aluco/483c6a8ab96f66682f4c261ca992e6a6a293ffc54d57772b36c2c5fe9240cef4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/682beae886dd8341a4017f610c031de2a54c92f149a4a4e2881aa0f5ea3f11f1.jpeg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ecomuseo delle Rocche",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_aluco/682beae886dd8341a4017f610c031de2a54c92f149a4a4e2881aa0f5ea3f11f1_thumb.jpeg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/8bcb88e4ab3cce0bc8d4cfc7898b08b1826f0926ae7ef5dac7a4cfe089cb7e04.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_aluco/8bcb88e4ab3cce0bc8d4cfc7898b08b1826f0926ae7ef5dac7a4cfe089cb7e04_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/99cdec1fba3a3ca02bf1a9020dde5b9851d69df9648b8c1e4be3865cf97a4764.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_aluco/99cdec1fba3a3ca02bf1a9020dde5b9851d69df9648b8c1e4be3865cf97a4764_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/c2ee59413ac8f776ad1ea2b1f73bea75d02860ab55cf1105162662f7458cbf02.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_aluco/c2ee59413ac8f776ad1ea2b1f73bea75d02860ab55cf1105162662f7458cbf02_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/d5955266ae646baa19a0830d1a60f519387dae58938c3ac13ddb4aa234a6f842.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/strix_aluco/d5955266ae646baa19a0830d1a60f519387dae58938c3ac13ddb4aa234a6f842_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/f1984f88791b0b2da9da2e858c7d5ebe4c08780a5524261116166bd28dbc19c7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Diginatur",
+        "url": "https://commons.wikimedia.org/wiki/User:Diginatur"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_aluco/f1984f88791b0b2da9da2e858c7d5ebe4c08780a5524261116166bd28dbc19c7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/strix_aluco/f8af4f11e4af0d025808a2bd4bfd1499fe1ce5f924cf7a09aa22d4923bd20325.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Henk Monster",
+        "url": "https://web.archive.org/web/20161024225737/http://www.panoramio.com/user/1100550?with_photo_id=89332735"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/strix_aluco/f8af4f11e4af0d025808a2bd4bfd1499fe1ce5f924cf7a09aa22d4923bd20325_thumb.jpg"
+    }
+  ]
+}

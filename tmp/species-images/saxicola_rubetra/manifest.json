@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/saxicola_rubetra/da22c988787bc7e82d35703e98469dfe9d82008b53d2f215f9a9b419eadea0c3.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Frank Vassen",
+      "url": "https://www.flickr.com/people/42244964@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/saxicola_rubetra/da22c988787bc7e82d35703e98469dfe9d82008b53d2f215f9a9b419eadea0c3_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/saxicola_rubetra/03173536eb50c97f6b79d84222667ef8b9ec33a92f1f1b7a606c5adea845a205.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/saxicola_rubetra/03173536eb50c97f6b79d84222667ef8b9ec33a92f1f1b7a606c5adea845a205_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubetra/1764702d47346c1b0e8272496a5a4422f7140a43ec0a2c6ad49afaa69bf69bac.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubetra/1764702d47346c1b0e8272496a5a4422f7140a43ec0a2c6ad49afaa69bf69bac_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubetra/1c0c9080004f3e2583ee97b987fc4ad136507054ec15ba9ecb2b2ce3f26904a1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubetra/1c0c9080004f3e2583ee97b987fc4ad136507054ec15ba9ecb2b2ce3f26904a1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubetra/92b8bb59546caeeccd6da129ccb899c57db4920612e82e73a7d452f0b647128c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kathy B\u00fcscher",
+        "url": "https://www.flickr.com/people/75897683@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubetra/92b8bb59546caeeccd6da129ccb899c57db4920612e82e73a7d452f0b647128c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubetra/cde678edc6a1f044184a803340d1da281597e9a659e8485daac0ca221bd86010.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gernot blum",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Gernot_blum&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubetra/cde678edc6a1f044184a803340d1da281597e9a659e8485daac0ca221bd86010_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubetra/db6a3d9d6c5da4acfce9949f002da6be02a328f2489ba667d8b111206f6ca021.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubetra/db6a3d9d6c5da4acfce9949f002da6be02a328f2489ba667d8b111206f6ca021_thumb.jpg"
+    }
+  ]
+}

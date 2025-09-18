@@ -1,0 +1,22 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/apus_apus/e24354033939954379dae6be36df7b4cfb3cc9a644a77e0aa449e73c5499418c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, pau.artigas",
+      "url": "https://www.flickr.com/people/7686882@N08"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/apus_apus/e24354033939954379dae6be36df7b4cfb3cc9a644a77e0aa449e73c5499418c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/apus_apus/846b50381e2551a0a31c98fe0717bde42385edcb11a14173a4bd3a256b8ddd26.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/apus_apus/846b50381e2551a0a31c98fe0717bde42385edcb11a14173a4bd3a256b8ddd26_thumb.jpg"
+    }
+  ]
+}

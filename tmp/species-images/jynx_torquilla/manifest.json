@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/jynx_torquilla/87730f508711c7fd74d042d198a8295979b71a195e77fa7610cc317898438d44.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Arnstein R\u00f8nning",
+      "url": "https://commons.wikimedia.org/wiki/User:Eaglestein"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/jynx_torquilla/87730f508711c7fd74d042d198a8295979b71a195e77fa7610cc317898438d44_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/jynx_torquilla/26925236485e0ddbdf09abec38d8c118aa15f961a26d98b5d3b521dbb0e36266.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martien Brand",
+        "url": "https://www.flickr.com/people/28820410@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/jynx_torquilla/26925236485e0ddbdf09abec38d8c118aa15f961a26d98b5d3b521dbb0e36266_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/jynx_torquilla/6e38b3ba21014b8dd5dbd30f307e99c2403b258acea20bb4ceb83345cb579367.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/jynx_torquilla/6e38b3ba21014b8dd5dbd30f307e99c2403b258acea20bb4ceb83345cb579367_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/jynx_torquilla/8994197d0a45c5f2920f80bf881290134c27e793d55dc1ead48fb64e6e344279.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Internet Archive Book Images",
+        "url": "https://www.flickr.com/people/126377022@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/jynx_torquilla/8994197d0a45c5f2920f80bf881290134c27e793d55dc1ead48fb64e6e344279_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/jynx_torquilla/9b1b809861cd50b2888abe957a77b1217c7ff3aaf64eaed7360d52a196416f3f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/jynx_torquilla/9b1b809861cd50b2888abe957a77b1217c7ff3aaf64eaed7360d52a196416f3f_thumb.jpg"
+    }
+  ]
+}

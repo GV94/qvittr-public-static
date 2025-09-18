@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calcarius_lapponicus/4a4493c55eac6f521a0d7d0929cec68359b26404cea2da5eb348d547911d694a.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, \u00d3mar Run\u00f3lfsson",
+      "url": "https://www.flickr.com/people/29174969@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calcarius_lapponicus/4a4493c55eac6f521a0d7d0929cec68359b26404cea2da5eb348d547911d694a_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calcarius_lapponicus/14f428112083c238be1262b14cee7f6b9e1b02dd422244fee98c8cb830cc8bfc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ansgar Walk",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calcarius_lapponicus/14f428112083c238be1262b14cee7f6b9e1b02dd422244fee98c8cb830cc8bfc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calcarius_lapponicus/3db86664482b390d32f1ba6a68cad1e2fa8a2a5359a1ebba88ed3882350b199b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u041a\u0441\u0435\u043d\u0438\u044f \u0412\u043e\u043b\u044f\u043d\u0441\u043a\u0430\u044f",
+        "url": "https://www.inaturalist.org/users/2840555"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calcarius_lapponicus/3db86664482b390d32f1ba6a68cad1e2fa8a2a5359a1ebba88ed3882350b199b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calcarius_lapponicus/75f3d9f614f3226b47b5de10b7161869951b8bfa3ad004b4f7c2677c8b4d5d51.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrew Weitzel",
+        "url": "https://www.flickr.com/people/21531749@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calcarius_lapponicus/75f3d9f614f3226b47b5de10b7161869951b8bfa3ad004b4f7c2677c8b4d5d51_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calcarius_lapponicus/c11b38a1f97c320eaec502fa4aeea2b67a62c75f1a47f57d63cf1bf87ddc7f14.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, qmnonic at Flickr",
+        "url": "https://www.flickr.com/photos/qmnonic/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calcarius_lapponicus/c11b38a1f97c320eaec502fa4aeea2b67a62c75f1a47f57d63cf1bf87ddc7f14_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calcarius_lapponicus/c6390cdf554c80897feac644817c87eba855604572ea5ef996dea3ba4500d1e4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ansgar Walk",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calcarius_lapponicus/c6390cdf554c80897feac644817c87eba855604572ea5ef996dea3ba4500d1e4_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/motacilla_citreola/5ea2fc6bdd52073fcde24174dfefc244fad952f1e300bb465fad4055c848b1d4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Koshy Koshy",
+      "url": "https://www.flickr.com/people/97235261@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/motacilla_citreola/5ea2fc6bdd52073fcde24174dfefc244fad952f1e300bb465fad4055c848b1d4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/motacilla_citreola/1126fecfb1a713617ca69fa589949b8af40ccdd86bef24cbb7a81469bfb5271f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Veljo Runnel",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Veljorunnel&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_citreola/1126fecfb1a713617ca69fa589949b8af40ccdd86bef24cbb7a81469bfb5271f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_citreola/585298133fb0891a66109a29bcce87ac9acd46c31fe56c6d78cb9690ce17e641.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_citreola/585298133fb0891a66109a29bcce87ac9acd46c31fe56c6d78cb9690ce17e641_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_citreola/60d2635dd4a8749b662b8754689a1b41440b344c7fbf734420bf8f10a104b7fb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Veljo Runnel",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Veljorunnel&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_citreola/60d2635dd4a8749b662b8754689a1b41440b344c7fbf734420bf8f10a104b7fb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_citreola/743e0ff79a36f002de3dd199d98cf1fe84f5f67e45d5d2b82a12b1843922c319.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_citreola/743e0ff79a36f002de3dd199d98cf1fe84f5f67e45d5d2b82a12b1843922c319_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_citreola/815c53af1304ca89bb25720ada620c858661b262a5605e09e3c1088faa2c7232.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_citreola/815c53af1304ca89bb25720ada620c858661b262a5605e09e3c1088faa2c7232_thumb.jpg"
+    }
+  ]
+}

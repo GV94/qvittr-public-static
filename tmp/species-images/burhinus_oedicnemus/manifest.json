@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/burhinus_oedicnemus/57365b64c4c3ba30b8a112f5f9c0dc878fd90f355dbe7a7a5d588ae35b2317f1.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Frank Vassen",
+      "url": "https://www.flickr.com/people/42244964@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/burhinus_oedicnemus/57365b64c4c3ba30b8a112f5f9c0dc878fd90f355dbe7a7a5d588ae35b2317f1_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/burhinus_oedicnemus/1916e32630abc7c24b8123cda88292e840ac16fe4770f05751936a78873f72e5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/burhinus_oedicnemus/1916e32630abc7c24b8123cda88292e840ac16fe4770f05751936a78873f72e5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/burhinus_oedicnemus/aa68a07485b25a5059d343738ce54f6e50ec75dea8224f7377f170be2dbc7896.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, trebol-a",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/burhinus_oedicnemus/aa68a07485b25a5059d343738ce54f6e50ec75dea8224f7377f170be2dbc7896_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/burhinus_oedicnemus/b140f13ce1b2b700105ba0a09976857d160d04256dda09c50295edf43b84e711.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Peel",
+        "url": "https://commons.wikimedia.org/wiki/User:Mike_Peel"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/burhinus_oedicnemus/b140f13ce1b2b700105ba0a09976857d160d04256dda09c50295edf43b84e711_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/delichon_urbicum/0ff8a3085145f163eaeeac6cb8a22bd48d42b0b1caf2643c9860647b13b67c4e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/delichon_urbicum/0ff8a3085145f163eaeeac6cb8a22bd48d42b0b1caf2643c9860647b13b67c4e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/delichon_urbicum/18485a9b64b1b39281ddd96c7c08111daf38a2e9ae95f8aa987c60164cdcb93e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/delichon_urbicum/18485a9b64b1b39281ddd96c7c08111daf38a2e9ae95f8aa987c60164cdcb93e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/delichon_urbicum/2f9a7f670aedb9714551ac14b25e74a8861f2b6629614cfc174a02661c3c9a7e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, M.J.",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:M.J.&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/delichon_urbicum/2f9a7f670aedb9714551ac14b25e74a8861f2b6629614cfc174a02661c3c9a7e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/delichon_urbicum/375823f27673302ca315c64396a7547b67b2f013bafbb5f81f5fe8db067043ac.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/delichon_urbicum/375823f27673302ca315c64396a7547b67b2f013bafbb5f81f5fe8db067043ac_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/delichon_urbicum/4346b4bbc144f066ade45bb3e490da6135f0ada8712c5e5f57a427c762eb47e8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/delichon_urbicum/4346b4bbc144f066ade45bb3e490da6135f0ada8712c5e5f57a427c762eb47e8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/delichon_urbicum/955a2cdb2768fded1ebe08c92c46f4fe1b7bd92edf60625e16e632b0b757909d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/delichon_urbicum/955a2cdb2768fded1ebe08c92c46f4fe1b7bd92edf60625e16e632b0b757909d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/delichon_urbicum/9b4e6e6940f1b7023b47ec3d83741f1e62b239c805603745f092d8e96ce6d129.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/delichon_urbicum/9b4e6e6940f1b7023b47ec3d83741f1e62b239c805603745f092d8e96ce6d129_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/delichon_urbicum/e8d01e1f3c2eda42ab9e9bba84d2b49ff227b5066728125d07452d88810cbd52.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Judge",
+        "url": "https://www.flickr.com/people/27911027@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/delichon_urbicum/e8d01e1f3c2eda42ab9e9bba84d2b49ff227b5066728125d07452d88810cbd52_thumb.jpg"
+    }
+  ]
+}

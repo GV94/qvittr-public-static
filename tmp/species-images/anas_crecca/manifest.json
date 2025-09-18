@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anas_crecca/d6fa54fe0022052078525544276c619eca2b2c10e0c60df1e01e5110a45254dd.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ken Billington",
+      "url": "https://commons.wikimedia.org/wiki/User:Ken_Billington"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anas_crecca/d6fa54fe0022052078525544276c619eca2b2c10e0c60df1e01e5110a45254dd_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anas_crecca/1e8763c70a66633995dceacfe370f5b3f8d4f2f02f2107f2ee8025c2344ce6c3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anas_crecca/1e8763c70a66633995dceacfe370f5b3f8d4f2f02f2107f2ee8025c2344ce6c3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_crecca/8280038e9682964219d81e0b910837dda8acaae06a3ab35315e910bec6adb60d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_crecca/8280038e9682964219d81e0b910837dda8acaae06a3ab35315e910bec6adb60d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_crecca/8e17447f5c11fb0ab0400e7b1ce392f6b2e12f56b37d4a12187e993b9aabf990.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anas_crecca/8e17447f5c11fb0ab0400e7b1ce392f6b2e12f56b37d4a12187e993b9aabf990_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_crecca/90b3bbdbc9f38a3369234e70d6caccfb26029d9aec107913594174c898de5470.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles J. Sharp",
+        "url": "https://www.wikidata.org/wiki/Q54800218"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_crecca/90b3bbdbc9f38a3369234e70d6caccfb26029d9aec107913594174c898de5470_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_crecca/c4bbfe12acf36e3c8f96a6cd69d1ce4a8026e52fd0d7a123b4c3be2d69dea26a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Creepanta",
+        "url": "https://commons.wikimedia.org/wiki/User:Creepanta"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_crecca/c4bbfe12acf36e3c8f96a6cd69d1ce4a8026e52fd0d7a123b4c3be2d69dea26a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_crecca/e06d6e9ac15fb699b278079a5ba9ed9b4bdb540b02e28ef2f3271aed69c1a09f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anas_crecca/e06d6e9ac15fb699b278079a5ba9ed9b4bdb540b02e28ef2f3271aed69c1a09f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_crecca/eeab00c5d75a31026d5e0d642efb9e637fa6968dc1a7867c3dd9f84cf2cefe5b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, harum.koh",
+        "url": "https://www.flickr.com/people/89279812@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_crecca/eeab00c5d75a31026d5e0d642efb9e637fa6968dc1a7867c3dd9f84cf2cefe5b_thumb.jpg"
+    }
+  ]
+}

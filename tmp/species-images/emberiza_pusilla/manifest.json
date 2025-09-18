@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_pusilla/a8a537127a6cc9e561c0e6d43ee9c2d496b476343171ec307f82fb40723437b3.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, MPF",
+      "url": "https://commons.wikimedia.org/wiki/User:MPF"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_pusilla/a8a537127a6cc9e561c0e6d43ee9c2d496b476343171ec307f82fb40723437b3_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_pusilla/30f9c4e7a24e39ecc674f58697f8d646db2bb240c178a4ba7f56c93f85558f17.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_pusilla/30f9c4e7a24e39ecc674f58697f8d646db2bb240c178a4ba7f56c93f85558f17_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_pusilla/6dcb9474d8197bc097b3eb01e32d165ea3d434f13db3b758cc91a8479e968d2d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_pusilla/6dcb9474d8197bc097b3eb01e32d165ea3d434f13db3b758cc91a8479e968d2d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_pusilla/909f344e4bb33955ac4d2982517995dddcfc03788b0599f12c1d56f7c87e954e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_pusilla/909f344e4bb33955ac4d2982517995dddcfc03788b0599f12c1d56f7c87e954e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_pusilla/b9749f51b9154025be132352ff6462c742818e7271b3b4f433ee6c3c5e352251.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, S. Seyfert",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_pusilla/b9749f51b9154025be132352ff6462c742818e7271b3b4f433ee6c3c5e352251_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_pusilla/fec8f19a5fd79a767f48e6881f800809296e5674e0641071c643ca9220e1b2f3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_pusilla/fec8f19a5fd79a767f48e6881f800809296e5674e0641071c643ca9220e1b2f3_thumb.jpg"
+    }
+  ]
+}

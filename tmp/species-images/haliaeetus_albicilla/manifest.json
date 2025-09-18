@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/haliaeetus_albicilla/2a6f3f7723d8c65fef40f3a85f446924dc06d03334768b6dfe6d9c440ffa26af.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Idalia Skalska",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/haliaeetus_albicilla/2a6f3f7723d8c65fef40f3a85f446924dc06d03334768b6dfe6d9c440ffa26af_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/2df5450b077927506effad112814133979974a7f7f4c925f04bb5f5c2fcd119d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haliaeetus_albicilla/2df5450b077927506effad112814133979974a7f7f4c925f04bb5f5c2fcd119d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/60dfdaf2c7989829111dc73d988b4c63e770364224e98fbace956109059af1f4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haliaeetus_albicilla/60dfdaf2c7989829111dc73d988b4c63e770364224e98fbace956109059af1f4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/6d84868a2a8db070e81181054e621b417e56badcd8c4ac57587a091763022776.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Weith",
+        "url": "https://commons.wikimedia.org/wiki/User:AWeith"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/haliaeetus_albicilla/6d84868a2a8db070e81181054e621b417e56badcd8c4ac57587a091763022776_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/8c3a360b050707f9d5a3c9e4eff9e3fc63cbf1bb610d113eca4764bfb6d142e7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haliaeetus_albicilla/8c3a360b050707f9d5a3c9e4eff9e3fc63cbf1bb610d113eca4764bfb6d142e7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/be5c4364409a21615e1b37e8960832b221706110c06bd857056abc07a6e767a8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haliaeetus_albicilla/be5c4364409a21615e1b37e8960832b221706110c06bd857056abc07a6e767a8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/bfb36ab344292643dcb29d6caba3297c19f6773db4ecfc08d692ae3d06b2648f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Christian Bickel",
+        "url": "https://commons.wikimedia.org/wiki/User:Fingalo"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/haliaeetus_albicilla/bfb36ab344292643dcb29d6caba3297c19f6773db4ecfc08d692ae3d06b2648f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/d7d749a90d497f4f2e16a860d6d1f40581ce462f0cc85699f27536a85cc91b13.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haliaeetus_albicilla/d7d749a90d497f4f2e16a860d6d1f40581ce462f0cc85699f27536a85cc91b13_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haliaeetus_albicilla/f6ca03de544d618df441719cb4aaccfc5af7bd175ce464bd169b7f7ed708c738.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Weith",
+        "url": "https://commons.wikimedia.org/wiki/User:AWeith"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/haliaeetus_albicilla/f6ca03de544d618df441719cb4aaccfc5af7bd175ce464bd169b7f7ed708c738_thumb.jpg"
+    }
+  ]
+}

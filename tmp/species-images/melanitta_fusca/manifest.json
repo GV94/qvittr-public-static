@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/melanitta_fusca/260a70c3a7393cb7e0ba40a83484ef386e74e691dc235784bb2d7d1e4d114172.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Vince",
+      "url": "https://www.flickr.com/people/65914383@N02"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/melanitta_fusca/260a70c3a7393cb7e0ba40a83484ef386e74e691dc235784bb2d7d1e4d114172_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/melanitta_fusca/2ca8896c48f80785f67a25dcf990035c14da893c297d9a1d62b50beb0972c2db.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_fusca/2ca8896c48f80785f67a25dcf990035c14da893c297d9a1d62b50beb0972c2db_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_fusca/5e47261f11779fc5778be00a4f4cf92fbf84c4e79e944c776a592dd545b82fde.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00c5sa Berndtsson",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_fusca/5e47261f11779fc5778be00a4f4cf92fbf84c4e79e944c776a592dd545b82fde_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_fusca/d9b97d3f3cd50838209609b4c927a5fe9bc2c9d1a6912caac0e66bce62879e7c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_fusca/d9b97d3f3cd50838209609b4c927a5fe9bc2c9d1a6912caac0e66bce62879e7c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_fusca/e0425081e2b4ea6ae939fe17d686e3c00f58ebb0d1f45efee6b6d29ce101c732.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_fusca/e0425081e2b4ea6ae939fe17d686e3c00f58ebb0d1f45efee6b6d29ce101c732_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_fusca/ec5d2286fa41ed79a4b4c08602a2d5b7a84692b47ff344b952c259a9f3516f32.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_fusca/ec5d2286fa41ed79a4b4c08602a2d5b7a84692b47ff344b952c259a9f3516f32_thumb.jpg"
+    }
+  ]
+}

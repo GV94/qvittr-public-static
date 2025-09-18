@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_trochilus/2d7127b18ffe5f9e4857d7f3bc578f6d1c9d1e279eb487edb55f3ffd801a60bb.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Steve Garvie",
+      "url": "https://www.flickr.com/photos/50079771@N08"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_trochilus/2d7127b18ffe5f9e4857d7f3bc578f6d1c9d1e279eb487edb55f3ffd801a60bb_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/26a0f01b151c38ee82ab39210ca6293e1f766e5dceaad75d30c47c94051f82ab.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_trochilus/26a0f01b151c38ee82ab39210ca6293e1f766e5dceaad75d30c47c94051f82ab_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/313433635dc190141ffc6a00d314288bd3e0567f4ebad5e66d5f06bb6a8c8032.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jakub Ha\u0142un",
+        "url": "https://commons.wikimedia.org/wiki/User:Jakubhal"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochilus/313433635dc190141ffc6a00d314288bd3e0567f4ebad5e66d5f06bb6a8c8032_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/7e2accd3bb42b825b9082fde9d520cb58f5a863f2c62faafb0e59f5f69345e1c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_trochilus/7e2accd3bb42b825b9082fde9d520cb58f5a863f2c62faafb0e59f5f69345e1c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/88a9c21605109b9b8aa84b1e72bfa4dc60bb017928feccb9af346a0f2379f178.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_trochilus/88a9c21605109b9b8aa84b1e72bfa4dc60bb017928feccb9af346a0f2379f178_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/8a90d6da7c2b25dec8787b06cfd65234c7e652f74b751c886598dfa24f0608f1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochilus/8a90d6da7c2b25dec8787b06cfd65234c7e652f74b751c886598dfa24f0608f1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/c45c5395e2efa9e476adce0c2cd0d54b04e1c329379db23f94bf0992d6c16093.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_trochilus/c45c5395e2efa9e476adce0c2cd0d54b04e1c329379db23f94bf0992d6c16093_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/c641c83b41a48da014758c22b8d2b9917325592a3e01214c993cd46c945f49df.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_trochilus/c641c83b41a48da014758c22b8d2b9917325592a3e01214c993cd46c945f49df_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/ec087246f33e8f1474d05e3e8a77f55eaaf8ce10008c1ae81752900065a2abf9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochilus/ec087246f33e8f1474d05e3e8a77f55eaaf8ce10008c1ae81752900065a2abf9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochilus/f45a88b160088f433a08f81fa10fb93b0f808791810d040e994cf32c8973115f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochilus/f45a88b160088f433a08f81fa10fb93b0f808791810d040e994cf32c8973115f_thumb.jpg"
+    }
+  ]
+}

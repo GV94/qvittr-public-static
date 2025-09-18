@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_caerulescens/598336c8f442c16fe375e49d3ea82f0eb3f445e7b24c03b403a51f40e4735397.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Cephas",
+      "url": "https://commons.wikimedia.org/wiki/User:Cephas"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_caerulescens/598336c8f442c16fe375e49d3ea82f0eb3f445e7b24c03b403a51f40e4735397_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_caerulescens/0ccf5acc902247c1a8cb4fd9a2049137cd4414d13ea930825631694277da6d6b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_caerulescens/0ccf5acc902247c1a8cb4fd9a2049137cd4414d13ea930825631694277da6d6b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_caerulescens/1916dac7a1095e0c969ec049ba5e79ca37e930e593f2aab03c8613a06ecf00df.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Daniel Pineda Vera",
+        "url": "https://www.inaturalist.org/users/16291"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_caerulescens/1916dac7a1095e0c969ec049ba5e79ca37e930e593f2aab03c8613a06ecf00df_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_caerulescens/3135689e8e406fa1d01860fa8ca9a63c6aa2403bfc09b4280de84b5c5e3715f0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Paul Danese",
+        "url": "https://commons.wikimedia.org/wiki/User:Pdanese"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_caerulescens/3135689e8e406fa1d01860fa8ca9a63c6aa2403bfc09b4280de84b5c5e3715f0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_caerulescens/a735af8d4c930c4e6d6ecfeeca038602e0b1a16bab3ca966016156243e5fb6a1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Own work",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_caerulescens/a735af8d4c930c4e6d6ecfeeca038602e0b1a16bab3ca966016156243e5fb6a1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_caerulescens/f5260b4b91f2084ac68b855385787225edcfcdd61602cf78413fd49e603350bb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_caerulescens/f5260b4b91f2084ac68b855385787225edcfcdd61602cf78413fd49e603350bb_thumb.jpg"
+    }
+  ]
+}

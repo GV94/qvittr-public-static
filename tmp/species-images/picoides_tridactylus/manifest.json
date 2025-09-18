@@ -1,0 +1,22 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/picoides_tridactylus/991b0da0504d42afed8e0728a046e0ca6419dcb43734b6c2dddd664ea86f25fd.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/picoides_tridactylus/991b0da0504d42afed8e0728a046e0ca6419dcb43734b6c2dddd664ea86f25fd_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/picoides_tridactylus/43078edc3b58c375427a9f0d1526afd82f7596aa2d08d5edf313a115d7b58129.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Peter von Bagh",
+        "url": "https://www.flickr.com/people/14940021@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picoides_tridactylus/43078edc3b58c375427a9f0d1526afd82f7596aa2d08d5edf313a115d7b58129_thumb.jpg"
+    }
+  ]
+}

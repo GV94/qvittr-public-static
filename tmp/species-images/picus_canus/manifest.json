@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/picus_canus/1a0f94e59990ce89a4a3d9eca4e74f1e84e63712ee7c38d98fa02741a5db59ec.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andrey Tsvirenko",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Atsvirenko&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/picus_canus/1a0f94e59990ce89a4a3d9eca4e74f1e84e63712ee7c38d98fa02741a5db59ec_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/picus_canus/6b84de4b132065bac6408307ef658cc880f761dfdf06d70081f5ddc9fcb9a794.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_canus/6b84de4b132065bac6408307ef658cc880f761dfdf06d70081f5ddc9fcb9a794_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_canus/74bec89780803cab5e469d9f5e2cb5d5fa47d9ca959290236a2d872268019b12.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mildeep",
+        "url": "https://commons.wikimedia.org/wiki/User:Mildeep"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_canus/74bec89780803cab5e469d9f5e2cb5d5fa47d9ca959290236a2d872268019b12_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_canus/9203432c8072c315ae41c22e490eb6504f6b49aeb1c3b44f243cb88270b34d69.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Topi027",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Topi027&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_canus/9203432c8072c315ae41c22e490eb6504f6b49aeb1c3b44f243cb88270b34d69_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/picus_canus/c3ba09cba98edbd2b00b9cf9800658a051bf1817154f4a815a9bee9fd72dcbbb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Boschfoto",
+        "url": "https://commons.wikimedia.org/wiki/User:Boschfoto"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/picus_canus/c3ba09cba98edbd2b00b9cf9800658a051bf1817154f4a815a9bee9fd72dcbbb_thumb.jpg"
+    }
+  ]
+}

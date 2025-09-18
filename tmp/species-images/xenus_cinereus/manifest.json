@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/xenus_cinereus/48c667bbcf08d294d6b0cff026194a08df22a51b075e35190d1d6091fbd8f352.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Koskikara",
+      "url": "https://en.wikipedia.org/wiki/fi:User:Koskikara"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/xenus_cinereus/48c667bbcf08d294d6b0cff026194a08df22a51b075e35190d1d6091fbd8f352_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/xenus_cinereus/1ee897fdca81f78b91f41e0552b10417c65fc80a78b160fd0f28802cc6608a5a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/xenus_cinereus/1ee897fdca81f78b91f41e0552b10417c65fc80a78b160fd0f28802cc6608a5a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/xenus_cinereus/544c1cd69dada5add7fb9594a2c0589886c2f5e0a6ae51f539932cd58968a796.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/xenus_cinereus/544c1cd69dada5add7fb9594a2c0589886c2f5e0a6ae51f539932cd58968a796_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/xenus_cinereus/5519e57f46e75554b8405155d454e4babc435ec6f23e94ce8e3487efec71132f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dominic Sherony",
+        "url": "https://www.flickr.com/people/9765210@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/xenus_cinereus/5519e57f46e75554b8405155d454e4babc435ec6f23e94ce8e3487efec71132f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/xenus_cinereus/6458abbf3af9bdcd50f8d0aaf8dcec1d88b35ec04b31ba1d7efa0b7bab22fb96.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/xenus_cinereus/6458abbf3af9bdcd50f8d0aaf8dcec1d88b35ec04b31ba1d7efa0b7bab22fb96_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/xenus_cinereus/c50c160f4efb3251b32ec84cd9924dc89a59242645abb6469e71e5ef8e5ab560.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/xenus_cinereus/c50c160f4efb3251b32ec84cd9924dc89a59242645abb6469e71e5ef8e5ab560_thumb.jpg"
+    }
+  ]
+}

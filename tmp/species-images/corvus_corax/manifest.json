@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/corvus_corax/10e6e97f8362d9eec93562856115733c228c8b0b1dbddaafd9fff9c5b53344f1.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Diliff",
+      "url": "https://commons.wikimedia.org/wiki/User:Diliff"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/corvus_corax/10e6e97f8362d9eec93562856115733c228c8b0b1dbddaafd9fff9c5b53344f1_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/corvus_corax/12080bfc2886c159c0036b830f50ed0daada8856b1de7cc5be4847ec0ad46eca.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corax/12080bfc2886c159c0036b830f50ed0daada8856b1de7cc5be4847ec0ad46eca_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corax/6df02ecf1e5e1229728cd66e40974ff6107c92a780af7428f23e2de78f8043f6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MilanIlic553",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:MilanIlic553&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_corax/6df02ecf1e5e1229728cd66e40974ff6107c92a780af7428f23e2de78f8043f6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corax/782c30609faab53eee247da336d3bd48d3a5a8ebaa6e9d4a1ecb16244aab3e6c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corax/782c30609faab53eee247da336d3bd48d3a5a8ebaa6e9d4a1ecb16244aab3e6c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corax/84f7669bf834db961078e689ff2270cc6a5cf05434a13f08f10d0aabad335a8c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corax/84f7669bf834db961078e689ff2270cc6a5cf05434a13f08f10d0aabad335a8c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corax/be218da7436fea4a895cc571a95037fde2edbd81848ebd2f1ff05723ddd35862.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corax/be218da7436fea4a895cc571a95037fde2edbd81848ebd2f1ff05723ddd35862_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corax/c774aec0079e2ca1ba7aa2a0287856f8381b5d346ea690342671982fe5015160.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, blondinrikard",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_corax/c774aec0079e2ca1ba7aa2a0287856f8381b5d346ea690342671982fe5015160_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corax/cd0241988ea409f749e12142fa99177ae3da58901c99db20b2be46fe390d126b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MilanIlic553",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:MilanIlic553&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_corax/cd0241988ea409f749e12142fa99177ae3da58901c99db20b2be46fe390d126b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corax/fd0f17ecec6f502d420a1633992022d41b2dc0f3b3086219c06858bd4198303b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corax/fd0f17ecec6f502d420a1633992022d41b2dc0f3b3086219c06858bd4198303b_thumb.jpg"
+    }
+  ]
+}

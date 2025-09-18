@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/ardenna_grisea/ef65696007f992eee99470b8a873a258eeabc06d3dbc17c438ed5d04c12bb948.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, JJ Harrison",
+      "url": "https://commons.wikimedia.org/wiki/User:JJ_Harrison"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/ardenna_grisea/ef65696007f992eee99470b8a873a258eeabc06d3dbc17c438ed5d04c12bb948_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/ardenna_grisea/3f0f26d2e399fcf8b37a1b00c7dcba3f4244ebb90eaa7fa2500b590053075741.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardenna_grisea/3f0f26d2e399fcf8b37a1b00c7dcba3f4244ebb90eaa7fa2500b590053075741_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardenna_grisea/429a4052bfeae0aa548cdac5e5c629feca470c88b9c322dd8a363ee3958f4986.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Will Sweet",
+        "url": "https://www.flickr.com/people/22560927@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardenna_grisea/429a4052bfeae0aa548cdac5e5c629feca470c88b9c322dd8a363ee3958f4986_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardenna_grisea/4c20a0132e01dbab06354c95db0db8d1172c27f8ddce371ccd840d9531d9bc8e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, marlin harms",
+        "url": "https://www.flickr.com/photos/28867468@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardenna_grisea/4c20a0132e01dbab06354c95db0db8d1172c27f8ddce371ccd840d9531d9bc8e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardenna_grisea/9ae0e342f837757478b9a948deaf49473fbc1d3bc8cfc19a629c7f6738c15a38.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, marlin harms",
+        "url": "https://www.flickr.com/photos/28867468@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardenna_grisea/9ae0e342f837757478b9a948deaf49473fbc1d3bc8cfc19a629c7f6738c15a38_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardenna_grisea/c4c9636cfbda0b2979fbf89d462dd0fbfcb06c6f1013a11d50f93ba91a6b5c3c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, marlin harms",
+        "url": "https://www.flickr.com/photos/28867468@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardenna_grisea/c4c9636cfbda0b2979fbf89d462dd0fbfcb06c6f1013a11d50f93ba91a6b5c3c_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gallinago_media/7771480e076aa6018efbca8041b85272897cf0270b12d457cac23d3f4f5a62ad.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Thho46",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Thho46&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gallinago_media/7771480e076aa6018efbca8041b85272897cf0270b12d457cac23d3f4f5a62ad_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gallinago_media/1f026f0317b2e99dc99b43516f1202cd46233e5dc83efb76f119d305ccacb22a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Francesco Veronesi",
+        "url": "https://www.flickr.com/people/30818542@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_media/1f026f0317b2e99dc99b43516f1202cd46233e5dc83efb76f119d305ccacb22a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_media/264b0d731eb8fd489ce5a736d436d1d183fbf7c3d9dba29fd73395dd5d9b79dc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jimfbleak",
+        "url": "https://commons.wikimedia.org/wiki/User:Jimfbleak"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_media/264b0d731eb8fd489ce5a736d436d1d183fbf7c3d9dba29fd73395dd5d9b79dc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_media/26f8d3b3c0dc2a200bf215c03d201a54e6529b30dfe9ad173fdf85b73ec667e6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_media/26f8d3b3c0dc2a200bf215c03d201a54e6529b30dfe9ad173fdf85b73ec667e6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_media/5aef38cc61ddb90857eae7994adf804ddfca723639950f71869a48bc7f30aa68.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_media/5aef38cc61ddb90857eae7994adf804ddfca723639950f71869a48bc7f30aa68_thumb.jpg"
+    }
+  ]
+}

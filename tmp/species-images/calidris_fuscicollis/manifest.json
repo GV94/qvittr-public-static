@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_fuscicollis/8d1691f4fbe024e7e456d31bb67b2fdbeb378b4ff3a2ff136b0fb05567169a70.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dario Niz",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_fuscicollis/8d1691f4fbe024e7e456d31bb67b2fdbeb378b4ff3a2ff136b0fb05567169a70_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_fuscicollis/6fe90a49e0146b180483d1d415a15be2e1242c7ec9ffe3fb4191211b22d339dd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, LBarcelos",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Lbarcelos&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_fuscicollis/6fe90a49e0146b180483d1d415a15be2e1242c7ec9ffe3fb4191211b22d339dd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_fuscicollis/76918e0de45361db82c2da2c997167d268d078c8343348af3270d496e657066e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Silver Leapers",
+        "url": "https://www.flickr.com/people/68069539@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_fuscicollis/76918e0de45361db82c2da2c997167d268d078c8343348af3270d496e657066e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_fuscicollis/d1c4ea441e1f649fe5832251d46a7d2dbbcfac25e333edbb13bef24ffda16ced.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Silver Leapers",
+        "url": "https://www.flickr.com/people/68069539@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_fuscicollis/d1c4ea441e1f649fe5832251d46a7d2dbbcfac25e333edbb13bef24ffda16ced_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_fuscicollis/e339adece639d29577a616d370d217664e188eb5e334f52b14e89bbc52e8150f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Silver Leapers",
+        "url": "https://www.flickr.com/people/68069539@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_fuscicollis/e339adece639d29577a616d370d217664e188eb5e334f52b14e89bbc52e8150f_thumb.jpg"
+    }
+  ]
+}

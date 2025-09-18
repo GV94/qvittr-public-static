@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/fulmarus_glacialis/aae94229e9d9eecb87c2e6df2a3ca8f9ff1db4a134d85e1d4f7578155cebcc8b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, AlastairG",
+      "url": "https://www.geograph.org.uk/profile/22952"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/fulmarus_glacialis/aae94229e9d9eecb87c2e6df2a3ca8f9ff1db4a134d85e1d4f7578155cebcc8b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/fulmarus_glacialis/03c6dcd6dc07692b747168457653135c886fe55388aa222eecefe85f7a34d82f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/fulmarus_glacialis/03c6dcd6dc07692b747168457653135c886fe55388aa222eecefe85f7a34d82f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulmarus_glacialis/18fb1d8a06edf52fce1a49c7d2c03c6bda8968d46e97993544160784ede21309.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve Garvie",
+        "url": "https://www.flickr.com/photos/50079771@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fulmarus_glacialis/18fb1d8a06edf52fce1a49c7d2c03c6bda8968d46e97993544160784ede21309_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulmarus_glacialis/20a0fde007ebde480be7f8f4fc7fe5648aeca45cfd76cb529d7f6ed2c9af9c12.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, M.Buschmann",
+        "url": "https://commons.wikimedia.org/wiki/User:M.Buschmann"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fulmarus_glacialis/20a0fde007ebde480be7f8f4fc7fe5648aeca45cfd76cb529d7f6ed2c9af9c12_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulmarus_glacialis/47b8844d0065c85867daf85f7dc81e270865e736878fe4f68b899240de2e2db9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ken Billington",
+        "url": "https://commons.wikimedia.org/wiki/User:Ken_Billington"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fulmarus_glacialis/47b8844d0065c85867daf85f7dc81e270865e736878fe4f68b899240de2e2db9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulmarus_glacialis/628f57a26f6224c4332f8457e989503e9e95063490a976f92989ddc96cc14797.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, T. M\u00fcller",
+        "url": "https://commons.wikimedia.org/wiki/User:Islandmen"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fulmarus_glacialis/628f57a26f6224c4332f8457e989503e9e95063490a976f92989ddc96cc14797_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulmarus_glacialis/72575921df2389af1d2fe26d4f2ee43b968a3162625b6d79a2b746b2a991aa1e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Fingalo",
+        "url": "https://commons.wikimedia.org/wiki/User:Fingalo"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fulmarus_glacialis/72575921df2389af1d2fe26d4f2ee43b968a3162625b6d79a2b746b2a991aa1e_thumb.jpg"
+    }
+  ]
+}

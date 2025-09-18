@@ -1,0 +1,22 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/lagopus_lagopus/91b3e3a051267bf17b7b966893cf33a799b591837cdcc5eb19c9b13b1d9bfcaa.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Male_Willow_Ptarmigan_(Lagopus_lagopus).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Male_Willow_Ptarmigan_(Lagopus_lagopus).jpg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/lagopus_lagopus/91b3e3a051267bf17b7b966893cf33a799b591837cdcc5eb19c9b13b1d9bfcaa_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/lagopus_lagopus/43b3b8e9d061877dfcfc26412d0ae8da5d3ece97915301040f642eace2a5d797.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Peter Barr",
+        "url": "https://www.geograph.org.uk/profile/28954"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lagopus_lagopus/43b3b8e9d061877dfcfc26412d0ae8da5d3ece97915301040f642eace2a5d797_thumb.jpg"
+    }
+  ]
+}

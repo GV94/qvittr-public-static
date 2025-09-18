@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anas_bahamensis/e4f7b4f9501804a8455a97bf351c54477100c0dcf99fbf65c2beca8ee676c8e6.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Oskila",
+      "url": "https://commons.wikimedia.org/wiki/User:Oskila"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anas_bahamensis/e4f7b4f9501804a8455a97bf351c54477100c0dcf99fbf65c2beca8ee676c8e6_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anas_bahamensis/398e3b86beba36b4554ed7a8a9254b511acc7c3769a1d4bc7377b46f9b289c17.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Adventurous36",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Adventurous36&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_bahamensis/398e3b86beba36b4554ed7a8a9254b511acc7c3769a1d4bc7377b46f9b289c17_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_bahamensis/474c2fc125bf98aeb121edd92164f4d012ffa5fda281bc854f4b0620b6214362.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dennis G. Jarvis",
+        "url": "https://www.wikidata.org/wiki/Q122977591"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_bahamensis/474c2fc125bf98aeb121edd92164f4d012ffa5fda281bc854f4b0620b6214362_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_bahamensis/9e3396c0645d3fe872c9fdf1e343ff49b7d4aa8e70a831427d7697b549369a4c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, F\u00e9lix Uribe",
+        "url": "https://www.flickr.com/people/24201429@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_bahamensis/9e3396c0645d3fe872c9fdf1e343ff49b7d4aa8e70a831427d7697b549369a4c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_bahamensis/ae24c44f3c51c0d7eb95a862ef570866b834f06dd087988de423143b5c477ea3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, dfaulder",
+        "url": "https://www.flickr.com/photos/38345583@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_bahamensis/ae24c44f3c51c0d7eb95a862ef570866b834f06dd087988de423143b5c477ea3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_bahamensis/b0061b1ef6c7a51c61cd8b6b5d769a2f0c921ba61f0f5091602079df8d990100.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, F\u00e9lix Uribe",
+        "url": "https://www.flickr.com/people/24201429@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anas_bahamensis/b0061b1ef6c7a51c61cd8b6b5d769a2f0c921ba61f0f5091602079df8d990100_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_bahamensis/d3699a6b281a632ac64f063066a9acefee39fadb324feecc561c8134fbda44ae.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anas_bahamensis/d3699a6b281a632ac64f063066a9acefee39fadb324feecc561c8134fbda44ae_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_bahamensis/d684ae66f7bc0269bf98eedd766625d71db58834719c2863bcff5f54c909222c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anas_bahamensis/d684ae66f7bc0269bf98eedd766625d71db58834719c2863bcff5f54c909222c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anas_bahamensis/fd19c94be7b64f4c6fc55b0118da3f1900754a5cf8ce2163434f42f1cc18eecf.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anas_bahamensis/fd19c94be7b64f4c6fc55b0118da3f1900754a5cf8ce2163434f42f1cc18eecf_thumb.jpg"
+    }
+  ]
+}

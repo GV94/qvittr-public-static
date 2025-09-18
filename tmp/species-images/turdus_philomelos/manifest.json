@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/turdus_philomelos/0e6a14ae3c77ff43bd83ccae8b1899d90cfe85bc2e57553219bb7df25d4624b4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dion Art",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Dion_Art&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/turdus_philomelos/0e6a14ae3c77ff43bd83ccae8b1899d90cfe85bc2e57553219bb7df25d4624b4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/turdus_philomelos/1bac8b7eecfbf4586ab48a6a8695f1e006d1c58257b7c889d00ed7a7a497d8d9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_philomelos/1bac8b7eecfbf4586ab48a6a8695f1e006d1c58257b7c889d00ed7a7a497d8d9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_philomelos/665073979be90cab13f70069e82cdfb269a6b6c3cc3fe3069eea0855cf4b8a4a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Michael Palmer",
+        "url": "https://commons.wikimedia.org/wiki/User:Michael_Palmer"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_philomelos/665073979be90cab13f70069e82cdfb269a6b6c3cc3fe3069eea0855cf4b8a4a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_philomelos/7582a9fdecbb1ac42f3b7ca7cacb30747a2e767be4e75e127ec650127a2e001f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kathy B\u00fcscher",
+        "url": "https://www.flickr.com/people/75897683@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_philomelos/7582a9fdecbb1ac42f3b7ca7cacb30747a2e767be4e75e127ec650127a2e001f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_philomelos/addb61699a791c2cc97153e7e999fb9f5509ebd76e0532cf633e45a61f77b827.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/turdus_philomelos/addb61699a791c2cc97153e7e999fb9f5509ebd76e0532cf633e45a61f77b827_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_philomelos/e8325d3a2979f7fc6befe98a829b2f697af07a1c9a627dc6e56b484259f3bef0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Neil Kennedy",
+        "url": "https://www.geograph.org.uk/profile/6892"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_philomelos/e8325d3a2979f7fc6befe98a829b2f697af07a1c9a627dc6e56b484259f3bef0_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/clamator_glandarius/07049fd433536da3b81c0ced37b5732d6fb7435b934ef38c7c6256741bc4d1bf.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Zeynel Cebeci",
+      "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/clamator_glandarius/07049fd433536da3b81c0ced37b5732d6fb7435b934ef38c7c6256741bc4d1bf_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/clamator_glandarius/0b3cbe5ffa6e82afe0a7685fdae4233be3911714b9db5382e75258b43e71a589.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clamator_glandarius/0b3cbe5ffa6e82afe0a7685fdae4233be3911714b9db5382e75258b43e71a589_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clamator_glandarius/8110518f7bbf557061a98484ae57d0df2d165dee2c1c983d9326f0b39bd30f7d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clamator_glandarius/8110518f7bbf557061a98484ae57d0df2d165dee2c1c983d9326f0b39bd30f7d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clamator_glandarius/8cb6b9385452716eca698905bd823e850fb3aef9c73878bd2b5a4cea02399228.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stephen Temple",
+        "url": "https://www.flickr.com/people/122772068@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clamator_glandarius/8cb6b9385452716eca698905bd823e850fb3aef9c73878bd2b5a4cea02399228_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clamator_glandarius/ac70aa60efcadcce81b72d6cbb5a7b6656c4a09c37226d1fbe43fe12cfa7a6c6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clamator_glandarius/ac70aa60efcadcce81b72d6cbb5a7b6656c4a09c37226d1fbe43fe12cfa7a6c6_thumb.jpg"
+    }
+  ]
+}

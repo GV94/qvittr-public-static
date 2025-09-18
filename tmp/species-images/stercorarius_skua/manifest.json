@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/stercorarius_skua/1933f5024a4f85b3dc0bb60444a77aaa4cf2cb68f16f2b07317283088aff48ff.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Psychofox",
+      "url": "https://en.wikipedia.org/wiki/User:Psychofox"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/stercorarius_skua/1933f5024a4f85b3dc0bb60444a77aaa4cf2cb68f16f2b07317283088aff48ff_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/stercorarius_skua/012026ac7d91bed534e1f7a1089766f647df5db64907eda10c2258082db98a0a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rude Health",
+        "url": "https://www.geograph.org.uk/profile/86758"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_skua/012026ac7d91bed534e1f7a1089766f647df5db64907eda10c2258082db98a0a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_skua/ada1d55fff5189be9e932cd39ded331a1b055a4e3e6d72329ed6149f71f0149b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/stercorarius_skua/ada1d55fff5189be9e932cd39ded331a1b055a4e3e6d72329ed6149f71f0149b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_skua/d2979bec81676bc83a0afa2081264879c124c9e44dbd9489882198d1e726cca2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ryan Hodnett",
+        "url": "https://commons.wikimedia.org/wiki/User:Ryan_Hodnett"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_skua/d2979bec81676bc83a0afa2081264879c124c9e44dbd9489882198d1e726cca2_thumb.jpg"
+    }
+  ]
+}

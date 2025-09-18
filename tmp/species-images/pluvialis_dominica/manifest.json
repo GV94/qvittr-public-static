@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/pluvialis_dominica/093bf64ebcfa550630f7f9285e09227ad42da55ece9255ee16a6e2186bfb3e55.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, O. W. Johnson",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/pluvialis_dominica/093bf64ebcfa550630f7f9285e09227ad42da55ece9255ee16a6e2186bfb3e55_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/pluvialis_dominica/5c89c38ceeba57133aabbe55ee6b45aa3f791e18615f7b92bbd6c6c60915ae2f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_dominica/5c89c38ceeba57133aabbe55ee6b45aa3f791e18615f7b92bbd6c6c60915ae2f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_dominica/5d9555ba33b5f2efd9220c599539962cc1936473e3dba7d6640c40e4b26f17d5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_dominica/5d9555ba33b5f2efd9220c599539962cc1936473e3dba7d6640c40e4b26f17d5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_dominica/b07716c9ef62a9648d18fffc9c3ede1ee3641a5a0d34c191a69efd4f39a2a72a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_dominica/b07716c9ef62a9648d18fffc9c3ede1ee3641a5a0d34c191a69efd4f39a2a72a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_dominica/c162af2beaf9b7d1d5e2a151b608368d512a3e66970de12f25b84e17195e67c3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_dominica/c162af2beaf9b7d1d5e2a151b608368d512a3e66970de12f25b84e17195e67c3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_dominica/f4792d18e3451f99abe10f2317aaaca061aba31fd246dacd703e1157ae57fe73.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_dominica/f4792d18e3451f99abe10f2317aaaca061aba31fd246dacd703e1157ae57fe73_thumb.jpg"
+    }
+  ]
+}

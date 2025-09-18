@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tringa_flavipes/baab30bb70563267b955eec2590c597d4c4405494b96d331a05ed9afaece2014.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Wwcsig",
+      "url": "https://commons.wikimedia.org/wiki/User:Wwcsig"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tringa_flavipes/baab30bb70563267b955eec2590c597d4c4405494b96d331a05ed9afaece2014_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tringa_flavipes/39e71c7ef6a6218905ece1dac5e13e0af33df22e2fcf7f36cf615b96acdcacc1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_flavipes/39e71c7ef6a6218905ece1dac5e13e0af33df22e2fcf7f36cf615b96acdcacc1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_flavipes/3ae33a181297b8d3b384c4c946c41220eaf433a99c82f8c838bfd21c5a25ba8a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Robbie Hannawacker",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_flavipes/3ae33a181297b8d3b384c4c946c41220eaf433a99c82f8c838bfd21c5a25ba8a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_flavipes/45c9f2d3ae18f2c4f2d2635bdaf3fabe5b864d9d30efe10bb9af56cf6c9e6e67.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Diego Delso",
+        "url": "https://www.wikidata.org/wiki/Q28147777"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_flavipes/45c9f2d3ae18f2c4f2d2635bdaf3fabe5b864d9d30efe10bb9af56cf6c9e6e67_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_flavipes/8cceb73aaed3180009c3cdeac0f1c3353855ab7b346614b23a8fa2ff96577422.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Robbie Hannawacker",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_flavipes/8cceb73aaed3180009c3cdeac0f1c3353855ab7b346614b23a8fa2ff96577422_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_flavipes/8e9cbd62336930275185825f4d299c1299b7304aef2448f2df6392ddb5b0c8ca.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Robbie Hannawacker",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_flavipes/8e9cbd62336930275185825f4d299c1299b7304aef2448f2df6392ddb5b0c8ca_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_flavipes/955062a595371f3f61f2d0fea18529453195764c2265f9ea2d2a23a3db4c208c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Robbie Hannawacker",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_flavipes/955062a595371f3f61f2d0fea18529453195764c2265f9ea2d2a23a3db4c208c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_flavipes/a892b858c78a9863c67a7fdc021836be587b2226517ebceb00e685f6c5f6ae67.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_flavipes/a892b858c78a9863c67a7fdc021836be587b2226517ebceb00e685f6c5f6ae67_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/locustella_naevia/40baafc78258f4f2ba4fc2d8430080923127bdd8d8ed6fb080c641cc07e7fb8d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Stefan Hage, Birds.se",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/locustella_naevia/40baafc78258f4f2ba4fc2d8430080923127bdd8d8ed6fb080c641cc07e7fb8d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/locustella_naevia/11b0b444434fb3c20e12209d5d3a9758266b88a0dba4df1ed108a234492dff01.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, keith gallie",
+        "url": "https://www.flickr.com/people/119630347@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_naevia/11b0b444434fb3c20e12209d5d3a9758266b88a0dba4df1ed108a234492dff01_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_naevia/791b285023262dc6b0b4905c26e43f89f2fbbb2b4e7a3a167cce4d4b89a1e2d0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve Garvie",
+        "url": "https://www.flickr.com/photos/50079771@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_naevia/791b285023262dc6b0b4905c26e43f89f2fbbb2b4e7a3a167cce4d4b89a1e2d0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_naevia/b97165e0caa1635c97c8568d7ad5480bfa31a5700cebf50a829529555f49bf53.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve Garvie",
+        "url": "https://www.flickr.com/photos/50079771@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_naevia/b97165e0caa1635c97c8568d7ad5480bfa31a5700cebf50a829529555f49bf53_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_naevia/cf4b072d7070cc5c741f6435f9f5b0e966e4c2832cb85d4e6d7901e8efd85343.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Erik Paterson",
+        "url": "https://www.flickr.com/photos/39322251@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_naevia/cf4b072d7070cc5c741f6435f9f5b0e966e4c2832cb85d4e6d7901e8efd85343_thumb.jpg"
+    }
+  ]
+}

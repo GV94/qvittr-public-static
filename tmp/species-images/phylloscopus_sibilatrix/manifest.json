@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_sibilatrix/bde2215b8924b33d09aaf2e0284a016e53f0bdd7e31a454dd95c792a53fc43c1.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Steve Garvie",
+      "url": "https://www.flickr.com/photos/50079771@N08"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_sibilatrix/bde2215b8924b33d09aaf2e0284a016e53f0bdd7e31a454dd95c792a53fc43c1_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_sibilatrix/0330bb962e160a06b8949a2711339a58f756e4778886531ad10aa7471784e478.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marton Berntsen",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Marton_Berntsen&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_sibilatrix/0330bb962e160a06b8949a2711339a58f756e4778886531ad10aa7471784e478_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_sibilatrix/13da40e552414ad57b861a235f540a3fe7a5cd4ec472dd2331fe4c44dd51ae10.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marton Berntsen",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Marton_Berntsen&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_sibilatrix/13da40e552414ad57b861a235f540a3fe7a5cd4ec472dd2331fe4c44dd51ae10_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_sibilatrix/36670afd69ba08ae8a47b7d28f46db825b0daab1ecac425459528f28bd5c83e3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marton Berntsen",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Marton_Berntsen&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_sibilatrix/36670afd69ba08ae8a47b7d28f46db825b0daab1ecac425459528f28bd5c83e3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_sibilatrix/484eff75b0408409ab664eff8196bfebed029a560466cb385993451b111314e6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, IvanGeoPetrov",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:IvanGeoPetrov&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_sibilatrix/484eff75b0408409ab664eff8196bfebed029a560466cb385993451b111314e6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_sibilatrix/fcccac2b02e63ecda8bcd10d971b6c1095928d5b3e55537922e89869b1ae25ff.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marton Berntsen",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Marton_Berntsen&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_sibilatrix/fcccac2b02e63ecda8bcd10d971b6c1095928d5b3e55537922e89869b1ae25ff_thumb.jpg"
+    }
+  ]
+}

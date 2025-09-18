@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phoenicurus_phoenicurus/602550d2be29decb17ba50b8a1913a2c7acf89f243d3a63256ebf47d645a952d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phoenicurus_phoenicurus/602550d2be29decb17ba50b8a1913a2c7acf89f243d3a63256ebf47d645a952d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/3b3e7506a9b02ef66783ba08b4e4d950ca4dac89610f7141a4dfd7b755df9e51.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/3b3e7506a9b02ef66783ba08b4e4d950ca4dac89610f7141a4dfd7b755df9e51_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/3b8615e5f29f318458b03f7d2fb4bee5e56171923f0799280e71fb08fa2c12d6.png",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/3b8615e5f29f318458b03f7d2fb4bee5e56171923f0799280e71fb08fa2c12d6_thumb.png"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/8cc5f214b9e9d4bb6be9fda28827322de89e3831a8990390b6ae0299b00ffc03.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/8cc5f214b9e9d4bb6be9fda28827322de89e3831a8990390b6ae0299b00ffc03_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/8fa63104bdb9ffe89f804c357384ddb67a8f2eb9615b7407cb72b02782ce225d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/8fa63104bdb9ffe89f804c357384ddb67a8f2eb9615b7407cb72b02782ce225d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/a4d9db711a7cd69d64b31d40babd41c400dcc40ef586670411ae9e61d8c71bbf.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/a4d9db711a7cd69d64b31d40babd41c400dcc40ef586670411ae9e61d8c71bbf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/bee0e2a3c908d63cb601af75b559c56278fc080883a7488faf12b0a0791295a0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/bee0e2a3c908d63cb601af75b559c56278fc080883a7488faf12b0a0791295a0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/d99a9cda0edff3febbe22b87e6686ad37d9f57ee2330af0f88bf7ec3226862b7.png",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/d99a9cda0edff3febbe22b87e6686ad37d9f57ee2330af0f88bf7ec3226862b7_thumb.png"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/e6d80b19f2e3c03967b4eac2eaa8aa1bf85770e9ce78f71930173d18b5f54576.png",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/e6d80b19f2e3c03967b4eac2eaa8aa1bf85770e9ce78f71930173d18b5f54576_thumb.png"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_phoenicurus/e83d9f05bc52a2b914bc0a6b87bab3aac5a14541fd617f68dd74958ca08f8349.png",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_phoenicurus/e83d9f05bc52a2b914bc0a6b87bab3aac5a14541fd617f68dd74958ca08f8349_thumb.png"
+    }
+  ]
+}

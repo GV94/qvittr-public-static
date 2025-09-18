@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/vanellus_leucurus/42b26343e662f6edcb6262e82a9406fe79acfd135dc8e299a0e74cf200d4a911.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/vanellus_leucurus/42b26343e662f6edcb6262e82a9406fe79acfd135dc8e299a0e74cf200d4a911_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/vanellus_leucurus/20830c689524df8456056513b8e1baa331b6e7f689575a618dab37b13ff6aebf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, El\u015fad \u0130brahimov",
+        "url": "https://commons.wikimedia.org/wiki/User:Elshad_photo"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_leucurus/20830c689524df8456056513b8e1baa331b6e7f689575a618dab37b13ff6aebf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_leucurus/48bb01acce239d96529cdc6fcf9639b72694ee0591c0b4244651848d79f6fd00.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Sumita Roy Dutta",
+        "url": "https://commons.wikimedia.org/wiki/User:Sumita_Roy_Dutta"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_leucurus/48bb01acce239d96529cdc6fcf9639b72694ee0591c0b4244651848d79f6fd00_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_leucurus/569275590a8ba139b89634e0b11c55dd33967918732414b19cfeb11f90c0efee.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Baldhur",
+        "url": "https://en.wikipedia.org/wiki/de:User:Baldhur"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_leucurus/569275590a8ba139b89634e0b11c55dd33967918732414b19cfeb11f90c0efee_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_leucurus/f141afaf57f756075fba6da8aecf2ec9d12ccf50935e7ec5db8ab0911fb52fcf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jimfbleak",
+        "url": "https://commons.wikimedia.org/wiki/User:Jimfbleak"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_leucurus/f141afaf57f756075fba6da8aecf2ec9d12ccf50935e7ec5db8ab0911fb52fcf_thumb.jpg"
+    }
+  ]
+}

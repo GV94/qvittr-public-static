@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/hippolais_icterina/87844814992547b14b3ba64f84d3ee206f079d30c356f48fb1c07fe28f495eb0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/hippolais_icterina/87844814992547b14b3ba64f84d3ee206f079d30c356f48fb1c07fe28f495eb0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/hippolais_icterina/162678c51c74162a9ae75aaf75153c233d2c8c71d8020b54cde478e36b27845b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hippolais_icterina/162678c51c74162a9ae75aaf75153c233d2c8c71d8020b54cde478e36b27845b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hippolais_icterina/231faf5366c1e1fc72fc5d14e4a662fae63d9cfe0e1eb567c08b15d577fbd375.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hippolais_icterina/231faf5366c1e1fc72fc5d14e4a662fae63d9cfe0e1eb567c08b15d577fbd375_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hippolais_icterina/4233a2e35228b6f1f187757d6e529f4581ca769103f40ce20ba8d578364e7db0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/hippolais_icterina/4233a2e35228b6f1f187757d6e529f4581ca769103f40ce20ba8d578364e7db0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hippolais_icterina/79df0a1e7e88298f910c1e8db12fcc2c00a6fa1fe628f56fc919e22e291e0873.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hippolais_icterina/79df0a1e7e88298f910c1e8db12fcc2c00a6fa1fe628f56fc919e22e291e0873_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hippolais_icterina/c9fc7e260c4daae7ef0e7749a44d5ac8f68f77bda919f7c42a63cdcc0102f096.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hippolais_icterina/c9fc7e260c4daae7ef0e7749a44d5ac8f68f77bda919f7c42a63cdcc0102f096_thumb.jpg"
+    }
+  ]
+}

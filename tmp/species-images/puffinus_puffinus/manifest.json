@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/puffinus_puffinus/8d14858aebab7e878846db5d7b93d0c23aed62e07ce25e39678b1b0e3141bd63.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Matt Witt",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/puffinus_puffinus/8d14858aebab7e878846db5d7b93d0c23aed62e07ce25e39678b1b0e3141bd63_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/puffinus_puffinus/52f9bcf6f9b76d3134a6f829623d93c1853a878f730442a247250b61d7b470b2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/puffinus_puffinus/52f9bcf6f9b76d3134a6f829623d93c1853a878f730442a247250b61d7b470b2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/puffinus_puffinus/c604192a09125341e8f4407ac704c4e74672880cdf29155e5bf985c060a0e475.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/puffinus_puffinus/c604192a09125341e8f4407ac704c4e74672880cdf29155e5bf985c060a0e475_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/puffinus_puffinus/dcc73772e575bbb20cd33bf849f7c607917516469f0a75bcc91f711190b53d0e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/puffinus_puffinus/dcc73772e575bbb20cd33bf849f7c607917516469f0a75bcc91f711190b53d0e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/puffinus_puffinus/f7f31a5f8fe4e0326ffcc7ce68ffb0a139941ecec1df6dfe686324e429b83f5a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, dfaulder",
+        "url": "https://www.flickr.com/people/38345583@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/puffinus_puffinus/f7f31a5f8fe4e0326ffcc7ce68ffb0a139941ecec1df6dfe686324e429b83f5a_thumb.jpg"
+    }
+  ]
+}

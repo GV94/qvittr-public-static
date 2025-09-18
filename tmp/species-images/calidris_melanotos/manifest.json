@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_melanotos/66a3567ddf64f0028c4687a0ede52f90fc9b8680257a2937e5c4179acc0c6d09.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de/"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_melanotos/66a3567ddf64f0028c4687a0ede52f90fc9b8680257a2937e5c4179acc0c6d09_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_melanotos/0266ceb378aaa0cf7f15a403dbe71b1549272048347c9425ebda5344c925239e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, F\u00e9lix Uribe",
+        "url": "https://www.flickr.com/people/24201429@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_melanotos/0266ceb378aaa0cf7f15a403dbe71b1549272048347c9425ebda5344c925239e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_melanotos/466712827823b8e1cf7b3b1cb52637459f0d14001360a82347b31d8451c22e89.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, F\u00e9lix Uribe",
+        "url": "https://www.flickr.com/people/24201429@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_melanotos/466712827823b8e1cf7b3b1cb52637459f0d14001360a82347b31d8451c22e89_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_melanotos/47b776a125b439c246c817963c3b3333d77996b7cc1be9499c8c0ef59aee0fd5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Peter Massas",
+        "url": "https://www.flickr.com/people/23505652@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_melanotos/47b776a125b439c246c817963c3b3333d77996b7cc1be9499c8c0ef59aee0fd5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_melanotos/54cb1c51ad5870727e2b82e3fa97fda9d554bf51515a96ac09c65c136ab6f482.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, F\u00e9lix Uribe",
+        "url": "https://www.flickr.com/people/24201429@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_melanotos/54cb1c51ad5870727e2b82e3fa97fda9d554bf51515a96ac09c65c136ab6f482_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_melanotos/ed845cc023a8b6a15edf6783402c48d686cb877f02242587605e5c929b121686.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alan Vernon",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_melanotos/ed845cc023a8b6a15edf6783402c48d686cb877f02242587605e5c929b121686_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/saxicola_maurus/a2c24e81858af0b9d3fc8c83cb548ad3eca501fe5ec9090a72315d7cb2486ada.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, J.M.Garg",
+      "url": "https://commons.wikimedia.org/wiki/User:J.M.Garg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/saxicola_maurus/a2c24e81858af0b9d3fc8c83cb548ad3eca501fe5ec9090a72315d7cb2486ada_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/saxicola_maurus/3fdccfb8dc13f47e1e59615070d75d17a37247104dcdf71b8a1921083d02d692.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, D\u00fbrzan",
+        "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_maurus/3fdccfb8dc13f47e1e59615070d75d17a37247104dcdf71b8a1921083d02d692_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_maurus/539c393cf2522244b8be42865e5619227c1cdc9460669c669916db3228e31338.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+        "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_maurus/539c393cf2522244b8be42865e5619227c1cdc9460669c669916db3228e31338_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_maurus/7ada5cc3d8afe00858f894665c3215d7b0e49c69c24d59f2a3427596b9c5f0a1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+        "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_maurus/7ada5cc3d8afe00858f894665c3215d7b0e49c69c24d59f2a3427596b9c5f0a1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_maurus/b52e7bca6c734f8025e7b43ef6b69cca5689e522fff89cfe73de4f92ed4faaed.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/saxicola_maurus/b52e7bca6c734f8025e7b43ef6b69cca5689e522fff89cfe73de4f92ed4faaed_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_maurus/b89b56d707230c7a87ab5ab8fd2e0472378ff428fcd917d11a0c64a6dfc5e60c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Shantanu Kuveskar",
+        "url": "https://commons.wikimedia.org/wiki/User:Shantanu_Kuveskar"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_maurus/b89b56d707230c7a87ab5ab8fd2e0472378ff428fcd917d11a0c64a6dfc5e60c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_maurus/bccbfa90ef2dca3774110efbb75a2cf0cb9d7dacb0d916e77182373ff719d885.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Matt Tillett",
+        "url": "https://www.flickr.com/people/39955531@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_maurus/bccbfa90ef2dca3774110efbb75a2cf0cb9d7dacb0d916e77182373ff719d885_thumb.jpg"
+    }
+  ]
+}

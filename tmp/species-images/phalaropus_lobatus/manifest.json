@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phalaropus_lobatus/823a51e0cf2582aad2067453bd9dbd69795067114c709e105ee533b32739294f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, U.S. Fish &amp; Wildlife Service",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phalaropus_lobatus/823a51e0cf2582aad2067453bd9dbd69795067114c709e105ee533b32739294f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phalaropus_lobatus/1ef8320c32a0cfd14b09e938d5a9013704d278b0f1b16e93dafcaa904d39e6d5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, panza-rayada",
+        "url": "https://web.archive.org/web/20161031235304/http://www.panoramio.com/user/2025422?with_photo_id=113337997"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_lobatus/1ef8320c32a0cfd14b09e938d5a9013704d278b0f1b16e93dafcaa904d39e6d5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_lobatus/3262b36ee2d7921ff0820d496093dc6661c5bed9c7a4874b26161700f9494519.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Onioram",
+        "url": "https://commons.wikimedia.org/wiki/User:Onioram"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_lobatus/3262b36ee2d7921ff0820d496093dc6661c5bed9c7a4874b26161700f9494519_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_lobatus/ccb4fc3f429870b6cf95e6bdb477930b158c3dc9905d9d93e8bbfee30d5185e7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_lobatus/ccb4fc3f429870b6cf95e6bdb477930b158c3dc9905d9d93e8bbfee30d5185e7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_lobatus/f609fbfd61851d844fb960ae8bafb2600c113820022ae358393c64bc2b416b6a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_lobatus/f609fbfd61851d844fb960ae8bafb2600c113820022ae358393c64bc2b416b6a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_lobatus/f8fec7252a83f70f6c145659d4b6cbac3e31453f010977a70c20e31d897ae76c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_lobatus/f8fec7252a83f70f6c145659d4b6cbac3e31453f010977a70c20e31d897ae76c_thumb.jpg"
+    }
+  ]
+}

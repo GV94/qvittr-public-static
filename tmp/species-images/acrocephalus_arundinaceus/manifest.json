@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/acrocephalus_arundinaceus/0d0b47de3980cb1daa54ae65346f5b57245d6c855f016f2025ae9023de248a41.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, PeterRohrbeck",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:PeterRohrbeck&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/acrocephalus_arundinaceus/0d0b47de3980cb1daa54ae65346f5b57245d6c855f016f2025ae9023de248a41_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/acrocephalus_arundinaceus/167f581699f9251c5a46f59d97f7d40d335ffe62c25015277ae38774effd6130.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Thomueller",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Thomueller&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_arundinaceus/167f581699f9251c5a46f59d97f7d40d335ffe62c25015277ae38774effd6130_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_arundinaceus/3816b04553d5b74e6fb20b4521d1d42b878fa077d7ac58d9b42f11361090718d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acrocephalus_arundinaceus/3816b04553d5b74e6fb20b4521d1d42b878fa077d7ac58d9b42f11361090718d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_arundinaceus/47164855509d0b7fc7990599f4d301b676250267cd784e88f54e3f3fb156d1f0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_arundinaceus/47164855509d0b7fc7990599f4d301b676250267cd784e88f54e3f3fb156d1f0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_arundinaceus/7e385de669068c5fa273ae9d2c40b96d9369f390906769a0201d4b631c526eb9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_arundinaceus/7e385de669068c5fa273ae9d2c40b96d9369f390906769a0201d4b631c526eb9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_arundinaceus/b7de9f4db5cda8662533a6af813643b047272f06b3b6d282ce5f5783a7d96e1a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_arundinaceus/b7de9f4db5cda8662533a6af813643b047272f06b3b6d282ce5f5783a7d96e1a_thumb.jpg"
+    }
+  ]
+}

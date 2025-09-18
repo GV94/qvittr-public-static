@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/mareca_penelope/3e9ee1819a0df5b5fc7083f589bfa291fb73dcc334aa2a41e046e4ca551cf717.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ian Kirk",
+      "url": "https://www.flickr.com/people/76592037@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/mareca_penelope/3e9ee1819a0df5b5fc7083f589bfa291fb73dcc334aa2a41e046e4ca551cf717_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/mareca_penelope/15db643fbf523d6827492d57a22ef9f3dd1ff7939ef9427882d5be02a9b769f0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Shatruhanray",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Shatruhanray&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_penelope/15db643fbf523d6827492d57a22ef9f3dd1ff7939ef9427882d5be02a9b769f0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_penelope/3df3bf1f429ef3380100b4ffcbc2297241a5484751e4f9f589344af9c296874c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Spencer Wright",
+        "url": "https://www.flickr.com/people/16784359@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_penelope/3df3bf1f429ef3380100b4ffcbc2297241a5484751e4f9f589344af9c296874c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_penelope/5c4c4c326a9524815df52157278c8b5a4803b0a9d6b5bd80de94e0e184fbc457.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frode Inge Helland",
+        "url": "https://commons.wikimedia.org/wiki/User:Frode_Inge_Helland"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_penelope/5c4c4c326a9524815df52157278c8b5a4803b0a9d6b5bd80de94e0e184fbc457_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_penelope/b2d863d9c84b4365e90086da4e39035c187f35fcb84ed2a6988fa247386aa177.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_penelope/b2d863d9c84b4365e90086da4e39035c187f35fcb84ed2a6988fa247386aa177_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_penelope/e36a346e9b2a54c4193ed9b94d5a5e0caf5969f779566efebee216636abaa050.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frode Inge Helland",
+        "url": "https://commons.wikimedia.org/wiki/User:Frode_Inge_Helland"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_penelope/e36a346e9b2a54c4193ed9b94d5a5e0caf5969f779566efebee216636abaa050_thumb.jpg"
+    }
+  ]
+}

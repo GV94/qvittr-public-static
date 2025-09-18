@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_pratensis/33406677c5814b151dac92cdef7420a1096ba291aaccce982013855841d2a05e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_pratensis/33406677c5814b151dac92cdef7420a1096ba291aaccce982013855841d2a05e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_pratensis/4d85a8dee5fc63eab6255e49b500b1d8fe8fa920def05bafe3e0a4f52db62be4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ian Greig",
+        "url": "https://www.geograph.org.uk/profile/9857"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_pratensis/4d85a8dee5fc63eab6255e49b500b1d8fe8fa920def05bafe3e0a4f52db62be4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_pratensis/5bcda0521afd474318f7c12bcb99d36ecc50b3cc06870e3ae5b55c779525f0ab.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anthus_pratensis/5bcda0521afd474318f7c12bcb99d36ecc50b3cc06870e3ae5b55c779525f0ab_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_pratensis/818965e3427839575fce6719d32cdf20170f31cbfa71cea227253d6f0919a561.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lars Vad",
+        "url": "https://web.archive.org/web/20161019195601/http://www.panoramio.com/user/1197399?with_photo_id=51225110"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_pratensis/818965e3427839575fce6719d32cdf20170f31cbfa71cea227253d6f0919a561_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_pratensis/89bd1fecba81f6cf7af64fc0456ed6cd014998e12b92d5ab802a884e5e7ba2f4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ian Greig",
+        "url": "https://www.geograph.org.uk/profile/9857"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_pratensis/89bd1fecba81f6cf7af64fc0456ed6cd014998e12b92d5ab802a884e5e7ba2f4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_pratensis/a066ec36060500faaa67888cad36e64951023b0c152246de841e51d70bc73397.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ian Greig",
+        "url": "https://www.geograph.org.uk/profile/9857"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_pratensis/a066ec36060500faaa67888cad36e64951023b0c152246de841e51d70bc73397_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_pratensis/c037d2f5fafa040ac492a71991ee460faab93812c1b690de267abc657a9143d2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Hillewaert",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_pratensis/c037d2f5fafa040ac492a71991ee460faab93812c1b690de267abc657a9143d2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_pratensis/ca1354f5defaff0d17543bb408c35d0fc68e7123968833071c57e2a8a824afb7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anthus_pratensis/ca1354f5defaff0d17543bb408c35d0fc68e7123968833071c57e2a8a824afb7_thumb.jpg"
+    }
+  ]
+}

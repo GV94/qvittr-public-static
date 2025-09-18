@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/sternula_albifrons/7d66cef4370b269a9706d08fcd58369855c73f73dabb3d42d9bd2c79d44e4f22.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+      "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/sternula_albifrons/7d66cef4370b269a9706d08fcd58369855c73f73dabb3d42d9bd2c79d44e4f22_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/sternula_albifrons/26579ca577a7253d5834d722009767825a5d6f24ac1f091a5dec3746fcb25799.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Agust\u00edn Povedano",
+        "url": "https://www.flickr.com/people/60513640@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sternula_albifrons/26579ca577a7253d5834d722009767825a5d6f24ac1f091a5dec3746fcb25799_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sternula_albifrons/5a38b1833e66ab1f688df2b701e0d426b1b14bd1cb595b2331ae5e0709feeb8a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Agust\u00edn Povedano",
+        "url": "https://www.flickr.com/people/60513640@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sternula_albifrons/5a38b1833e66ab1f688df2b701e0d426b1b14bd1cb595b2331ae5e0709feeb8a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sternula_albifrons/7880c2bb0243f8bcd2e73b39bf192a739b174c62bf660e57ded3c80a24d455a0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Agust\u00edn Povedano",
+        "url": "https://www.flickr.com/people/60513640@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sternula_albifrons/7880c2bb0243f8bcd2e73b39bf192a739b174c62bf660e57ded3c80a24d455a0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sternula_albifrons/c57b1701eab3dab37dc70101960566c20c3bbf5b9ddf3695cc920f41629def62.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Agust\u00edn Povedano",
+        "url": "https://www.flickr.com/people/60513640@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sternula_albifrons/c57b1701eab3dab37dc70101960566c20c3bbf5b9ddf3695cc920f41629def62_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sternula_albifrons/d3c9dc6567b31438acf66081549e34987ec95093a0b30d125b2db2adf788101e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Agust\u00edn Povedano",
+        "url": "https://www.flickr.com/people/60513640@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sternula_albifrons/d3c9dc6567b31438acf66081549e34987ec95093a0b30d125b2db2adf788101e_thumb.jpg"
+    }
+  ]
+}

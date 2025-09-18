@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/ardea_alba/250abe70a1ee01fa9d5ff129b3bbf022d3deb287219f001adc4a6c6b90f23e33.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Zeynel Cebeci",
+      "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/ardea_alba/250abe70a1ee01fa9d5ff129b3bbf022d3deb287219f001adc4a6c6b90f23e33_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/ardea_alba/18fa177396a5f26204ea23e935c9f47dff1e1d38ff8003d19e9e16c05edb7d71.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, patriciafarrell89",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardea_alba/18fa177396a5f26204ea23e935c9f47dff1e1d38ff8003d19e9e16c05edb7d71_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_alba/67c33617a38700f584c375cd6608717a002f0f4db73e3ada83cb3fe7969141fb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, NOAA Photo Library",
+        "url": "https://www.flickr.com/people/51647007@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardea_alba/67c33617a38700f584c375cd6608717a002f0f4db73e3ada83cb3fe7969141fb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_alba/9f6288084e36d8c8d6e60a61d3a143f8c50cd6b6bc75b06c44fcfcd75ded73bd.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ardea_alba/9f6288084e36d8c8d6e60a61d3a143f8c50cd6b6bc75b06c44fcfcd75ded73bd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_alba/e6baf530c71d7fa5d39cb84fe0dd904a466417efe787c452f92439883f4c64c8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ardea_alba/e6baf530c71d7fa5d39cb84fe0dd904a466417efe787c452f92439883f4c64c8_thumb.jpg"
+    }
+  ]
+}

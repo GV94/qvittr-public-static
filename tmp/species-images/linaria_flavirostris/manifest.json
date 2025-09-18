@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/linaria_flavirostris/ab564259481f8ff9dec9e24f893439632d0dec95fd591fb49deba3185ccb27df.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Vogelartinfo",
+      "url": "https://commons.wikimedia.org/wiki/User:Vogelartinfo"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/linaria_flavirostris/ab564259481f8ff9dec9e24f893439632d0dec95fd591fb49deba3185ccb27df_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/linaria_flavirostris/5d5c3db807deddae13ca7c8b92803ee9998b45c56b8d0951fda2bbd23c36ed5e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/linaria_flavirostris/5d5c3db807deddae13ca7c8b92803ee9998b45c56b8d0951fda2bbd23c36ed5e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/linaria_flavirostris/6b41345ad6428b61c484329d70feb32b5d1acca3df0262671ff2e2755a76d002.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/linaria_flavirostris/6b41345ad6428b61c484329d70feb32b5d1acca3df0262671ff2e2755a76d002_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/linaria_flavirostris/99402961cb3b5fa3ead8fc265448fb1f818bc6b9665000cbe112469f13e2b382.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/linaria_flavirostris/99402961cb3b5fa3ead8fc265448fb1f818bc6b9665000cbe112469f13e2b382_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/linaria_flavirostris/be825a2072ef82551caa8f2909165dcd89f90504916c4314368621e3b9c75062.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, GerritR",
+        "url": "https://commons.wikimedia.org/wiki/User:GerritR"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/linaria_flavirostris/be825a2072ef82551caa8f2909165dcd89f90504916c4314368621e3b9c75062_thumb.jpg"
+    }
+  ]
+}

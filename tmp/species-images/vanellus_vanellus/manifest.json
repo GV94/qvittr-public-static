@@ -1,0 +1,103 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/vanellus_vanellus/a3ff44bc1b2a7afb37e2a6de27a27ae90590d511afe161d8f2725415cb82b0d3.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/vanellus_vanellus/a3ff44bc1b2a7afb37e2a6de27a27ae90590d511afe161d8f2725415cb82b0d3_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/vanellus_vanellus/0a8cf04f249de5e721e230cdbadaea81c8a4925152b7d61df0354a57e1e5a186.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luiz Lapa",
+        "url": "https://www.flickr.com/people/181980422@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_vanellus/0a8cf04f249de5e721e230cdbadaea81c8a4925152b7d61df0354a57e1e5a186_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/1176704750b3727def4844fc71a8c4822b7b80b88070b40774684ab02ef8f9d5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/vanellus_vanellus/1176704750b3727def4844fc71a8c4822b7b80b88070b40774684ab02ef8f9d5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/1ed2eabd3d04d0652ad22821a3ad2a7e37cd43986b496c3fd639415ddf481b96.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luiz Lapa",
+        "url": "https://www.flickr.com/people/181980422@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_vanellus/1ed2eabd3d04d0652ad22821a3ad2a7e37cd43986b496c3fd639415ddf481b96_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/3c9cab9486bef0e2240777f6587f0199cba69992e5a6ad9613b0e305c29f0a91.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/vanellus_vanellus/3c9cab9486bef0e2240777f6587f0199cba69992e5a6ad9613b0e305c29f0a91_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/53cefb09c3e82c7a1a94354f80f43c22e92379a237a3cee139d35ca68c85c7e8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/vanellus_vanellus/53cefb09c3e82c7a1a94354f80f43c22e92379a237a3cee139d35ca68c85c7e8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/62de190e40d6102b247c7d469ea8cce28011d47b7979c76dbcf0dc835de1abbe.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/vanellus_vanellus/62de190e40d6102b247c7d469ea8cce28011d47b7979c76dbcf0dc835de1abbe_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/76103ff705f1c60f7b7c4af21045c3ac73018e67ff0fb9310ca3021042a4dc33.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jos\u00e9 Prego",
+        "url": "https://www.flickr.com/people/64119902@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_vanellus/76103ff705f1c60f7b7c4af21045c3ac73018e67ff0fb9310ca3021042a4dc33_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/9958aa2faef19e778c9a501530bcd6da63d999458a8f8f034584444ad4160157.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luiz Lapa",
+        "url": "https://www.flickr.com/people/181980422@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_vanellus/9958aa2faef19e778c9a501530bcd6da63d999458a8f8f034584444ad4160157_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/a55f8bcdec380f539ae66c58d6995fef79947d8259d571b73fdec182e005b1ac.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/vanellus_vanellus/a55f8bcdec380f539ae66c58d6995fef79947d8259d571b73fdec182e005b1ac_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/vanellus_vanellus/c5e1fef55e358af1dbee90841ac917167420837bdb6c923347724daa203e8376.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gouwenaar",
+        "url": "https://commons.wikimedia.org/wiki/User:Gouwenaar"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/vanellus_vanellus/c5e1fef55e358af1dbee90841ac917167420837bdb6c923347724daa203e8376_thumb.jpg"
+    }
+  ]
+}

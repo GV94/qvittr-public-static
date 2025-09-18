@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_campestris/8e0040f0571bf133dcae81d3d525107169ebd0cf2bde7ebd54bfd8e3d6fcad8b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+      "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_campestris/8e0040f0571bf133dcae81d3d525107169ebd0cf2bde7ebd54bfd8e3d6fcad8b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_campestris/0983af7d5fadcf58ecddc7b028e0d3c8c51788dde6a3f61b6d2c7de165d09b59.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+        "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_campestris/0983af7d5fadcf58ecddc7b028e0d3c8c51788dde6a3f61b6d2c7de165d09b59_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_campestris/19ee9864804b62e7c41b04b22da5dd0d36bfec78976eda1a3b3d1189971bfc40.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, putneymark",
+        "url": "https://www.flickr.com/people/23005733@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_campestris/19ee9864804b62e7c41b04b22da5dd0d36bfec78976eda1a3b3d1189971bfc40_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_campestris/21e4d591603ce55942f4cb73a819aa1c700ed9fda5be5a8cd1c829eb81541618.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anthus_campestris/21e4d591603ce55942f4cb73a819aa1c700ed9fda5be5a8cd1c829eb81541618_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_campestris/2472198020de5e63ad9af4187a23bc9c08b683cc66584ac807ebec0700f9b11e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_campestris/2472198020de5e63ad9af4187a23bc9c08b683cc66584ac807ebec0700f9b11e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_campestris/7cd3ab07a518d8fcbcf9f042509e77c1d848a553d39dce4759cc27bdd567d630.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anthus_campestris/7cd3ab07a518d8fcbcf9f042509e77c1d848a553d39dce4759cc27bdd567d630_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_campestris/866b75e83a355390ac791d1af75fe03d9c3b4443391584397e0e31aba7fd4a50.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_campestris/866b75e83a355390ac791d1af75fe03d9c3b4443391584397e0e31aba7fd4a50_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_campestris/9ff702603ce761c890df0a0dd5a0243b332b837775ffa07ccbcabfddc00bdea8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anthus_campestris/9ff702603ce761c890df0a0dd5a0243b332b837775ffa07ccbcabfddc00bdea8_thumb.jpg"
+    }
+  ]
+}

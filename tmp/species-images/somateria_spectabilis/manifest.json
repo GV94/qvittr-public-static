@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/somateria_spectabilis/110fef44190b131e3c6a0bb0924847a52ace66c5586301e42fcc93ab7551daaa.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/somateria_spectabilis/110fef44190b131e3c6a0bb0924847a52ace66c5586301e42fcc93ab7551daaa_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/somateria_spectabilis/523743edc501265131485c3375b08adf87f02f3752b59e3fd874429a9940f36c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/somateria_spectabilis/523743edc501265131485c3375b08adf87f02f3752b59e3fd874429a9940f36c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/somateria_spectabilis/a00b0b372fb8e290543e46c775ba6acbe82c5a67f4f56b1a321c4e4721ba8e96.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/somateria_spectabilis/a00b0b372fb8e290543e46c775ba6acbe82c5a67f4f56b1a321c4e4721ba8e96_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/somateria_spectabilis/eadaa1c2d04f12a730bd1d091ae474090893656e96ae5d87dc604df404a4c018.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/somateria_spectabilis/eadaa1c2d04f12a730bd1d091ae474090893656e96ae5d87dc604df404a4c018_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/somateria_spectabilis/f9864bb0c77674b7ee34d87fd7e2dd84b7660fa2840a6fe74de4a96fc8ab8911.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/somateria_spectabilis/f9864bb0c77674b7ee34d87fd7e2dd84b7660fa2840a6fe74de4a96fc8ab8911_thumb.jpg"
+    }
+  ]
+}

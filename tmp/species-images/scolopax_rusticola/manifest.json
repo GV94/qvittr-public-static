@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/scolopax_rusticola/e878bb40cd7b3c2c5db868d54f9b7621b052b2b88c9c8488f9e07f3a18da6d1b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, JJ Harrison",
+      "url": "https://commons.wikimedia.org/wiki/User:JJ_Harrison"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/scolopax_rusticola/e878bb40cd7b3c2c5db868d54f9b7621b052b2b88c9c8488f9e07f3a18da6d1b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/scolopax_rusticola/703052aa4210aea1c30aef926b3b863f1e68d68ee2fdefc23ebba5a748d8f9a9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/scolopax_rusticola/703052aa4210aea1c30aef926b3b863f1e68d68ee2fdefc23ebba5a748d8f9a9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/scolopax_rusticola/a4b35131190f1c9d9dc315f87c126d52a4da62e194559a496d7e214d5d8d5ae7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/scolopax_rusticola/a4b35131190f1c9d9dc315f87c126d52a4da62e194559a496d7e214d5d8d5ae7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/scolopax_rusticola/fece6de80b3e737a925cabd9c3fb47667d09f2bca4cf8e4c5a2b6d8608d577b0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rohit Naniwadekar",
+        "url": "https://commons.wikimedia.org/wiki/User:Rohitjahnavi"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/scolopax_rusticola/fece6de80b3e737a925cabd9c3fb47667d09f2bca4cf8e4c5a2b6d8608d577b0_thumb.jpg"
+    }
+  ]
+}

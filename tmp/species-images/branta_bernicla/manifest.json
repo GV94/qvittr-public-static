@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/branta_bernicla/09748c04070031b666c814fe7c15f42bc28299c5d870ba1c7d425d3cb50d93ef.jpeg",
+    "attribution": {
+      "label": "Wikimedia Commons, Chgans",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Chgans&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/branta_bernicla/09748c04070031b666c814fe7c15f42bc28299c5d870ba1c7d425d3cb50d93ef_thumb.jpeg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/branta_bernicla/16dce9f7505271be4e5cb843f53e09658a631d1279f2dc42d5a59cc82e0e47cb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, lwolfartist",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_bernicla/16dce9f7505271be4e5cb843f53e09658a631d1279f2dc42d5a59cc82e0e47cb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_bernicla/80aea606df0561f0fb044da0e0f152f7304053f2da03d55e9b9287beae05c9a0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_bernicla/80aea606df0561f0fb044da0e0f152f7304053f2da03d55e9b9287beae05c9a0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_bernicla/9b1f3e7db04ee16a6e76f15c4dfa21119e74c9688a0cc7e51d8619802425c87e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, lwolfartist",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_bernicla/9b1f3e7db04ee16a6e76f15c4dfa21119e74c9688a0cc7e51d8619802425c87e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_bernicla/ba9b7d51d69fc4ee99f97a7888566fcef730e1d08cb20bc09219c067682343e3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, lwolfartist",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_bernicla/ba9b7d51d69fc4ee99f97a7888566fcef730e1d08cb20bc09219c067682343e3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_bernicla/d75fa24d93408b08cf2b2b33e2f517da74b14c7106d56660f97f18361145f21d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, lwolfartist",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_bernicla/d75fa24d93408b08cf2b2b33e2f517da74b14c7106d56660f97f18361145f21d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_bernicla/db8047eb79f3452fcee2d900342e8c6b4cd1eb71ca2839c126e88ac3f9cfd455.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, lwolfartist",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_bernicla/db8047eb79f3452fcee2d900342e8c6b4cd1eb71ca2839c126e88ac3f9cfd455_thumb.jpg"
+    }
+  ]
+}

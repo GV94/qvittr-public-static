@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/oenanthe_pleschanka/69de14f543bca34b7ec74bd5cefbeda659b3957a8bcc56a027b3be3961cfa3e4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/oenanthe_pleschanka/69de14f543bca34b7ec74bd5cefbeda659b3957a8bcc56a027b3be3961cfa3e4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/oenanthe_pleschanka/aae43e856c844bbb72a2e1414aa5106f5c3893c4fd1b74d2070d55ee2f9b66b9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Pennington",
+        "url": "https://www.geograph.org.uk/profile/9715"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oenanthe_pleschanka/aae43e856c844bbb72a2e1414aa5106f5c3893c4fd1b74d2070d55ee2f9b66b9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oenanthe_pleschanka/e0000b34aa7c5c3a943c5340b42c366fdfe8028eb65c09db22ef405d69c891cc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Francesco Veronesi",
+        "url": "https://www.flickr.com/people/30818542@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oenanthe_pleschanka/e0000b34aa7c5c3a943c5340b42c366fdfe8028eb65c09db22ef405d69c891cc_thumb.jpg"
+    }
+  ]
+}

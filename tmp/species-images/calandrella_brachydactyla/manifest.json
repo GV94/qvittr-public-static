@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calandrella_brachydactyla/f13da9d4d6192f342f876ea0a92334eb89ee48cc1661b8314003eb4e18dcc940.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Juan Lacruz",
+      "url": "https://commons.wikimedia.org/wiki/User:Juan_lacruz"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calandrella_brachydactyla/f13da9d4d6192f342f876ea0a92334eb89ee48cc1661b8314003eb4e18dcc940_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calandrella_brachydactyla/086bc883bffa1520b7eb21777c9dcf8a172a50065bc9df3510f1563879512e98.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, J\u00e1n Svetl\u00edk",
+        "url": "https://www.flickr.com/people/95305504@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calandrella_brachydactyla/086bc883bffa1520b7eb21777c9dcf8a172a50065bc9df3510f1563879512e98_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calandrella_brachydactyla/2b5252c0fd62a4f2a881f77459df419761a4e12afe59f301f86d7ce9344adba0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calandrella_brachydactyla/2b5252c0fd62a4f2a881f77459df419761a4e12afe59f301f86d7ce9344adba0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calandrella_brachydactyla/4e4c917d298e6bd7e7f70885ba3f597f5c41447fdcceec4f24b11531fa4fc127.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calandrella_brachydactyla/4e4c917d298e6bd7e7f70885ba3f597f5c41447fdcceec4f24b11531fa4fc127_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calandrella_brachydactyla/fc3d3bb0da71f5581136338e4c2685b23fbc59180f1b1959dd671c037ab8c35e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calandrella_brachydactyla/fc3d3bb0da71f5581136338e4c2685b23fbc59180f1b1959dd671c037ab8c35e_thumb.jpg"
+    }
+  ]
+}

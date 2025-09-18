@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/limnodromus_scolopaceus/83f2c1cb2ceb5fa2f583799971f616620f50c359c5518653006a3b89c82d9cba.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/limnodromus_scolopaceus/83f2c1cb2ceb5fa2f583799971f616620f50c359c5518653006a3b89c82d9cba_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/limnodromus_scolopaceus/00e1c469b090c2a122766197e28ca9ed572e1fb2bb6939afededc71ee74d8299.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Oregon Department of Fish &amp; Wildlife",
+        "url": "https://www.flickr.com/people/39743308@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limnodromus_scolopaceus/00e1c469b090c2a122766197e28ca9ed572e1fb2bb6939afededc71ee74d8299_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limnodromus_scolopaceus/2bccb8f9a5c84ae34c4481a479be2bd3a395d31950d13bdd60b46f943abf021d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Oregon Department of Fish &amp; Wildlife",
+        "url": "https://www.flickr.com/people/39743308@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limnodromus_scolopaceus/2bccb8f9a5c84ae34c4481a479be2bd3a395d31950d13bdd60b46f943abf021d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limnodromus_scolopaceus/59726b2525ca51ff90369d73246afbbadded4193645821d9eead63ba8e5f02d0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alan D. Wilson, www.naturespicsonline.com",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limnodromus_scolopaceus/59726b2525ca51ff90369d73246afbbadded4193645821d9eead63ba8e5f02d0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limnodromus_scolopaceus/cf2a9e73df2b93afa7bb7ed5a33414640ef55fb9d43bee9e9cb37918e993b7d2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limnodromus_scolopaceus/cf2a9e73df2b93afa7bb7ed5a33414640ef55fb9d43bee9e9cb37918e993b7d2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limnodromus_scolopaceus/df6c63d8c6e304d16be1bc9f8680436d51b66a3da368cb6d2c5c7dfc8fe43ef2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limnodromus_scolopaceus/df6c63d8c6e304d16be1bc9f8680436d51b66a3da368cb6d2c5c7dfc8fe43ef2_thumb.jpg"
+    }
+  ]
+}

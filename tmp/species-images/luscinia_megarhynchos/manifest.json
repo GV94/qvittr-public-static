@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/luscinia_megarhynchos/4c271f841ee24ab49bdc2673a8ef998a9258cfbfc52828c398936fd7ca5d02e8.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Bernard DUPONT",
+      "url": "https://www.flickr.com/people/65695019@N07"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/luscinia_megarhynchos/4c271f841ee24ab49bdc2673a8ef998a9258cfbfc52828c398936fd7ca5d02e8_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/luscinia_megarhynchos/0a458ed928c43ccaa1b7f29dc3d92e496abd7f57f8348cbaa0664730242603db.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bernard DUPONT",
+        "url": "https://www.flickr.com/people/65695019@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_megarhynchos/0a458ed928c43ccaa1b7f29dc3d92e496abd7f57f8348cbaa0664730242603db_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_megarhynchos/243db1c3420bb961b970f16fe55ec3d395890d7dae13d83eea5a4bd84dcaf3bb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, D\u00fbrzan C\u00eerano",
+        "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_megarhynchos/243db1c3420bb961b970f16fe55ec3d395890d7dae13d83eea5a4bd84dcaf3bb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_megarhynchos/3ad76633c103142d5f9e3fe25e293c62f86d48071253c643eddad98179352067.png",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/luscinia_megarhynchos/3ad76633c103142d5f9e3fe25e293c62f86d48071253c643eddad98179352067_thumb.png"
+    },
+    {
+      "largeUrl": "species-images/luscinia_megarhynchos/b193b0e989ae2b4cbb19b8529737d1b4cdf4772f59463654adecfe447e02e361.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bernard DUPONT",
+        "url": "https://www.flickr.com/people/65695019@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_megarhynchos/b193b0e989ae2b4cbb19b8529737d1b4cdf4772f59463654adecfe447e02e361_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_megarhynchos/e8ed1141c63d2a87e6a93cabbc21cbb15805a081c419bac84b8fc65a3caaf98a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_megarhynchos/e8ed1141c63d2a87e6a93cabbc21cbb15805a081c419bac84b8fc65a3caaf98a_thumb.jpg"
+    }
+  ]
+}

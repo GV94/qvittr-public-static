@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/fringilla_montifringilla/a0030c8d6ab14dc70b39c8a9948103f04b4ca2191afbd62c54a70ed04990c062.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Stefan Berndtsson",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/fringilla_montifringilla/a0030c8d6ab14dc70b39c8a9948103f04b4ca2191afbd62c54a70ed04990c062_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/fringilla_montifringilla/0ce56b1b294e1ce07dd05619f0a7548c243d4f6087c3399c4c395eed8a4a8b1a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fringilla_montifringilla/0ce56b1b294e1ce07dd05619f0a7548c243d4f6087c3399c4c395eed8a4a8b1a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fringilla_montifringilla/53a7333ac33f6ee58b763b943f8aaefdac43de4fe34d2c1fbdbb561099981c2d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Maren Winter",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Kickapoo&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fringilla_montifringilla/53a7333ac33f6ee58b763b943f8aaefdac43de4fe34d2c1fbdbb561099981c2d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fringilla_montifringilla/83e93b5fc8d37b0b2a011a05819a65bd910a281f6e63427ba53f43f6c5b6e20c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Maren Winter",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Kickapoo&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fringilla_montifringilla/83e93b5fc8d37b0b2a011a05819a65bd910a281f6e63427ba53f43f6c5b6e20c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fringilla_montifringilla/8644f0c9e3f7b57d0f5c45f4f6c71cfd18858df8c5ce8ccb39a24b718d51d280.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Maren Winter",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Kickapoo&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fringilla_montifringilla/8644f0c9e3f7b57d0f5c45f4f6c71cfd18858df8c5ce8ccb39a24b718d51d280_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fringilla_montifringilla/ea8fd35ee477bb5715015606767b274917d642b118a2197b2a6d975e466c831e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/fringilla_montifringilla/ea8fd35ee477bb5715015606767b274917d642b118a2197b2a6d975e466c831e_thumb.jpg"
+    }
+  ]
+}

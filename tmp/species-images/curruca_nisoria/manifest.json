@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/curruca_nisoria/1f3c06dc0de962936f1016241849270d34eb69aaea1136326d17140fcc25172a.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/curruca_nisoria/1f3c06dc0de962936f1016241849270d34eb69aaea1136326d17140fcc25172a_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/curruca_nisoria/09a12a7c5beb67d2cd3d7eaffde0b79e11b5cfe32e7b42fba3c73df452569219.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nisoria/09a12a7c5beb67d2cd3d7eaffde0b79e11b5cfe32e7b42fba3c73df452569219_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_nisoria/1d80356b5bca5ae284d8647a21d76aa9aad97e7f87551d04a8b746e5c62aa38e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nisoria/1d80356b5bca5ae284d8647a21d76aa9aad97e7f87551d04a8b746e5c62aa38e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_nisoria/5da5ecd783c8075a260774be2c3025b9e11fa324882ef24d70ffba0b74ae4aa9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nisoria/5da5ecd783c8075a260774be2c3025b9e11fa324882ef24d70ffba0b74ae4aa9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_nisoria/9f494ed1f62d7d038f8985a55ff16d0a66eae45108a2fc7614ca15417af3cdbb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nisoria/9f494ed1f62d7d038f8985a55ff16d0a66eae45108a2fc7614ca15417af3cdbb_thumb.jpg"
+    }
+  ]
+}

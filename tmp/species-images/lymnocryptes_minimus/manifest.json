@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/lymnocryptes_minimus/c8ae1c355267de619c8c8bc149e489e8b5d905f3e17fc725bd1ff623cca321de.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+      "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/lymnocryptes_minimus/c8ae1c355267de619c8c8bc149e489e8b5d905f3e17fc725bd1ff623cca321de_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/lymnocryptes_minimus/16d361f58012e6057d042b62b4147080d430120209898be8aefce5f5c2de0925.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alastair Rae",
+        "url": "https://www.flickr.com/people/55663585@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lymnocryptes_minimus/16d361f58012e6057d042b62b4147080d430120209898be8aefce5f5c2de0925_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lymnocryptes_minimus/731125962dcbdc23b69b5ffeee91d8dfe7feb03b21211756f72798e4957f3cb5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Sangyam adventurer",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Sangyam_adventurer&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lymnocryptes_minimus/731125962dcbdc23b69b5ffeee91d8dfe7feb03b21211756f72798e4957f3cb5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lymnocryptes_minimus/abff074b2fde8bd090ef3741e9ccb346586df02b890592df7af06e6ec86954fc.png",
+      "attribution": {
+        "label": "Wikimedia Commons, L\u00e9na Gah\u00e9ry",
+        "url": "https://commons.wikimedia.org/wiki/User:L%C3%A9na_Gah%C3%A9ry"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lymnocryptes_minimus/abff074b2fde8bd090ef3741e9ccb346586df02b890592df7af06e6ec86954fc_thumb.png"
+    },
+    {
+      "largeUrl": "species-images/lymnocryptes_minimus/ec0bf3059f0aa44fb0d25347901137c57ccca8daf0dfc2a2476f776960a830fe.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lymnocryptes_minimus/ec0bf3059f0aa44fb0d25347901137c57ccca8daf0dfc2a2476f776960a830fe_thumb.jpg"
+    }
+  ]
+}

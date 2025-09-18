@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/upupa_epops/f84c6218a307188c50bb6b8b2a6ad7ac5ae31c04758b92129e1e74c2fe35a895.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Keta",
+      "url": "https://commons.wikimedia.org/wiki/User:Keta"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/upupa_epops/f84c6218a307188c50bb6b8b2a6ad7ac5ae31c04758b92129e1e74c2fe35a895_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/upupa_epops/34c29aafa11daab0d623eda590346da564dbd3fb1f8b6897c20edeea27bf6da0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/upupa_epops/34c29aafa11daab0d623eda590346da564dbd3fb1f8b6897c20edeea27bf6da0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/4fcd6b43d99725cbb1c3b7d2629b5016064962c7ee7e92400105334546e2c8b6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Shantanu Kuveskar",
+        "url": "https://commons.wikimedia.org/wiki/User:Shantanu_Kuveskar"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/upupa_epops/4fcd6b43d99725cbb1c3b7d2629b5016064962c7ee7e92400105334546e2c8b6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/66309afe7d9023f5071b6c2d08c6a07fa78d26b46689a5cc4a642e8c37674c33.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pierre-Marie Epiney",
+        "url": "https://www.flickr.com/people/83657186@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/upupa_epops/66309afe7d9023f5071b6c2d08c6a07fa78d26b46689a5cc4a642e8c37674c33_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/af71ad6a6e77ef9130a06dd933d3c366b8dea7647084c29fcfe7dd84dbc6193b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/upupa_epops/af71ad6a6e77ef9130a06dd933d3c366b8dea7647084c29fcfe7dd84dbc6193b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/bed907281aedd1896b509aae400ac761ef2d78a226fb0d66ba90ac419e8a8c27.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/upupa_epops/bed907281aedd1896b509aae400ac761ef2d78a226fb0d66ba90ac419e8a8c27_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/c3a447729af5b51369a35f6f94f2756003ac0ff2063cc1be91e34da8a85a6fba.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/upupa_epops/c3a447729af5b51369a35f6f94f2756003ac0ff2063cc1be91e34da8a85a6fba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/d736f3be5fe36faec57ccda78cdec62482f790aee7017af0b4e93c098a3c89f8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari K  Patibanda",
+        "url": "https://www.flickr.com/people/34176693@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/upupa_epops/d736f3be5fe36faec57ccda78cdec62482f790aee7017af0b4e93c098a3c89f8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/da22652a9179bab8523932248f531367ba25fd5bc1f4968ebf294a1e320ed05e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Giles Laurent",
+        "url": "https://commons.wikimedia.org/wiki/User:Giles_Laurent"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/upupa_epops/da22652a9179bab8523932248f531367ba25fd5bc1f4968ebf294a1e320ed05e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/upupa_epops/f7e7ca8679e0a6221589bf17ad6f93ba85c822c6d5b0ec7b2f885349d10a71c5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/upupa_epops/f7e7ca8679e0a6221589bf17ad6f93ba85c822c6d5b0ec7b2f885349d10a71c5_thumb.jpg"
+    }
+  ]
+}

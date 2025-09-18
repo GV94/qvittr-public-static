@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_ferruginea/58bb475b97e480fa94a9511959b3a7b2bf4410856c2ea46ff46fb06e64dd1868.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Davidvraju",
+      "url": "https://commons.wikimedia.org/wiki/User:Davidvraju"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_ferruginea/58bb475b97e480fa94a9511959b3a7b2bf4410856c2ea46ff46fb06e64dd1868_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_ferruginea/1b58fa03df614a19d902a8a0346ec0c47058ef0281266492de223fe6aa3ff1f4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dr. Raju Kasambe",
+        "url": "https://commons.wikimedia.org/wiki/User:Dr._Raju_Kasambe"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_ferruginea/1b58fa03df614a19d902a8a0346ec0c47058ef0281266492de223fe6aa3ff1f4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_ferruginea/1cf80d12994bf1b3f13f339c02695764ef6f6f6c572c0c0bd675479f452c8501.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dr. Raju Kasambe",
+        "url": "https://commons.wikimedia.org/wiki/User:Dr._Raju_Kasambe"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_ferruginea/1cf80d12994bf1b3f13f339c02695764ef6f6f6c572c0c0bd675479f452c8501_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_ferruginea/26b3973021941a5c4ef757813e253a854a18e361623eadbc23e2c6b459d63c1b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marek Szczepanek",
+        "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_ferruginea/26b3973021941a5c4ef757813e253a854a18e361623eadbc23e2c6b459d63c1b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_ferruginea/cdab340718c7520143d2d41c4fea63ccd18e89f7edac35de6bfff12885648621.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_ferruginea/cdab340718c7520143d2d41c4fea63ccd18e89f7edac35de6bfff12885648621_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_ferruginea/fbe7fd446a6eb377b4e612f621a8dcb04179890e8b1dd8a4ab7bb4076188110f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_ferruginea/fbe7fd446a6eb377b4e612f621a8dcb04179890e8b1dd8a4ab7bb4076188110f_thumb.jpg"
+    }
+  ]
+}

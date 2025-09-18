@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/dendrocopos_leucotos/ec81cb890d4023dd2bbd00ba874008c423482d006fb5950a4c49cc285d28911c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Alastair Rae",
+      "url": "https://commons.wikimedia.org/wiki/User:Alastair_Rae"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/dendrocopos_leucotos/ec81cb890d4023dd2bbd00ba874008c423482d006fb5950a4c49cc285d28911c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/dendrocopos_leucotos/0c3e4a8ad511a4ae8602e203bab08497f2a394eb80d761cc0b793e17753d7983.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrew Bazdyrev",
+        "url": "https://www.inaturalist.org/users/2567886"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/dendrocopos_leucotos/0c3e4a8ad511a4ae8602e203bab08497f2a394eb80d761cc0b793e17753d7983_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/dendrocopos_leucotos/166297954454799e071b9caa1c577ab81a1225fbafca9898f0110afaacdd88b4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stolbovsky",
+        "url": "https://commons.wikimedia.org/wiki/User:Stolbovsky"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/dendrocopos_leucotos/166297954454799e071b9caa1c577ab81a1225fbafca9898f0110afaacdd88b4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/dendrocopos_leucotos/592abe805c5ff73515c55c72602d83b46355b72c57fdffcab41ee8a04c8b076a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Fyodor Pudovikov",
+        "url": "https://www.inaturalist.org/users/2501751"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/dendrocopos_leucotos/592abe805c5ff73515c55c72602d83b46355b72c57fdffcab41ee8a04c8b076a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/dendrocopos_leucotos/89237ab1a49623507f1a4c4074ee0ac3fe82e5df42d66590f16b0e251fbad1a4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrew Bazdyrev",
+        "url": "https://www.inaturalist.org/users/2567886"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/dendrocopos_leucotos/89237ab1a49623507f1a4c4074ee0ac3fe82e5df42d66590f16b0e251fbad1a4_thumb.jpg"
+    }
+  ]
+}

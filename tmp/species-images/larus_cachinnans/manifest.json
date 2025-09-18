@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/larus_cachinnans/73f66d56ab1ad21abd472d8fde1cdab89fb07bed34a7867cc03375dd26179b3c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, logan kahle",
+      "url": "https://www.flickr.com/people/46812934@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/larus_cachinnans/73f66d56ab1ad21abd472d8fde1cdab89fb07bed34a7867cc03375dd26179b3c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/larus_cachinnans/0737da8788851a6dab50f402e2c473bd440544bce7a4095e8670599264d702d2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_cachinnans/0737da8788851a6dab50f402e2c473bd440544bce7a4095e8670599264d702d2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_cachinnans/1b81ed16600ac122b075fca685d19014b834d6b3d668cc4c413c110c97b08834.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, teteria sonnna",
+        "url": "https://www.flickr.com/people/122136361@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_cachinnans/1b81ed16600ac122b075fca685d19014b834d6b3d668cc4c413c110c97b08834_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_cachinnans/422814be5595d3160e5780b85e87e36947b18cc6032a516a4dfa9ad8b73f30eb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_cachinnans/422814be5595d3160e5780b85e87e36947b18cc6032a516a4dfa9ad8b73f30eb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_cachinnans/7f9220653c2c5f959b37093366aeb81c9e3f707b0b1c4d0c467d38e6a0a99c95.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_cachinnans/7f9220653c2c5f959b37093366aeb81c9e3f707b0b1c4d0c467d38e6a0a99c95_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_cachinnans/e42de83d6b0137ce0864b2ceece34e3263a5a6c7e06f88d76a6eb02aa8dd357b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_cachinnans/e42de83d6b0137ce0864b2ceece34e3263a5a6c7e06f88d76a6eb02aa8dd357b_thumb.jpg"
+    }
+  ]
+}

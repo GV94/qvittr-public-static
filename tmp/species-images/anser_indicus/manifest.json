@@ -1,0 +1,103 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_indicus/a66593911863adb29fd6417a8734cdb6144bd0f2716cbeb60cf3bf74887ac3c8.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, J.M.Garg",
+      "url": "https://commons.wikimedia.org/wiki/User:J.M.Garg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_indicus/a66593911863adb29fd6417a8734cdb6144bd0f2716cbeb60cf3bf74887ac3c8_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_indicus/10ce4630478fdd27c94ba756d2850bcd6c0eec2af276a77d8f80db499080c2f5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dr. Gurpartap Singh",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Dr._Gurpartap_Singh&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_indicus/10ce4630478fdd27c94ba756d2850bcd6c0eec2af276a77d8f80db499080c2f5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/198b54eed667b5bb480758a271174c41724741d358a2a4ce0dfee8f351e4dce1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Tonynirappathu",
+        "url": "https://commons.wikimedia.org/wiki/User:Tonynirappathu"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_indicus/198b54eed667b5bb480758a271174c41724741d358a2a4ce0dfee8f351e4dce1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/3cf4764e00ebaa9e4fd7c42644606f5529407906a9c81066e17d370d0ce3b318.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_indicus/3cf4764e00ebaa9e4fd7c42644606f5529407906a9c81066e17d370d0ce3b318_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/52cd01a140e2d27897b9aff83b551433150a74f26eb957d65b51677fda0045a3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_indicus/52cd01a140e2d27897b9aff83b551433150a74f26eb957d65b51677fda0045a3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/68ec4bd3eb42adfddf6839c43e2b724178249c650373932313dd69598a7a3a5c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rison Thumboor",
+        "url": "https://www.flickr.com/people/95103422@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_indicus/68ec4bd3eb42adfddf6839c43e2b724178249c650373932313dd69598a7a3a5c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/9ba3e9c46bd3c030519abf3320113582774e9c467e235b84be4ea4a739537cba.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rison Thumboor",
+        "url": "https://www.flickr.com/people/95103422@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_indicus/9ba3e9c46bd3c030519abf3320113582774e9c467e235b84be4ea4a739537cba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/a67cd25e44e878cc975e34786bbf504ffc0a11c2f7bbd31b657731bb221ad972.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_indicus/a67cd25e44e878cc975e34786bbf504ffc0a11c2f7bbd31b657731bb221ad972_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/b2dc2527afa5f653d117d1f3a4ab9ed5fc07569e086e91f216a18a1f5aad6e0a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rison Thumboor",
+        "url": "https://www.flickr.com/people/95103422@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_indicus/b2dc2527afa5f653d117d1f3a4ab9ed5fc07569e086e91f216a18a1f5aad6e0a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/e4eacd4b43a2050a80e74162d14bff6b0e6352f65dc439ea8cf07c4b6369df90.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_indicus/e4eacd4b43a2050a80e74162d14bff6b0e6352f65dc439ea8cf07c4b6369df90_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_indicus/e5179ed55a1dd383d30199fb8e27396141d7fde7a4dc33bbe2d44c2f7e267a2b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_indicus/e5179ed55a1dd383d30199fb8e27396141d7fde7a4dc33bbe2d44c2f7e267a2b_thumb.jpg"
+    }
+  ]
+}

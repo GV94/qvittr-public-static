@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tringa_ochropus/411af80f7d63f6d1504b404b968b6bbdec9650e36073fa87835ff9d0e28f8ebe.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tringa_ochropus/411af80f7d63f6d1504b404b968b6bbdec9650e36073fa87835ff9d0e28f8ebe_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tringa_ochropus/2ba2ae90ffd0fbd995e531525d4d8cc2a527f3516146cccdfcbfdf5bb5568028.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_ochropus/2ba2ae90ffd0fbd995e531525d4d8cc2a527f3516146cccdfcbfdf5bb5568028_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_ochropus/3a070f76d89e13386566e8adedc8f60530a6ce943ec589cb48c2cfa3a04069b5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_ochropus/3a070f76d89e13386566e8adedc8f60530a6ce943ec589cb48c2cfa3a04069b5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_ochropus/6325f21bf720dad5574bbb12c1d0c68d609bdc6465dbc44826e3a66f340f9303.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_ochropus/6325f21bf720dad5574bbb12c1d0c68d609bdc6465dbc44826e3a66f340f9303_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_ochropus/8a5b62b3d7e4e0e88f741973109b903ce7737c9c30e3ac75c70d63a7199a0b85.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kathy B\u00fcscher",
+        "url": "https://www.flickr.com/people/75897683@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_ochropus/8a5b62b3d7e4e0e88f741973109b903ce7737c9c30e3ac75c70d63a7199a0b85_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_ochropus/b3133b0e571938a6dac5b4c981b88d7771c62829c49a158854e19088562f0350.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lip Kee",
+        "url": "https://www.flickr.com/people/64565252@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_ochropus/b3133b0e571938a6dac5b4c981b88d7771c62829c49a158854e19088562f0350_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_ochropus/f1c6a6c8ee1ca4c8ec52eb3420ad407ac765e8e7a3088d2c48d9cb9c4bd1f81b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Murisec 71",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Murisec_71&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_ochropus/f1c6a6c8ee1ca4c8ec52eb3420ad407ac765e8e7a3088d2c48d9cb9c4bd1f81b_thumb.jpg"
+    }
+  ]
+}

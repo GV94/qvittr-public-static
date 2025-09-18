@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/acanthis_flammea/85e3f10d8f4b526aeeb355c65d8ba3b52e4e6b83ecd14679618441d95b3140c3.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Jyrki Salmi",
+      "url": "https://www.flickr.com/people/47089990@N02"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/acanthis_flammea/85e3f10d8f4b526aeeb355c65d8ba3b52e4e6b83ecd14679618441d95b3140c3_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/acanthis_flammea/2009d8aba2bb5575ffe1b6d50d27b78fc3ebe1527d1cc27a55a4967c79e87e8e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Matt MacGillivray",
+        "url": "https://www.flickr.com/people/58575431@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acanthis_flammea/2009d8aba2bb5575ffe1b6d50d27b78fc3ebe1527d1cc27a55a4967c79e87e8e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acanthis_flammea/497ec3c5438591a8f5fc200453e1c175f972e6708921558e66bbb2c7963b3eeb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acanthis_flammea/497ec3c5438591a8f5fc200453e1c175f972e6708921558e66bbb2c7963b3eeb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acanthis_flammea/6d6df8f984c93149418cdd7e6e8d15efc515fdcfce1f54b080b483c800b19e87.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dellex",
+        "url": "https://commons.wikimedia.org/wiki/User:Dellex"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acanthis_flammea/6d6df8f984c93149418cdd7e6e8d15efc515fdcfce1f54b080b483c800b19e87_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acanthis_flammea/96db2a9acabb72ec6d0a87d75e90fa8b795bc952fa1bd9b274a256bdfdb98697.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acanthis_flammea/96db2a9acabb72ec6d0a87d75e90fa8b795bc952fa1bd9b274a256bdfdb98697_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acanthis_flammea/9e405870a2e40bd513b89a58c240b2fb20126c705e8f764d4ffb15477b22cdcd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Estormiz",
+        "url": "https://commons.wikimedia.org/wiki/User:Estormiz"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acanthis_flammea/9e405870a2e40bd513b89a58c240b2fb20126c705e8f764d4ffb15477b22cdcd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acanthis_flammea/cdef03a945cf21e44512467ad40b30e5833ce89890f75c30b41502378066dc71.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Estormiz",
+        "url": "https://commons.wikimedia.org/wiki/User:Estormiz"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acanthis_flammea/cdef03a945cf21e44512467ad40b30e5833ce89890f75c30b41502378066dc71_thumb.jpg"
+    }
+  ]
+}

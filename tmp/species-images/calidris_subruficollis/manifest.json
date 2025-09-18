@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_subruficollis/e89afd9eec87e1880ac654e5cbefa23d2e7e53452fd2acc54803857c3a46a045.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Cl\u00e1udio Dias Timm",
+      "url": "https://www.flickr.com/photos/32674493@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_subruficollis/e89afd9eec87e1880ac654e5cbefa23d2e7e53452fd2acc54803857c3a46a045_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_subruficollis/68737517d2047652aaede72625bd32522447a68cb444ba087a516a689af262c8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Afsarnayakkan",
+        "url": "https://commons.wikimedia.org/wiki/User:Afsarnayakkan"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_subruficollis/68737517d2047652aaede72625bd32522447a68cb444ba087a516a689af262c8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_subruficollis/de23051959bd6c0824e950fd2457dea18d8d29a464a9fce77836d915122871cb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Afsarnayakkan",
+        "url": "https://commons.wikimedia.org/wiki/User:Afsarnayakkan"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_subruficollis/de23051959bd6c0824e950fd2457dea18d8d29a464a9fce77836d915122871cb_thumb.jpg"
+    }
+  ]
+}

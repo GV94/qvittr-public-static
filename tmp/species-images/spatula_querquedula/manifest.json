@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/spatula_querquedula/6295a73ebf3d6c3eb8e4e526bc78d4d80e80e70972f549ce422316371341be3c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dick Daniels",
+      "url": "https://commons.wikimedia.org/wiki/User:DickDaniels"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/spatula_querquedula/6295a73ebf3d6c3eb8e4e526bc78d4d80e80e70972f549ce422316371341be3c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/spatula_querquedula/022fe51f86b7b7257e445c6616c0561519429ef7ec280b7f945c6b9ea596327f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari Samynaath",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Hari_Samynaath&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_querquedula/022fe51f86b7b7257e445c6616c0561519429ef7ec280b7f945c6b9ea596327f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_querquedula/299768d3b311753ec8c221c9c70c9b543609223d5993938d3a46592fffdb8a33.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_querquedula/299768d3b311753ec8c221c9c70c9b543609223d5993938d3a46592fffdb8a33_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_querquedula/2e7c00d43f806deb95eb861bce87553faad016f094bffeffb1642bd97fe4016a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spatula_querquedula/2e7c00d43f806deb95eb861bce87553faad016f094bffeffb1642bd97fe4016a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_querquedula/35be7e1a72e5173eb3c447b6d8ae676c3d24cc86a4a1dc2be9cd75091585648f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_querquedula/35be7e1a72e5173eb3c447b6d8ae676c3d24cc86a4a1dc2be9cd75091585648f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_querquedula/a259e9fc8559204f8c6e223e5685a58aa6ea2eabef1ec8c61ff74c642e3bb889.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spatula_querquedula/a259e9fc8559204f8c6e223e5685a58aa6ea2eabef1ec8c61ff74c642e3bb889_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_querquedula/a877e4fec0cbf09e38de9c71814881bb5b733533c7d87a44c464d1c9290ead8e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_querquedula/a877e4fec0cbf09e38de9c71814881bb5b733533c7d87a44c464d1c9290ead8e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_querquedula/b47b51e00f55f52436d3409dacbc76e2ac7e7e91f38fe48ce27ffc54fd6d981e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_querquedula/b47b51e00f55f52436d3409dacbc76e2ac7e7e91f38fe48ce27ffc54fd6d981e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_querquedula/e7ad686aedbd79150c8fd0341dd8b92fab940eecc3a2d5d0d9069438129dce97.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spatula_querquedula/e7ad686aedbd79150c8fd0341dd8b92fab940eecc3a2d5d0d9069438129dce97_thumb.jpg"
+    }
+  ]
+}

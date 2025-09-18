@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_erythropus/572aa625ffdaf96ab669b4839eda3fbb4ae9c9de906364f42554659d5851da19.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Hans Norelius from \u00c4lvsj\u00f6, Sweden",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_erythropus/572aa625ffdaf96ab669b4839eda3fbb4ae9c9de906364f42554659d5851da19_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_erythropus/356c60d0994076da5a242f8f617a9e9d07a721f96b6bb1760208120daae4961f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_erythropus/356c60d0994076da5a242f8f617a9e9d07a721f96b6bb1760208120daae4961f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_erythropus/7d48bb66c3bd828c03301948b02794dfc31e6de71778918c9e66680589fa777c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_erythropus/7d48bb66c3bd828c03301948b02794dfc31e6de71778918c9e66680589fa777c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_erythropus/88076e74b886cd46fc6418291777aefd20515f88b91b0ce101348130ab3714d0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_erythropus/88076e74b886cd46fc6418291777aefd20515f88b91b0ce101348130ab3714d0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_erythropus/9ea349518f886b4bc7950923f6cab67ff251b42b5e9c96a5fcdb365ed3a901ca.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Norelius",
+        "url": "https://www.flickr.com/people/96457262@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_erythropus/9ea349518f886b4bc7950923f6cab67ff251b42b5e9c96a5fcdb365ed3a901ca_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_erythropus/a2a4c934f9c0c2d937552982d91c70009a248a85e357dc28114dcec329559d32.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stefan Berndtsson",
+        "url": "https://www.flickr.com/people/77370075@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_erythropus/a2a4c934f9c0c2d937552982d91c70009a248a85e357dc28114dcec329559d32_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_erythropus/b105ce862a4d0f24c611c3c7428ab8e995ff5eaed648a7abe97d17f204e4839f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_erythropus/b105ce862a4d0f24c611c3c7428ab8e995ff5eaed648a7abe97d17f204e4839f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_erythropus/db428ba466c55fb8da4c79cc9241aded3f3e10b02d9755f596247ebe69bfd546.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_erythropus/db428ba466c55fb8da4c79cc9241aded3f3e10b02d9755f596247ebe69bfd546_thumb.jpg"
+    }
+  ]
+}

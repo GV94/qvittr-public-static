@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/motacilla_cinerea/668cdae48a1dd448da2736e907e1c9e606c9cd460470064e0e5a67aaddf28f28.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Phil Armitage",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/motacilla_cinerea/668cdae48a1dd448da2736e907e1c9e606c9cd460470064e0e5a67aaddf28f28_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/motacilla_cinerea/12f033db16537fca8f4c743a9ab2b420d05d6ef6ed8cabaf06bc73dac2a503ac.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_cinerea/12f033db16537fca8f4c743a9ab2b420d05d6ef6ed8cabaf06bc73dac2a503ac_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/15f9123a79659f26904695979f911edeb89fdbc23cdce9ad29274c9829a457a0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Assianir",
+        "url": "https://commons.wikimedia.org/wiki/User:Assianir"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_cinerea/15f9123a79659f26904695979f911edeb89fdbc23cdce9ad29274c9829a457a0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/26bd05e582f4217eb5a54bf6a986af63126aae539bd7f736773362ad5c2db762.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Assianir",
+        "url": "https://commons.wikimedia.org/wiki/User:Assianir"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_cinerea/26bd05e582f4217eb5a54bf6a986af63126aae539bd7f736773362ad5c2db762_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/5a6c4475147402f5f73f8f9ccdb10e270b5483b49ff6baf967a3a453acb477a0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_cinerea/5a6c4475147402f5f73f8f9ccdb10e270b5483b49ff6baf967a3a453acb477a0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/81bc6a5d312d7fa7617e734ad4364404a4ac61cb806d00fa92dc93f8ab4f2f42.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_cinerea/81bc6a5d312d7fa7617e734ad4364404a4ac61cb806d00fa92dc93f8ab4f2f42_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/a6e29468a5806f79d380a39175bdf81c49e01bc488e583d2a04fa64ee28a5ff4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_cinerea/a6e29468a5806f79d380a39175bdf81c49e01bc488e583d2a04fa64ee28a5ff4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/ae5376672721cbc49695df029e5e401413f2bb6ed56d466558c9847e479d2237.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luc Viatour",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_cinerea/ae5376672721cbc49695df029e5e401413f2bb6ed56d466558c9847e479d2237_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/e48a0af013bccc8505ff08883cc999f29f88743dd9685e1dd68e20a3c6601a19.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Assianir",
+        "url": "https://commons.wikimedia.org/wiki/User:Assianir"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_cinerea/e48a0af013bccc8505ff08883cc999f29f88743dd9685e1dd68e20a3c6601a19_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_cinerea/e914fcbed1c7da4d44993a188d049b29c022ce712373b51929fd21dd3c0da8b8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Christiane H\u00f6ltschl",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Christiane_H%C3%B6ltschl&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_cinerea/e914fcbed1c7da4d44993a188d049b29c022ce712373b51929fd21dd3c0da8b8_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/curruca_iberiae/17feb58124f3d794ccb63a17769d87d975d94ca9a4557ba682ad42b01b86386c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Gary L. Clark",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Nomdeploom&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/curruca_iberiae/17feb58124f3d794ccb63a17769d87d975d94ca9a4557ba682ad42b01b86386c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/curruca_iberiae/0342dde098a950bff097b42412e40d8e9a33ca00c3cc0caf551df88189f7bb9e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Francesco Veronesi",
+        "url": "https://www.flickr.com/people/30818542@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_iberiae/0342dde098a950bff097b42412e40d8e9a33ca00c3cc0caf551df88189f7bb9e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_iberiae/2023b45c556147344d4d43431bfd89fbcacec2a216a9bd8c90493f0dd4663dfe.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rodrigo Saldanha  de Almeida",
+        "url": "https://www.flickr.com/people/32639361@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_iberiae/2023b45c556147344d4d43431bfd89fbcacec2a216a9bd8c90493f0dd4663dfe_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_iberiae/953449de546f299321e41094dcfc0affd7e499eb1d41fcf9eb4785a217338c06.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gary L. Clark",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Nomdeploom&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_iberiae/953449de546f299321e41094dcfc0affd7e499eb1d41fcf9eb4785a217338c06_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_iberiae/d5c309c447d25e91e5673725f6e1f568f1ed46b4c594123353c74f3b11186156.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kookaburra 81",
+        "url": "https://commons.wikimedia.org/wiki/User:Kookaburra_81"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_iberiae/d5c309c447d25e91e5673725f6e1f568f1ed46b4c594123353c74f3b11186156_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/spatula_clypeata/1a61b1ef89abc2d0264a2a898625c26f13c957c19f817022e0bfb777c53b14d1.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/spatula_clypeata/1a61b1ef89abc2d0264a2a898625c26f13c957c19f817022e0bfb777c53b14d1_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/spatula_clypeata/1e6c7da526007547511922d133ae1a77d08f84c0ddd2acb7e8e84a8d8d4bfccd.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spatula_clypeata/1e6c7da526007547511922d133ae1a77d08f84c0ddd2acb7e8e84a8d8d4bfccd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_clypeata/298f0454a1b5ff042e5f2b56cdb13b5d3665a643aac45bfb73c97ab6d4aaaf57.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Don Faulkner",
+        "url": "https://www.flickr.com/people/50763319@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_clypeata/298f0454a1b5ff042e5f2b56cdb13b5d3665a643aac45bfb73c97ab6d4aaaf57_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_clypeata/44f7a6f72ec0d38900224cbe5d8468659716547a6815c4f00312fe4f8ace062b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spatula_clypeata/44f7a6f72ec0d38900224cbe5d8468659716547a6815c4f00312fe4f8ace062b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_clypeata/4d262e95883cede7be4b11e09bb9b9d26167ad3135164a529cceb8bf27d96329.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Melissa McMasters",
+        "url": "https://www.flickr.com/people/132545975@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_clypeata/4d262e95883cede7be4b11e09bb9b9d26167ad3135164a529cceb8bf27d96329_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_clypeata/884f43e37d707e6fad9bae42c0901acbee45f8e5a4088d47c6d26f410c099c50.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spatula_clypeata/884f43e37d707e6fad9bae42c0901acbee45f8e5a4088d47c6d26f410c099c50_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_clypeata/bd47961d5862d36e514943f775d521ca3c86a8d62dfaa3df9d5dca56430b8738.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Melissa McMasters",
+        "url": "https://www.flickr.com/people/132545975@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_clypeata/bd47961d5862d36e514943f775d521ca3c86a8d62dfaa3df9d5dca56430b8738_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_clypeata/d8715ac94c8086650daaf60d4b84b873db6708394de2b3b97453b0570c16d4e2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike's Birds",
+        "url": "https://www.flickr.com/people/42646706@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_clypeata/d8715ac94c8086650daaf60d4b84b873db6708394de2b3b97453b0570c16d4e2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_clypeata/ff0a493c00424d62bc545da83a5014960396851ca108cda807728266e738a93a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Melissa McMasters",
+        "url": "https://www.flickr.com/people/132545975@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_clypeata/ff0a493c00424d62bc545da83a5014960396851ca108cda807728266e738a93a_thumb.jpg"
+    }
+  ]
+}

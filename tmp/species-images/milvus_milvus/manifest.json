@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/milvus_milvus/8be344cfd56c5f692b459dfbaacb2657760dc7403570bac295440a68c3718731.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/milvus_milvus/8be344cfd56c5f692b459dfbaacb2657760dc7403570bac295440a68c3718731_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/milvus_milvus/028365d4fab25e18bacd1f903faa1a672299aaf94e4c06ea5009e43ca00b8774.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_milvus/028365d4fab25e18bacd1f903faa1a672299aaf94e4c06ea5009e43ca00b8774_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_milvus/21734b8948963c9bad2b89a8f5010e715013d97a3187d2e24f14da0370c9ff6f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hansueli Krapf",
+        "url": "https://commons.wikimedia.org/wiki/User:Simisa"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/milvus_milvus/21734b8948963c9bad2b89a8f5010e715013d97a3187d2e24f14da0370c9ff6f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_milvus/2642ae478ec2aedbec6cb890e28cfef38fdbfef85504f3ef691b1a4a1bc156b0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_milvus/2642ae478ec2aedbec6cb890e28cfef38fdbfef85504f3ef691b1a4a1bc156b0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_milvus/342afacb485f9fb1263f1ba9bb1a5c4039934d2395e1335159fac4dc0adafffc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_milvus/342afacb485f9fb1263f1ba9bb1a5c4039934d2395e1335159fac4dc0adafffc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_milvus/adff93183d344ce1d81afa299a7b8abbec09e21d2c1625517b9803d6d30514a9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Commonist",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Commonist"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/milvus_milvus/adff93183d344ce1d81afa299a7b8abbec09e21d2c1625517b9803d6d30514a9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_milvus/b39baf7738ae99629cfdff69443c5c36aa6ae29c1d7bdf28d86b0d43878b390d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_milvus/b39baf7738ae99629cfdff69443c5c36aa6ae29c1d7bdf28d86b0d43878b390d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_milvus/eac25af069213ff9669d42678ae40e64fd58e2e708c2662b6989a0521415b9f8.png",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_milvus/eac25af069213ff9669d42678ae40e64fd58e2e708c2662b6989a0521415b9f8_thumb.png"
+    },
+    {
+      "largeUrl": "species-images/milvus_milvus/fb472f1ae9a5626293a9b6c80bee233890a5d99df404d3b39c5c60c541be2803.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hansueli Krapf",
+        "url": "https://commons.wikimedia.org/wiki/User:Simisa"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/milvus_milvus/fb472f1ae9a5626293a9b6c80bee233890a5d99df404d3b39c5c60c541be2803_thumb.jpg"
+    }
+  ]
+}

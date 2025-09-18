@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tachybaptus_ruficollis/537498276e0eec33619fb886265ba61a902bd35d5ea18a51a10b6e53b0fe5a73.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tachybaptus_ruficollis/537498276e0eec33619fb886265ba61a902bd35d5ea18a51a10b6e53b0fe5a73_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/07ff178c030cc156532906beaaefd5a5dd059d779c14e4b29c893705af0e2f1b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ryan Hodnett",
+        "url": "https://commons.wikimedia.org/wiki/User:Ryan_Hodnett"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tachybaptus_ruficollis/07ff178c030cc156532906beaaefd5a5dd059d779c14e4b29c893705af0e2f1b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/1aaaedc0ba1dd93a8694555e24bdad1a5aaf138bfdabdd6e9e857cb149db1f0a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tachybaptus_ruficollis/1aaaedc0ba1dd93a8694555e24bdad1a5aaf138bfdabdd6e9e857cb149db1f0a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/241d5b36fca71424b7ecfeb88c826699861ea7320cc3c8ab919de58c71f0ffd9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ryan Hodnett",
+        "url": "https://commons.wikimedia.org/wiki/User:Ryan_Hodnett"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tachybaptus_ruficollis/241d5b36fca71424b7ecfeb88c826699861ea7320cc3c8ab919de58c71f0ffd9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/628daa6773f0840f8107b5d13769bc5bdca9803f67b47579ec02a7136771b23d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tachybaptus_ruficollis/628daa6773f0840f8107b5d13769bc5bdca9803f67b47579ec02a7136771b23d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/904e03a414248c836fd700bd686848cfc4fff65f1f407e7011422e70b8ef6ae5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, TRinaud",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:TRinaud&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tachybaptus_ruficollis/904e03a414248c836fd700bd686848cfc4fff65f1f407e7011422e70b8ef6ae5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/aaa485d025176de8f2afad6d3697dafdc7dfbc7b77241ab84035e2817b954d1b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tachybaptus_ruficollis/aaa485d025176de8f2afad6d3697dafdc7dfbc7b77241ab84035e2817b954d1b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/cc04e6c033fa269e9891466daf63a9f768affc5de91c4ed2ff497e10845f9a36.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tachybaptus_ruficollis/cc04e6c033fa269e9891466daf63a9f768affc5de91c4ed2ff497e10845f9a36_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tachybaptus_ruficollis/fd156b6aa915f776907789ec7077b831749095cbab8fde928e0a7d5c9080164c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tachybaptus_ruficollis/fd156b6aa915f776907789ec7077b831749095cbab8fde928e0a7d5c9080164c_thumb.jpg"
+    }
+  ]
+}

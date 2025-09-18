@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/bombycilla_garrulus/30fce64b3be971c599a51c5a5acc0dd36594070de4a2de0c5ab5501f8fd2f10a.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Martin Mecnarowski",
+      "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/bombycilla_garrulus/30fce64b3be971c599a51c5a5acc0dd36594070de4a2de0c5ab5501f8fd2f10a_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/076c4174933d0b3e814dba362695520747fd83c55027d119f4106ea57d33d201.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bengt Nyman",
+        "url": "https://www.flickr.com/people/97469566@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/bombycilla_garrulus/076c4174933d0b3e814dba362695520747fd83c55027d119f4106ea57d33d201_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/2c5aebb9908c2c95b89d90b67d364d365467e7e6602a66ac454f8c38730d2392.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/bombycilla_garrulus/2c5aebb9908c2c95b89d90b67d364d365467e7e6602a66ac454f8c38730d2392_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/5ba8eebd536e1dfd27e911f0b7fcabdeae59ddb32443c2b7a698d194dab3e072.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/bombycilla_garrulus/5ba8eebd536e1dfd27e911f0b7fcabdeae59ddb32443c2b7a698d194dab3e072_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/660bc0625d64257727dd302f0cbf86df3c518a5f2007c5a0eca5ffb7395e4239.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/bombycilla_garrulus/660bc0625d64257727dd302f0cbf86df3c518a5f2007c5a0eca5ffb7395e4239_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/9c284c651e3cab07e1ee74c7fb480631d54fd1650afe880a3ff3601343f56737.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/bombycilla_garrulus/9c284c651e3cab07e1ee74c7fb480631d54fd1650afe880a3ff3601343f56737_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/a30b7d49822281964d5ca8ac05c2f2facbc5ca65c0d4c1c461476ec4cd3c75ff.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/bombycilla_garrulus/a30b7d49822281964d5ca8ac05c2f2facbc5ca65c0d4c1c461476ec4cd3c75ff_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/a8c263e6251149591d5426e2c6281a0474b9481c10375f3970ac7d7c1eeb3e89.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bengt Nyman",
+        "url": "https://www.flickr.com/people/97469566@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/bombycilla_garrulus/a8c263e6251149591d5426e2c6281a0474b9481c10375f3970ac7d7c1eeb3e89_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/ea44cb2b9b646ceca12006e15c3bd25434ae477d5111ec8e453c8c60444f1918.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/bombycilla_garrulus/ea44cb2b9b646ceca12006e15c3bd25434ae477d5111ec8e453c8c60444f1918_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bombycilla_garrulus/fb2fabba409d65a4300f91ae61c34e27ddd1a36eee5da9bde20d453c23ede170.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/bombycilla_garrulus/fb2fabba409d65a4300f91ae61c34e27ddd1a36eee5da9bde20d453c23ede170_thumb.jpg"
+    }
+  ]
+}

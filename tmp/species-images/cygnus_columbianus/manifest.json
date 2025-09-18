@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/cygnus_columbianus/34c7c9cd5a161e20e05ee4b46021d95e5233459cde4d5b08bda6cf5bca123ded.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Maga-chan",
+      "url": "https://commons.wikimedia.org/wiki/User:Maga-chan"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/cygnus_columbianus/34c7c9cd5a161e20e05ee4b46021d95e5233459cde4d5b08bda6cf5bca123ded_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/cygnus_columbianus/0f018f8dbea6b0df4dd1295c5168a7b684826b7f40dea2d68d374f51af644db8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cygnus_columbianus/0f018f8dbea6b0df4dd1295c5168a7b684826b7f40dea2d68d374f51af644db8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/19789b3869f2d54632b2793be4a892d9eafd076f330d923903d669180781c5eb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cygnus_columbianus/19789b3869f2d54632b2793be4a892d9eafd076f330d923903d669180781c5eb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/44ca7a05a74390ea4d5c0fde93776b4083ebe3854de6a21fa47496bcc436d2f5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cygnus_columbianus/44ca7a05a74390ea4d5c0fde93776b4083ebe3854de6a21fa47496bcc436d2f5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/587496b34543e4163a43989977617d41a0295ca88f072e73ff62f1e17d125dba.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cygnus_columbianus/587496b34543e4163a43989977617d41a0295ca88f072e73ff62f1e17d125dba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/641146eb9aaa17ddddf9e15c3c7779935dfc01959e630bac597f5eaaf2f2b3de.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, USFWSAlaska",
+        "url": "https://www.flickr.com/people/usfws_alaska/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cygnus_columbianus/641146eb9aaa17ddddf9e15c3c7779935dfc01959e630bac597f5eaaf2f2b3de_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/8f76a8a8d7e5616e3e3c072ab76672eb0fc5d1ff4a7e0829085f6525dd4bd949.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cygnus_columbianus/8f76a8a8d7e5616e3e3c072ab76672eb0fc5d1ff4a7e0829085f6525dd4bd949_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/8fa581806138d59b176657c79d6f0598856b7a7a8849a45c2f333942738a79b7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, USFWSAlaska",
+        "url": "https://www.flickr.com/people/usfws_alaska/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cygnus_columbianus/8fa581806138d59b176657c79d6f0598856b7a7a8849a45c2f333942738a79b7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/acb397acbddb2aed043d08123714272b7aa6d95baa4dd09462f709de731bee40.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, USFWSAlaska",
+        "url": "https://www.flickr.com/people/usfws_alaska/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cygnus_columbianus/acb397acbddb2aed043d08123714272b7aa6d95baa4dd09462f709de731bee40_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_columbianus/e11ce9cb9a1cd3ee0c8c6623334d0a899e5c26aacb12b19dc6a98fed40d38405.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, USFWSAlaska",
+        "url": "https://www.flickr.com/people/usfws_alaska/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cygnus_columbianus/e11ce9cb9a1cd3ee0c8c6623334d0a899e5c26aacb12b19dc6a98fed40d38405_thumb.jpg"
+    }
+  ]
+}

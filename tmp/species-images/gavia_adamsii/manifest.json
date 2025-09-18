@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gavia_adamsii/27c80914ad3041241f0bd6d0b56c56b01b41f37ff3aef6c7f09162239790fb6d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ryan Askren\n\nUSGS, Alaska Science Center",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gavia_adamsii/27c80914ad3041241f0bd6d0b56c56b01b41f37ff3aef6c7f09162239790fb6d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gavia_adamsii/2afcf2f1eab3d09fff411b83061eef833331c3ccae038f6406e654abd9012cf2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_adamsii/2afcf2f1eab3d09fff411b83061eef833331c3ccae038f6406e654abd9012cf2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_adamsii/46801624ed8c1cbe99dd940c591bd5518f116bd7503a7df36db388759ad9e641.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bureau  of Land Management",
+        "url": "https://www.flickr.com/people/91981596@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_adamsii/46801624ed8c1cbe99dd940c591bd5518f116bd7503a7df36db388759ad9e641_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_adamsii/82a2f8ee335dc999a80cdacd0af3723fad8bea9a3b3e1bdc29f4cde3d05662bb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Fred Derks",
+        "url": "https://www.inaturalist.org/users/759595"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_adamsii/82a2f8ee335dc999a80cdacd0af3723fad8bea9a3b3e1bdc29f4cde3d05662bb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_adamsii/a2c4e17f3af90b83e95f6cace8c6429b20f420d63465a2223273e367c3f71a3e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rudolph Martin Anderson",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_adamsii/a2c4e17f3af90b83e95f6cace8c6429b20f420d63465a2223273e367c3f71a3e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_adamsii/c14e86647574e3e91c5c24a8efe4cd6cc4215f165d4c5929cdd0c13eb2571614.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_adamsii/c14e86647574e3e91c5c24a8efe4cd6cc4215f165d4c5929cdd0c13eb2571614_thumb.jpg"
+    }
+  ]
+}

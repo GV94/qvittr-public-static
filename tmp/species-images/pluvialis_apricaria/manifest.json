@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/pluvialis_apricaria/35ba78191a52f8be56de7add20b7bd5d303369337899d571bfd7288e9e5b09a2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Durkadenz",
+      "url": "https://commons.wikimedia.org/wiki/User:Durkadenz"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/pluvialis_apricaria/35ba78191a52f8be56de7add20b7bd5d303369337899d571bfd7288e9e5b09a2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/pluvialis_apricaria/077a8200042a849090d7b590fbbedad2ec8209abce6169453ed77459fd7e1ae9.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pluvialis_apricaria/077a8200042a849090d7b590fbbedad2ec8209abce6169453ed77459fd7e1ae9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_apricaria/133ea1f68b4e0a80be81ea8ba1db118dc6ca48081571dad1dba536d3badf1b86.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, John Fielding",
+        "url": "https://www.geograph.org.uk/profile/11323"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_apricaria/133ea1f68b4e0a80be81ea8ba1db118dc6ca48081571dad1dba536d3badf1b86_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_apricaria/860e9997c9edcdda9e360d5c5d27c4526d43941bca2cf4891df98709575fc2d9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ferran Pesta\u00f1a",
+        "url": "https://www.flickr.com/people/57956171@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_apricaria/860e9997c9edcdda9e360d5c5d27c4526d43941bca2cf4891df98709575fc2d9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_apricaria/991948b8f0e59051ce536164849f3d397427a47a4af7d19534ec3544a2a5d081.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ferran Pesta\u00f1a",
+        "url": "https://www.flickr.com/people/57956171@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_apricaria/991948b8f0e59051ce536164849f3d397427a47a4af7d19534ec3544a2a5d081_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_apricaria/c2ad8ee8650c5fd4e5aba6f54ca9a482ac38f8a1c11302bfb0272be418ad1afa.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_apricaria/c2ad8ee8650c5fd4e5aba6f54ca9a482ac38f8a1c11302bfb0272be418ad1afa_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_apricaria/dd37d2f6daf1349e0378a9eec5259ca13d74eb55f69f6bb7c7085c26fb45356a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ian Greig",
+        "url": "https://www.geograph.org.uk/profile/9857"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_apricaria/dd37d2f6daf1349e0378a9eec5259ca13d74eb55f69f6bb7c7085c26fb45356a_thumb.jpg"
+    }
+  ]
+}

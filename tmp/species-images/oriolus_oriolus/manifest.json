@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/oriolus_oriolus/379ae6eb49d8ef81420919062f5842680e0c3cbdea73736de933b5cba8c1c924.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Kookaburra 81",
+      "url": "https://commons.wikimedia.org/wiki/User:Kookaburra_81"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/oriolus_oriolus/379ae6eb49d8ef81420919062f5842680e0c3cbdea73736de933b5cba8c1c924_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/oriolus_oriolus/0bbdb718eaf50002878a187529a55653c213007fb2b63c3d3f3453b34056b104.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jerzy Strzelecki",
+        "url": "https://commons.wikimedia.org/wiki/User:Jerzystrzelecki"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oriolus_oriolus/0bbdb718eaf50002878a187529a55653c213007fb2b63c3d3f3453b34056b104_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oriolus_oriolus/6bea364192ce2c0bd07ac39c45a7923de185d27def012ad98ab7b70df358fae4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/oriolus_oriolus/6bea364192ce2c0bd07ac39c45a7923de185d27def012ad98ab7b70df358fae4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oriolus_oriolus/7b10e2db8b35322032fe0caaa4c7e8c9673d75436aa2665c1ab8ccc17b4a03fb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, gailhampshire",
+        "url": "https://www.flickr.com/people/43272765@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oriolus_oriolus/7b10e2db8b35322032fe0caaa4c7e8c9673d75436aa2665c1ab8ccc17b4a03fb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oriolus_oriolus/e997adc87850968e54acb45fcd1555038e84575d8b428c767d1f9a7fc6fe9c7a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oriolus_oriolus/e997adc87850968e54acb45fcd1555038e84575d8b428c767d1f9a7fc6fe9c7a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oriolus_oriolus/eb948b28ffbd7088e7ec26037e365b959c4cecd2029b4171ae139c71b8cefec2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, gailhampshire",
+        "url": "https://www.flickr.com/people/43272765@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oriolus_oriolus/eb948b28ffbd7088e7ec26037e365b959c4cecd2029b4171ae139c71b8cefec2_thumb.jpg"
+    }
+  ]
+}

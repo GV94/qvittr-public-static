@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/larus_hyperboreus/0c5fd90e3b225610f3c8ee7a812f9acce90f122e2afb0bc995da78d72ce068d9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Gary Bembridge",
+      "url": "https://www.flickr.com/people/8327374@N02"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/larus_hyperboreus/0c5fd90e3b225610f3c8ee7a812f9acce90f122e2afb0bc995da78d72ce068d9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/larus_hyperboreus/3fee03864060ed87b70af7404e797707a44fdaac4b863ffd0e0d29af597ff5c3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alastair Rae",
+        "url": "https://www.flickr.com/people/merula/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_hyperboreus/3fee03864060ed87b70af7404e797707a44fdaac4b863ffd0e0d29af597ff5c3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_hyperboreus/500696bfd90f1161e367b448dab9aa48032a45e2ba79ab5ddde28f08186f5fe7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Grey Geezer",
+        "url": "https://commons.wikimedia.org/wiki/User:Grey_Geezer"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_hyperboreus/500696bfd90f1161e367b448dab9aa48032a45e2ba79ab5ddde28f08186f5fe7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_hyperboreus/7255ff6b1d8a9795ad7e1faccc9469dd941a6c66797ad81504a4bb5c9c6ee324.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jerzy Strzelecki",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_hyperboreus/7255ff6b1d8a9795ad7e1faccc9469dd941a6c66797ad81504a4bb5c9c6ee324_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_hyperboreus/8cbb7ef9da9df45d7feef4e1503c66851aca9e99a91b4975e59e8ef6679af5fd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alastair Rae",
+        "url": "https://www.flickr.com/people/merula/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_hyperboreus/8cbb7ef9da9df45d7feef4e1503c66851aca9e99a91b4975e59e8ef6679af5fd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/larus_hyperboreus/fd7cfa449ecc0e3e559e2f4a2e0d607fecee3d49eba1eb360b19562435852b61.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jerzy Strzelecki",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/larus_hyperboreus/fd7cfa449ecc0e3e559e2f4a2e0d607fecee3d49eba1eb360b19562435852b61_thumb.jpg"
+    }
+  ]
+}

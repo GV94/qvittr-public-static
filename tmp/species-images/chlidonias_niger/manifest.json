@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/chlidonias_niger/cf7378af9a893bda30525313622a7113a0c8eb32279b5b5dc9eb41b75da99991.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Brian Desrosiers",
+      "url": "https://www.flickr.com/people/56054673@N08"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/chlidonias_niger/cf7378af9a893bda30525313622a7113a0c8eb32279b5b5dc9eb41b75da99991_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/chlidonias_niger/80dd4f709ccd0a559f4145ce2e34483bdfaab74729be970649855a98f1dcae90.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/chlidonias_niger/80dd4f709ccd0a559f4145ce2e34483bdfaab74729be970649855a98f1dcae90_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/chlidonias_niger/e44fbe1f64d9ebb363ade37973642c07449f242c2654930a7376092db2e3fb35.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, mourad-harzallah",
+        "url": "https://www.inaturalist.org/people/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chlidonias_niger/e44fbe1f64d9ebb363ade37973642c07449f242c2654930a7376092db2e3fb35_thumb.jpg"
+    }
+  ]
+}

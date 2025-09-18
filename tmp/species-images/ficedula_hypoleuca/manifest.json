@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/ficedula_hypoleuca/b5c600e640960794d015beb45595207914bd7ae2c1dd35407f41d2365c7d7332.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Hans Ollonen",
+      "url": "https://commons.wikimedia.org/wiki/User:Hansofoto"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/ficedula_hypoleuca/b5c600e640960794d015beb45595207914bd7ae2c1dd35407f41d2365c7d7332_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/322bbd8208005cd8dbfdd1734797e4b1b69161cd47a5ab0a05b3478c40b2040b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ficedula_hypoleuca/322bbd8208005cd8dbfdd1734797e4b1b69161cd47a5ab0a05b3478c40b2040b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/5448ed35264cb7a59bf79f9bc5360e79531a036fec894934536cbc870b518483.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_hypoleuca/5448ed35264cb7a59bf79f9bc5360e79531a036fec894934536cbc870b518483_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/557122284dfb62d4af8eb61846b4aea1e2e4989825a80e4569492f4c6dd34f7a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_hypoleuca/557122284dfb62d4af8eb61846b4aea1e2e4989825a80e4569492f4c6dd34f7a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/57db1bed12721c0cdd66939304976e8cdff520c06284d10ef071b26bc870e263.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ficedula_hypoleuca/57db1bed12721c0cdd66939304976e8cdff520c06284d10ef071b26bc870e263_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/6a2f95909d099c74e50090a073d3e51062ca9858557729594f8da818b0517523.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ficedula_hypoleuca/6a2f95909d099c74e50090a073d3e51062ca9858557729594f8da818b0517523_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/adcb7a374c70d135124ea7f8afd7a46cc2aca36560bb5d6da305fb9fcebc5072.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, GT1976",
+        "url": "https://commons.wikimedia.org/wiki/User:GT1976"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_hypoleuca/adcb7a374c70d135124ea7f8afd7a46cc2aca36560bb5d6da305fb9fcebc5072_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/e2ea6ddee7b198fdea2bee167d989f11e25948ba3c1d48f5f16500119c5760bb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ficedula_hypoleuca/e2ea6ddee7b198fdea2bee167d989f11e25948ba3c1d48f5f16500119c5760bb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_hypoleuca/f6355a7b9e43e8b07ceb9f91d976f9da6ba0191ac4294fcabe3e1f4fcb4b769b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ficedula_hypoleuca/f6355a7b9e43e8b07ceb9f91d976f9da6ba0191ac4294fcabe3e1f4fcb4b769b_thumb.jpg"
+    }
+  ]
+}

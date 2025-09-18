@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/caprimulgus_europaeus/6d79e98f4e516ae7d6f5ebe161ae72bf5c52e5d0bbe9aa36751d95ccc4084420.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+      "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/caprimulgus_europaeus/6d79e98f4e516ae7d6f5ebe161ae72bf5c52e5d0bbe9aa36751d95ccc4084420_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/caprimulgus_europaeus/4819a73b22508f6163cba1f7decdb940b084151af94d457e0040c745cf8746f9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mior Rino",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/caprimulgus_europaeus/4819a73b22508f6163cba1f7decdb940b084151af94d457e0040c745cf8746f9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/caprimulgus_europaeus/ab5697a03ec91133ca57d01f8b588dd28c77449aecc71c7a9b2455cc174bbbc1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jenny Th",
+        "url": "https://commons.wikimedia.org/wiki/User_talk:Jenny_Th"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/caprimulgus_europaeus/ab5697a03ec91133ca57d01f8b588dd28c77449aecc71c7a9b2455cc174bbbc1_thumb.jpg"
+    }
+  ]
+}

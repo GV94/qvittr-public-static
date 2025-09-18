@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_rossii/ce0f44db56261b572113f91871f85e85455fea9f18470ef9529fdb119baa97fe.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mike Baird",
+      "url": "https://www.flickr.com/photos/72825507@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_rossii/ce0f44db56261b572113f91871f85e85455fea9f18470ef9529fdb119baa97fe_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_rossii/146e478f11f6157e4aee30e44b5cc9dc71b92580b56899dd6cd1552398926c89.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hvbirder",
+        "url": "https://commons.wikimedia.org/wiki/User:Hvbirder"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_rossii/146e478f11f6157e4aee30e44b5cc9dc71b92580b56899dd6cd1552398926c89_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_rossii/39d12b15b080a8a627455d3f8c325d0fd1ea7b982c85bfdd590327e3fc207e49.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, JerryFriedman",
+        "url": "https://commons.wikimedia.org/wiki/User:JerryFriedman"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_rossii/39d12b15b080a8a627455d3f8c325d0fd1ea7b982c85bfdd590327e3fc207e49_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_rossii/5f256065368f4fcea3befb9bc0ca530061f3522058f875acc5342e75f42621c0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+        "url": "https://www.flickr.com/people/80270393@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_rossii/5f256065368f4fcea3befb9bc0ca530061f3522058f875acc5342e75f42621c0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_rossii/6f6844f49a28813973e2a0ada313b0be6186dec6ccbe29c269a26bb414df6588.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, JerryFriedman",
+        "url": "https://commons.wikimedia.org/wiki/User:JerryFriedman"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_rossii/6f6844f49a28813973e2a0ada313b0be6186dec6ccbe29c269a26bb414df6588_thumb.jpg"
+    }
+  ]
+}

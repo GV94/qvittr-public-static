@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_hortulana/7e1f67a24fa219c2ffb5c5730d44bc5f225351dd7ad614393d04f05069ec0009.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Pierre Dalous",
+      "url": "https://commons.wikimedia.org/wiki/User:Kookaburra_81"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_hortulana/7e1f67a24fa219c2ffb5c5730d44bc5f225351dd7ad614393d04f05069ec0009_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_hortulana/09cd8f674346ec75d29b8f02a4460b9202df3986c821b48ecb3bf7d829be5fa6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_hortulana/09cd8f674346ec75d29b8f02a4460b9202df3986c821b48ecb3bf7d829be5fa6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_hortulana/6a6af0792e25c35710138314fd8184196e87eff5df0bd5ee835d7b84579cacb6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_hortulana/6a6af0792e25c35710138314fd8184196e87eff5df0bd5ee835d7b84579cacb6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_hortulana/75f6d56ac2f9cb61b0b46e102dc1ef04ec9c28c2f45efa396594eb9ed92564eb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_hortulana/75f6d56ac2f9cb61b0b46e102dc1ef04ec9c28c2f45efa396594eb9ed92564eb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_hortulana/7c89c1f4db84f80cfd54c0377c62f93d17cd913912d528949c1977942d5d13b3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_hortulana/7c89c1f4db84f80cfd54c0377c62f93d17cd913912d528949c1977942d5d13b3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_hortulana/8e86ec6e29e7b77bae99de05f26da8352ca050a3494268d6c69612a36be6428d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_hortulana/8e86ec6e29e7b77bae99de05f26da8352ca050a3494268d6c69612a36be6428d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_hortulana/f3dacb47d48c52dda848fbf967dec38d26d6e545a0c3dfbdc12dfc539eb42418.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_hortulana/f3dacb47d48c52dda848fbf967dec38d26d6e545a0c3dfbdc12dfc539eb42418_thumb.jpg"
+    }
+  ]
+}

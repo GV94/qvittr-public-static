@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/perisoreus_infaustus/f903152edf2ac4854a2ebf5a2da91858b2be8f87e9617d9f90cdef4ae3a70e97.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/perisoreus_infaustus/f903152edf2ac4854a2ebf5a2da91858b2be8f87e9617d9f90cdef4ae3a70e97_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/perisoreus_infaustus/0e6ba697230cd27817f80efcb7fcfaf73f4a95fc6d4c0524a909f4e7df35f09c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, pepek633",
+        "url": "https://web.archive.org/web/20161015051248/http://www.panoramio.com/user/3892228?with_photo_id=31924535"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perisoreus_infaustus/0e6ba697230cd27817f80efcb7fcfaf73f4a95fc6d4c0524a909f4e7df35f09c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perisoreus_infaustus/37d00fc3c83e2e288670ab4a6bcc1097f2e44e6a5a53731050ce04ac7be17f79.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00c5sa Berndtsson",
+        "url": "https://www.flickr.com/people/93892629@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perisoreus_infaustus/37d00fc3c83e2e288670ab4a6bcc1097f2e44e6a5a53731050ce04ac7be17f79_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perisoreus_infaustus/3a4ddaa40b072c152dbbaef94f3960bed4c177aff08e216ae6fcbdc6907d854c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00c5sa Berndtsson",
+        "url": "https://www.flickr.com/people/93892629@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perisoreus_infaustus/3a4ddaa40b072c152dbbaef94f3960bed4c177aff08e216ae6fcbdc6907d854c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perisoreus_infaustus/a5b3316e17e3b0b60f7d9153175af8914673e67a3e8a54032b8bd536554f6566.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mestos",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Mestos&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perisoreus_infaustus/a5b3316e17e3b0b60f7d9153175af8914673e67a3e8a54032b8bd536554f6566_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perisoreus_infaustus/b4b9bfbaf95e115d8f5393f8d50998b6ab3c3067d47e96afb519034384b9284a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Amadalvarez",
+        "url": "https://commons.wikimedia.org/wiki/User:Amadalvarez"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perisoreus_infaustus/b4b9bfbaf95e115d8f5393f8d50998b6ab3c3067d47e96afb519034384b9284a_thumb.jpg"
+    }
+  ]
+}

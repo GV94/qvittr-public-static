@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/fulica_atra/7951e5a64d913c51bf803bcd9df6379d8f33fb3548babd30b09130eeed1f2cbd.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": "https://commons.wikimedia.org/wiki/File:Canon_EF_70-300mm.jpg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/fulica_atra/7951e5a64d913c51bf803bcd9df6379d8f33fb3548babd30b09130eeed1f2cbd_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/fulica_atra/0c5d3c4345c6a6be27caa3c273ecd749e21b1568938b1ac859cf71c3dab13ae8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/fulica_atra/0c5d3c4345c6a6be27caa3c273ecd749e21b1568938b1ac859cf71c3dab13ae8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulica_atra/19fc3a0305402ec285dbb5340180945e8ace039cb43054159a6e7e6e71ccf00f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/fulica_atra/19fc3a0305402ec285dbb5340180945e8ace039cb43054159a6e7e6e71ccf00f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulica_atra/202a15917c824494e18b1790cb586d7aa0a054e8583eb2c7dc7db53c2939bc42.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/fulica_atra/202a15917c824494e18b1790cb586d7aa0a054e8583eb2c7dc7db53c2939bc42_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulica_atra/3fdba341591c4951a57c61edc954db9658cfd81fb6402a2d6fa22c89c80064b5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/fulica_atra/3fdba341591c4951a57c61edc954db9658cfd81fb6402a2d6fa22c89c80064b5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulica_atra/41569dfda39ddf01b13c9c479ae81e6293354a21dc51ac375d11ceebafd3e899.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/fulica_atra/41569dfda39ddf01b13c9c479ae81e6293354a21dc51ac375d11ceebafd3e899_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/fulica_atra/56b7a9d58c24fac96e992578a3d8c57ddf4798421893458b7ee7a9caa4d6f521.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/fulica_atra/56b7a9d58c24fac96e992578a3d8c57ddf4798421893458b7ee7a9caa4d6f521_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tringa_nebularia/997cf40d54ae5dc596a30aada7f7405d3d38d74052f027182ebc3fe0e2950397.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tringa_nebularia/997cf40d54ae5dc596a30aada7f7405d3d38d74052f027182ebc3fe0e2950397_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tringa_nebularia/01797eabb69e885ebd8a38e16c9ff2d77c5c0ed51735dcd5cf9a9982ad02d548.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rabe19",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Rabe19&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_nebularia/01797eabb69e885ebd8a38e16c9ff2d77c5c0ed51735dcd5cf9a9982ad02d548_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_nebularia/276865c811c52ba469e01ab89282adbc052af13d039884a43c6a951a547cf8da.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_nebularia/276865c811c52ba469e01ab89282adbc052af13d039884a43c6a951a547cf8da_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_nebularia/27d43b64ea6a2229acb63706f65bdd630573412e993297d5bf8b3b3fcfdceccb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_nebularia/27d43b64ea6a2229acb63706f65bdd630573412e993297d5bf8b3b3fcfdceccb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_nebularia/6f068f5c19f24276d08db1e7fe2e6954759325570ce8fb340421c46dca560e92.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_nebularia/6f068f5c19f24276d08db1e7fe2e6954759325570ce8fb340421c46dca560e92_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_nebularia/f9e0de68fcbfa02e0c3483b533111dd839635bf97f971b8eb50a475d682d8725.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_nebularia/f9e0de68fcbfa02e0c3483b533111dd839635bf97f971b8eb50a475d682d8725_thumb.jpg"
+    }
+  ]
+}

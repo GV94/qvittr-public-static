@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Species Image Curator</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>Species Image Curator</h1>
+                <p>
+                    Click on species to expand and view images. Click on images
+                    to toggle blacklist status.
+                </p>
+            </header>
+
+            <div class="stats">
+                <div class="stat-item">
+                    <span class="stat-label">Total Species:</span>
+                    <span class="stat-value" id="totalSpecies">-</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Total Images:</span>
+                    <span class="stat-value" id="totalImages">-</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Blacklisted Images:</span>
+                    <span class="stat-value" id="blacklistedImages">-</span>
+                </div>
+            </div>
+
+            <div class="search-container">
+                <input
+                    type="text"
+                    id="searchInput"
+                    placeholder="Search species..."
+                />
+            </div>
+
+            <div class="species-list" id="speciesList">
+                <div class="loading">Loading species...</div>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>

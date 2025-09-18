@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/asio_flammeus/63fa24ba73886a428096ceaaeb596d6528142ea7094e9fd6abf199466402f1c2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, User:Rodolphe",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Rodolphe&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/asio_flammeus/63fa24ba73886a428096ceaaeb596d6528142ea7094e9fd6abf199466402f1c2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/asio_flammeus/68c877b98c71ea0d65e621e98d8a4d1e4890fe6cf657cfdaacd48aa3b3bb2b12.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, nigel",
+        "url": "https://www.flickr.com/people/11652987@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_flammeus/68c877b98c71ea0d65e621e98d8a4d1e4890fe6cf657cfdaacd48aa3b3bb2b12_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_flammeus/7095f79c24c6f044507895a8576eb8e510d757e033403ecc85f0d237b2264a3f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, nigel",
+        "url": "https://www.flickr.com/people/11652987@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_flammeus/7095f79c24c6f044507895a8576eb8e510d757e033403ecc85f0d237b2264a3f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_flammeus/75c6bccebb12ecbd6cd3027a9f73d388748f48749e55ed0af29e0f078e588145.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kryp",
+        "url": "https://commons.wikimedia.org/wiki/User:Kryp"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_flammeus/75c6bccebb12ecbd6cd3027a9f73d388748f48749e55ed0af29e0f078e588145_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_flammeus/bab0385fed8f74bff2b0c4dfcb26744c9ba89da9c908d667240bfd8dd8d72649.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, nigel",
+        "url": "https://www.flickr.com/people/11652987@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_flammeus/bab0385fed8f74bff2b0c4dfcb26744c9ba89da9c908d667240bfd8dd8d72649_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_flammeus/cd50d5ea9ffe15655556bdbd4525f653243751838fbd034418ffb3696431eff9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, nigel",
+        "url": "https://www.flickr.com/people/11652987@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_flammeus/cd50d5ea9ffe15655556bdbd4525f653243751838fbd034418ffb3696431eff9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_flammeus/e14de2fe5f5a8ce50e7e117df5a2dda0db70d2ff23fd1c1218c727940c1f1b7e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/asio_flammeus/e14de2fe5f5a8ce50e7e117df5a2dda0db70d2ff23fd1c1218c727940c1f1b7e_thumb.jpg"
+    }
+  ]
+}

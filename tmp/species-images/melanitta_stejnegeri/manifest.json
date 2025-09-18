@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/melanitta_stejnegeri/0ecc9fbebd611528633bca746fce54f1571e4ad73f557c6f833d4f66ea4b1016.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Kim, Hyun-tae",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/melanitta_stejnegeri/0ecc9fbebd611528633bca746fce54f1571e4ad73f557c6f833d4f66ea4b1016_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/melanitta_stejnegeri/2243b29c13bd58d2fc23abcf84f415cc6b728692c7d9d3d39e811141e573a09b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pavel Komkov",
+        "url": "https://www.inaturalist.org/users/2989698"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_stejnegeri/2243b29c13bd58d2fc23abcf84f415cc6b728692c7d9d3d39e811141e573a09b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_stejnegeri/4999bf2255d3b18485ef768ec18127f17d81da9f99a2b7873bd1c198b505e406.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430",
+        "url": "https://www.inaturalist.org/users/2497873"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_stejnegeri/4999bf2255d3b18485ef768ec18127f17d81da9f99a2b7873bd1c198b505e406_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_stejnegeri/53bb487b6544d720ea4f6d56cf3762ec8cef2f59f4c311087b8388a1ca694785.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430",
+        "url": "https://www.inaturalist.org/users/2497873"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_stejnegeri/53bb487b6544d720ea4f6d56cf3762ec8cef2f59f4c311087b8388a1ca694785_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_stejnegeri/96fc36439d4e0e302a0504d3ea06ef99205bd7cce02049f8d2e5a37a0b1640c7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0412\u0430\u043b\u0435\u0440\u0438\u044f \u041a\u043e\u0432\u0430\u043b\u0435\u0432\u0430",
+        "url": "https://www.inaturalist.org/users/2497873"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_stejnegeri/96fc36439d4e0e302a0504d3ea06ef99205bd7cce02049f8d2e5a37a0b1640c7_thumb.jpg"
+    }
+  ]
+}

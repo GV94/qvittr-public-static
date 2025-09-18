@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/milvus_migrans/5296b368df02c1d3c1d8cdaf364970f9ad0b5d999c15c68fa3b5faf9d27ee950.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ferdinando sacchetti",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Ferdinando_sacchetti&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/milvus_migrans/5296b368df02c1d3c1d8cdaf364970f9ad0b5d999c15c68fa3b5faf9d27ee950_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/milvus_migrans/100ca4db8b0fc84ce77bef970eff820d0ef82013fe299731b8e398b64c57fe90.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_migrans/100ca4db8b0fc84ce77bef970eff820d0ef82013fe299731b8e398b64c57fe90_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_migrans/279e7356c57bc08301a032243e0f31ee1f70488da7da8498341d84f9b942e2ad.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_migrans/279e7356c57bc08301a032243e0f31ee1f70488da7da8498341d84f9b942e2ad_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_migrans/4885028620f35dce6420e8826a37fc374660191da2023861a638e7dda742a92d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_migrans/4885028620f35dce6420e8826a37fc374660191da2023861a638e7dda742a92d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_migrans/4d7a7406109adf9af44a7ed9f9a2022e75b17de334a64bba65398c4a17c9e5b4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_migrans/4d7a7406109adf9af44a7ed9f9a2022e75b17de334a64bba65398c4a17c9e5b4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_migrans/7b39982aad2d75af0316c96bcece3e4b96d6a3263a222e36dee776f4715d616f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/milvus_migrans/7b39982aad2d75af0316c96bcece3e4b96d6a3263a222e36dee776f4715d616f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/milvus_migrans/8d212cf307330cae48a66281d2742efa82db831d91b0dd4e6b48f0be0563d198.jpeg",
+      "attribution": {
+        "label": "Wikimedia Commons, S D",
+        "url": "https://500px.com/sidan7"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/milvus_migrans/8d212cf307330cae48a66281d2742efa82db831d91b0dd4e6b48f0be0563d198_thumb.jpeg"
+    }
+  ]
+}

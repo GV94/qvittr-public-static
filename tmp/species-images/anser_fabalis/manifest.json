@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_fabalis/c7440311467b4151e5217ff45aa8d68393a0801712268a8496a2ef313636573c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Marton Berntsen",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Marton_Berntsen&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_fabalis/c7440311467b4151e5217ff45aa8d68393a0801712268a8496a2ef313636573c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_fabalis/8acd32ffe75ce1e31aeb8e1ef7556b9c0541399e66e700fb816774d79feb0144.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_fabalis/8acd32ffe75ce1e31aeb8e1ef7556b9c0541399e66e700fb816774d79feb0144_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_fabalis/b1ad310facb57fa5840da3d283fda9d0f9073cf13c049182493bb7256d32a472.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_fabalis/b1ad310facb57fa5840da3d283fda9d0f9073cf13c049182493bb7256d32a472_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_fabalis/ef6957c43b46ef98cbc5a4093af3fa043aec06ef79f36cc68c635268ad8b02f6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hobbyfotowiki",
+        "url": "https://commons.wikimedia.org/wiki/User:Hobbyfotowiki"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_fabalis/ef6957c43b46ef98cbc5a4093af3fa043aec06ef79f36cc68c635268ad8b02f6_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/dryobates_minor/e67216c0fee24455b35dee614bdc2067384cef38a4463d4fc10a17b6fcdc2ec9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Thermos",
+      "url": "https://commons.wikimedia.org/wiki/User:Thermos"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/dryobates_minor/e67216c0fee24455b35dee614bdc2067384cef38a4463d4fc10a17b6fcdc2ec9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/dryobates_minor/061c48c6891f061effebd13eca908e8ff25725ef8bf60cfe57a669d2478950fc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00d8yvind Holmstad",
+        "url": "https://commons.wikimedia.org/wiki/User:%C3%98yvind_Holmstad"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/dryobates_minor/061c48c6891f061effebd13eca908e8ff25725ef8bf60cfe57a669d2478950fc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/dryobates_minor/2b8d0b92401623c9756e3640b12c6ede6bc47d30ce4bdb83949d5ea28c01fedf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zaltys",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Zaltys&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/dryobates_minor/2b8d0b92401623c9756e3640b12c6ede6bc47d30ce4bdb83949d5ea28c01fedf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/dryobates_minor/e3bc66373c3facdede8f4e147611080601790662e25455059a006d95c5c4f7f5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Mecnarowski",
+        "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/dryobates_minor/e3bc66373c3facdede8f4e147611080601790662e25455059a006d95c5c4f7f5_thumb.jpg"
+    }
+  ]
+}

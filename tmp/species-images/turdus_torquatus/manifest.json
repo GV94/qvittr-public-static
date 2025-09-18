@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/turdus_torquatus/24eb75809884bde445009274d95add68499bec619c3913b4e859044a5710567c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Steve Garvie",
+      "url": "https://www.flickr.com/photos/50079771@N08"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/turdus_torquatus/24eb75809884bde445009274d95add68499bec619c3913b4e859044a5710567c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/turdus_torquatus/0b34adcd896e62685130c7d22b8a066e05d447cf35a46f9bffc702c66ccce6c1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_torquatus/0b34adcd896e62685130c7d22b8a066e05d447cf35a46f9bffc702c66ccce6c1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_torquatus/669a7c43fb14f71acd24d4e47e4c3b20c5163b6c37591d841dca62792787d18d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_torquatus/669a7c43fb14f71acd24d4e47e4c3b20c5163b6c37591d841dca62792787d18d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_torquatus/729e764cb6f436649897f32b45c91cd9b96a15c6086ed28cb88371bf20fb9cae.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve Garvie",
+        "url": "https://www.flickr.com/photos/50079771@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_torquatus/729e764cb6f436649897f32b45c91cd9b96a15c6086ed28cb88371bf20fb9cae_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_torquatus/873f5c5dd4a2eb56583ebfaa254620a677be40675f401e0ac6a1cc1ebba115d1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_torquatus/873f5c5dd4a2eb56583ebfaa254620a677be40675f401e0ac6a1cc1ebba115d1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_torquatus/adf680593b375f153bc03ce5f3bb5c3659dc307e889f3d8271b7520f6092254c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/turdus_torquatus/adf680593b375f153bc03ce5f3bb5c3659dc307e889f3d8271b7520f6092254c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_torquatus/fbb6fd730a82a9e9645431ce58cb22461e8474060cc2e733766b96bded54bac6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/turdus_torquatus/fbb6fd730a82a9e9645431ce58cb22461e8474060cc2e733766b96bded54bac6_thumb.jpg"
+    }
+  ]
+}

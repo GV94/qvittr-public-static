@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gavia_stellata/b37f37f2bd78ce33b5409777fb4a53c1ab3b651086f623371c2962636a987dcb.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, David Karn\u00e5",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gavia_stellata/b37f37f2bd78ce33b5409777fb4a53c1ab3b651086f623371c2962636a987dcb_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gavia_stellata/54ebfe4bd65d95089bdb17fd160e930ef69c2eb3c394a2ae7d9ef1774ce33034.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_stellata/54ebfe4bd65d95089bdb17fd160e930ef69c2eb3c394a2ae7d9ef1774ce33034_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_stellata/6d82e4b2a9f78dd56873a65ea58e2813160d7fffa448a917559cb2d216a2a203.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_stellata/6d82e4b2a9f78dd56873a65ea58e2813160d7fffa448a917559cb2d216a2a203_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_stellata/76c9c842641f5cf1c3217b7544204a043cc335013c5399f0bd41b66daaee1870.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_stellata/76c9c842641f5cf1c3217b7544204a043cc335013c5399f0bd41b66daaee1870_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_stellata/db26a34be4e5a92a30337a83bea6cdc8ca19623192c04d94458f03ee75822b16.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_stellata/db26a34be4e5a92a30337a83bea6cdc8ca19623192c04d94458f03ee75822b16_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_maritima/4540de6279807f70f8b2a42e6e4045f0022703489cf900e24268504529e5e4a1.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ian Kirk",
+      "url": "https://www.flickr.com/people/76592037@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_maritima/4540de6279807f70f8b2a42e6e4045f0022703489cf900e24268504529e5e4a1_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_maritima/0700b55905cbb25325f5ccd48fcd591eeb45a268d96420377583aee69a49a9d2.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_maritima/0700b55905cbb25325f5ccd48fcd591eeb45a268d96420377583aee69a49a9d2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_maritima/f03dbd55e0abaa4a149eedb832f70d0384d430daad15c431bfc27d3f82021759.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gordon Leggett",
+        "url": "https://commons.wikimedia.org/wiki/User:GRDN711"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_maritima/f03dbd55e0abaa4a149eedb832f70d0384d430daad15c431bfc27d3f82021759_thumb.jpg"
+    }
+  ]
+}

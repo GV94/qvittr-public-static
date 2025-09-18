@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/cinclus_cinclus/b69fac7776e36a949c2a2c1f17363b0d1c410c614f1f427a8841993f8b571e98.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Gr\u00e4smark",
+      "url": "https://commons.wikimedia.org/wiki/User:Gr%C3%A4smark"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/cinclus_cinclus/b69fac7776e36a949c2a2c1f17363b0d1c410c614f1f427a8841993f8b571e98_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/cinclus_cinclus/1f02f01b6681e5746a22d41317d228891b88402cf27dfec3e7860698ea8aeec2.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cinclus_cinclus/1f02f01b6681e5746a22d41317d228891b88402cf27dfec3e7860698ea8aeec2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cinclus_cinclus/32ef1dc8fd7254fae2b9824801c67d9194692d88c64a2bc2e26e7340b6766c1d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, User:Diginatur",
+        "url": "https://commons.wikimedia.org/wiki/User:Diginatur"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cinclus_cinclus/32ef1dc8fd7254fae2b9824801c67d9194692d88c64a2bc2e26e7340b6766c1d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cinclus_cinclus/71b20c240c8721e9a0a4262f0bed6cb40eeb9b87ec346e8d862e2790953b5c62.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cinclus_cinclus/71b20c240c8721e9a0a4262f0bed6cb40eeb9b87ec346e8d862e2790953b5c62_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cinclus_cinclus/8f811b91d3ddf98284607a0a355f61d857992c7840e38d0897ab534c962d2d96.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cinclus_cinclus/8f811b91d3ddf98284607a0a355f61d857992c7840e38d0897ab534c962d2d96_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cinclus_cinclus/8f832f7c1401f0f4e5f9bfb9216ea48a0eabd54c277ed47946ead308ab3db106.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cinclus_cinclus/8f832f7c1401f0f4e5f9bfb9216ea48a0eabd54c277ed47946ead308ab3db106_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cinclus_cinclus/93df73cc6ad90600397ed3b57e561171138411d10f4cbe573d58539d3a4e4619.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Albert Bridge",
+        "url": "https://www.geograph.org.uk/profile/5835"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cinclus_cinclus/93df73cc6ad90600397ed3b57e561171138411d10f4cbe573d58539d3a4e4619_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cinclus_cinclus/f6264445bc827be7f0c53cb457e9be24fc8ee5865b23f7d9c87617021ec89ce5.jpeg",
+      "attribution": {
+        "label": "Wikimedia Commons, Grzegorz Chrupa\u0142a",
+        "url": "https://500px.com/gchrupala"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cinclus_cinclus/f6264445bc827be7f0c53cb457e9be24fc8ee5865b23f7d9c87617021ec89ce5_thumb.jpeg"
+    }
+  ]
+}

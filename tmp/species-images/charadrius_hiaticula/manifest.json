@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/charadrius_hiaticula/5863f4643c5aeb5249669c1243808eef24a16dbea75c0fe9abb4c68bb3b7096c.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Alpo Roikola",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/charadrius_hiaticula/5863f4643c5aeb5249669c1243808eef24a16dbea75c0fe9abb4c68bb3b7096c_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/charadrius_hiaticula/16064e267ac41bf5b000cbf2c8919328c9d2a9f2921d682115f489f643414fc6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/charadrius_hiaticula/16064e267ac41bf5b000cbf2c8919328c9d2a9f2921d682115f489f643414fc6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/charadrius_hiaticula/1a46571b381c215b360ba7d2145cba664b94a77a857b4c6a5ee69dffb5608631.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/charadrius_hiaticula/1a46571b381c215b360ba7d2145cba664b94a77a857b4c6a5ee69dffb5608631_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/charadrius_hiaticula/294bf9b27757f7ce9fa4a1ca5124690be543d59d92d363ef7e3a4089a58b6dbf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/charadrius_hiaticula/294bf9b27757f7ce9fa4a1ca5124690be543d59d92d363ef7e3a4089a58b6dbf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/charadrius_hiaticula/74d6a52aa9196601ab35ee4af58ea517c142ca5726020fd4b59caef6f71f450c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/charadrius_hiaticula/74d6a52aa9196601ab35ee4af58ea517c142ca5726020fd4b59caef6f71f450c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/charadrius_hiaticula/ad0556ce51996f7084e970eadf2f1f87f11c7126e9ac93b33071ec1e5e682ea6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/charadrius_hiaticula/ad0556ce51996f7084e970eadf2f1f87f11c7126e9ac93b33071ec1e5e682ea6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/charadrius_hiaticula/dd675fb6823ecea63ef8cdf7869f802f1acfb563495f13a3c7cd5ccb0de664b3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Eichler, Andreas",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/charadrius_hiaticula/dd675fb6823ecea63ef8cdf7869f802f1acfb563495f13a3c7cd5ccb0de664b3_thumb.jpg"
+    }
+  ]
+}

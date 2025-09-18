@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/falco_subbuteo/de38106b06cb1a094994c9e03f8e57165bf3f94e279df485c20cdf30440cf04a.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Bernard DUPONT",
+      "url": "https://www.flickr.com/people/65695019@N07"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/falco_subbuteo/de38106b06cb1a094994c9e03f8e57165bf3f94e279df485c20cdf30440cf04a_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/falco_subbuteo/038c2f5f9cc7985c0d832c7808f320663d6cef0a806d1114e32079a636f1143d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/falco_subbuteo/038c2f5f9cc7985c0d832c7808f320663d6cef0a806d1114e32079a636f1143d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_subbuteo/2eee7f473a3805b1b073d71c1005dd8e61c84b71577362fc815a9e5f2f6a2ff8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_subbuteo/2eee7f473a3805b1b073d71c1005dd8e61c84b71577362fc815a9e5f2f6a2ff8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_subbuteo/6f56e6597fe68a453558edcb3bd3df6ac64689210692cf09ef6524a2914fc12e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bernard DUPONT",
+        "url": "https://www.flickr.com/people/65695019@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_subbuteo/6f56e6597fe68a453558edcb3bd3df6ac64689210692cf09ef6524a2914fc12e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_subbuteo/891c8ecd76a6d08f9cf6cfb89ac26f5660bf7e6fcd1836605d6ca9d8cc375e05.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_subbuteo/891c8ecd76a6d08f9cf6cfb89ac26f5660bf7e6fcd1836605d6ca9d8cc375e05_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_subbuteo/e568d4fe3019fd20a0180123451c153a5c82476b0e3aa49178010ed6a7caf046.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_subbuteo/e568d4fe3019fd20a0180123451c153a5c82476b0e3aa49178010ed6a7caf046_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_subbuteo/ee304dc1f49e67769c54cd36bc3095d01b8e2237d974cf2574278f89ffa80bf3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_subbuteo/ee304dc1f49e67769c54cd36bc3095d01b8e2237d974cf2574278f89ffa80bf3_thumb.jpg"
+    }
+  ]
+}

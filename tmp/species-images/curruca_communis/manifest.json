@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/curruca_communis/2d35938638d104bc9f9763135e911328093be0b0729606946d73b44d219ed060.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/curruca_communis/2d35938638d104bc9f9763135e911328093be0b0729606946d73b44d219ed060_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/curruca_communis/b811a4630beac89a7b91fedc24650c3474d779105f590656c1ba1793c0f556db.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_communis/b811a4630beac89a7b91fedc24650c3474d779105f590656c1ba1793c0f556db_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_communis/cc4325a5de9bfda0dd7ff81b50c009e1dead83e09d034fca4c76fad924cfe1a0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/curruca_communis/cc4325a5de9bfda0dd7ff81b50c009e1dead83e09d034fca4c76fad924cfe1a0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_communis/d1277a3026aedd44540237a54a8a9d594bb9f8125364b9981abc0dd68f9666c6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_communis/d1277a3026aedd44540237a54a8a9d594bb9f8125364b9981abc0dd68f9666c6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_communis/d2ba636910cb6f99baed9b62fd70896fb10b2a385c6b4f8f57139a91a4caf2f3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_communis/d2ba636910cb6f99baed9b62fd70896fb10b2a385c6b4f8f57139a91a4caf2f3_thumb.jpg"
+    }
+  ]
+}

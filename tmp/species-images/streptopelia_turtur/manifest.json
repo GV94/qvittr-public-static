@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/streptopelia_turtur/6c88bcb429f1017fb39f0734eb28d3dcc43865acf1d54c17635e0920a5cde659.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mike Pennington",
+      "url": "https://www.geograph.org.uk/profile/9715"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/streptopelia_turtur/6c88bcb429f1017fb39f0734eb28d3dcc43865acf1d54c17635e0920a5cde659_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/streptopelia_turtur/45c50662a9bfc6994f11b007f42b009b50bcef86f9f6227defd5cd324df0a7e1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/streptopelia_turtur/45c50662a9bfc6994f11b007f42b009b50bcef86f9f6227defd5cd324df0a7e1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/streptopelia_turtur/5b0a5f0b29c653dd70c0f0d613a298cb99ffd921d97348b8506d101a4f2bd0e3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/streptopelia_turtur/5b0a5f0b29c653dd70c0f0d613a298cb99ffd921d97348b8506d101a4f2bd0e3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/streptopelia_turtur/82ad1b45da9de1ee73676ac9b41127eac6c045b5b1044074a2b74c8e2e609f6c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/streptopelia_turtur/82ad1b45da9de1ee73676ac9b41127eac6c045b5b1044074a2b74c8e2e609f6c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/streptopelia_turtur/efbda9951774c2e49c84890d9e1f55bc4cddeca1a0b78767d389d960e7d06850.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/streptopelia_turtur/efbda9951774c2e49c84890d9e1f55bc4cddeca1a0b78767d389d960e7d06850_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_fuscatus/a9162fd1ebadcaf057d9411db7809681ecfc47f485454f5e3d8054a916f98978.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Charles Lam",
+      "url": "https://www.flickr.com/photos/49296659@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_fuscatus/a9162fd1ebadcaf057d9411db7809681ecfc47f485454f5e3d8054a916f98978_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_fuscatus/12cee4e8275df0a832388e7c7bc2b851d664be5b12bf7ebde858cf703cadf9f3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Francesco Veronesi",
+        "url": "https://www.flickr.com/people/30818542@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_fuscatus/12cee4e8275df0a832388e7c7bc2b851d664be5b12bf7ebde858cf703cadf9f3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_fuscatus/3164510517d311e663e3f3163da0a0471ee6f25c0365b22f98453fb83feb86db.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, HarmonyonPlanetEarth",
+        "url": "https://www.flickr.com/people/69683857@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_fuscatus/3164510517d311e663e3f3163da0a0471ee6f25c0365b22f98453fb83feb86db_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_fuscatus/54e655779149789e5a55d023c162b5032ccb111100296f5ccc6bbfcda0b2a166.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jason Thompson",
+        "url": "https://www.flickr.com/people/79492850@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_fuscatus/54e655779149789e5a55d023c162b5032ccb111100296f5ccc6bbfcda0b2a166_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_fuscatus/aaec6c2207572c36531f94e1283dfbfa4667f8ca657884e9bde9762733fe0b00.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, HarmonyonPlanetEarth",
+        "url": "https://www.flickr.com/people/69683857@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_fuscatus/aaec6c2207572c36531f94e1283dfbfa4667f8ca657884e9bde9762733fe0b00_thumb.jpg"
+    }
+  ]
+}

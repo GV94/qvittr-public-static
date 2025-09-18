@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/turdus_atrogularis/0f78bbb452bda97c87a7e08320625eed607e6a98baf01483f271526480589461.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, soumyajit nandy",
+      "url": "https://www.flickr.com/people/23509946@N06"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/turdus_atrogularis/0f78bbb452bda97c87a7e08320625eed607e6a98baf01483f271526480589461_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/turdus_atrogularis/45c31cf9a5dc2900b8e7ddd4213a8f15196faf4e42d65b436be99c2a980edc01.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charlie Jackson",
+        "url": "https://www.flickr.com/people/27305106@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_atrogularis/45c31cf9a5dc2900b8e7ddd4213a8f15196faf4e42d65b436be99c2a980edc01_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_atrogularis/9addb8040b75ca616d2b4dae5c8855641224104f7a5321dbc5127473235e3263.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charlie Jackson",
+        "url": "https://www.flickr.com/people/27305106@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_atrogularis/9addb8040b75ca616d2b4dae5c8855641224104f7a5321dbc5127473235e3263_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_atrogularis/a3ba7ff4dd899428ab6c99cee291542ccb8a1933f040f76b1d87ddf3cf84a69f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charlie Jackson",
+        "url": "https://www.flickr.com/people/27305106@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_atrogularis/a3ba7ff4dd899428ab6c99cee291542ccb8a1933f040f76b1d87ddf3cf84a69f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/turdus_atrogularis/c78c6a1c6a5b8bd8775cbef3d0c44207319eb7ac000df33fd4c46610984e1362.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Koshy Koshy",
+        "url": "https://www.flickr.com/people/97235261@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/turdus_atrogularis/c78c6a1c6a5b8bd8775cbef3d0c44207319eb7ac000df33fd4c46610984e1362_thumb.jpg"
+    }
+  ]
+}

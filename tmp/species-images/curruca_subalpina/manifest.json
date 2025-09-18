@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/curruca_subalpina/dc8a09e81f3334fc400f804b336b596613ba0762e3864632bbb6b562095be4ab.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/curruca_subalpina/dc8a09e81f3334fc400f804b336b596613ba0762e3864632bbb6b562095be4ab_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/curruca_subalpina/7aa52e0804b5288b827b1e4246dff6b08b0ed4b5ce18200775c72ca6a9cbb598.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Heinrich von Kittlitz",
+        "url": "https://en.wikipedia.org/wiki/en:Heinrich_von_Kittlitz"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_subalpina/7aa52e0804b5288b827b1e4246dff6b08b0ed4b5ce18200775c72ca6a9cbb598_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_subalpina/f30b7f583941c55436bb8758efc98b57c4b783ac8ee2f82ace6a335f280be356.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Nicolas Huet",
+        "url": "https://en.wikipedia.org/wiki/en:Nicolas_Huet_the_Younger"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_subalpina/f30b7f583941c55436bb8758efc98b57c4b783ac8ee2f82ace6a335f280be356_thumb.jpg"
+    }
+  ]
+}

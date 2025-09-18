@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/passer_domesticus/bb505f4e4315a7b06dff266aca9cbf08ba64f048d3c4c3eba8f3a1d670e8bac2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/passer_domesticus/bb505f4e4315a7b06dff266aca9cbf08ba64f048d3c4c3eba8f3a1d670e8bac2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/passer_domesticus/1539dac7d8c28763de49a9653236a40d89b41ae666b15991a5556dceb530bac7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/passer_domesticus/1539dac7d8c28763de49a9653236a40d89b41ae666b15991a5556dceb530bac7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/passer_domesticus/2d7482f3f1d09508ea96aab54e51205c1e5265f3f3535d9685aefffe0cc298ba.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/passer_domesticus/2d7482f3f1d09508ea96aab54e51205c1e5265f3f3535d9685aefffe0cc298ba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/passer_domesticus/5aa738d16fb549c5f15342ec21200e970b30683ba27b302afb00a7d6e0751727.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Nabin K. Sapkota",
+        "url": "https://commons.wikimedia.org/wiki/User:Nabin_K._Sapkota"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/passer_domesticus/5aa738d16fb549c5f15342ec21200e970b30683ba27b302afb00a7d6e0751727_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/passer_domesticus/6de313f383c18f3fa347f96819a65268cbdc623af26871b782f8efa130e1f10a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Draceane",
+        "url": "https://commons.wikimedia.org/wiki/User:Draceane"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/passer_domesticus/6de313f383c18f3fa347f96819a65268cbdc623af26871b782f8efa130e1f10a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/passer_domesticus/948fcd77ea785ef57e7a2eb7b9df866740659d1a7ae44c84d19692f918b61c38.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/passer_domesticus/948fcd77ea785ef57e7a2eb7b9df866740659d1a7ae44c84d19692f918b61c38_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/passer_domesticus/c0f9f8922a719648ddffca480a1a82383c5812fa9a817d35cacead9b2cdfb2da.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/passer_domesticus/c0f9f8922a719648ddffca480a1a82383c5812fa9a817d35cacead9b2cdfb2da_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/passer_domesticus/feaf3976761bcadb9440a8ed94ca1ca71761476a8277b254aadb75aaf144188c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/passer_domesticus/feaf3976761bcadb9440a8ed94ca1ca71761476a8277b254aadb75aaf144188c_thumb.jpg"
+    }
+  ]
+}

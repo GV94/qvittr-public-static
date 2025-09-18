@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_cervinus/c8ad17faa3483d2ddd171a0e867919ec5bed369717e2dc657b5c9661c566c5c4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_cervinus/c8ad17faa3483d2ddd171a0e867919ec5bed369717e2dc657b5c9661c566c5c4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_cervinus/038deac4d787b1f5c6aa83fcb38810eea50b9681dea1f2942e3f12683d2ee0c9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_cervinus/038deac4d787b1f5c6aa83fcb38810eea50b9681dea1f2942e3f12683d2ee0c9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_cervinus/1dd7f5c62aaa93981c652c2d6d9641b3851669588a189173b28e3af8a7ce5d39.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_cervinus/1dd7f5c62aaa93981c652c2d6d9641b3851669588a189173b28e3af8a7ce5d39_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_cervinus/21224dbd7fc7b50783862347a727185daaf5adc5e451dfd2636cb872b074284c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_cervinus/21224dbd7fc7b50783862347a727185daaf5adc5e451dfd2636cb872b074284c_thumb.jpg"
+    }
+  ]
+}

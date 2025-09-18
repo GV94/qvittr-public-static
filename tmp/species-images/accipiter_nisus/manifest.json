@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/accipiter_nisus/31c5376c67c6e4fe83f677c46761bd4be61a4f332a12f141e2689aa2cf5d201f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Leif Bolding",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/accipiter_nisus/31c5376c67c6e4fe83f677c46761bd4be61a4f332a12f141e2689aa2cf5d201f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/accipiter_nisus/4037979c6ebdd48bd679df5aeaa6ad6b3dcbece161817549d7a7c51f1ad23832.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Scott",
+        "url": "https://www.flickr.com/photos/24025712@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/accipiter_nisus/4037979c6ebdd48bd679df5aeaa6ad6b3dcbece161817549d7a7c51f1ad23832_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/accipiter_nisus/46c27cc78b2cebf8db8711bea02072314fb65deb14a49ac6f280af0f30660472.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Mecnarowski",
+        "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/accipiter_nisus/46c27cc78b2cebf8db8711bea02072314fb65deb14a49ac6f280af0f30660472_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/accipiter_nisus/6e461f34fa41885994020bedc8dc5fcd60cc4629e52c43c28885cd3e46faf05a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bohu\u0161 \u010c\u00ed\u010del",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Trachemys/Bohu%C5%A1_%C4%8C%C3%AD%C4%8Del&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/accipiter_nisus/6e461f34fa41885994020bedc8dc5fcd60cc4629e52c43c28885cd3e46faf05a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/accipiter_nisus/819fc61f2e803c19e49e6aa3349adb155cf2f60dfe215b68290eb8ec436348d6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Laurent Rouschmeyer",
+        "url": "https://500px.com/LaurentRouschmeyer"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/accipiter_nisus/819fc61f2e803c19e49e6aa3349adb155cf2f60dfe215b68290eb8ec436348d6_thumb.jpg"
+    }
+  ]
+}

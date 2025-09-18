@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/corvus_corone/10280568efc3dd4dcb5b528e3ca781fa312f00fc8e36452184f3a1dca8836e4c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Adam Kumiszcza",
+      "url": "https://commons.wikimedia.org/wiki/User:Akumiszcza"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/corvus_corone/10280568efc3dd4dcb5b528e3ca781fa312f00fc8e36452184f3a1dca8836e4c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/corvus_corone/2b19421cc7a9f1168a66815adfeae69e5ec9fc161ca0fb6213542e7cbb299996.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Erich Ferdinand",
+        "url": "https://www.flickr.com/people/68387408@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_corone/2b19421cc7a9f1168a66815adfeae69e5ec9fc161ca0fb6213542e7cbb299996_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corone/47d6871948bb5bf3f654564f1da06fb07149c41a4b57f74292505f3519b0433e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Guilhem Vellut",
+        "url": "https://www.flickr.com/people/22539273@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_corone/47d6871948bb5bf3f654564f1da06fb07149c41a4b57f74292505f3519b0433e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corone/4c589b21efb84a7d5d69dbc33596444352d6d1b8fd78b7b0b6cde95294c512e0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Plismo",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Plismo&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_corone/4c589b21efb84a7d5d69dbc33596444352d6d1b8fd78b7b0b6cde95294c512e0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corone/9527586bcdb5d97dfb9559c3ed19535d9a6a3f525842c41397a22d8d4337f132.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corone/9527586bcdb5d97dfb9559c3ed19535d9a6a3f525842c41397a22d8d4337f132_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corone/c5340dfd36ee9451d26d1354e6d42c2950b0fbd3a058bec66652da156243a77e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corone/c5340dfd36ee9451d26d1354e6d42c2950b0fbd3a058bec66652da156243a77e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corone/c9c0b75864ec490f4813aa47e00e0685520f0dd2d24c4d1acdae9b2e56d8975f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corone/c9c0b75864ec490f4813aa47e00e0685520f0dd2d24c4d1acdae9b2e56d8975f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corone/e47c497a5c4c0dfec278dd7c79774a778fab69fc0fffaf4a8f2f609b9704a88c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_corone/e47c497a5c4c0dfec278dd7c79774a778fab69fc0fffaf4a8f2f609b9704a88c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_corone/f19f92042cf716ffc2206928f8297f3f5c1b71db02e1e361fed22714a6c8fba4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_corone/f19f92042cf716ffc2206928f8297f3f5c1b71db02e1e361fed22714a6c8fba4_thumb.jpg"
+    }
+  ]
+}

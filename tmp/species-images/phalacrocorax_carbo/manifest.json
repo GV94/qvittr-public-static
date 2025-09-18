@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phalacrocorax_carbo/5652a07c66bebf751ef87ff334a35345986897ab147e4465806a06d852cc6d0c.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Charles J. Sharp",
+      "url": "https://www.wikidata.org/wiki/Q54800218"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phalacrocorax_carbo/5652a07c66bebf751ef87ff334a35345986897ab147e4465806a06d852cc6d0c_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/19780cd62da8c6763763dcd8b1271e60b1263148b89bfddda0ad3f24810b7095.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phalacrocorax_carbo/19780cd62da8c6763763dcd8b1271e60b1263148b89bfddda0ad3f24810b7095_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/3207798a9ec26e0c98b079b73bbb7abfcd7363ae38abe9b8294ea1f089078894.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phalacrocorax_carbo/3207798a9ec26e0c98b079b73bbb7abfcd7363ae38abe9b8294ea1f089078894_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/392299e929fa648149a93bc63d2641fd8899540ba10cf365070e273f520d9e23.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phalacrocorax_carbo/392299e929fa648149a93bc63d2641fd8899540ba10cf365070e273f520d9e23_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/52fb37857b1eddf78c8a7282eda655e1778b2cdad94f3d7f7160b1e777775932.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phalacrocorax_carbo/52fb37857b1eddf78c8a7282eda655e1778b2cdad94f3d7f7160b1e777775932_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/8cb3ca3121467119bed1df23323d152dffbdb1aedcd609fc39b215214387ebfd.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phalacrocorax_carbo/8cb3ca3121467119bed1df23323d152dffbdb1aedcd609fc39b215214387ebfd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/a9f6c318574bf17310388d8fe24349b906615cdf0e911686024531154fcab8e8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Aticank",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Aticank&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalacrocorax_carbo/a9f6c318574bf17310388d8fe24349b906615cdf0e911686024531154fcab8e8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/ae102ed488f2a19b512ca40d9da3ecf1458f5bd5debb4c2e4714101a7093e8a6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Aticank",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Aticank&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalacrocorax_carbo/ae102ed488f2a19b512ca40d9da3ecf1458f5bd5debb4c2e4714101a7093e8a6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalacrocorax_carbo/fc7f3328faf611c7495ca1c02b6cd7c0d4cd833ca58dcefa794430ddd48c8695.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Michael Palmer",
+        "url": "https://commons.wikimedia.org/wiki/User:Michael_Palmer"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalacrocorax_carbo/fc7f3328faf611c7495ca1c02b6cd7c0d4cd833ca58dcefa794430ddd48c8695_thumb.jpg"
+    }
+  ]
+}

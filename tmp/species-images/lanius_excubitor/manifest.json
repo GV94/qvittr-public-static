@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/lanius_excubitor/0890b7cda03ab551f16debd63985fb7a1600e2b6a9cba01339362cdcad78f625.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Marek Szczepanek",
+      "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/lanius_excubitor/0890b7cda03ab551f16debd63985fb7a1600e2b6a9cba01339362cdcad78f625_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/lanius_excubitor/20e6c1ee5363121ab1734ab669197fd8672bcc9cee40c1c1560ea7d4a27914f1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, hedera.baltica",
+        "url": "https://www.flickr.com/people/125741467@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_excubitor/20e6c1ee5363121ab1734ab669197fd8672bcc9cee40c1c1560ea7d4a27914f1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_excubitor/58162780ad00571a646bc3764ecb62c230d814d4533ff9069fec33db82252442.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_excubitor/58162780ad00571a646bc3764ecb62c230d814d4533ff9069fec33db82252442_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_excubitor/8e939f313b8b2d67c9f190bed153eda2909f944c50568046dd0d9cfb2c169403.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lanius_excubitor/8e939f313b8b2d67c9f190bed153eda2909f944c50568046dd0d9cfb2c169403_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_excubitor/afd324072a5526c48ff05ea0c56269465a45fe194776ece0d0387ab47b75a7bc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_excubitor/afd324072a5526c48ff05ea0c56269465a45fe194776ece0d0387ab47b75a7bc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_excubitor/d202bf53b9050e66f2d22b15ae7fd60a2e64120b5770593255da53f990295cea.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_excubitor/d202bf53b9050e66f2d22b15ae7fd60a2e64120b5770593255da53f990295cea_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lanius_excubitor/dab71ee8d071b9e939afb1fa402a41e9049e2fe8d3ff8c9012966b293ee4c09b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Arthi",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Arthi&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lanius_excubitor/dab71ee8d071b9e939afb1fa402a41e9049e2fe8d3ff8c9012966b293ee4c09b_thumb.jpg"
+    }
+  ]
+}

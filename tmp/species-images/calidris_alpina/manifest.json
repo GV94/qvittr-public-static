@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_alpina/a525af7b7c183ecf21996200899dcef1e779c3ad357f41e6aed9ef119c0cc3e4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mdf",
+      "url": "https://commons.wikimedia.org/wiki/User:Mdf"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_alpina/a525af7b7c183ecf21996200899dcef1e779c3ad357f41e6aed9ef119c0cc3e4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_alpina/07764279dc2c3e38c960a6660b6bfcb0c725a0647af02e105491c62a0195aaef.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_alpina/07764279dc2c3e38c960a6660b6bfcb0c725a0647af02e105491c62a0195aaef_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alpina/17d7e7ee7f1118ed47c31234655b099ece2880c1b0673739550b124c67f0ab9f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stephan Sprinz",
+        "url": "https://commons.wikimedia.org/wiki/User:Ssprmannheim"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_alpina/17d7e7ee7f1118ed47c31234655b099ece2880c1b0673739550b124c67f0ab9f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alpina/33ec97071d55547f26db251e24baf0167ca3cfa2c8a48f17eff49dc3df71b8a8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stephan Sprinz",
+        "url": "https://commons.wikimedia.org/wiki/User:Ssprmannheim"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_alpina/33ec97071d55547f26db251e24baf0167ca3cfa2c8a48f17eff49dc3df71b8a8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alpina/786f2401b0896ede7a2feb6e1b9d8b30ee5837b5740e4aa10f0b96733192961a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stephan Sprinz",
+        "url": "https://commons.wikimedia.org/wiki/User:Ssprmannheim"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_alpina/786f2401b0896ede7a2feb6e1b9d8b30ee5837b5740e4aa10f0b96733192961a_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/mareca_strepera/f53d7546bb3900da2891efbb0a709506c79a0d5648396975614d0dbc778fc72f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mdf",
+      "url": "https://commons.wikimedia.org/wiki/User:Mdf"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/mareca_strepera/f53d7546bb3900da2891efbb0a709506c79a0d5648396975614d0dbc778fc72f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/mareca_strepera/09d323c6f971030db35403eba38b31174055f57f3081f1a039c0e4fcc51b430a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_strepera/09d323c6f971030db35403eba38b31174055f57f3081f1a039c0e4fcc51b430a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_strepera/42cdeac7c5bebd128b9d9cea772fa1059e5b09aab84bdec7e355d7e40f3f89c0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mareca_strepera/42cdeac7c5bebd128b9d9cea772fa1059e5b09aab84bdec7e355d7e40f3f89c0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_strepera/4a145722866dd9cd6f4fcf4e624af70f91a4b60e88c277672ad659900f977e92.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_strepera/4a145722866dd9cd6f4fcf4e624af70f91a4b60e88c277672ad659900f977e92_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_strepera/9169813ec5537002bd370a8774d5f8a80fe7f0209a3cded0cf5538b4e11ef7c1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_strepera/9169813ec5537002bd370a8774d5f8a80fe7f0209a3cded0cf5538b4e11ef7c1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_strepera/c0b6c9aa9e92a0acc999f2ffee51d4fd045e2c3b5925b553466c1f950e238fbc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mareca_strepera/c0b6c9aa9e92a0acc999f2ffee51d4fd045e2c3b5925b553466c1f950e238fbc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_strepera/cfbc59359f856f46b6e7a8469c748dc0353032d2916bc5ef6665f3e789ca42de.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_strepera/cfbc59359f856f46b6e7a8469c748dc0353032d2916bc5ef6665f3e789ca42de_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mareca_strepera/f860e7a4b33bc2a23d26fc0bbe3289d4f78e061042dc5b44fe62f4711a398f15.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mareca_strepera/f860e7a4b33bc2a23d26fc0bbe3289d4f78e061042dc5b44fe62f4711a398f15_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/motacilla_flava/bdb29c637b167bc2db98ee1e79075dc87283fb28a68bd14b0f4ef65ae9207ab4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/motacilla_flava/bdb29c637b167bc2db98ee1e79075dc87283fb28a68bd14b0f4ef65ae9207ab4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/motacilla_flava/146869e0a7514079ce9ce039dfa4db4f6183a14478d2641300e6f7e813433880.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_flava/146869e0a7514079ce9ce039dfa4db4f6183a14478d2641300e6f7e813433880_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/151118907d60893fd065809237c0280a99f609d101020044838783598f1b1c0d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_flava/151118907d60893fd065809237c0280a99f609d101020044838783598f1b1c0d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/4b33400b6183f9374abf9e51f7429028d22c6d12e7fa990f037eef81126813c5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_flava/4b33400b6183f9374abf9e51f7429028d22c6d12e7fa990f037eef81126813c5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/5089f3d95ccfdb8037d80b4beabadf3bdb2f053249c871c61e03f8fa5f033ba6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_flava/5089f3d95ccfdb8037d80b4beabadf3bdb2f053249c871c61e03f8fa5f033ba6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/796213abbe0a4bbe298c598aed18780d0bed3347351804b6f0ce8031b584e3c0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pierre-Marie Epiney",
+        "url": "https://www.flickr.com/people/83657186@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_flava/796213abbe0a4bbe298c598aed18780d0bed3347351804b6f0ce8031b584e3c0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/8217be765da81b88bba48ae58f7fed7c654f5dda2cd37388c2d25b32baf52b6f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_flava/8217be765da81b88bba48ae58f7fed7c654f5dda2cd37388c2d25b32baf52b6f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/855e0a9d6c339995cd93699609f109fd982c28af11e2ac889558f2a1465eb8e5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Brian Eager",
+        "url": "https://www.flickr.com/people/27813593@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/motacilla_flava/855e0a9d6c339995cd93699609f109fd982c28af11e2ac889558f2a1465eb8e5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/b8fe59bd4ac745371f77d2f287a745edfbe1dd0a7ccdfbd883e8dbd0fad71e94.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_flava/b8fe59bd4ac745371f77d2f287a745edfbe1dd0a7ccdfbd883e8dbd0fad71e94_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/motacilla_flava/cb06a437916434bdca839df735d781ad3d6ca2c05871b0bc2cf731316181a710.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/motacilla_flava/cb06a437916434bdca839df735d781ad3d6ca2c05871b0bc2cf731316181a710_thumb.jpg"
+    }
+  ]
+}

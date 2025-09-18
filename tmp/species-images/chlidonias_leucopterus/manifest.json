@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/chlidonias_leucopterus/09c352af4cb48abb69ff0b30ee5104b49a52e576b8d00e6693a80a8725ed31eb.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Frank Vassen",
+      "url": "https://www.flickr.com/people/42244964@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/chlidonias_leucopterus/09c352af4cb48abb69ff0b30ee5104b49a52e576b8d00e6693a80a8725ed31eb_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/chlidonias_leucopterus/8065fb758b0595f4564a3269784064cca3f6a7b926eb2540b1a0dfb771b21194.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chlidonias_leucopterus/8065fb758b0595f4564a3269784064cca3f6a7b926eb2540b1a0dfb771b21194_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/chlidonias_leucopterus/ab3b76721a29342687ed8fee01661ad13bd3779d8141e28c749716e972c3adad.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/photos/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chlidonias_leucopterus/ab3b76721a29342687ed8fee01661ad13bd3779d8141e28c749716e972c3adad_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/chlidonias_leucopterus/ef9cafa54c89eeb08a777e86ab1f1d90b118c72076a29f90a4fe4bcf64469033.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ziegentom (www.fotocommunity.de)",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chlidonias_leucopterus/ef9cafa54c89eeb08a777e86ab1f1d90b118c72076a29f90a4fe4bcf64469033_thumb.jpg"
+    }
+  ]
+}

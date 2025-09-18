@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/podiceps_cristatus/a57b2aa2e6fb0e40061d6edb30a64824e20d0405a1b3ee783bdf189c13ede113.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, JJ Harrison",
+      "url": "https://commons.wikimedia.org/wiki/User:JJ_Harrison"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/podiceps_cristatus/a57b2aa2e6fb0e40061d6edb30a64824e20d0405a1b3ee783bdf189c13ede113_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/podiceps_cristatus/14129fa482e7f74a5c2048c1c19a4c8f71e11a1231d27e8481742a82b8498541.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Judge",
+        "url": "https://www.flickr.com/people/27911027@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_cristatus/14129fa482e7f74a5c2048c1c19a4c8f71e11a1231d27e8481742a82b8498541_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/293e33fc1d26db1a7303afd0e098f25d1d7fa092b47a0dc204b9a48596ec32b4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Judge",
+        "url": "https://www.flickr.com/people/27911027@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_cristatus/293e33fc1d26db1a7303afd0e098f25d1d7fa092b47a0dc204b9a48596ec32b4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/3f75dcf896c9dd286803f890fb99b044ca3761d98fb98c6404a4dba69108bf7c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/podiceps_cristatus/3f75dcf896c9dd286803f890fb99b044ca3761d98fb98c6404a4dba69108bf7c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/6c2651031a6a9f88b9bdb4f9541b48bb5367ae325e8d2d63a4a849c37ba9f8de.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/podiceps_cristatus/6c2651031a6a9f88b9bdb4f9541b48bb5367ae325e8d2d63a4a849c37ba9f8de_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/6cf6ee7a400ad48560046f3094b775bc38a31ce55b41e529048dc4b7e08773b4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/podiceps_cristatus/6cf6ee7a400ad48560046f3094b775bc38a31ce55b41e529048dc4b7e08773b4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/7c916c69746ebc82e61bdbbd810d3b0afe9990ec0a7bf74e80432ea9df11f006.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/podiceps_cristatus/7c916c69746ebc82e61bdbbd810d3b0afe9990ec0a7bf74e80432ea9df11f006_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/b922d200a881111f92aa0af47ec0da66e816530f50b99f64e1eccefdff245b2b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Judge",
+        "url": "https://www.flickr.com/people/27911027@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_cristatus/b922d200a881111f92aa0af47ec0da66e816530f50b99f64e1eccefdff245b2b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/d53e2a5bd731ff5d8f1b1eed1e695f5f50af01c70ac1afcc317017a6bf84c094.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Judge",
+        "url": "https://www.flickr.com/people/27911027@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_cristatus/d53e2a5bd731ff5d8f1b1eed1e695f5f50af01c70ac1afcc317017a6bf84c094_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_cristatus/e28356faf33bd93ab6233d1e72224ab55b463cf7f4143d165adc7c4cd6064a4d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/podiceps_cristatus/e28356faf33bd93ab6233d1e72224ab55b463cf7f4143d165adc7c4cd6064a4d_thumb.jpg"
+    }
+  ]
+}

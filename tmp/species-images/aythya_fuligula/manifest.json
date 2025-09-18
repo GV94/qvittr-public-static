@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aythya_fuligula/2569f5c93bf9543ca8b63e22441c6eb7e2f595b1c2982ec2f90bd3a0922f055e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://foto.andreas-trepte.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aythya_fuligula/2569f5c93bf9543ca8b63e22441c6eb7e2f595b1c2982ec2f90bd3a0922f055e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aythya_fuligula/08cdf3b7c92a00009f618b8ce4966d607106b985080069ab19840011716621a3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aythya_fuligula/08cdf3b7c92a00009f618b8ce4966d607106b985080069ab19840011716621a3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/675f191dafaba80acc8b935fe17cc8c08642399d297f970fdf51fd1c35826a21.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aythya_fuligula/675f191dafaba80acc8b935fe17cc8c08642399d297f970fdf51fd1c35826a21_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/74f5f430d2fcc89651741f338e08c3a96ac2e6dfcf6bf71e409b9ae3d963a5e1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aythya_fuligula/74f5f430d2fcc89651741f338e08c3a96ac2e6dfcf6bf71e409b9ae3d963a5e1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/901851f02d4332c59d713a8a9297bf343b1f249f9844fa6eeac3a1da0f1a1955.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aythya_fuligula/901851f02d4332c59d713a8a9297bf343b1f249f9844fa6eeac3a1da0f1a1955_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/95368f56ea142410e2e8eb6bc9f6c03d4afb73d938cf0f402a83009430b45387.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aythya_fuligula/95368f56ea142410e2e8eb6bc9f6c03d4afb73d938cf0f402a83009430b45387_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/954b91c0862378ea7024dcd332195e423790c445bb73f8d02366558eb9457958.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_fuligula/954b91c0862378ea7024dcd332195e423790c445bb73f8d02366558eb9457958_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/b773470de921742293fe8f6e8071bc4c7933578d53c8b29c3bcced429d904f38.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_fuligula/b773470de921742293fe8f6e8071bc4c7933578d53c8b29c3bcced429d904f38_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/ddcbcd2b1488524b1c55e6685a42967698fb03c52ae05295b2f91849d9ec4656.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_fuligula/ddcbcd2b1488524b1c55e6685a42967698fb03c52ae05295b2f91849d9ec4656_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_fuligula/f2cf719932fd32f06e21f6ab37572fb261dcafa2916db8578306397cf0bbcc4c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_fuligula/f2cf719932fd32f06e21f6ab37572fb261dcafa2916db8578306397cf0bbcc4c_thumb.jpg"
+    }
+  ]
+}

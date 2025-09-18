@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_alba/30f0a0e0cb8a5f8fe34595b003626fdf14a9b5b658a59ab1bdf21fa49f9cc98a.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mdf",
+      "url": "https://en.wikipedia.org/wiki/User:Mdf"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_alba/30f0a0e0cb8a5f8fe34595b003626fdf14a9b5b658a59ab1bdf21fa49f9cc98a_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_alba/152db13af41ca97fed890ce82f36e6bdd22374c44929a1935f8cad5d7da37751.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Commonist",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Commonist"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_alba/152db13af41ca97fed890ce82f36e6bdd22374c44929a1935f8cad5d7da37751_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/3dd432b3f8a2b6182d5bffa637f9ab687b113bc765e41cd87a06d33c3b641b8d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Commonist",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Commonist"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_alba/3dd432b3f8a2b6182d5bffa637f9ab687b113bc765e41cd87a06d33c3b641b8d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/485f235ecbb82ca68d3dc3865ebb51a3873a2cc7dad6a240e712cfbb809d9959.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_alba/485f235ecbb82ca68d3dc3865ebb51a3873a2cc7dad6a240e712cfbb809d9959_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/5715443a9d43ceddde8cef24733e078ccf5a98b38e19f1dbb0145b817a8aef21.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_alba/5715443a9d43ceddde8cef24733e078ccf5a98b38e19f1dbb0145b817a8aef21_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/747e90108acf8ebc02efbfd4885017daabcffa0a246d36f6fb239b152114e7b4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_alba/747e90108acf8ebc02efbfd4885017daabcffa0a246d36f6fb239b152114e7b4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/9f66901b261b93cc8a0c517c70acbe88105e2a1b48f592545a7ef2f7dd58d139.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_alba/9f66901b261b93cc8a0c517c70acbe88105e2a1b48f592545a7ef2f7dd58d139_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/c7df4dc4af0e5c562671e9e2744a61bc983e2d02276fff7e1e7651398663aede.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Commonist",
+        "url": "https://commons.wikimedia.org/wiki/Commons:Commonist"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_alba/c7df4dc4af0e5c562671e9e2744a61bc983e2d02276fff7e1e7651398663aede_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/c9309d219068cee4b94c46b50bd72ccf3b4c9790cd1fceb3584097140127e0ea.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_alba/c9309d219068cee4b94c46b50bd72ccf3b4c9790cd1fceb3584097140127e0ea_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_alba/e24cee7efa30f4efa0d2c505fe98fa4ab5acfac7b9ea7375e61753527e3ea426.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ian Kirk",
+        "url": "https://www.flickr.com/people/76592037@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_alba/e24cee7efa30f4efa0d2c505fe98fa4ab5acfac7b9ea7375e61753527e3ea426_thumb.jpg"
+    }
+  ]
+}

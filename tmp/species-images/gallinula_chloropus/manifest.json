@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gallinula_chloropus/2daa4be60a54edc8e9212e53ba3daa393143b77a8448fc5898dc34fdba3707c0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Steve Garvie",
+      "url": "https://www.flickr.com/photos/50079771@N08"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gallinula_chloropus/2daa4be60a54edc8e9212e53ba3daa393143b77a8448fc5898dc34fdba3707c0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gallinula_chloropus/2de5513b6b59d032624121db6d4b4b4c25596ba75bfe827053e038617c94dd40.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/gallinula_chloropus/2de5513b6b59d032624121db6d4b4b4c25596ba75bfe827053e038617c94dd40_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinula_chloropus/30583536e7e40abc46d19cead8e00f14e3ebbc5dddaabd8d74b8459eb2522ba6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinula_chloropus/30583536e7e40abc46d19cead8e00f14e3ebbc5dddaabd8d74b8459eb2522ba6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinula_chloropus/38f4499c11ce40208d7197ea4acfe1397a0724940a89edc4bf95c4696e342a91.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/gallinula_chloropus/38f4499c11ce40208d7197ea4acfe1397a0724940a89edc4bf95c4696e342a91_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinula_chloropus/455371293c22d00e67feacb8264a9f2456fbd66e9b75059a1f55bfd845ba71ef.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rhododendrites",
+        "url": "https://commons.wikimedia.org/wiki/User:Rhododendrites"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinula_chloropus/455371293c22d00e67feacb8264a9f2456fbd66e9b75059a1f55bfd845ba71ef_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinula_chloropus/4b823805c8550a3cf819a7072b74a4a1921f27d3d7d9a119b04e34cdcc2be3ce.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/gallinula_chloropus/4b823805c8550a3cf819a7072b74a4a1921f27d3d7d9a119b04e34cdcc2be3ce_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinula_chloropus/9463d46ebd98d01ef35c1368311a672a59aba89460677c4b3c454b99407cfd94.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/gallinula_chloropus/9463d46ebd98d01ef35c1368311a672a59aba89460677c4b3c454b99407cfd94_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinula_chloropus/e608240c0db9caaa0e1f5109de1500ac28c9a3487973315efd3a1bc09b94982a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/gallinula_chloropus/e608240c0db9caaa0e1f5109de1500ac28c9a3487973315efd3a1bc09b94982a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinula_chloropus/f81ceb9893e360601a4614070e224e398dabd0b4b39c3af0f0ed6a5f9185a85f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00d6tyk\u00f6s",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:%C3%96tyk%C3%B6s&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinula_chloropus/f81ceb9893e360601a4614070e224e398dabd0b4b39c3af0f0ed6a5f9185a85f_thumb.jpg"
+    }
+  ]
+}

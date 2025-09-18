@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phoenicurus_ochruros/03ca8715b385d87c48e8419fbd04e72ccca8329a839f5b762423a7e2c8a31b92.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Carles Pastor",
+      "url": "https://commons.wikimedia.org/wiki/User:Carles_Pastor"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phoenicurus_ochruros/03ca8715b385d87c48e8419fbd04e72ccca8329a839f5b762423a7e2c8a31b92_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/1dfa89f2426557926b80dc8b9d9a39a5413efc892b540ab85775cca94b72b31c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_ochruros/1dfa89f2426557926b80dc8b9d9a39a5413efc892b540ab85775cca94b72b31c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/5e62866673f77e1619663c0747e4187ff0b1b1acb2ebbd2951b4cea9aae6696a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Karunakar Rayker",
+        "url": "https://www.flickr.com/people/21932201@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_ochruros/5e62866673f77e1619663c0747e4187ff0b1b1acb2ebbd2951b4cea9aae6696a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/65084bea32da8297ae1e96033b1c0aba0962898ee61fbf281d825d75fcb8c849.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_ochruros/65084bea32da8297ae1e96033b1c0aba0962898ee61fbf281d825d75fcb8c849_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/7d084ef5fa878db7936b520e3824f64b5eb846fecb62e215c9e4037d67871afd.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_ochruros/7d084ef5fa878db7936b520e3824f64b5eb846fecb62e215c9e4037d67871afd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/85e2363a4c98974ccef607854a9b58d810aa7f550fd5c76fad3c315af85f4c6e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_ochruros/85e2363a4c98974ccef607854a9b58d810aa7f550fd5c76fad3c315af85f4c6e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/9cc3b5cbef556a7195ebd40e3793597736f33fb61037033e91e7b5a00fbcbc56.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, hedera.baltica",
+        "url": "https://www.flickr.com/people/125741467@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_ochruros/9cc3b5cbef556a7195ebd40e3793597736f33fb61037033e91e7b5a00fbcbc56_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/b66c8241595acf60d8292adda12a37f0ab9637e6e3bce7756b43b67173368b8b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrew Weitzel",
+        "url": "https://www.flickr.com/people/21531749@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_ochruros/b66c8241595acf60d8292adda12a37f0ab9637e6e3bce7756b43b67173368b8b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/c9ff48248b6094137b2b7073249b995062cd8e726cbdda2bf37d4a954afecc00.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pierre-Marie Epiney",
+        "url": "https://www.flickr.com/people/83657186@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phoenicurus_ochruros/c9ff48248b6094137b2b7073249b995062cd8e726cbdda2bf37d4a954afecc00_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phoenicurus_ochruros/f995a30e52c6db6165603aea15d0cac392ea289a258a2682b368c68cc5347cb7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phoenicurus_ochruros/f995a30e52c6db6165603aea15d0cac392ea289a258a2682b368c68cc5347cb7_thumb.jpg"
+    }
+  ]
+}

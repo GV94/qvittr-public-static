@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/plectrophenax_nivalis/c5bf550d51bbdc7fd71b7215ce63eaf9e837d0222e1c3078b0a1a0fedf0aa45f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/plectrophenax_nivalis/c5bf550d51bbdc7fd71b7215ce63eaf9e837d0222e1c3078b0a1a0fedf0aa45f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/plectrophenax_nivalis/3e06c71eb4fe260b9f3e56149c6fc31ffb5814ea7fe711380fa19e2055386551.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/plectrophenax_nivalis/3e06c71eb4fe260b9f3e56149c6fc31ffb5814ea7fe711380fa19e2055386551_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/plectrophenax_nivalis/4229f616f92024ac425ffd80406ecda9db627513855af9e0ce677743a2a6694d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/plectrophenax_nivalis/4229f616f92024ac425ffd80406ecda9db627513855af9e0ce677743a2a6694d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/plectrophenax_nivalis/4a472be3d3502860e716b41e37e304a96eee4958302492a49eb29aa5d4a63ba0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/plectrophenax_nivalis/4a472be3d3502860e716b41e37e304a96eee4958302492a49eb29aa5d4a63ba0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/plectrophenax_nivalis/829091387e36a90a980dcf7712e290b4c0df142ffe8d4cea3d8a82daaa1502a2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, lwolfartist",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/plectrophenax_nivalis/829091387e36a90a980dcf7712e290b4c0df142ffe8d4cea3d8a82daaa1502a2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/plectrophenax_nivalis/c0650cd7c911239ce398c6c928a03cd178ca00b84f9bdd650c830c75109db4bd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, lwolfartist",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/plectrophenax_nivalis/c0650cd7c911239ce398c6c928a03cd178ca00b84f9bdd650c830c75109db4bd_thumb.jpg"
+    }
+  ]
+}

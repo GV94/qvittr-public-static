@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/glareola_pratincola/6a0bf58cefbbfce1fe454dc6ac7eb195d84adebbd8c92318a786e733adfd6f47.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Saswat Mishra",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Paulmshr14&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/glareola_pratincola/6a0bf58cefbbfce1fe454dc6ac7eb195d84adebbd8c92318a786e733adfd6f47_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/glareola_pratincola/46f4e311001b7177a7aaf20ac872616cd36b5e328c8c8fef89ab26852ce724e1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bernard DUPONT",
+        "url": "https://www.flickr.com/people/65695019@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/glareola_pratincola/46f4e311001b7177a7aaf20ac872616cd36b5e328c8c8fef89ab26852ce724e1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/glareola_pratincola/5a13bc9d19e263c7dca5b25f08b8d036e0914564c7c718838673ca44e56bd967.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dominic Sherony",
+        "url": "https://www.flickr.com/people/9765210@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/glareola_pratincola/5a13bc9d19e263c7dca5b25f08b8d036e0914564c7c718838673ca44e56bd967_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/glareola_pratincola/6713758c02bc337fe0800c7d22e81641ea0f5efd5c7aec30e9470f8099105a81.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Atelierelealbe",
+        "url": "https://commons.wikimedia.org/wiki/User:Atelierelealbe"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/glareola_pratincola/6713758c02bc337fe0800c7d22e81641ea0f5efd5c7aec30e9470f8099105a81_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/glareola_pratincola/d1967e857f2620bb2c4d84d33a067fef4c4237d84b6220bf435ddb88d9a5ed36.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dominic Sherony",
+        "url": "https://www.flickr.com/people/9765210@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/glareola_pratincola/d1967e857f2620bb2c4d84d33a067fef4c4237d84b6220bf435ddb88d9a5ed36_thumb.jpg"
+    }
+  ]
+}

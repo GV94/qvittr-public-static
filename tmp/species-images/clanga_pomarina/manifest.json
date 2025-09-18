@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/clanga_pomarina/b4751042d3e3307c1bcbfe1cd466f98f8f6678c82f851d039f08a4f789f11454.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Wolbrum avner",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Wolbrum_avner&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/clanga_pomarina/b4751042d3e3307c1bcbfe1cd466f98f8f6678c82f851d039f08a4f789f11454_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/clanga_pomarina/01489a9077e3090462bcb0448bc6491ac290d385112c00cc30a3857972f4ee0f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clanga_pomarina/01489a9077e3090462bcb0448bc6491ac290d385112c00cc30a3857972f4ee0f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clanga_pomarina/1965cf9c89515583fb9d8122efe472b30ac9f07534591d2512687db263400df8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clanga_pomarina/1965cf9c89515583fb9d8122efe472b30ac9f07534591d2512687db263400df8_thumb.jpg"
+    }
+  ]
+}

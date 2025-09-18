@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_proregulus/a527e38e23d43768c2bee29f903a625009295b09c5d26cf3a95536fcbfe4f357.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, \u5b5f\u5baa\u4f1f",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_proregulus/a527e38e23d43768c2bee29f903a625009295b09c5d26cf3a95536fcbfe4f357_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_proregulus/2a73b037a60c357796c789eaa619d08d121a8c9f4ad2b9fe96a970883d79b6cd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pellinger Attila",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_proregulus/2a73b037a60c357796c789eaa619d08d121a8c9f4ad2b9fe96a970883d79b6cd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_proregulus/a9f4253ed213637df2179ca38170ad0db7d4e40f6aef77132bb704c2054493c1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u5b5f\u5baa\u4f1f",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_proregulus/a9f4253ed213637df2179ca38170ad0db7d4e40f6aef77132bb704c2054493c1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_proregulus/b9522e1f94852658a0a83fbf2b4b3609aaf55336ac1430c60010181a3ced505f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, naturalist4631",
+        "url": "https://www.inaturalist.org/people/naturalist4631"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_proregulus/b9522e1f94852658a0a83fbf2b4b3609aaf55336ac1430c60010181a3ced505f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_proregulus/d47a99c6474061487a1053e796c9f81b17f922bb64d0f292dd49a132ae0b76c0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Norelius",
+        "url": "https://www.flickr.com/people/96457262@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_proregulus/d47a99c6474061487a1053e796c9f81b17f922bb64d0f292dd49a132ae0b76c0_thumb.jpg"
+    }
+  ]
+}

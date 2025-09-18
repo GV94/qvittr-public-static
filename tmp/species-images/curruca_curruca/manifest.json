@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/curruca_curruca/730473bbeb436478b0756ff629ceda2aa0d027e13ccf929e5ebf4f3af6ce0a01.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, hedera.baltica",
+      "url": "https://www.flickr.com/people/125741467@N05"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/curruca_curruca/730473bbeb436478b0756ff629ceda2aa0d027e13ccf929e5ebf4f3af6ce0a01_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/curruca_curruca/5ed670db9e71a2da9e06ca497874cfe81b063cd920b6e40257b9c9477e8656f6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00d3mar Run\u00f3lfsson",
+        "url": "https://www.flickr.com/people/29174969@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_curruca/5ed670db9e71a2da9e06ca497874cfe81b063cd920b6e40257b9c9477e8656f6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_curruca/9942d1d9fe73d646302bfb2395f0c2e19cd4fc8abc6bc9bf153659618c8a1fc6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_curruca/9942d1d9fe73d646302bfb2395f0c2e19cd4fc8abc6bc9bf153659618c8a1fc6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_curruca/cc3540e367e27e038485403ad86e1d8129828adf360424481d7e021db2fb5b92.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_curruca/cc3540e367e27e038485403ad86e1d8129828adf360424481d7e021db2fb5b92_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_curruca/d2e6ed4b2d1060ca9f6f5f5b50dd524ea1aa5811afd9e5111e9d568ed9ef18f6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Nikola Veljkovi\u0107",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Nikola_Veljkovi%C4%87&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_curruca/d2e6ed4b2d1060ca9f6f5f5b50dd524ea1aa5811afd9e5111e9d568ed9ef18f6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_curruca/d67912b72df4c18685c74b8cef002641a0171031ab10b8dc9317b49c00f99004.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_curruca/d67912b72df4c18685c74b8cef002641a0171031ab10b8dc9317b49c00f99004_thumb.jpg"
+    }
+  ]
+}

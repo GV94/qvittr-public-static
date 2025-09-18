@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/alle_alle/48a45035b39c2c50625582e7384183bfcd02ff9773c24f6444aabeadd3aaf101.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/alle_alle/48a45035b39c2c50625582e7384183bfcd02ff9773c24f6444aabeadd3aaf101_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/alle_alle/13167a1409d737ffc300209fd13b412361c5f784e130164d562c66aed1c23d3d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, User:Jerzystrzelecki:Jerzy Strzelecki",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Jerzystrzelecki:Jerzy_Strzelecki&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alle_alle/13167a1409d737ffc300209fd13b412361c5f784e130164d562c66aed1c23d3d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alle_alle/1d5708556d78ac632e54251d863549974104c70566f783a19c0a41483be90551.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, User:Jerzystrzelecki:Jerzy Strzelecki",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Jerzystrzelecki:Jerzy_Strzelecki&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alle_alle/1d5708556d78ac632e54251d863549974104c70566f783a19c0a41483be90551_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alle_alle/60238e37fe2f5ec34e380fc48d6097dbce3b3f45281a7cec4909f8c07ab20748.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, User:Jerzystrzelecki:Jerzy Strzelecki",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Jerzystrzelecki:Jerzy_Strzelecki&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alle_alle/60238e37fe2f5ec34e380fc48d6097dbce3b3f45281a7cec4909f8c07ab20748_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alle_alle/6e93833c4ec36a62b1b2606a5af67fcfe8fb8efbfd8cd4d68837f829766870f5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Foto: Jonn Leffmann",
+        "url": "https://commons.wikimedia.org/wiki/User:Jonnmann"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alle_alle/6e93833c4ec36a62b1b2606a5af67fcfe8fb8efbfd8cd4d68837f829766870f5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alle_alle/e31d601678d0c1f786410022511eda26d0585288731c8c4907bbe061996ab868.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, User:Jerzystrzelecki:Jerzy Strzelecki",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Jerzystrzelecki:Jerzy_Strzelecki&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alle_alle/e31d601678d0c1f786410022511eda26d0585288731c8c4907bbe061996ab868_thumb.jpg"
+    }
+  ]
+}

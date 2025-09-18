@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/cepphus_grylle/28e42c22f183b6e5c74315e4fd54caf4b10859424b5a8fac9367ae299790a3ae.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, U.S. Fish and Wildlife Service Northeast Region",
+      "url": "https://www.flickr.com/photos/43322816@N08"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/cepphus_grylle/28e42c22f183b6e5c74315e4fd54caf4b10859424b5a8fac9367ae299790a3ae_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/cepphus_grylle/130bed536d2e2f27ad7d33cd66197893d49956b5083d65981a4fb1daf7bf5deb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cepphus_grylle/130bed536d2e2f27ad7d33cd66197893d49956b5083d65981a4fb1daf7bf5deb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cepphus_grylle/23ac7627fdf75e03cdde64963d273fb4d0501e881b7093288dc92e749cebf519.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cepphus_grylle/23ac7627fdf75e03cdde64963d273fb4d0501e881b7093288dc92e749cebf519_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cepphus_grylle/4b55aac6b640273c377e53819f71e00939ba12c9927b3fe38ef2f4a1a5c653b0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cepphus_grylle/4b55aac6b640273c377e53819f71e00939ba12c9927b3fe38ef2f4a1a5c653b0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cepphus_grylle/7d08529b3b49579672792fc32b9e97439f3c4dda7e7924c29d6d8c2dc99b8c97.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Smudge 9000",
+        "url": "https://www.flickr.com/people/7599112@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cepphus_grylle/7d08529b3b49579672792fc32b9e97439f3c4dda7e7924c29d6d8c2dc99b8c97_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cepphus_grylle/ab4bb9c5f3521a34c9052b3133e90f24d069803b3db6ea9eed99b3a948fab9c4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cepphus_grylle/ab4bb9c5f3521a34c9052b3133e90f24d069803b3db6ea9eed99b3a948fab9c4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cepphus_grylle/c45571d1729ac22c387eeed8a0f1910eabf0d0fd0daa95ea8d6a7bdff61bb3b5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, marsupium photography",
+        "url": "https://www.flickr.com/people/43405950@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cepphus_grylle/c45571d1729ac22c387eeed8a0f1910eabf0d0fd0daa95ea8d6a7bdff61bb3b5_thumb.jpg"
+    }
+  ]
+}

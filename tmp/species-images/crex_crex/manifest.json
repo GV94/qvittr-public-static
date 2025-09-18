@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/crex_crex/25025d3b4a2fc2e10b532653341f1bf23a5a41c42eb5ba3914cbaae691b7792f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/crex_crex/25025d3b4a2fc2e10b532653341f1bf23a5a41c42eb5ba3914cbaae691b7792f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/crex_crex/414fc199d132d0dee9703d4058ed0c38462716a5187512bd05156451804737b0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Solym\u00e1ri",
+        "url": "https://commons.wikimedia.org/wiki/User:Solym%C3%A1ri"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/crex_crex/414fc199d132d0dee9703d4058ed0c38462716a5187512bd05156451804737b0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/crex_crex/58cef5373d65e46e37d777f6328d4fe2a0c51d576c07ca800275afbbd379ab22.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, J P Simpson",
+        "url": "https://www.geograph.org.uk/profile/28693"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/crex_crex/58cef5373d65e46e37d777f6328d4fe2a0c51d576c07ca800275afbbd379ab22_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/crex_crex/6a7c52241aa2e345a0bf194f1596ca43a271053759785538f32576f17f7d9762.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/crex_crex/6a7c52241aa2e345a0bf194f1596ca43a271053759785538f32576f17f7d9762_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/crex_crex/9162c5a99e3792beee38f781fee8d882452514d5adaef2f5150eadf3f59adf0d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Richard Wesley",
+        "url": "https://www.flickr.com/people/balvicar/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/crex_crex/9162c5a99e3792beee38f781fee8d882452514d5adaef2f5150eadf3f59adf0d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/crex_crex/e16d4fe02eededd8337d569330beb3af5fa65360231c090015cc88536fc053cb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, s\u00e9bastien bertru",
+        "url": "https://www.flickr.com/people/45759259@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/crex_crex/e16d4fe02eededd8337d569330beb3af5fa65360231c090015cc88536fc053cb_thumb.jpg"
+    }
+  ]
+}

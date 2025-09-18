@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/thalasseus_sandvicensis/c017fe1307bbca09993582834c49bcfb8d53f7ef40146e97e4bf93f90e6bee1d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/thalasseus_sandvicensis/c017fe1307bbca09993582834c49bcfb8d53f7ef40146e97e4bf93f90e6bee1d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/thalasseus_sandvicensis/3ac113ef254b834248de8b2891161b9fc910e990a2f216c755e1d77b43196a28.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/thalasseus_sandvicensis/3ac113ef254b834248de8b2891161b9fc910e990a2f216c755e1d77b43196a28_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/thalasseus_sandvicensis/6c07bcdfd8f98a2ad988be9688c259afc55b30690d5f4b45fe8536e983df6c72.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/thalasseus_sandvicensis/6c07bcdfd8f98a2ad988be9688c259afc55b30690d5f4b45fe8536e983df6c72_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/thalasseus_sandvicensis/ba6cc38438adbd76728f99acccffb5b5666f467cce687e3adf16cd73ce0f9f26.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/thalasseus_sandvicensis/ba6cc38438adbd76728f99acccffb5b5666f467cce687e3adf16cd73ce0f9f26_thumb.jpg"
+    }
+  ]
+}

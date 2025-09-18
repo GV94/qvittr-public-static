@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/egretta_garzetta/16ba06a8c9e4e2fb24676b9ef938df3cdfd6310ce2cb0ffed6f9e778f8349bd3.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Derek Keats",
+      "url": "https://www.flickr.com/people/93242958@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/egretta_garzetta/16ba06a8c9e4e2fb24676b9ef938df3cdfd6310ce2cb0ffed6f9e778f8349bd3_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/egretta_garzetta/1dfb450f6fe1c7c80e470591ef6a14b999e7f34479495e885b44b963cd92d502.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/egretta_garzetta/1dfb450f6fe1c7c80e470591ef6a14b999e7f34479495e885b44b963cd92d502_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/egretta_garzetta/20f5f43fa77a6ca322b91082412cea90f045b49428de07dc3912d345382f3584.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Sylvain HAYE",
+        "url": "https://en.wikipedia.org/wiki/fr:User:Sylvouille"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/egretta_garzetta/20f5f43fa77a6ca322b91082412cea90f045b49428de07dc3912d345382f3584_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/egretta_garzetta/6f282525deb19e69f937a343f1c5e93ac9b8213ebdd66685e07d5fafdc65b37a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/egretta_garzetta/6f282525deb19e69f937a343f1c5e93ac9b8213ebdd66685e07d5fafdc65b37a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/egretta_garzetta/704f601a97c1cfe29944de0a55dfa5456853db047827c9a2ea30a74f1b182c20.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/egretta_garzetta/704f601a97c1cfe29944de0a55dfa5456853db047827c9a2ea30a74f1b182c20_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/egretta_garzetta/774fb6303749fdc4ff586fd73ac375ce36102cb8943698e16f164a901023ecf1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/egretta_garzetta/774fb6303749fdc4ff586fd73ac375ce36102cb8943698e16f164a901023ecf1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/egretta_garzetta/90d838ebb6d869e5af3f0192020a5cc0ab52adb74dc9d8a8b5ce3ea956530832.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/egretta_garzetta/90d838ebb6d869e5af3f0192020a5cc0ab52adb74dc9d8a8b5ce3ea956530832_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/egretta_garzetta/e27df5530b1be6da19121d27cf0a8e91c2f4d7c030868ca84493ae9553f2aca0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Denis Luyten",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/egretta_garzetta/e27df5530b1be6da19121d27cf0a8e91c2f4d7c030868ca84493ae9553f2aca0_thumb.jpg"
+    }
+  ]
+}

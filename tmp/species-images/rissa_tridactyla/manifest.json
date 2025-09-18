@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/rissa_tridactyla/ca1d14ba0e26120004e07942802f4b0d86c5f4785ccd2073eb61c5710db395a8.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Yathin S Krishnappa",
+      "url": "https://commons.wikimedia.org/wiki/User:Yathin_sk"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/rissa_tridactyla/ca1d14ba0e26120004e07942802f4b0d86c5f4785ccd2073eb61c5710db395a8_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/rissa_tridactyla/06faf9007aeea8e5adf2b719f2e9aeb0773cdf8166b58fd72485ad22d25f5531.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/rissa_tridactyla/06faf9007aeea8e5adf2b719f2e9aeb0773cdf8166b58fd72485ad22d25f5531_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rissa_tridactyla/48c9b432a1de5f7f699da11c3e633f5bdc5cbc9663a3688e3fa981f987b70eb4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/rissa_tridactyla/48c9b432a1de5f7f699da11c3e633f5bdc5cbc9663a3688e3fa981f987b70eb4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rissa_tridactyla/9808a59c7b01fa132c71b6462d318b4bf35be73960337eddf8315ed690fe797b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hillebrand, Steve",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rissa_tridactyla/9808a59c7b01fa132c71b6462d318b4bf35be73960337eddf8315ed690fe797b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rissa_tridactyla/b9a3c3ce507c14e472ad51d9f2b78c104d8ab6f3539512c1ba83dc86fb6bd398.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Becky Matsubara",
+        "url": "https://www.flickr.com/people/130819719@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rissa_tridactyla/b9a3c3ce507c14e472ad51d9f2b78c104d8ab6f3539512c1ba83dc86fb6bd398_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rissa_tridactyla/d37d33a5495f3f2040bfdf242f2136f6f9eeb009e7ae336fe687a821757c1ef0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gary Bembridge",
+        "url": "https://www.flickr.com/people/8327374@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rissa_tridactyla/d37d33a5495f3f2040bfdf242f2136f6f9eeb009e7ae336fe687a821757c1ef0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rissa_tridactyla/e4310f3c3b0645c9e884dab7170f3d8feb0aeaf7474fc2324c9880a12c5f183e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Allen Shimada NOAA/NMFS/OST/AMD.",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rissa_tridactyla/e4310f3c3b0645c9e884dab7170f3d8feb0aeaf7474fc2324c9880a12c5f183e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rissa_tridactyla/e4b8b05f0dd5b764c665e61b08523bbc00fe6c1c6db9b78815ce18e0a872503a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alan Wu",
+        "url": "https://www.flickr.com/people/31004001@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rissa_tridactyla/e4b8b05f0dd5b764c665e61b08523bbc00fe6c1c6db9b78815ce18e0a872503a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rissa_tridactyla/ee526c4e61ea045a19a40ef07481b4e9e048e1692607efd5db3e81efef6be9e5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/rissa_tridactyla/ee526c4e61ea045a19a40ef07481b4e9e048e1692607efd5db3e81efef6be9e5_thumb.jpg"
+    }
+  ]
+}

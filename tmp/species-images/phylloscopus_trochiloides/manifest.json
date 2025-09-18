@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_trochiloides/7386a73e2b7395e0fc44b07d0b61e79648cd8dee06b703455ea185b9bf87ac34.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dibyendu Ash",
+      "url": "https://commons.wikimedia.org/wiki/User:Dibyendu_Ash"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_trochiloides/7386a73e2b7395e0fc44b07d0b61e79648cd8dee06b703455ea185b9bf87ac34_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_trochiloides/1ce240983c189629ce8d0170f40df8fdde5350f7f718d47049f2a23a5e2b1e22.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochiloides/1ce240983c189629ce8d0170f40df8fdde5350f7f718d47049f2a23a5e2b1e22_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochiloides/83ac277c3f59bc3df7bf655708439cfe593f326abb222fa28bd979a196d8f61c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochiloides/83ac277c3f59bc3df7bf655708439cfe593f326abb222fa28bd979a196d8f61c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochiloides/c31b35bd45f1db487dad705a77ebbd50bead8bd3574ffe4108232cf62fb4f430.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochiloides/c31b35bd45f1db487dad705a77ebbd50bead8bd3574ffe4108232cf62fb4f430_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_trochiloides/e6cf41f0e4ec0246f59b720f9c1e0fcb02895571127abf7b57655c7cd7a58de3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_trochiloides/e6cf41f0e4ec0246f59b720f9c1e0fcb02895571127abf7b57655c7cd7a58de3_thumb.jpg"
+    }
+  ]
+}

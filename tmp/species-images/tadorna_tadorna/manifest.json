@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tadorna_tadorna/0aa0233970e067f0706a51da0b033ca5edb76688f7c3cad3fe9dc28377df70b6.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ronnie Robertson",
+      "url": "https://www.flickr.com/people/16633132@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tadorna_tadorna/0aa0233970e067f0706a51da0b033ca5edb76688f7c3cad3fe9dc28377df70b6_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tadorna_tadorna/059ee3c9a60982bdf13c136ac421395d5a5b8a3bf7b6f2996dadf1a16fe38643.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tadorna_tadorna/059ee3c9a60982bdf13c136ac421395d5a5b8a3bf7b6f2996dadf1a16fe38643_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tadorna_tadorna/3115bd5b0a75453c5fed751dcc8133173a2a32b94272fbac79cd37873070cd79.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tadorna_tadorna/3115bd5b0a75453c5fed751dcc8133173a2a32b94272fbac79cd37873070cd79_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tadorna_tadorna/5c0d2108ce7e2f6884f999c089ad7a751faeac3c13356ce6e8718bc13dca5a2b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tadorna_tadorna/5c0d2108ce7e2f6884f999c089ad7a751faeac3c13356ce6e8718bc13dca5a2b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tadorna_tadorna/7ff12fbdc44463d6594ad024194f071439f16b6a2a10f767b884995a73829cd3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tadorna_tadorna/7ff12fbdc44463d6594ad024194f071439f16b6a2a10f767b884995a73829cd3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tadorna_tadorna/826cadebdbe32030d2651dea4ffc752bac879df8f2e7c6886b9ad29cfbd5b286.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tadorna_tadorna/826cadebdbe32030d2651dea4ffc752bac879df8f2e7c6886b9ad29cfbd5b286_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tadorna_tadorna/9ab23eb5c8047356a42e670c9feb28e0ebd3fcf51feb148aca916f27adec0399.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tadorna_tadorna/9ab23eb5c8047356a42e670c9feb28e0ebd3fcf51feb148aca916f27adec0399_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tadorna_tadorna/b2f3440237c53a9ac5b518f9164ea0c81531a0fec8a8078d3b3e0ebb3e1b2495.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tadorna_tadorna/b2f3440237c53a9ac5b518f9164ea0c81531a0fec8a8078d3b3e0ebb3e1b2495_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tadorna_tadorna/d04e080b554cafccb92a2079d64abe265ec74981099a458451f0d27e647ce859.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tadorna_tadorna/d04e080b554cafccb92a2079d64abe265ec74981099a458451f0d27e647ce859_thumb.jpg"
+    }
+  ]
+}

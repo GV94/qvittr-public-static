@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_borealis/d9eadd34a7e00fdc0b9d06c9e524d81e0e7d5350062051aca9773c14a702b7ac.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Arctic_Warbler_4683.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Arctic_Warbler_4683.jpg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_borealis/d9eadd34a7e00fdc0b9d06c9e524d81e0e7d5350062051aca9773c14a702b7ac_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_borealis/1b4b9624b3dd520dd1c749f2996cf20c2090a049773e9bdbf0d9cb34c551e23f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alnus",
+        "url": "https://commons.wikimedia.org/wiki/User:Alnus"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_borealis/1b4b9624b3dd520dd1c749f2996cf20c2090a049773e9bdbf0d9cb34c551e23f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_borealis/4801f543cdecbb2c681273c961b3694811007040398bf0ff235d4b64271c7837.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alnus",
+        "url": "https://commons.wikimedia.org/wiki/User:Alnus"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_borealis/4801f543cdecbb2c681273c961b3694811007040398bf0ff235d4b64271c7837_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_borealis/e1f8a8e4c1a1de9e30d281008276d93573ff25bd1fced52d3819bd82bccff5d7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, CharlesLam",
+        "url": "https://www.flickr.com/photos/kclama/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_borealis/e1f8a8e4c1a1de9e30d281008276d93573ff25bd1fced52d3819bd82bccff5d7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_borealis/f4f8b715f70df26ad612a068f26d05e939eba9a33d8ca2282862a13ca0188bda.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lip Kee",
+        "url": "https://www.flickr.com/people/64565252@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_borealis/f4f8b715f70df26ad612a068f26d05e939eba9a33d8ca2282862a13ca0188bda_thumb.jpg"
+    }
+  ]
+}

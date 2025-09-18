@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/melanitta_perspicillata/fec09297e5f19dc4a2c32ff01226e12ef7591bf0078a99814904f2b106e6e390.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Len Blumin",
+      "url": "https://www.flickr.com/people/9062441@N02"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/melanitta_perspicillata/fec09297e5f19dc4a2c32ff01226e12ef7591bf0078a99814904f2b106e6e390_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/melanitta_perspicillata/442974aed293180bf414306f37d6208a938dd0364f3d8714ee3ba978edc369fb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_perspicillata/442974aed293180bf414306f37d6208a938dd0364f3d8714ee3ba978edc369fb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_perspicillata/5a61a5deb9231984eaec34d931a8e3c4198d2676b37888bede4f2fbeb38fe9f0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_perspicillata/5a61a5deb9231984eaec34d931a8e3c4198d2676b37888bede4f2fbeb38fe9f0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_perspicillata/996e830bfe35ccbda316b308f8f609ae035917d3df20b13476d37331772e251e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_perspicillata/996e830bfe35ccbda316b308f8f609ae035917d3df20b13476d37331772e251e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_perspicillata/aefd31c5178daf3e216c216b4ef930d69c513773874a9331a1e91c3b17ab1a3a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_perspicillata/aefd31c5178daf3e216c216b4ef930d69c513773874a9331a1e91c3b17ab1a3a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_perspicillata/ce98639b9cb0858a29cbaad0fc1ce98910bc11f8d366f183c8450619290b4f3d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_perspicillata/ce98639b9cb0858a29cbaad0fc1ce98910bc11f8d366f183c8450619290b4f3d_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/platalea_leucorodia/1891c297d239dc241abc8ab54849f57fa11521b307022c9b405ceb3fe2e58c12.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/platalea_leucorodia/1891c297d239dc241abc8ab54849f57fa11521b307022c9b405ceb3fe2e58c12_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/platalea_leucorodia/0150ab7ffce5e70990e747139dea487b1f5e71841115ef7c8807ea10fecf6c8a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/platalea_leucorodia/0150ab7ffce5e70990e747139dea487b1f5e71841115ef7c8807ea10fecf6c8a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/1e5f922ae047113dfe717cbdfb5981fcfd6cb160550bf0b10989e24237927b72.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Emilio",
+        "url": "https://www.flickr.com/people/22009023@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/platalea_leucorodia/1e5f922ae047113dfe717cbdfb5981fcfd6cb160550bf0b10989e24237927b72_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/1e629cb787ab313b7e3685a6053d2faf218c59a8187c1bb9fa9c5bbbabe6aa46.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 0x010C",
+        "url": "https://commons.wikimedia.org/wiki/User:0x010C"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/platalea_leucorodia/1e629cb787ab313b7e3685a6053d2faf218c59a8187c1bb9fa9c5bbbabe6aa46_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/295e6b317fc4304423ace89c9f80a964354673dc2d8fd93b750cd5fe5a19601b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/platalea_leucorodia/295e6b317fc4304423ace89c9f80a964354673dc2d8fd93b750cd5fe5a19601b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/65a242b94f9ef0cedc80b43027220f1fa73c3d633c296e80fb1c3406f4e5fe90.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Davidvraju",
+        "url": "https://commons.wikimedia.org/wiki/User:Davidvraju"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/platalea_leucorodia/65a242b94f9ef0cedc80b43027220f1fa73c3d633c296e80fb1c3406f4e5fe90_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/8e041fb4431f4c41b423f4c5762664d6dc5ee30278e13da37b86b71ec929d5ae.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/platalea_leucorodia/8e041fb4431f4c41b423f4c5762664d6dc5ee30278e13da37b86b71ec929d5ae_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/92e5fb17a7ccfa1e623354311c0d6c7b431bb3db2139a1b689b3d4459778b7a0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/platalea_leucorodia/92e5fb17a7ccfa1e623354311c0d6c7b431bb3db2139a1b689b3d4459778b7a0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/a099b8abbc07cabc9a4e302b47487447bc89361f13a7f9af331ea21bbbe39fab.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Emilio",
+        "url": "https://www.flickr.com/people/22009023@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/platalea_leucorodia/a099b8abbc07cabc9a4e302b47487447bc89361f13a7f9af331ea21bbbe39fab_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/aa78662f57bbce7d5faf4bc7fff5983c430f658c9235c12ec47ed3df74c112df.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/platalea_leucorodia/aa78662f57bbce7d5faf4bc7fff5983c430f658c9235c12ec47ed3df74c112df_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/platalea_leucorodia/ab1f66a6c90014148b196220b0d32781f164b0370c9c1428b5161c1dbc94ac1d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ian Kirk",
+        "url": "https://www.flickr.com/people/76592037@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/platalea_leucorodia/ab1f66a6c90014148b196220b0d32781f164b0370c9c1428b5161c1dbc94ac1d_thumb.jpg"
+    }
+  ]
+}

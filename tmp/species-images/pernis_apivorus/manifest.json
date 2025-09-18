@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/pernis_apivorus/54ee42c36c6da38a9fdf05bd12e55b4dee9e2938fc9c858eca82e9c11d111844.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/pernis_apivorus/54ee42c36c6da38a9fdf05bd12e55b4dee9e2938fc9c858eca82e9c11d111844_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/pernis_apivorus/09de87b7297b5514d1b08e4a6e04268852831725b62217ef3109d05f8c09e8af.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pernis_apivorus/09de87b7297b5514d1b08e4a6e04268852831725b62217ef3109d05f8c09e8af_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pernis_apivorus/0eb69d4a370d3103823745e3c26c589bea5d0b72a909235d3490739c1c27deae.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Sillerkiil",
+        "url": "https://commons.wikimedia.org/wiki/User:Sillerkiil"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pernis_apivorus/0eb69d4a370d3103823745e3c26c589bea5d0b72a909235d3490739c1c27deae_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pernis_apivorus/2497281c92b4e83a9315ef6970a46ced8c3153d1b441ddb08f6483955a57cee4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Trepte",
+        "url": "http://photo-natur.de"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pernis_apivorus/2497281c92b4e83a9315ef6970a46ced8c3153d1b441ddb08f6483955a57cee4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pernis_apivorus/2d6c097f09b4cd359f3ea6c61ec019b42c3bf01c496b3d6f8f2192babe12d7ce.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pernis_apivorus/2d6c097f09b4cd359f3ea6c61ec019b42c3bf01c496b3d6f8f2192babe12d7ce_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pernis_apivorus/2f13218edf9bab3f680ca57a26bce1b256cfee48f275f32c4ec505a9901ad7a7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Blondinrikard Fr\u00f6berg",
+        "url": "https://www.flickr.com/people/44093058@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pernis_apivorus/2f13218edf9bab3f680ca57a26bce1b256cfee48f275f32c4ec505a9901ad7a7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pernis_apivorus/433f5f8676eb15114387cf2eef727efa43bb670749916edd15a68b9a72597961.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Norelius",
+        "url": "https://www.flickr.com/people/96457262@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pernis_apivorus/433f5f8676eb15114387cf2eef727efa43bb670749916edd15a68b9a72597961_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pernis_apivorus/88c9bf4e6773252b7bdaf3fd8cefda68ad92e62f70206b2d60e06ae784afe2b0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bob Adams",
+        "url": "https://www.flickr.com/people/46185203@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pernis_apivorus/88c9bf4e6773252b7bdaf3fd8cefda68ad92e62f70206b2d60e06ae784afe2b0_thumb.jpg"
+    }
+  ]
+}

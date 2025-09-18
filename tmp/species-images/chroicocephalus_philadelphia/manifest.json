@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/chroicocephalus_philadelphia/5d7253e86935c7c4f22b26942654b1dd1ee354c9e3bb5d4c25c1a7ba50a48bc9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, David Menke",
+      "url": "https://www.wikidata.org/wiki/Q26235785"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/chroicocephalus_philadelphia/5d7253e86935c7c4f22b26942654b1dd1ee354c9e3bb5d4c25c1a7ba50a48bc9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/chroicocephalus_philadelphia/2378d3fa93cd1b8b9010c38af0846f9c284f7d2f8a13f58074d1a424e6c396bf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dick Daniels",
+        "url": "https://commons.wikimedia.org/wiki/User:DickDaniels"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chroicocephalus_philadelphia/2378d3fa93cd1b8b9010c38af0846f9c284f7d2f8a13f58074d1a424e6c396bf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/chroicocephalus_philadelphia/599f234c269b45e94c9e8d5e42f99ef6593d79ec53e9a52711fcc5f97e8b4f54.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ken Chan",
+        "url": "https://www.flickr.com/people/17694496@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chroicocephalus_philadelphia/599f234c269b45e94c9e8d5e42f99ef6593d79ec53e9a52711fcc5f97e8b4f54_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/chroicocephalus_philadelphia/a08e3704de47f7750d2cccb0fe245748873cca28e0559df03932affa24a5687c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Don Faulkner",
+        "url": "https://www.flickr.com/people/50763319@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chroicocephalus_philadelphia/a08e3704de47f7750d2cccb0fe245748873cca28e0559df03932affa24a5687c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/chroicocephalus_philadelphia/baae175893024ab6c1e8f01a0cc934d4c9967572a105c346e8f9a649aa23564d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rhododendrites",
+        "url": "https://commons.wikimedia.org/wiki/User:Rhododendrites"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chroicocephalus_philadelphia/baae175893024ab6c1e8f01a0cc934d4c9967572a105c346e8f9a649aa23564d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/chroicocephalus_philadelphia/bb50b387a7f7dd7b9cc34c593646b7ca3de9c900d5a6047edcc180f0a017c479.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrew C",
+        "url": "https://www.flickr.com/people/104269801@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/chroicocephalus_philadelphia/bb50b387a7f7dd7b9cc34c593646b7ca3de9c900d5a6047edcc180f0a017c479_thumb.jpg"
+    }
+  ]
+}

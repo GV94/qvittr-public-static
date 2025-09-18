@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/locustella_luscinioides/a3c7ca3f95846cfa7f7f798e862872d93bc515b06463375f53fd1dbc29cfd3c4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Sgbeer",
+      "url": "https://commons.wikimedia.org/wiki/User:Sgbeer"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/locustella_luscinioides/a3c7ca3f95846cfa7f7f798e862872d93bc515b06463375f53fd1dbc29cfd3c4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/locustella_luscinioides/181de53e736dea224c2e139dfd7fb57f0148d681885f0c2dcd2b651c5eeb0cf0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martien Brand",
+        "url": "https://www.flickr.com/people/28820410@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_luscinioides/181de53e736dea224c2e139dfd7fb57f0148d681885f0c2dcd2b651c5eeb0cf0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_luscinioides/72669f23b2bf27738b7aa8ae97e412f90e2b6b337d4e94635bbefec8bcaa2510.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ivan Medenica",
+        "url": "https://commons.wikimedia.org/wiki/User:Medeniacus"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_luscinioides/72669f23b2bf27738b7aa8ae97e412f90e2b6b337d4e94635bbefec8bcaa2510_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_luscinioides/834839d3de1b33b79876aef0688b926e2890e6306a675a227e14d12f2e08b3d3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ivan Medenica",
+        "url": "https://commons.wikimedia.org/wiki/User:Medeniacus"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_luscinioides/834839d3de1b33b79876aef0688b926e2890e6306a675a227e14d12f2e08b3d3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_luscinioides/afdaa7b8cadb90690f9840bb8ffaac0a1316526dc557a54c39b8c110f25663e5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Created by Sergey Yeliseev.",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_luscinioides/afdaa7b8cadb90690f9840bb8ffaac0a1316526dc557a54c39b8c110f25663e5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_luscinioides/faa50e712962124dd112d2e6a0186f9f8d462d6ec81c38ac291bebf70dec6d8d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/locustella_luscinioides/faa50e712962124dd112d2e6a0186f9f8d462d6ec81c38ac291bebf70dec6d8d_thumb.jpg"
+    }
+  ]
+}

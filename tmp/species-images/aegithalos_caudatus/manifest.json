@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aegithalos_caudatus/5d37a5449a1a3c34a4bc7be0466d778dc790f4e3b2fe7d5d073b19b1e36acf12.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Alastair Rae",
+      "url": "https://www.flickr.com/photos/55663585@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aegithalos_caudatus/5d37a5449a1a3c34a4bc7be0466d778dc790f4e3b2fe7d5d073b19b1e36acf12_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/33808eddac8b7b8e01264b71a1127f6bc41c51c999d750e5f1ac79038e90cfd6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Yavuz Korkmaz",
+        "url": "https://www.inaturalist.org/users/389229"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aegithalos_caudatus/33808eddac8b7b8e01264b71a1127f6bc41c51c999d750e5f1ac79038e90cfd6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/385ce865d5d36d39d5f1defc7284f453d112ee4732a62c68aa9a711c7f50c1f8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aegithalos_caudatus/385ce865d5d36d39d5f1defc7284f453d112ee4732a62c68aa9a711c7f50c1f8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/50eab22d5b5dd77729214f2d011f056dbe6e1d4ee0f206d1c0e11a8adeb0d073.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Michel Langeveld",
+        "url": "https://www.inaturalist.org/users/3599717"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aegithalos_caudatus/50eab22d5b5dd77729214f2d011f056dbe6e1d4ee0f206d1c0e11a8adeb0d073_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/637625abd91916ec43ad52c486f4c2bbd1c7d1037abd3e62d3b4bce281cc02e0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aegithalos_caudatus/637625abd91916ec43ad52c486f4c2bbd1c7d1037abd3e62d3b4bce281cc02e0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/653b1e7424c4a29552539c14db2cb0914b2d4af41a32107d877f2fa45ac7e465.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, m.shattock",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aegithalos_caudatus/653b1e7424c4a29552539c14db2cb0914b2d4af41a32107d877f2fa45ac7e465_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/6c081a2abec136662454473404edc931069bb74e2f754d77c67a0b17277feb83.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aegithalos_caudatus/6c081a2abec136662454473404edc931069bb74e2f754d77c67a0b17277feb83_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/a4bb19b39f00f795e9f3cad7b1b130983ceca75de1e63af890231fb4590ddc17.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aegithalos_caudatus/a4bb19b39f00f795e9f3cad7b1b130983ceca75de1e63af890231fb4590ddc17_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/d80618c2c1de7bb74a844910fd9d7a7fc82981878f9d3a1aeb799648501de5c2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Michel Langeveld",
+        "url": "https://www.inaturalist.org/users/3599717"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aegithalos_caudatus/d80618c2c1de7bb74a844910fd9d7a7fc82981878f9d3a1aeb799648501de5c2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegithalos_caudatus/fd503ea6d6c498e1efe11acb83d5129ecf5cf5d3690db3d8cc57f2aa86f88a19.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aegithalos_caudatus/fd503ea6d6c498e1efe11acb83d5129ecf5cf5d3690db3d8cc57f2aa86f88a19_thumb.jpg"
+    }
+  ]
+}

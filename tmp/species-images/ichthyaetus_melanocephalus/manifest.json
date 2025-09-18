@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/ichthyaetus_melanocephalus/784e62a350fcb78ffc78a7247e494a27966df116798abe5a2a6fb9af6e68bde0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Yu Moskalenko",
+      "url": "https://commons.wikimedia.org/wiki/User:Yu_Moskalenko"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/ichthyaetus_melanocephalus/784e62a350fcb78ffc78a7247e494a27966df116798abe5a2a6fb9af6e68bde0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/ichthyaetus_melanocephalus/0aeb0dba1810ca9217db737e4617cece43438c5c84d82081c82e63d2017d74e5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ichthyaetus_melanocephalus/0aeb0dba1810ca9217db737e4617cece43438c5c84d82081c82e63d2017d74e5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ichthyaetus_melanocephalus/20f7d6143177751d550e137b254934a52eb6274b6c855ae44715d0a8700674d8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ichthyaetus_melanocephalus/20f7d6143177751d550e137b254934a52eb6274b6c855ae44715d0a8700674d8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ichthyaetus_melanocephalus/7b18d68066fcd2006f2a84af818b14764974317f88a4c1fa2bf88e45d61d06f6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ichthyaetus_melanocephalus/7b18d68066fcd2006f2a84af818b14764974317f88a4c1fa2bf88e45d61d06f6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ichthyaetus_melanocephalus/e4a9a34cd88e4ab534565bba9c4aad2b53e648e6e04fcfef215f622251336a52.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ichthyaetus_melanocephalus/e4a9a34cd88e4ab534565bba9c4aad2b53e648e6e04fcfef215f622251336a52_thumb.jpg"
+    }
+  ]
+}

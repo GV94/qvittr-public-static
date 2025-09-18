@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/pastor_roseus/c16751d0bad9d2d58c19459eeedeca6a71e4fa0989b7db7e0bd89bffe4103cc3.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ron Knight",
+      "url": "https://www.flickr.com/people/9919745@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/pastor_roseus/c16751d0bad9d2d58c19459eeedeca6a71e4fa0989b7db7e0bd89bffe4103cc3_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/pastor_roseus/08aa013436daf9b90f386af5cf7f8eb91598f4cc3b1050c0a19bf563a01ce47d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pastor_roseus/08aa013436daf9b90f386af5cf7f8eb91598f4cc3b1050c0a19bf563a01ce47d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pastor_roseus/1427c912dc158d1b978ea53dfedddb9538fb404abbc9f4ef6d68d230ce57433e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rison Thumboor",
+        "url": "https://www.flickr.com/people/95103422@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pastor_roseus/1427c912dc158d1b978ea53dfedddb9538fb404abbc9f4ef6d68d230ce57433e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pastor_roseus/163628621c0d2fddbc327369dc095840f2525569c10d1c0c0958d8a68efd1f5b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ivan Petrov",
+        "url": "https://en.wikipedia.org/wiki/bg:User:IvanGeoPetrov"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pastor_roseus/163628621c0d2fddbc327369dc095840f2525569c10d1c0c0958d8a68efd1f5b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pastor_roseus/7079e9da2e176f7b419cbddd0f471adc3cca910cfb0a28afd5cf9c1f02d46962.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Matt Tillett",
+        "url": "https://www.flickr.com/people/39955531@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pastor_roseus/7079e9da2e176f7b419cbddd0f471adc3cca910cfb0a28afd5cf9c1f02d46962_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pastor_roseus/8f97e2277681be28a0327269046fb3db588eea57982982e2c49ae8e63cf8a39a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Smasson",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Smasson&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pastor_roseus/8f97e2277681be28a0327269046fb3db588eea57982982e2c49ae8e63cf8a39a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pastor_roseus/dd55e909e04b9529707113a525b587269ccb0e4fe4479af3e8e42c6f0b4415c2.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pastor_roseus/dd55e909e04b9529707113a525b587269ccb0e4fe4479af3e8e42c6f0b4415c2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pastor_roseus/f50e0c12973988d85002db27f64cbb05e9b408794d13a526fa25cf3ca0ad4295.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pastor_roseus/f50e0c12973988d85002db27f64cbb05e9b408794d13a526fa25cf3ca0ad4295_thumb.jpg"
+    }
+  ]
+}

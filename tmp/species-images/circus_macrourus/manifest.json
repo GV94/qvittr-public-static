@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/circus_macrourus/c9d3ffbf3e9fb20aadf4178d485a981d7778991c1f04ac0d1ac8180c7bddf6c6.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Chinmayisk",
+      "url": "https://commons.wikimedia.org/wiki/User:Chinmayisk"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/circus_macrourus/c9d3ffbf3e9fb20aadf4178d485a981d7778991c1f04ac0d1ac8180c7bddf6c6_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/circus_macrourus/7b3be043da999997def2e038eb7100e5c609d25b34c8ca6020070d09bbfe1c98.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dominic Sherony",
+        "url": "https://www.flickr.com/people/9765210@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_macrourus/7b3be043da999997def2e038eb7100e5c609d25b34c8ca6020070d09bbfe1c98_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_macrourus/84b4b7eff13ecbdd93879db9b1fafd607da1eedbdd0b2606a70b7f232c6cc9de.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_macrourus/84b4b7eff13ecbdd93879db9b1fafd607da1eedbdd0b2606a70b7f232c6cc9de_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_macrourus/8e7f622e7f1aa353f25cc3638435d6807f878355136dcd7f7e4a7b36f4f54332.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rushikesh Deshmukh DOP",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Rushikesh_Deshmukh_DOP&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_macrourus/8e7f622e7f1aa353f25cc3638435d6807f878355136dcd7f7e4a7b36f4f54332_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_macrourus/c59fb197138d2f07486feb321ede1d22a871ba7c023a6ac5759ed3836ef9d05b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dominic Sherony",
+        "url": "https://www.flickr.com/people/9765210@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_macrourus/c59fb197138d2f07486feb321ede1d22a871ba7c023a6ac5759ed3836ef9d05b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_macrourus/c9a2d2861ede30c41547018044ca55398d4f9e9a6e74b45f698b6602227edfa2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Photo: Lars Melin",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_macrourus/c9a2d2861ede30c41547018044ca55398d4f9e9a6e74b45f698b6602227edfa2_thumb.jpg"
+    }
+  ]
+}

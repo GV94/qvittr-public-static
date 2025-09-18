@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/melanitta_americana/4b016ce81bd1c3be044f92ab03c8cf83d32e805836598b270cb6cbab596e1c2f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Peter Massas",
+      "url": "https://www.flickr.com/people/23505652@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/melanitta_americana/4b016ce81bd1c3be044f92ab03c8cf83d32e805836598b270cb6cbab596e1c2f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/melanitta_americana/181fc5052ec641e9f92bb081b6b6ebd77da7a2980c60412ce5674d9d9a4bd46b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_americana/181fc5052ec641e9f92bb081b6b6ebd77da7a2980c60412ce5674d9d9a4bd46b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_americana/2ad449be373f2e473759393483f9d94180434405260bd1f0b9f181cb668f4d58.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_americana/2ad449be373f2e473759393483f9d94180434405260bd1f0b9f181cb668f4d58_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_americana/50b59945a1940a82f18a9e786a5b5e29eeef66864e122f86e5c32ac6ce3fdc7a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_americana/50b59945a1940a82f18a9e786a5b5e29eeef66864e122f86e5c32ac6ce3fdc7a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_americana/5bd1b8e2f4e7436cefd402aa8e213d5c4e144181658708fd88fc10d887a63557.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Don Faulkner",
+        "url": "https://www.flickr.com/people/50763319@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_americana/5bd1b8e2f4e7436cefd402aa8e213d5c4e144181658708fd88fc10d887a63557_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/melanitta_americana/6afd84773ee9aeb6187633fd6348491ddfaee20c83eea73f73cedc34599089e7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Greg Schechter",
+        "url": "https://www.flickr.com/people/17004938@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/melanitta_americana/6afd84773ee9aeb6187633fd6348491ddfaee20c83eea73f73cedc34599089e7_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/uria_aalge/d496cff37c2b59629ef0e81bf8faf02814e45375dde719cee86d8f45e76194ab.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, DickDaniels",
+      "url": "https://commons.wikimedia.org/wiki/User:DickDaniels"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/uria_aalge/d496cff37c2b59629ef0e81bf8faf02814e45375dde719cee86d8f45e76194ab_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/uria_aalge/02e9e8fb18305d6918be507e0e22309ba438d7342f2c2810854734a3b8754d07.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Des Colhoun",
+        "url": "https://www.geograph.org.uk/profile/6284"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/uria_aalge/02e9e8fb18305d6918be507e0e22309ba438d7342f2c2810854734a3b8754d07_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/uria_aalge/796780d272e53f45f0d5ddbae3605db0942c79302a2df4ce8585fdf141c14be3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, John Haddington",
+        "url": "https://www.geograph.org.uk/profile/20513"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/uria_aalge/796780d272e53f45f0d5ddbae3605db0942c79302a2df4ce8585fdf141c14be3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/uria_aalge/86396c4250cb0c5eead314faa9f236f432807a89af0ffc7e12fb922dcf5b604c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Des Colhoun",
+        "url": "https://www.geograph.org.uk/profile/6284"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/uria_aalge/86396c4250cb0c5eead314faa9f236f432807a89af0ffc7e12fb922dcf5b604c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/uria_aalge/ca81f08b3f68ea7439c012ffab91993a5c2b23873edc80b38e41cc18ee4e26a4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Allen Shimada NOAA/NMFS/OST/AMD.",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/uria_aalge/ca81f08b3f68ea7439c012ffab91993a5c2b23873edc80b38e41cc18ee4e26a4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/uria_aalge/cd6cf07814b62121fb7f7d74db07a69c6d73be7d9685e39162fc01385fcccc8e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Allen Shimada NOAA/NMFS/OST/AMD.",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/uria_aalge/cd6cf07814b62121fb7f7d74db07a69c6d73be7d9685e39162fc01385fcccc8e_thumb.jpg"
+    }
+  ]
+}

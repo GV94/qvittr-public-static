@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/polysticta_stelleri/b1c93b873301ab48fd8afe45b2db351d27728f797f38019e012bf9fbada82d7b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, \u00d3mar Run\u00f3lfsson",
+      "url": "https://www.flickr.com/people/29174969@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/polysticta_stelleri/b1c93b873301ab48fd8afe45b2db351d27728f797f38019e012bf9fbada82d7b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/polysticta_stelleri/1df4f225a1fa46da148a033f40214b1c2ad02268b1a0c7c710609945ff299eba.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00d3mar Run\u00f3lfsson",
+        "url": "https://www.flickr.com/people/29174969@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/polysticta_stelleri/1df4f225a1fa46da148a033f40214b1c2ad02268b1a0c7c710609945ff299eba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/polysticta_stelleri/9f3f8c4fb505a870012416013a49d7edd7d6775e831a25bf80aa79577c4e24c6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00d3mar Run\u00f3lfsson",
+        "url": "https://www.flickr.com/people/29174969@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/polysticta_stelleri/9f3f8c4fb505a870012416013a49d7edd7d6775e831a25bf80aa79577c4e24c6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/polysticta_stelleri/aca3049775a070bc13efddaa68c85717959748671427ba22259fe323e669d0f0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/polysticta_stelleri/aca3049775a070bc13efddaa68c85717959748671427ba22259fe323e669d0f0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/polysticta_stelleri/ace4efd0a27f4336c66339cefda36bdd10c52c95988f3ac897f12b5a6c0d0937.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00d3mar Run\u00f3lfsson",
+        "url": "https://www.flickr.com/people/29174969@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/polysticta_stelleri/ace4efd0a27f4336c66339cefda36bdd10c52c95988f3ac897f12b5a6c0d0937_thumb.jpg"
+    }
+  ]
+}

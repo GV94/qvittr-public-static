@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/ardea_cinerea/4bcf58fd9b282d44e88e70e8513e2c76b4b74f682b9a7e54709aa120d12b0f6f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, user:dcastor",
+      "url": "https://commons.wikimedia.org/wiki/User:Dcastor"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/ardea_cinerea/4bcf58fd9b282d44e88e70e8513e2c76b4b74f682b9a7e54709aa120d12b0f6f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/ardea_cinerea/143444fc3491818615a2d03f8af0fc82d188c6401220409d6fffc6246d2a11fe.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Cosmo F Kramer",
+        "url": "https://www.flickr.com/people/63558660@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardea_cinerea/143444fc3491818615a2d03f8af0fc82d188c6401220409d6fffc6246d2a11fe_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_cinerea/25d807038403a963d833cfda47a91e4517300d1ec52bd6675ef05c39bb4d1f49.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ardea_cinerea/25d807038403a963d833cfda47a91e4517300d1ec52bd6675ef05c39bb4d1f49_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_cinerea/5dd4b273c0ba7e060b9d8e8b5c125e1c9f459ce333449da169f85300ecbd0fe9.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ardea_cinerea/5dd4b273c0ba7e060b9d8e8b5c125e1c9f459ce333449da169f85300ecbd0fe9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_cinerea/6cf1e2af1b1113121c0ce87f9103e623725e8d7cef59b72b4021873abf6cd438.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ardea_cinerea/6cf1e2af1b1113121c0ce87f9103e623725e8d7cef59b72b4021873abf6cd438_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_cinerea/6fecdf914d4c5f851f5f35bdc8fabbb36fa2c6a02e4044a8d27c4c29f2c432a6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ardea_cinerea/6fecdf914d4c5f851f5f35bdc8fabbb36fa2c6a02e4044a8d27c4c29f2c432a6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_cinerea/7baaf0474dcacebdaff7990a6c3272e9eae60f12433a481df70fae4ed9c55025.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ardea_cinerea/7baaf0474dcacebdaff7990a6c3272e9eae60f12433a481df70fae4ed9c55025_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ardea_cinerea/8e6e3fc7ff37f62b056055edbcee727f12926ff7699e7b469cb5d4b421bb2b43.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, SashiRolls",
+        "url": "https://commons.wikimedia.org/wiki/User:SashiRolls"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ardea_cinerea/8e6e3fc7ff37f62b056055edbcee727f12926ff7699e7b469cb5d4b421bb2b43_thumb.jpg"
+    }
+  ]
+}

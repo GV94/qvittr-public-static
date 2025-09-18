@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/hirundo_rustica/d91b6a1e8d429e23412d03fc65c3a6c443e5137b66e833398add5dfd5c3a8f9c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dion Art",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Dion_Art&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/hirundo_rustica/d91b6a1e8d429e23412d03fc65c3a6c443e5137b66e833398add5dfd5c3a8f9c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/hirundo_rustica/08964dd60ac6d5e8e570c7e8eb7fd33a91611680cd50cb5af2958e7d9521acc4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari K  Patibanda",
+        "url": "https://www.flickr.com/people/34176693@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hirundo_rustica/08964dd60ac6d5e8e570c7e8eb7fd33a91611680cd50cb5af2958e7d9521acc4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hirundo_rustica/9272a9b52d368d69469d0fffc8009393b53b87319688041976303a8bb7cd9991.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/hirundo_rustica/9272a9b52d368d69469d0fffc8009393b53b87319688041976303a8bb7cd9991_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hirundo_rustica/9cea121fa9b8ce82a75e52715f2080322f454c9cd65e4b6980b5b19e99b330ee.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Melissa McMasters",
+        "url": "https://www.flickr.com/people/132545975@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hirundo_rustica/9cea121fa9b8ce82a75e52715f2080322f454c9cd65e4b6980b5b19e99b330ee_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hirundo_rustica/baf46708ac369d765f1c92d3ab628e9e132e60384d57c8e6d33494f67d1221a5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Melissa McMasters",
+        "url": "https://www.flickr.com/people/132545975@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hirundo_rustica/baf46708ac369d765f1c92d3ab628e9e132e60384d57c8e6d33494f67d1221a5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hirundo_rustica/c548a7a3287824d9dbd2b679a2db1d2298921e0534cff1f05810ebade7a86a5a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hirundo_rustica/c548a7a3287824d9dbd2b679a2db1d2298921e0534cff1f05810ebade7a86a5a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hirundo_rustica/d606c31cc4adacc7b976564952fb4b7341114e3810a4d8a79c9b67078f4f2065.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Melissa McMasters",
+        "url": "https://www.flickr.com/people/132545975@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hirundo_rustica/d606c31cc4adacc7b976564952fb4b7341114e3810a4d8a79c9b67078f4f2065_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hirundo_rustica/d61f882b96095ff393ea2703fe385bab47314c3e559f7a296b476accfec3d99d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/hirundo_rustica/d61f882b96095ff393ea2703fe385bab47314c3e559f7a296b476accfec3d99d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hirundo_rustica/f9b2efec14362ac8c1898f16d4849e1a131dd54b4bca7b8c601df733ae21051f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/hirundo_rustica/f9b2efec14362ac8c1898f16d4849e1a131dd54b4bca7b8c601df733ae21051f_thumb.jpg"
+    }
+  ]
+}

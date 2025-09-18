@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_pugnax/86fc701e69146d7570c69696e0679064a77cffd1b4321a39b96c4538d66e1ecf.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Tokumi",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_pugnax/86fc701e69146d7570c69696e0679064a77cffd1b4321a39b96c4538d66e1ecf_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_pugnax/6071a0ed3607e427d292e1dd678eedb72add654e3bd5274b3bef2359c7bf07d0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_pugnax/6071a0ed3607e427d292e1dd678eedb72add654e3bd5274b3bef2359c7bf07d0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/8bf0968d5e43ff88af13b4d06e1afd5c22a08d1645fd2fdad267d20aebe8f7f9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_pugnax/8bf0968d5e43ff88af13b4d06e1afd5c22a08d1645fd2fdad267d20aebe8f7f9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/a0ab426569c9b88ba4d91d9f0bc2ce8b02faf49615d75ea2c2f8b6b0d1263032.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_pugnax/a0ab426569c9b88ba4d91d9f0bc2ce8b02faf49615d75ea2c2f8b6b0d1263032_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/a9793e001060a625dd07491bcce8d5b671f5bf07d80b96d11ce653bd0c130a3c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_pugnax/a9793e001060a625dd07491bcce8d5b671f5bf07d80b96d11ce653bd0c130a3c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/ac8014aa935992afc0db27a665003d0b61c2f6eb7db16a4645a9cd05cf3b6c42.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_pugnax/ac8014aa935992afc0db27a665003d0b61c2f6eb7db16a4645a9cd05cf3b6c42_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/b97a574ed14a983620d0f6b076897e8ea892e1d18387b730d123e0455322716a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_pugnax/b97a574ed14a983620d0f6b076897e8ea892e1d18387b730d123e0455322716a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/ba4ec267b423eed79f6bc931ae6ec875168f29dab4cb04cb087139b35c8466b9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_pugnax/ba4ec267b423eed79f6bc931ae6ec875168f29dab4cb04cb087139b35c8466b9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/db4b556baf4fe63874935bba0ce2bbec1d4699c33d8e66393806b0f413414cd7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_pugnax/db4b556baf4fe63874935bba0ce2bbec1d4699c33d8e66393806b0f413414cd7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_pugnax/f411b4100952cb9c624fbf15253fa007b1c9f8a8e0eb466f8ed0f6f04c903afe.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_pugnax/f411b4100952cb9c624fbf15253fa007b1c9f8a8e0eb466f8ed0f6f04c903afe_thumb.jpg"
+    }
+  ]
+}

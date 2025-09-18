@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/stercorarius_pomarinus/65d4333f8693985ee2b477443705854a7818844c6ae1b8911eb5d451920c5f02.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Patrick Coin",
+      "url": "https://commons.wikimedia.org/wiki/User:Cotinis"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/stercorarius_pomarinus/65d4333f8693985ee2b477443705854a7818844c6ae1b8911eb5d451920c5f02_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/stercorarius_pomarinus/02c2f0b1aae8b92691fd6e52648b3ffd51e8ed648787cef94e8487632354a433.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Afsarnayakkan",
+        "url": "https://commons.wikimedia.org/wiki/User:Afsarnayakkan"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_pomarinus/02c2f0b1aae8b92691fd6e52648b3ffd51e8ed648787cef94e8487632354a433_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_pomarinus/47bf71bb7610592c097f514f880987dd4b1a5f02b18d17b07fe1d596be266016.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alan D. Wilson",
+        "url": "https://www.naturespicsonline.com/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_pomarinus/47bf71bb7610592c097f514f880987dd4b1a5f02b18d17b07fe1d596be266016_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_pomarinus/8ab4a4dbb5c4abd0a9c0682e8150352e2302a2a5d534591ffcd8dbc4fc3e7d75.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Akasmita",
+        "url": "https://commons.wikimedia.org/wiki/User:Akasmita"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_pomarinus/8ab4a4dbb5c4abd0a9c0682e8150352e2302a2a5d534591ffcd8dbc4fc3e7d75_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_pomarinus/b233ad4f9631b1a225a7fd75450e148ac634424eeb4243d13a5fcf1c826f8548.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, (c) Nigel Voaden, some rights reserved (CC BY)",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_pomarinus/b233ad4f9631b1a225a7fd75450e148ac634424eeb4243d13a5fcf1c826f8548_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_pomarinus/d9575811aa5562ac3b6efd62a315b85d98f8a2dfdceeea9dd889188add9c39bf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rob Zweers",
+        "url": "https://www.flickr.com/people/65033273@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_pomarinus/d9575811aa5562ac3b6efd62a315b85d98f8a2dfdceeea9dd889188add9c39bf_thumb.jpg"
+    }
+  ]
+}

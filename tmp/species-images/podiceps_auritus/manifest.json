@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/podiceps_auritus/57523e3a3acdcd56bdea20f3a1b44dda14cc7c29f2f839609b7976c283ea4896.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Bengt Nyman",
+      "url": "https://www.flickr.com/people/97469566@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/podiceps_auritus/57523e3a3acdcd56bdea20f3a1b44dda14cc7c29f2f839609b7976c283ea4896_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/podiceps_auritus/7773e9ddc6e50e5ea24bd3f151d390bcbe5d85138e14da772e4ba9239865a580.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/podiceps_auritus/7773e9ddc6e50e5ea24bd3f151d390bcbe5d85138e14da772e4ba9239865a580_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_auritus/d7021930fa509f1f3903f3d73825c1112006d3404ce010db2918dbaed3b9afd2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bouke ten Cate",
+        "url": "https://commons.wikimedia.org/wiki/User:BouketenCate"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_auritus/d7021930fa509f1f3903f3d73825c1112006d3404ce010db2918dbaed3b9afd2_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/microcarbo_pygmaeus/71fec3647f673f409da941af80db66dd01ae165b128829298d30bc48673b38af.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Martin Mecnarowski",
+      "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/microcarbo_pygmaeus/71fec3647f673f409da941af80db66dd01ae165b128829298d30bc48673b38af_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/microcarbo_pygmaeus/1ee11e66f38bad84dce16bb728d4d4d074a17f3c9551ba49ce1bed6f6497599b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, my discussion page",
+        "url": "https://commons.wikimedia.org/wiki/User_talk:Pjt56"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/microcarbo_pygmaeus/1ee11e66f38bad84dce16bb728d4d4d074a17f3c9551ba49ce1bed6f6497599b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/microcarbo_pygmaeus/7327e5a3a4d845adbe1f734a933218faae798dee85a65786e700dc64c553ca29.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alcor13",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Alcor13&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/microcarbo_pygmaeus/7327e5a3a4d845adbe1f734a933218faae798dee85a65786e700dc64c553ca29_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/microcarbo_pygmaeus/7be86a87a2c5bc35f7d0ba04ccfcb75cda802e6a4501c5d1f2b04c3ee1c73e6f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Tg8673",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Tg8673&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/microcarbo_pygmaeus/7be86a87a2c5bc35f7d0ba04ccfcb75cda802e6a4501c5d1f2b04c3ee1c73e6f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/microcarbo_pygmaeus/7e6d6077fe848a40430745c03903fbb617e66f9c74a5e7398706891851336ad3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alcor13",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Alcor13&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/microcarbo_pygmaeus/7e6d6077fe848a40430745c03903fbb617e66f9c74a5e7398706891851336ad3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/microcarbo_pygmaeus/b24b70f8b09ee16d18a8a920a7692db6cd831b8926fedeb2259bed1261b89509.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alcor13",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Alcor13&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/microcarbo_pygmaeus/b24b70f8b09ee16d18a8a920a7692db6cd831b8926fedeb2259bed1261b89509_thumb.jpg"
+    }
+  ]
+}

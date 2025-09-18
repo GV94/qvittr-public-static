@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/ficedula_parva/dd162310b0897404f5be684bd7340b45899d6134941f46d90e2f1c5dbcea70e1.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Sudheer Pandey",
+      "url": "https://commons.wikimedia.org/wiki/User:ImSudheer"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/ficedula_parva/dd162310b0897404f5be684bd7340b45899d6134941f46d90e2f1c5dbcea70e1_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/ficedula_parva/6cf8764a712fe9884048930c823cd11bf1276046b039db6dca6d666170c8472c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ",
+        "url": "https://commons.wikimedia.org/wiki/File:Alces_alces_(Cervidae)_(Eurasian_elk),_Biebrza_NP,_Poland.jpg"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_parva/6cf8764a712fe9884048930c823cd11bf1276046b039db6dca6d666170c8472c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_parva/716d3d5bf5fc21d4404e1f57b2b4c364ba44aace26b1fc5bbaf0f26a7a4da5f8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/ficedula_parva/716d3d5bf5fc21d4404e1f57b2b4c364ba44aace26b1fc5bbaf0f26a7a4da5f8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_parva/cabec7d95839916a16821b3e0338fe3c276560436e2bd15dc4d8dfd2f62ae714.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gegik",
+        "url": "https://commons.wikimedia.org/wiki/User:Gegik"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_parva/cabec7d95839916a16821b3e0338fe3c276560436e2bd15dc4d8dfd2f62ae714_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/ficedula_parva/cd07403c989b32c050850594805b354f94bb98e835698e08fe66c74c3e821fe8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0427\u0435\u0433\u043e\u0434\u0430\u0435\u0432",
+        "url": "https://www.inaturalist.org/users/3160036"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/ficedula_parva/cd07403c989b32c050850594805b354f94bb98e835698e08fe66c74c3e821fe8_thumb.jpg"
+    }
+  ]
+}

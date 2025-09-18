@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/saxicola_rubicola/abfb99a7362a213f3b702cbd490f0adf83d982a89d3ca0cad003396a09cd8a69.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ken Billington",
+      "url": "https://commons.wikimedia.org/wiki/User:Ken_Billington"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/saxicola_rubicola/abfb99a7362a213f3b702cbd490f0adf83d982a89d3ca0cad003396a09cd8a69_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/saxicola_rubicola/125a93c2a7a1cfb6e49a862d89d73665873f7b50c4e593fe0a765d3333aadec7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/saxicola_rubicola/125a93c2a7a1cfb6e49a862d89d73665873f7b50c4e593fe0a765d3333aadec7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubicola/6766847b5a583b88d045f8747c860aa567a1a4002a244cf66b370b3bb899e170.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubicola/6766847b5a583b88d045f8747c860aa567a1a4002a244cf66b370b3bb899e170_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubicola/7298259ab0423157fa21808f16ec16e6a96836a8bc90383efd557b486eeafe57.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubicola/7298259ab0423157fa21808f16ec16e6a96836a8bc90383efd557b486eeafe57_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubicola/99a2dd52c1c221e1af0eaea78fca51028e8efd1962d8d43d2135c111704b75a6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubicola/99a2dd52c1c221e1af0eaea78fca51028e8efd1962d8d43d2135c111704b75a6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubicola/9c45d6774c2392a24eb5089526af4442533779699d2b1d59cc49e001c64aeeaf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubicola/9c45d6774c2392a24eb5089526af4442533779699d2b1d59cc49e001c64aeeaf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/saxicola_rubicola/e24e1aa61bd623b0e7e86ac49b61e3bc8e2a3a22890d692635a880a3ffb8b97b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jose Sousa",
+        "url": "https://www.flickr.com/photos/jsousa/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/saxicola_rubicola/e24e1aa61bd623b0e7e86ac49b61e3bc8e2a3a22890d692635a880a3ffb8b97b_thumb.jpg"
+    }
+  ]
+}

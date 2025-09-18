@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/loxia_curvirostra/36532ea3ec0bf2be97901b2dbf9cb7f8a7b7bbf48b53232a2c0de78a34c62a65.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Elaine R. Wilson, www.naturespicsonline.com",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/loxia_curvirostra/36532ea3ec0bf2be97901b2dbf9cb7f8a7b7bbf48b53232a2c0de78a34c62a65_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/loxia_curvirostra/352433617126beaadb98acf7563cc4c1cc385b46daad26bac9366332914dc875.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_curvirostra/352433617126beaadb98acf7563cc4c1cc385b46daad26bac9366332914dc875_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_curvirostra/3e6ee5b71e82c1bd9a7ad3a995a7fd9dd16074d94386d953f48721c5e5883609.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_curvirostra/3e6ee5b71e82c1bd9a7ad3a995a7fd9dd16074d94386d953f48721c5e5883609_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_curvirostra/73fb96181d90c54c8ac24338851a5a33be977b1ce93ed586083a1c7cf613dccf.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/loxia_curvirostra/73fb96181d90c54c8ac24338851a5a33be977b1ce93ed586083a1c7cf613dccf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_curvirostra/812b3a350ea91f035d5542c961ad589e09b859d375fa4f3f0d45026fd6f31b51.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/loxia_curvirostra/812b3a350ea91f035d5542c961ad589e09b859d375fa4f3f0d45026fd6f31b51_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_curvirostra/94e95117370e1736631cfd43692490111bf14b28bc5a686d4a3b5491f4608d0a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_curvirostra/94e95117370e1736631cfd43692490111bf14b28bc5a686d4a3b5491f4608d0a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_curvirostra/9d866da2f166640482e924359fab2089f419407d554fe6a0f5d941cd89454b2e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_curvirostra/9d866da2f166640482e924359fab2089f419407d554fe6a0f5d941cd89454b2e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_curvirostra/e9b7ba773b0b27d5e9fbd70830b187e8746ab702d78ee49f3a4ed1cc69dc0f0c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_curvirostra/e9b7ba773b0b27d5e9fbd70830b187e8746ab702d78ee49f3a4ed1cc69dc0f0c_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/sterna_paradisaea/24d4fe335384fafdfa847b7b3c1b1831bedb1379ceff1dbd704b8601c9e4d1a9.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Alpo Roikola",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/sterna_paradisaea/24d4fe335384fafdfa847b7b3c1b1831bedb1379ceff1dbd704b8601c9e4d1a9_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/sterna_paradisaea/33d837239d0263381843824157b0e79faa75cf9e2d1dc0ee15f2275497d3e36a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_paradisaea/33d837239d0263381843824157b0e79faa75cf9e2d1dc0ee15f2275497d3e36a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/5be6490d7b6bafd3a6568e2a17f6d0b6b892c4b8d5e8c97100b30e0390e4007c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, AWeith",
+        "url": "https://commons.wikimedia.org/wiki/User:AWeith"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sterna_paradisaea/5be6490d7b6bafd3a6568e2a17f6d0b6b892c4b8d5e8c97100b30e0390e4007c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/79dd76610fed17290b8c907233c06dfb1c5d5b34f55beef74057d414d3c6785a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Billy Lindblom",
+        "url": "https://www.flickr.com/photos/41502344@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sterna_paradisaea/79dd76610fed17290b8c907233c06dfb1c5d5b34f55beef74057d414d3c6785a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/9c52b350b4538d12f122a1bafd31fdd8d564b245fa0768dbbedd8177a639ebdc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_paradisaea/9c52b350b4538d12f122a1bafd31fdd8d564b245fa0768dbbedd8177a639ebdc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/a709643683a8678b8117c21bff755f103f8d09c0456cb6082cd0e8e02b7c3ff7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, U.S. Fish and Wildlife Service Headquarters",
+        "url": "https://www.flickr.com/people/50838842@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sterna_paradisaea/a709643683a8678b8117c21bff755f103f8d09c0456cb6082cd0e8e02b7c3ff7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/acb2557d1e72b6961bf98d400b586ca998c2bce4bc438c26093c016e9010d7e6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_paradisaea/acb2557d1e72b6961bf98d400b586ca998c2bce4bc438c26093c016e9010d7e6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/d78bb292a9f0a27386eb52010ce043902308f27473dd8bc4f03f044f0be400d2.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_paradisaea/d78bb292a9f0a27386eb52010ce043902308f27473dd8bc4f03f044f0be400d2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/e7479d55f2490709b4eaf81193c14aa5d46840ef270f7f3527cd7b9f2458c014.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_paradisaea/e7479d55f2490709b4eaf81193c14aa5d46840ef270f7f3527cd7b9f2458c014_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_paradisaea/ea820dc9e409565eb55deb0f91eac5b41cc7707248f55497dfcd462c678e91f3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, W. Bulach",
+        "url": "https://commons.wikimedia.org/wiki/User:W._Bulach"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sterna_paradisaea/ea820dc9e409565eb55deb0f91eac5b41cc7707248f55497dfcd462c678e91f3_thumb.jpg"
+    }
+  ]
+}

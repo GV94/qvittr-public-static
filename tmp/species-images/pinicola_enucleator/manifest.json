@@ -1,0 +1,22 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/pinicola_enucleator/27a42c22f11a62c4df7bb84dd63c0807d65b151984119a573ef101fbbd972f21.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, 72426950scott",
+      "url": "https://en.wikipedia.org/wiki/User:72426950scott"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/pinicola_enucleator/27a42c22f11a62c4df7bb84dd63c0807d65b151984119a573ef101fbbd972f21_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/pinicola_enucleator/f7454f791dfdb0d9b6623cff913b99b742174b8ff2a4ded86642442739c52848.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, aus: NAUMANN, NATURGESCHICHTE DER V\u00d6GEL MITTELEUROPAS: Band III, Tafel 30 - Gera, 1900",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pinicola_enucleator/f7454f791dfdb0d9b6623cff913b99b742174b8ff2a4ded86642442739c52848_thumb.jpg"
+    }
+  ]
+}

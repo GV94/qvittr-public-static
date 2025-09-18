@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/acrocephalus_schoenobaenus/819fbf64b8ae668ebfb67d7ca81ee8382804d7b3d3eefd7ad247f308843468af.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Acrocephalus schoenobaenus 1 (Marek Szczepanek).jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:Acrocephalus_schoenobaenus_1_(Marek_Szczepanek).jpg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/acrocephalus_schoenobaenus/819fbf64b8ae668ebfb67d7ca81ee8382804d7b3d3eefd7ad247f308843468af_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/acrocephalus_schoenobaenus/1f810754835a96472c0d37dd912349d1fd84d04dba14b1e8cb583cfdb5f51ffc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy  Vernon",
+        "url": "https://www.flickr.com/people/38998067@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_schoenobaenus/1f810754835a96472c0d37dd912349d1fd84d04dba14b1e8cb583cfdb5f51ffc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_schoenobaenus/6322a43bd87b687ce9a00b4c1ddbfbd7a9e236a8064bbd0e08c07dcbcb6632f2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy  Vernon",
+        "url": "https://www.flickr.com/people/38998067@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_schoenobaenus/6322a43bd87b687ce9a00b4c1ddbfbd7a9e236a8064bbd0e08c07dcbcb6632f2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_schoenobaenus/9f415d27ee4ac890787bbda16402c0aae37ec46e3f7f455d9193845d179cbedb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acrocephalus_schoenobaenus/9f415d27ee4ac890787bbda16402c0aae37ec46e3f7f455d9193845d179cbedb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_schoenobaenus/a8ebcab7d21fc8182bc452a026d265c4ca1ab19927d7afd1742a7ad15ae11057.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kriszti2083",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Kriszti2083&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_schoenobaenus/a8ebcab7d21fc8182bc452a026d265c4ca1ab19927d7afd1742a7ad15ae11057_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_schoenobaenus/bf45d382d1ae45e8f53eeb8c554a4cfc1eecd98f304a6bd12f34f1be20de5e46.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Hillewaert",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_schoenobaenus/bf45d382d1ae45e8f53eeb8c554a4cfc1eecd98f304a6bd12f34f1be20de5e46_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_schoenobaenus/ed2ab312af86e40321524a5e1ccba0c62d6132981129eece7bce4f14ca9fc5a8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Hillewaert",
+        "url": "https://commons.wikimedia.org/wiki/User:Biopics"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_schoenobaenus/ed2ab312af86e40321524a5e1ccba0c62d6132981129eece7bce4f14ca9fc5a8_thumb.jpg"
+    }
+  ]
+}

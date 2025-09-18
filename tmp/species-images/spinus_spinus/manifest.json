@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/spinus_spinus/19a4e8bfc8de0b39430700e44e236a0f65f3dc6a369dfc6214fe098e06e61dfc.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, S\u0142awek Staszczuk (photoss [AT] hotmail.co.uk)",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/spinus_spinus/19a4e8bfc8de0b39430700e44e236a0f65f3dc6a369dfc6214fe098e06e61dfc_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/spinus_spinus/1481f1985251895ef4327ba5e358170083e3d6c26595e10b125045c54898ae97.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Mecnarowski",
+        "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spinus_spinus/1481f1985251895ef4327ba5e358170083e3d6c26595e10b125045c54898ae97_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spinus_spinus/2d8f7d6a55392b421c301c7b96849b8b07ad764a8ce99cb8e0885d526e8a4eda.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spinus_spinus/2d8f7d6a55392b421c301c7b96849b8b07ad764a8ce99cb8e0885d526e8a4eda_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spinus_spinus/48d2ba72fe60bac93b8073321b40d75628f7e2e64c8c19c458c9c7bd54df0bae.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, rjime31",
+        "url": "https://www.flickr.com/photos/63195142@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spinus_spinus/48d2ba72fe60bac93b8073321b40d75628f7e2e64c8c19c458c9c7bd54df0bae_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spinus_spinus/4ba6dc7d8e393e66619634bcfd2944fdb63aa2b2b8aa570a7a06f6adb0410cfc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Baresi franco",
+        "url": "https://commons.wikimedia.org/wiki/User:Baresi_franco"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spinus_spinus/4ba6dc7d8e393e66619634bcfd2944fdb63aa2b2b8aa570a7a06f6adb0410cfc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spinus_spinus/7e990fcfd3647e785f18549c9123a3cfac0a82b4ac633b099d80936c0a41c445.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Paul Lucas",
+        "url": "https://www.flickr.com/people/8269539@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spinus_spinus/7e990fcfd3647e785f18549c9123a3cfac0a82b4ac633b099d80936c0a41c445_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spinus_spinus/9a508fde0c4828660413dd0ea1e71ad22a38aef2feb7b9452335995a29c23702.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ernst Vikne",
+        "url": "https://www.flickr.com/people/42834622@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spinus_spinus/9a508fde0c4828660413dd0ea1e71ad22a38aef2feb7b9452335995a29c23702_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spinus_spinus/d3dd968f5eac7dd89d45768603fabc1c318a668f43e1cd752542dee022f7c33a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/spinus_spinus/d3dd968f5eac7dd89d45768603fabc1c318a668f43e1cd752542dee022f7c33a_thumb.jpg"
+    }
+  ]
+}

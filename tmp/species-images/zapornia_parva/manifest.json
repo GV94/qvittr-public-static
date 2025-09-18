@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/zapornia_parva/cbe1d101349670b9180f4a90e5086f28edb606615064e5c61e1cfe41975cae21.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Cristiana",
+      "url": "https://www.flickr.com/people/49672239@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/zapornia_parva/cbe1d101349670b9180f4a90e5086f28edb606615064e5c61e1cfe41975cae21_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/zapornia_parva/5648c67f85906ea50b4731a04322f3afc6c810ca8ac93ea7e4e211d5c59f349c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/zapornia_parva/5648c67f85906ea50b4731a04322f3afc6c810ca8ac93ea7e4e211d5c59f349c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/zapornia_parva/70e48fcf6ffd5d4e625036824587c7803783ba3c3cef3c230da69d05921eea94.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dirk-Jan Hoek",
+        "url": "https://www.flickr.com/people/23868780@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/zapornia_parva/70e48fcf6ffd5d4e625036824587c7803783ba3c3cef3c230da69d05921eea94_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/zapornia_parva/82cc2aafbf942b832ffc7768ba3cc96941c94002fb8c2c5e6fb45eb2c5e6c2b2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/zapornia_parva/82cc2aafbf942b832ffc7768ba3cc96941c94002fb8c2c5e6fb45eb2c5e6c2b2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/zapornia_parva/c050a706c743a53955075cc31dd612161f2fd98739f9c6a3f42e5b07f6486275.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gio46ti",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Gio46ti&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/zapornia_parva/c050a706c743a53955075cc31dd612161f2fd98739f9c6a3f42e5b07f6486275_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/zapornia_parva/e010a4b6dd7ed9244b981c3d413dfa68b6230de955da2e05844f82d32001ef91.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/zapornia_parva/e010a4b6dd7ed9244b981c3d413dfa68b6230de955da2e05844f82d32001ef91_thumb.jpg"
+    }
+  ]
+}

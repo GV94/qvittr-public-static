@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/circus_pygargus/82766d768896d70a7603dd60835bc75baffc7d28cb7d5ac35ce1154126cb91b1.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Donald Macauley",
+      "url": "https://www.flickr.com/people/27770620@N02"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/circus_pygargus/82766d768896d70a7603dd60835bc75baffc7d28cb7d5ac35ce1154126cb91b1_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/circus_pygargus/32646de874f3a2501a7d050d971530331344226f39ce7a18b7106b310f5bba18.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari K  Patibanda",
+        "url": "https://www.flickr.com/people/34176693@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_pygargus/32646de874f3a2501a7d050d971530331344226f39ce7a18b7106b310f5bba18_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_pygargus/3eb1453d09b1c3cc40ae1a702e349001233cde45376204bdb0a4525cede5f8cf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_pygargus/3eb1453d09b1c3cc40ae1a702e349001233cde45376204bdb0a4525cede5f8cf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_pygargus/5c43524da5d501b4654cb477066f7760e8f102059ba6212ed214771847e271de.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rodrigo  de Almeida",
+        "url": "https://www.flickr.com/photos/32639361@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_pygargus/5c43524da5d501b4654cb477066f7760e8f102059ba6212ed214771847e271de_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_pygargus/84279e434b280b82e4997247fcc2b506333bc6bba7f54a3963f69b78dfb538c2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zerocool.marko",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Zerocool.marko&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_pygargus/84279e434b280b82e4997247fcc2b506333bc6bba7f54a3963f69b78dfb538c2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/circus_pygargus/8a1ae51744f069031edceae5d5e8ea8eb91a87b1192b15d8e033139b96ea9997.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hari K  Patibanda",
+        "url": "https://www.flickr.com/people/34176693@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/circus_pygargus/8a1ae51744f069031edceae5d5e8ea8eb91a87b1192b15d8e033139b96ea9997_thumb.jpg"
+    }
+  ]
+}

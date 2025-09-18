@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phasianus_colchicus/bc46f0d7fc8b2578430d8bbfa48a66cd2f2184902f9de7dbf002d7a3dbdb0972.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phasianus_colchicus/bc46f0d7fc8b2578430d8bbfa48a66cd2f2184902f9de7dbf002d7a3dbdb0972_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phasianus_colchicus/2792ebca6f2fc20edec5dc2af6630e688df98dacc0d132b5b0543bdddf0db364.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phasianus_colchicus/2792ebca6f2fc20edec5dc2af6630e688df98dacc0d132b5b0543bdddf0db364_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phasianus_colchicus/2cb1b6cc0d49add8dd47d9da1fa242b104b8d9d0ddba016e3717231230d7ee0a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phasianus_colchicus/2cb1b6cc0d49add8dd47d9da1fa242b104b8d9d0ddba016e3717231230d7ee0a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phasianus_colchicus/6c1abff3254a692cb73cb4d9b0b4cfbebca234ec554ccc3272c691d3f1ccd8aa.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phasianus_colchicus/6c1abff3254a692cb73cb4d9b0b4cfbebca234ec554ccc3272c691d3f1ccd8aa_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phasianus_colchicus/a9156c62d0adf637ad1101d4a3476c005773447d039f36fd3d0f6f876fdf5ce1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phasianus_colchicus/a9156c62d0adf637ad1101d4a3476c005773447d039f36fd3d0f6f876fdf5ce1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phasianus_colchicus/e9133da7fd6e2acc4ea994680079b257836af77fd14afa8c4b28b7f123aa344b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phasianus_colchicus/e9133da7fd6e2acc4ea994680079b257836af77fd14afa8c4b28b7f123aa344b_thumb.jpg"
+    }
+  ]
+}

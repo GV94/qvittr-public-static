@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/loxia_leucoptera/9a6c49901526d6285c1b81fc71d583953111250c27de4c0ac7dfbb5ae0c21f9f.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Estormiz",
+      "url": "https://commons.wikimedia.org/wiki/User:Estormiz"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/loxia_leucoptera/9a6c49901526d6285c1b81fc71d583953111250c27de4c0ac7dfbb5ae0c21f9f_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/loxia_leucoptera/05b453cfdd33e78a77dafd9a5dd01b65e2722a725fa8a2ee1a7aef76b824cfa0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_leucoptera/05b453cfdd33e78a77dafd9a5dd01b65e2722a725fa8a2ee1a7aef76b824cfa0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_leucoptera/6c90ab5fcbf726ccf9d9067b2377d752c7ce481c24cc5a0b8fe36d0e69e8c02d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_leucoptera/6c90ab5fcbf726ccf9d9067b2377d752c7ce481c24cc5a0b8fe36d0e69e8c02d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_leucoptera/7137ba822183493e91b7d0d17236fe2e6bbdc7b128cc91fec6d0248208b12e63.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_leucoptera/7137ba822183493e91b7d0d17236fe2e6bbdc7b128cc91fec6d0248208b12e63_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_leucoptera/776d898e0e6be871ba6449e777bfd949c0eb55af52bbf5eb7d5e2c4bec1477d2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_leucoptera/776d898e0e6be871ba6449e777bfd949c0eb55af52bbf5eb7d5e2c4bec1477d2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_leucoptera/e1e725d347ceebe0b5eff95612e85b466c15dd4f3bc0990645086f001bdace8a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, David A Mitchell",
+        "url": "https://www.flickr.com/people/70957937@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_leucoptera/e1e725d347ceebe0b5eff95612e85b466c15dd4f3bc0990645086f001bdace8a_thumb.jpg"
+    }
+  ]
+}

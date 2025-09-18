@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aythya_nyroca/c3577607d25202cb131cc07e02ee626a03a186b5cb863a9b920e595c1b30eba9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Martin Mecnarowski",
+      "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aythya_nyroca/c3577607d25202cb131cc07e02ee626a03a186b5cb863a9b920e595c1b30eba9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aythya_nyroca/16a34198dd6da8bf1c8e08525e2b848b44a3fe096e5e2f25a0a3165c6e3c42b5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Nikolaj Petkov",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_nyroca/16a34198dd6da8bf1c8e08525e2b848b44a3fe096e5e2f25a0a3165c6e3c42b5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_nyroca/3e75b8f7d717c97268b30aeaacc047890f5635063fada0a45a263cd53d7a5739.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Nikolaj Petkov",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_nyroca/3e75b8f7d717c97268b30aeaacc047890f5635063fada0a45a263cd53d7a5739_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_nyroca/a82e55241c26d7d5842323bfbd53cd2f7bda9b4a3e3b6df9b29b96cdd846dd9f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Nikolaj Petkov",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_nyroca/a82e55241c26d7d5842323bfbd53cd2f7bda9b4a3e3b6df9b29b96cdd846dd9f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_nyroca/e98fada5365e74de3b1eb7282e384f250529e3a46c1197b869bfaa8e02567867.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Nikolaj Petkov",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_nyroca/e98fada5365e74de3b1eb7282e384f250529e3a46c1197b869bfaa8e02567867_thumb.jpg"
+    }
+  ]
+}

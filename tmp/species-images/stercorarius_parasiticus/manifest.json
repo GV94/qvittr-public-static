@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/stercorarius_parasiticus/60f3fe5a39f0d6df9ccce3bb972336f32a5b0afa08d13cd9b963ee991b467b2b.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/stercorarius_parasiticus/60f3fe5a39f0d6df9ccce3bb972336f32a5b0afa08d13cd9b963ee991b467b2b_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/stercorarius_parasiticus/04c586d689b431caa2661260f7f959f70542d497e28dc572ef6262d90d817ed8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_parasiticus/04c586d689b431caa2661260f7f959f70542d497e28dc572ef6262d90d817ed8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_parasiticus/0964575ed9af2f32f9ea76905522fd343aa3415768e99d95ce93db7ae782e987.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ed Dunens",
+        "url": "https://www.flickr.com/people/40883175@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_parasiticus/0964575ed9af2f32f9ea76905522fd343aa3415768e99d95ce93db7ae782e987_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_parasiticus/779f5ec9ee346ed0ac07b45dc36f2d1b6718690ad799540ec02a51ee6ba7cc51.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jerzy Strzelecki",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_parasiticus/779f5ec9ee346ed0ac07b45dc36f2d1b6718690ad799540ec02a51ee6ba7cc51_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_parasiticus/d0d721b53bd772c1682a7bc86f6be0a57714d8edb8f929ccd1c0251ab47a5b1a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Macauley",
+        "url": "https://www.flickr.com/people/27770620@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_parasiticus/d0d721b53bd772c1682a7bc86f6be0a57714d8edb8f929ccd1c0251ab47a5b1a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_parasiticus/ed24730ba0dc5db19df1d61a9944414e15e9efdc00ef3adf91bc728c6e52d105.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, AWeith",
+        "url": "https://commons.wikimedia.org/wiki/User:AWeith"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_parasiticus/ed24730ba0dc5db19df1d61a9944414e15e9efdc00ef3adf91bc728c6e52d105_thumb.jpg"
+    }
+  ]
+}

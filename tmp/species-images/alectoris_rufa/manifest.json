@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/alectoris_rufa/f2f3fc1707c78a0c3ba6c2d5834f286a62e177d4580cbfb564b40f0a87b290a0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Juan Lacruz",
+      "url": "https://commons.wikimedia.org/wiki/User:Juan_lacruz"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/alectoris_rufa/f2f3fc1707c78a0c3ba6c2d5834f286a62e177d4580cbfb564b40f0a87b290a0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/alectoris_rufa/60747d1b908de03f2eab7e93ebde44d94bc2a209dd244e14b3b605800efa76b6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, sybarite48",
+        "url": "https://www.flickr.com/people/26082117@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alectoris_rufa/60747d1b908de03f2eab7e93ebde44d94bc2a209dd244e14b3b605800efa76b6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alectoris_rufa/6335b952eed9744ec14ca80270680dd0f21c28717d072522555eed699373c2c6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Lacruz",
+        "url": "https://commons.wikimedia.org/wiki/User:Juan_lacruz"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alectoris_rufa/6335b952eed9744ec14ca80270680dd0f21c28717d072522555eed699373c2c6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alectoris_rufa/b7e1c5a8408f1ada84c515a46e11fa3a7c958e1a377fa7bdab39d55016e02427.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/alectoris_rufa/b7e1c5a8408f1ada84c515a46e11fa3a7c958e1a377fa7bdab39d55016e02427_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alectoris_rufa/bf97d9dbdd2aff9d595268feccd805a3bec8d236e32f8abd45632102feaf51ff.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, sybarite48",
+        "url": "https://www.flickr.com/people/26082117@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alectoris_rufa/bf97d9dbdd2aff9d595268feccd805a3bec8d236e32f8abd45632102feaf51ff_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alectoris_rufa/cc7d60885cbb13e3129586ffcd26811625b3454a9e88b93b46dfb2523196dee3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Birdwatching Barcelona",
+        "url": "https://www.flickr.com/people/71077055@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alectoris_rufa/cc7d60885cbb13e3129586ffcd26811625b3454a9e88b93b46dfb2523196dee3_thumb.jpg"
+    }
+  ]
+}

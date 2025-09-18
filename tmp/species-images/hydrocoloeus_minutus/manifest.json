@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/hydrocoloeus_minutus/a964427f6f7c5bf0b8c78d635e1dcc02fc5385340a4fc948e38659269d3a82db.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Ekaterina Chernetsova (Papchinskaya)",
+      "url": "https://www.flickr.com/people/37949120@N07"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/hydrocoloeus_minutus/a964427f6f7c5bf0b8c78d635e1dcc02fc5385340a4fc948e38659269d3a82db_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/hydrocoloeus_minutus/150eaf6352125c8f9f88efda4b9e58fc428524ab400bc3339b316fe287584bf3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Vav\u0159\u00edk",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydrocoloeus_minutus/150eaf6352125c8f9f88efda4b9e58fc428524ab400bc3339b316fe287584bf3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hydrocoloeus_minutus/a16ed69497604d0c2ecee84d6b5f4df7bc00d6bb189127c20a25e146171c55fc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrej Chud\u00fd",
+        "url": "https://www.flickr.com/people/76362620@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydrocoloeus_minutus/a16ed69497604d0c2ecee84d6b5f4df7bc00d6bb189127c20a25e146171c55fc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/hydrocoloeus_minutus/dc23b53d4011ed7f5c7b79e614549ce4d890e236aaae823d711e9316b62421fd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ekaterina Chernetsova (Papchinskaya)",
+        "url": "https://www.flickr.com/people/37949120@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/hydrocoloeus_minutus/dc23b53d4011ed7f5c7b79e614549ce4d890e236aaae823d711e9316b62421fd_thumb.jpg"
+    }
+  ]
+}

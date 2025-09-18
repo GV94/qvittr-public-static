@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/cettia_cetti/a50d7db35400ebea02c8e6da5091dd1c76a00897922568ef77ac9376b06cb527.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mark S Jobling",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/cettia_cetti/a50d7db35400ebea02c8e6da5091dd1c76a00897922568ef77ac9376b06cb527_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/cettia_cetti/4b7f302ccc2a4cd87109d9bc86bc8a7d90e062f407e7a8989075617b852b485a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cettia_cetti/4b7f302ccc2a4cd87109d9bc86bc8a7d90e062f407e7a8989075617b852b485a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cettia_cetti/c21086054ea5a93bfa59727e4a210a75e6670c3b6290bd43961f5a03741323ab.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ken Billington",
+        "url": "https://commons.wikimedia.org/wiki/User:Ken_Billington"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cettia_cetti/c21086054ea5a93bfa59727e4a210a75e6670c3b6290bd43961f5a03741323ab_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cettia_cetti/dea221b7047420d4f88ebb5bbaebb1e2adf7400fdfbbae6e5ae61dcd6d02764f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ken Billington",
+        "url": "https://commons.wikimedia.org/wiki/User:Ken_Billington"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cettia_cetti/dea221b7047420d4f88ebb5bbaebb1e2adf7400fdfbbae6e5ae61dcd6d02764f_thumb.jpg"
+    }
+  ]
+}

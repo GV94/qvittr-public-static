@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gallinago_gallinago/1a1db754103292274f7abd86222403f0e11a66d61844c6f276a902408800b4be.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, D\u00fbrzan c\u00eerano",
+      "url": "https://commons.wikimedia.org/wiki/User:D%C3%BBrzan_c%C3%AErano"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gallinago_gallinago/1a1db754103292274f7abd86222403f0e11a66d61844c6f276a902408800b4be_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gallinago_gallinago/09210595d535d0994a6e545c3be71cc86a4667aca792c89ab6b259ca5a72f017.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hobbyfotowiki",
+        "url": "https://commons.wikimedia.org/wiki/User:Hobbyfotowiki"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_gallinago/09210595d535d0994a6e545c3be71cc86a4667aca792c89ab6b259ca5a72f017_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_gallinago/15f15ad290b8eac65ed14dcc367c300fd90cb5eeebc2266ad93fd395f0ef3309.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Murisec 71",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Murisec_71&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_gallinago/15f15ad290b8eac65ed14dcc367c300fd90cb5eeebc2266ad93fd395f0ef3309_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_gallinago/1e9d44e598893044473d8100965f76f8d8a352d47863cb088859d88f362fdd02.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/gallinago_gallinago/1e9d44e598893044473d8100965f76f8d8a352d47863cb088859d88f362fdd02_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_gallinago/290bdbed92235f66d98f620570e24d179d42ed290d245317396c6c648bed7fbc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Assianir",
+        "url": "https://commons.wikimedia.org/wiki/User:Assianir"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_gallinago/290bdbed92235f66d98f620570e24d179d42ed290d245317396c6c648bed7fbc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_gallinago/a554ac3c3979f364bf8fd7a4535f6905b8236ff480deec8375b363470dca880e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hobbyfotowiki",
+        "url": "https://commons.wikimedia.org/wiki/User:Hobbyfotowiki"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_gallinago/a554ac3c3979f364bf8fd7a4535f6905b8236ff480deec8375b363470dca880e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gallinago_gallinago/e1fc0f8800b64cfbc5ffd41f5893bb256a6a02446e653d5b0dbf393c944a0dc6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Murisec 71",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Murisec_71&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gallinago_gallinago/e1fc0f8800b64cfbc5ffd41f5893bb256a6a02446e653d5b0dbf393c944a0dc6_thumb.jpg"
+    }
+  ]
+}

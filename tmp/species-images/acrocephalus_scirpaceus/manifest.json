@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/acrocephalus_scirpaceus/d30a5b7bc48654dc65f5e64c577623f04756f129482e4589cbb0b44f533dbec7.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Vogelartinfo",
+      "url": "https://commons.wikimedia.org/wiki/User:Vogelartinfo"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/acrocephalus_scirpaceus/d30a5b7bc48654dc65f5e64c577623f04756f129482e4589cbb0b44f533dbec7_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/acrocephalus_scirpaceus/3819066606cbeb3fa17861db72d4df12da594b2d721e16f4a40b6e4e84db05b0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_scirpaceus/3819066606cbeb3fa17861db72d4df12da594b2d721e16f4a40b6e4e84db05b0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_scirpaceus/5d62dde48f7f14792eec0a404a83338771b922a05d551fb925f1fbc72a9c2995.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_scirpaceus/5d62dde48f7f14792eec0a404a83338771b922a05d551fb925f1fbc72a9c2995_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_scirpaceus/7c60f93049e8abd9e6b1be28c8dd3e411bdd063b83532bf0aa870c7c0fee5289.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_scirpaceus/7c60f93049e8abd9e6b1be28c8dd3e411bdd063b83532bf0aa870c7c0fee5289_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_scirpaceus/9e96ffd461d5528ae6af20f37d590ea48844267fb4caaf3b7a85e094c6ce2455.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acrocephalus_scirpaceus/9e96ffd461d5528ae6af20f37d590ea48844267fb4caaf3b7a85e094c6ce2455_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_scirpaceus/a1ffec398001446255a0fb3131457b5fea255ec3aaf27e78a73258c2a54283e2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_scirpaceus/a1ffec398001446255a0fb3131457b5fea255ec3aaf27e78a73258c2a54283e2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_scirpaceus/e3bfa2b97704d89bae9fe075102b27e136ef224c42d9f494f65c4d7de551ba6d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acrocephalus_scirpaceus/e3bfa2b97704d89bae9fe075102b27e136ef224c42d9f494f65c4d7de551ba6d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_scirpaceus/fde262da3937146ff48b444daea65dc3866dff700f261d0bb74a2575ac4587f5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_scirpaceus/fde262da3937146ff48b444daea65dc3866dff700f261d0bb74a2575ac4587f5_thumb.jpg"
+    }
+  ]
+}

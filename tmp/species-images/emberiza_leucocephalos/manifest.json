@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_leucocephalos/a31516ee595df9b74d6b7633c17a43be44ce8eae8ebec7d0ec5bd4db582f0190.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Jargal Lamjav",
+      "url": "https://www.flickr.com/people/69445801@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_leucocephalos/a31516ee595df9b74d6b7633c17a43be44ce8eae8ebec7d0ec5bd4db582f0190_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_leucocephalos/5aef302d56aaa1c42890c5289f9a4b6d5dfceb9c96e9b533c6cd5d6e98b7b378.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_leucocephalos/5aef302d56aaa1c42890c5289f9a4b6d5dfceb9c96e9b533c6cd5d6e98b7b378_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_leucocephalos/aa1053a254b111f2e06db95592485b8966c20fe1de871bf54bc6e24e2f478282.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_leucocephalos/aa1053a254b111f2e06db95592485b8966c20fe1de871bf54bc6e24e2f478282_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_leucocephalos/d1e1be85459e9e8cbbb5079ff328be5edfcf50c179d3088f6167a76b3c76bb42.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_leucocephalos/d1e1be85459e9e8cbbb5079ff328be5edfcf50c179d3088f6167a76b3c76bb42_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_leucocephalos/e703c04a179b50f644776f3aa2a7b9530893b2b8c543dd3a5e02aa4fe85904ea.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_leucocephalos/e703c04a179b50f644776f3aa2a7b9530893b2b8c543dd3a5e02aa4fe85904ea_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_leucocephalos/fc749153fd514fe45f561b1c6acaabad05262818e6e78ff32e4ccabf19377288.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_leucocephalos/fc749153fd514fe45f561b1c6acaabad05262818e6e78ff32e4ccabf19377288_thumb.jpg"
+    }
+  ]
+}

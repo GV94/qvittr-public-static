@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/pluvialis_fulva/e4641f06bcb4c9e8c78f03af42a27c50c9ee339a45043b7dfeb1b778d02c64c4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, OW Johnson, USFWS",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/pluvialis_fulva/e4641f06bcb4c9e8c78f03af42a27c50c9ee339a45043b7dfeb1b778d02c64c4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/pluvialis_fulva/5e973041a1ad7963e77019b12dc300058a392193ddf03f1617d1b52f104502b8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Cataloging Nature",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_fulva/5e973041a1ad7963e77019b12dc300058a392193ddf03f1617d1b52f104502b8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_fulva/7c870c58578390bfcb356336aaa87dd60f2e23194917d32d376ea7ddeebecd53.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luke Marcos Imbong",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Luccalephant&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_fulva/7c870c58578390bfcb356336aaa87dd60f2e23194917d32d376ea7ddeebecd53_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_fulva/a09d5af9769b0797836c64889b5cf6b40207bd0eacc5a029d2211840d3823f35.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dinkun Chen",
+        "url": "https://commons.wikimedia.org/wiki/User:Dinkun_Chen"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_fulva/a09d5af9769b0797836c64889b5cf6b40207bd0eacc5a029d2211840d3823f35_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pluvialis_fulva/aeffba0a10f4f080a8b93bb35266f69c056fabea37e6d000087928b8065d41da.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dinkun Chen",
+        "url": "https://commons.wikimedia.org/wiki/User:Dinkun_Chen"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pluvialis_fulva/aeffba0a10f4f080a8b93bb35266f69c056fabea37e6d000087928b8065d41da_thumb.jpg"
+    }
+  ]
+}

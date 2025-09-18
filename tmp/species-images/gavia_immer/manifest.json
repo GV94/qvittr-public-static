@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gavia_immer/1116e01471f59733d6070560794c36f148bb9bc8dd496f6422ff8ec9b8fb79ff.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, John Picken",
+      "url": "https://www.flickr.com/people/21532476@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gavia_immer/1116e01471f59733d6070560794c36f148bb9bc8dd496f6422ff8ec9b8fb79ff_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gavia_immer/0f5c356a74c985d72cafc0f790f8978acfa5219a29cdc7ca6df2824d80168bd7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_immer/0f5c356a74c985d72cafc0f790f8978acfa5219a29cdc7ca6df2824d80168bd7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_immer/5036711c486835d9acc8eac30e29e370525d63ab9097b12b8cb733884d561491.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Seney Natural History Association",
+        "url": "https://www.flickr.com/people/48492584@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_immer/5036711c486835d9acc8eac30e29e370525d63ab9097b12b8cb733884d561491_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_immer/5a0055d06775ff9cb14227c7d4e0ddbf88d001db3030522729857e3c2fff3fd4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Seney Natural History Association",
+        "url": "https://www.flickr.com/people/48492584@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_immer/5a0055d06775ff9cb14227c7d4e0ddbf88d001db3030522729857e3c2fff3fd4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_immer/a1dd8911875b69e4058d3a5d7ae8899e8b04901856af84de5124637ed2072933.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Seney Natural History Association",
+        "url": "https://www.flickr.com/people/48492584@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_immer/a1dd8911875b69e4058d3a5d7ae8899e8b04901856af84de5124637ed2072933_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_immer/ee9b3aff5c4543441cb29608b0b467db8c5f4aab085c3e2494b1ab5f2d5b9c1b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Seney Natural History Association",
+        "url": "https://www.flickr.com/people/48492584@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_immer/ee9b3aff5c4543441cb29608b0b467db8c5f4aab085c3e2494b1ab5f2d5b9c1b_thumb.jpg"
+    }
+  ]
+}

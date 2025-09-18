@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/falco_vespertinus/4050ad20cbb43329e6944cd7a03b0b26eed2def03c77849880f8553cea0312e0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Martin Mecnarowski",
+      "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/falco_vespertinus/4050ad20cbb43329e6944cd7a03b0b26eed2def03c77849880f8553cea0312e0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/falco_vespertinus/1bf2ce7c63a1b1eee71d378c190b8214dee21933d6eb683dbbf19b22f8d8e71d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ferdinando sacchetti",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Ferdinando_sacchetti&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_vespertinus/1bf2ce7c63a1b1eee71d378c190b8214dee21933d6eb683dbbf19b22f8d8e71d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_vespertinus/52f366daaa2ee390d5f9ddb571e87dae82661ba24f25e6c08bd5f9596a8b136b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Mecnarowski",
+        "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_vespertinus/52f366daaa2ee390d5f9ddb571e87dae82661ba24f25e6c08bd5f9596a8b136b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_vespertinus/542bc2066f80b79477e3d2d8c6e52d537a74b4e7a80a23320ae7e1fdb05a6f81.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Mecnarowski",
+        "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_vespertinus/542bc2066f80b79477e3d2d8c6e52d537a74b4e7a80a23320ae7e1fdb05a6f81_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_vespertinus/efafb0be6c9419f1888bf0defda34aaa02e48a080abaab43f497df7e5abc898d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Mecnarowski",
+        "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_vespertinus/efafb0be6c9419f1888bf0defda34aaa02e48a080abaab43f497df7e5abc898d_thumb.jpg"
+    }
+  ]
+}

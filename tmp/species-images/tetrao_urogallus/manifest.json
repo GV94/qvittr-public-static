@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tetrao_urogallus/14ece8eb58dcf618d1920c03987436737427415613665e054cadd1d6089dae3e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, David Palmer",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tetrao_urogallus/14ece8eb58dcf618d1920c03987436737427415613665e054cadd1d6089dae3e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tetrao_urogallus/446c969af72ef85a138aec70c86004b9fd0bd98b93755d54db2aac4e97fb264f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tetrao_urogallus/446c969af72ef85a138aec70c86004b9fd0bd98b93755d54db2aac4e97fb264f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrao_urogallus/44e54e73056358a03b4cfe5054219312b4ddf927514faa570b83332b896a441e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tetrao_urogallus/44e54e73056358a03b4cfe5054219312b4ddf927514faa570b83332b896a441e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrao_urogallus/6485f582c3a81ea7c5bc528591110266dc96364a720aed006b9a885e7446c36d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Majsan02",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Majsan02&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrao_urogallus/6485f582c3a81ea7c5bc528591110266dc96364a720aed006b9a885e7446c36d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrao_urogallus/b4c80f14c2ec3ddbd8ce988761308e0f0880ae8715a85fdac22cb589620fe6b6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zwerger-r-leben",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Zwerger-r-leben&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrao_urogallus/b4c80f14c2ec3ddbd8ce988761308e0f0880ae8715a85fdac22cb589620fe6b6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrao_urogallus/c0de669c7e55f4beadcfaeb8c4ce4a3637f705ca3b427852d472e0299d4f415b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zwerger-r-leben",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Zwerger-r-leben&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrao_urogallus/c0de669c7e55f4beadcfaeb8c4ce4a3637f705ca3b427852d472e0299d4f415b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrao_urogallus/d4b26ba5afe60a70c8a132430b7239c9a2f04e316cdfb6319f8ec84d5a941a92.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tetrao_urogallus/d4b26ba5afe60a70c8a132430b7239c9a2f04e316cdfb6319f8ec84d5a941a92_thumb.jpg"
+    }
+  ]
+}

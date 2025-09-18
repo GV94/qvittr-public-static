@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/certhia_brachydactyla/f22c5059b4853b7f462de30582eb1962d9e5d52de552961f12d9baa9384475bb.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Eichler",
+      "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/certhia_brachydactyla/f22c5059b4853b7f462de30582eb1962d9e5d52de552961f12d9baa9384475bb_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/certhia_brachydactyla/240259af1a744c4572fd47293b1e6edff0287032be1e5d4393c03d79d5cef4e7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/certhia_brachydactyla/240259af1a744c4572fd47293b1e6edff0287032be1e5d4393c03d79d5cef4e7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_brachydactyla/27a6c5238767db7591f989beb5948135ffa8741358e5e29024ba06e8510f8c15.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_brachydactyla/27a6c5238767db7591f989beb5948135ffa8741358e5e29024ba06e8510f8c15_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_brachydactyla/5cbc40f481399d06cf4ea3615e5e5c8e4f4c23e51c4f8a2d83ca7f049ee5e03e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_brachydactyla/5cbc40f481399d06cf4ea3615e5e5c8e4f4c23e51c4f8a2d83ca7f049ee5e03e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_brachydactyla/d5a6995c199d26aeb3b6ce8dcc2978da6aa6daf4e6b32b8b883eb56bd3e88cd2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_brachydactyla/d5a6995c199d26aeb3b6ce8dcc2978da6aa6daf4e6b32b8b883eb56bd3e88cd2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_brachydactyla/e43267728b87711fb2c956b8221cd8642f26788a8a2c2aa65536c0d2fb495d93.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_brachydactyla/e43267728b87711fb2c956b8221cd8642f26788a8a2c2aa65536c0d2fb495d93_thumb.jpg"
+    }
+  ]
+}

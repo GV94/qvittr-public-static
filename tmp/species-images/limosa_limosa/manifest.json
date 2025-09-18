@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/limosa_limosa/ce8aba394a314d4f61c7d8f0a9eb8b4478cca4b44ae1fe0e8028668d2d623595.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Frank Vassen",
+      "url": "https://www.flickr.com/people/42244964@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/limosa_limosa/ce8aba394a314d4f61c7d8f0a9eb8b4478cca4b44ae1fe0e8028668d2d623595_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/limosa_limosa/4a67eabc02506db215717d0941cb1f918cc34ab63d851a3a517197e35e902f83.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_limosa/4a67eabc02506db215717d0941cb1f918cc34ab63d851a3a517197e35e902f83_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_limosa/557a56d818044aa9df85184c8e753b22ae2429cee647f49c75d483663084773d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Emilio",
+        "url": "https://www.flickr.com/people/22009023@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limosa_limosa/557a56d818044aa9df85184c8e753b22ae2429cee647f49c75d483663084773d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_limosa/a3acd5edaab877fee4f41ac16a453de830fc9a4fd8fc11c11a30f4f8983de80d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kaiserm123",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Kaiserm123&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limosa_limosa/a3acd5edaab877fee4f41ac16a453de830fc9a4fd8fc11c11a30f4f8983de80d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_limosa/b074dab07447048ff60ebbc4814079a8a3135cab99157ecd69dee24e8388f255.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_limosa/b074dab07447048ff60ebbc4814079a8a3135cab99157ecd69dee24e8388f255_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_limosa/bf4bec06f7fe451a59a86220c87c86a1c232c944b8298b665fc2178253ba0123.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_limosa/bf4bec06f7fe451a59a86220c87c86a1c232c944b8298b665fc2178253ba0123_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_limosa/f142ce26d772d5c483ff91447f61423513af8448441d8f4d4c02f3b813bae3ac.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_limosa/f142ce26d772d5c483ff91447f61423513af8448441d8f4d4c02f3b813bae3ac_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_limosa/ff961a05a070bbfa04bce37ce3a6a853ff1ade7daaeb3912e935fdfc13e78219.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_limosa/ff961a05a070bbfa04bce37ce3a6a853ff1ade7daaeb3912e935fdfc13e78219_thumb.jpg"
+    }
+  ]
+}

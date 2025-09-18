@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/riparia_riparia/dcef00c021ca95d647e8a038bf2b4b37298a289aa434c41a2a29c932461d5355.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/riparia_riparia/dcef00c021ca95d647e8a038bf2b4b37298a289aa434c41a2a29c932461d5355_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/riparia_riparia/0453a054b8db8aa32cb7df2935b2890012363d91b0d64276c4acd95c3a774c84.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rolf Tuinstra",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Rolf_Tuinstra&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/riparia_riparia/0453a054b8db8aa32cb7df2935b2890012363d91b0d64276c4acd95c3a774c84_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/riparia_riparia/264a8f253d5dc04313c2d71cfba81c49987db5148bd900d702f843e0ebe4423e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u00c5sa Berndtsson",
+        "url": "https://www.flickr.com/people/93892629@N07"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/riparia_riparia/264a8f253d5dc04313c2d71cfba81c49987db5148bd900d702f843e0ebe4423e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/riparia_riparia/2d6b5771cec2bc2d6c3f98afa9839be5336875070ee4a9b119e18dc30df907f3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rolf Tuinstra",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Rolf_Tuinstra&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/riparia_riparia/2d6b5771cec2bc2d6c3f98afa9839be5336875070ee4a9b119e18dc30df907f3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/riparia_riparia/88fe703013aa30b7f4b9638f9188559522063c3c2b461f1115ce3cfc22c39621.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luiz Lapa",
+        "url": "https://www.flickr.com/people/181980422@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/riparia_riparia/88fe703013aa30b7f4b9638f9188559522063c3c2b461f1115ce3cfc22c39621_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/riparia_riparia/ee4b1c5731506d912c4a8d3504cf58cb307ce52f163afdd69e9ee7060eb040b4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rolf Tuinstra",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Rolf_Tuinstra&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/riparia_riparia/ee4b1c5731506d912c4a8d3504cf58cb307ce52f163afdd69e9ee7060eb040b4_thumb.jpg"
+    }
+  ]
+}

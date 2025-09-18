@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/mergellus_albellus/ff0f6161361153746c79b42943fc5387c88f1a0e285f94755eb1e03771b5f027.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/mergellus_albellus/ff0f6161361153746c79b42943fc5387c88f1a0e285f94755eb1e03771b5f027_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/mergellus_albellus/08406e7548615d20b961b7788992926c52369057df1067750e131b6a0a51799f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, joe m devereux",
+        "url": "https://www.flickr.com/people/59324099@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergellus_albellus/08406e7548615d20b961b7788992926c52369057df1067750e131b6a0a51799f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergellus_albellus/20014365f767eb2ab6cfdf5511a844021558d70595ddfa7b015d266460b28c2d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, KKPCW",
+        "url": "https://commons.wikimedia.org/wiki/User:KKPCW"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergellus_albellus/20014365f767eb2ab6cfdf5511a844021558d70595ddfa7b015d266460b28c2d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergellus_albellus/580b6d995468f5be9817eff79dbc1a5ea2d70cc552d905bf4560990877e451a2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, KKPCW",
+        "url": "https://commons.wikimedia.org/wiki/User:KKPCW"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergellus_albellus/580b6d995468f5be9817eff79dbc1a5ea2d70cc552d905bf4560990877e451a2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergellus_albellus/6cb6c19d59be5fc35e28fe0bf4e1b89da9985744d3550d80de56890bda4459fb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/mergellus_albellus/6cb6c19d59be5fc35e28fe0bf4e1b89da9985744d3550d80de56890bda4459fb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergellus_albellus/d9f895f91ec1efeede8aaa9306e1fa46b31a0c9ba8c17faede54765e5270f5fd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, joe m devereux",
+        "url": "https://www.flickr.com/people/59324099@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergellus_albellus/d9f895f91ec1efeede8aaa9306e1fa46b31a0c9ba8c17faede54765e5270f5fd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/mergellus_albellus/f50d7fa614581c8061ac4f30e346632577095550b0dc18b9fd827b3aa644deb5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, KKPCW",
+        "url": "https://commons.wikimedia.org/wiki/User:KKPCW"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/mergellus_albellus/f50d7fa614581c8061ac4f30e346632577095550b0dc18b9fd827b3aa644deb5_thumb.jpg"
+    }
+  ]
+}

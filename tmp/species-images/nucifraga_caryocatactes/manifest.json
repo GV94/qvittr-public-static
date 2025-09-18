@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/nucifraga_caryocatactes/c687d22fbbd800f4069f456eb99f9fcedf6ceaded804e499cf3106a32b7e9645.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Kamil Porembi\u0144ski",
+      "url": "https://www.flickr.com/people/22178197@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/nucifraga_caryocatactes/c687d22fbbd800f4069f456eb99f9fcedf6ceaded804e499cf3106a32b7e9645_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/nucifraga_caryocatactes/11937164cad1698cacf9969f974c2910608c5aa0c5b6307fec04d09a1b518c0d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/nucifraga_caryocatactes/11937164cad1698cacf9969f974c2910608c5aa0c5b6307fec04d09a1b518c0d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/nucifraga_caryocatactes/4ab667a0ac4ab6b7b5fbeb0a98f176fb395cab711b60d0812ae06293edc49418.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/nucifraga_caryocatactes/4ab667a0ac4ab6b7b5fbeb0a98f176fb395cab711b60d0812ae06293edc49418_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/nucifraga_caryocatactes/98bc4c52a64601abe19061a62adda50d8f154dc39a45a381c01d34f64d2e289d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/nucifraga_caryocatactes/98bc4c52a64601abe19061a62adda50d8f154dc39a45a381c01d34f64d2e289d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/nucifraga_caryocatactes/bb29a128530efc3c678abb2808e1a5030c33311ebef129b6da7dd0a91644b244.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Aleksandr Markin",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/nucifraga_caryocatactes/bb29a128530efc3c678abb2808e1a5030c33311ebef129b6da7dd0a91644b244_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/nucifraga_caryocatactes/f6100be6bc5c7801943fcd40239190ea10f983f55195a1369f2ba4823e01dba8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pierre-Marie Epiney",
+        "url": "https://www.flickr.com/people/83657186@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/nucifraga_caryocatactes/f6100be6bc5c7801943fcd40239190ea10f983f55195a1369f2ba4823e01dba8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/nucifraga_caryocatactes/ff05b266e2c2a6b1b41ecd97a07480431c0d20c1ed1931153f3bb3413f815511.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Henk Monster",
+        "url": "https://web.archive.org/web/20161102191828/http://www.panoramio.com/user/1100550?with_photo_id=117522534"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/nucifraga_caryocatactes/ff05b266e2c2a6b1b41ecd97a07480431c0d20c1ed1931153f3bb3413f815511_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/rallus_aquaticus/3647ff4757a12386065ce580959cd107049d9744e43186ed265c5901d9d890f8.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Pierre Dalous",
+      "url": "https://commons.wikimedia.org/wiki/User:Kookaburra_81"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/rallus_aquaticus/3647ff4757a12386065ce580959cd107049d9744e43186ed265c5901d9d890f8_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/rallus_aquaticus/4bfc679c6ca7828b1796b2a104ddcde92e7080c8ec68bdfc4db0274e935f47b2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luiz Lapa",
+        "url": "https://www.flickr.com/people/181980422@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rallus_aquaticus/4bfc679c6ca7828b1796b2a104ddcde92e7080c8ec68bdfc4db0274e935f47b2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rallus_aquaticus/5b2ec3da56b260e4c12a530d253b3e1436d4814d7ed8011fb4aa94b3e72a14d1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/rallus_aquaticus/5b2ec3da56b260e4c12a530d253b3e1436d4814d7ed8011fb4aa94b3e72a14d1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rallus_aquaticus/a225ac58f37b3d762a37b117948ec796668f8ca197860b7f65adc80893d49a4e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luiz Lapa",
+        "url": "https://www.flickr.com/people/181980422@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rallus_aquaticus/a225ac58f37b3d762a37b117948ec796668f8ca197860b7f65adc80893d49a4e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rallus_aquaticus/cc52f21b6cd9133094b55ea49ca21d28d918e5eefa4f836f3a68e3c74704d5f7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve Garvie",
+        "url": "https://www.flickr.com/photos/50079771@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rallus_aquaticus/cc52f21b6cd9133094b55ea49ca21d28d918e5eefa4f836f3a68e3c74704d5f7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/rallus_aquaticus/d9d9348e94ff933ab4745d9b3e7d997d29eba7b8817e4055f2784e6cb108ad84.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Luiz Lapa",
+        "url": "https://www.flickr.com/people/181980422@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/rallus_aquaticus/d9d9348e94ff933ab4745d9b3e7d997d29eba7b8817e4055f2784e6cb108ad84_thumb.jpg"
+    }
+  ]
+}

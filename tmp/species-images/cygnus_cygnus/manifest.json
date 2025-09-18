@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/cygnus_cygnus/62752de6a74f2840a9259d1620c9e94c4d0d28dc9afb4fd7fa8f926669c0b55c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Cira 7",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Cira_7&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/cygnus_cygnus/62752de6a74f2840a9259d1620c9e94c4d0d28dc9afb4fd7fa8f926669c0b55c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/cygnus_cygnus/0657148342c663baf660a3e3d716a065c333bac902161c01c1bb2773f25577fc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cygnus_cygnus/0657148342c663baf660a3e3d716a065c333bac902161c01c1bb2773f25577fc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_cygnus/32310e8c4a81df5e86db64b95f198e26da83f687da22930d2c8b82df6e1e2a1a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Vav\u0159\u00edk",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cygnus_cygnus/32310e8c4a81df5e86db64b95f198e26da83f687da22930d2c8b82df6e1e2a1a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_cygnus/85388cc756dcf89352be5fe54288c8a794c0864a52b859c3664ad156d7040d04.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cygnus_cygnus/85388cc756dcf89352be5fe54288c8a794c0864a52b859c3664ad156d7040d04_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cygnus_cygnus/98821440e6c31b15d6fb32bf66dbd2fb9bed7939e2e632b6b7a775ac25e24782.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, arudhio",
+        "url": "https://www.flickr.com/people/15905103@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cygnus_cygnus/98821440e6c31b15d6fb32bf66dbd2fb9bed7939e2e632b6b7a775ac25e24782_thumb.jpg"
+    }
+  ]
+}

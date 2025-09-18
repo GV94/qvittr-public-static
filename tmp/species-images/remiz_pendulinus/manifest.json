@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/remiz_pendulinus/238ada2812112067337d1c8f97ab3d91b3eea0b12389d8571951f42fc8329144.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Martin Mecnarowski",
+      "url": "https://commons.wikimedia.org/wiki/User:Trachemys~commonswiki/Martin_Mecnarowski"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/remiz_pendulinus/238ada2812112067337d1c8f97ab3d91b3eea0b12389d8571951f42fc8329144_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/remiz_pendulinus/80ba4de9c853455965b805b9db452262a3408957843fbc7921cceeaaf0edb0c7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/remiz_pendulinus/80ba4de9c853455965b805b9db452262a3408957843fbc7921cceeaaf0edb0c7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/remiz_pendulinus/8b5ac2395911c1811e03bae04182caae757d53950becfc74543ae0aa32061be3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/remiz_pendulinus/8b5ac2395911c1811e03bae04182caae757d53950becfc74543ae0aa32061be3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/remiz_pendulinus/cd215778a0089c8649bdd72c56185a2e32578af2d42c2c61db5fee8d0fac4d3a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/remiz_pendulinus/cd215778a0089c8649bdd72c56185a2e32578af2d42c2c61db5fee8d0fac4d3a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/remiz_pendulinus/dbf18d1890bc29f12ce23b8ea9ffb9b8a47028c9985943c84404838707b2ca5e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/remiz_pendulinus/dbf18d1890bc29f12ce23b8ea9ffb9b8a47028c9985943c84404838707b2ca5e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/remiz_pendulinus/ee1659e4cedac6313a6b20ef7809004e67bb7d44d7d9fa8f01545d70e9939a59.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/remiz_pendulinus/ee1659e4cedac6313a6b20ef7809004e67bb7d44d7d9fa8f01545d70e9939a59_thumb.jpg"
+    }
+  ]
+}

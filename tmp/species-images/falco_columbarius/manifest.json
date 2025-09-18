@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/falco_columbarius/5b0238f7fd47d28c722ce6d185027c6ea9e19f7b0fd8f0a77991565544f51f33.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, David St. Louis",
+      "url": "https://www.flickr.com/people/53571426@N02"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/falco_columbarius/5b0238f7fd47d28c722ce6d185027c6ea9e19f7b0fd8f0a77991565544f51f33_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/falco_columbarius/1583deebe0b0aa3b09ec4496f8b91b2cea25978ff1a6adb08dfad26bbabf873a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, William H. Majoros",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Bmajoros&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_columbarius/1583deebe0b0aa3b09ec4496f8b91b2cea25978ff1a6adb08dfad26bbabf873a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_columbarius/c90700aa2034d8a5001397f7356f23d5a2078e23297933fadb49b74d4433142c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Murray Foubister",
+        "url": "https://www.flickr.com/people/61456446@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_columbarius/c90700aa2034d8a5001397f7356f23d5a2078e23297933fadb49b74d4433142c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/falco_columbarius/f9a4076844f00622cfd09f2f2f3246928b6730df586197eb9020d36b180ec7dd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, U. S. Fish and Wildlife Service - Northeast Region",
+        "url": "https://www.flickr.com/people/43322816@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/falco_columbarius/f9a4076844f00622cfd09f2f2f3246928b6730df586197eb9020d36b180ec7dd_thumb.jpg"
+    }
+  ]
+}

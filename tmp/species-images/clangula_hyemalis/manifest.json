@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/clangula_hyemalis/cc8b1b9688a68d0e34c985d989b9b6b490ffd4c5d2806d40e45252e5e2e07ec9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Sammy Sam",
+      "url": "http://picasaweb.google.com/sammysam.com"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/clangula_hyemalis/cc8b1b9688a68d0e34c985d989b9b6b490ffd4c5d2806d40e45252e5e2e07ec9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/clangula_hyemalis/1595ccaa39d465fe5dd782ab4a98df91f1159ff1ea9107b5b28686d939eaad8d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clangula_hyemalis/1595ccaa39d465fe5dd782ab4a98df91f1159ff1ea9107b5b28686d939eaad8d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clangula_hyemalis/3c513f359076b9f681e165d46eb24c00b0ac97cde0135a5f33696402cbce07f7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clangula_hyemalis/3c513f359076b9f681e165d46eb24c00b0ac97cde0135a5f33696402cbce07f7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clangula_hyemalis/90c0b8cae43f326e546709c29920f141a4546f2f83abade55edd920a565ddb5b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clangula_hyemalis/90c0b8cae43f326e546709c29920f141a4546f2f83abade55edd920a565ddb5b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clangula_hyemalis/a2de03c092aafea1cbdd72ab93b932d474a117b579942da9cbe14c100980d2db.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clangula_hyemalis/a2de03c092aafea1cbdd72ab93b932d474a117b579942da9cbe14c100980d2db_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/clangula_hyemalis/e7f27cf93996e8222430219233732465d9875352ef88be05cebf5ad3d70e8106.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/clangula_hyemalis/e7f27cf93996e8222430219233732465d9875352ef88be05cebf5ad3d70e8106_thumb.jpg"
+    }
+  ]
+}

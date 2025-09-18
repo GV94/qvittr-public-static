@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/botaurus_stellaris/f7e9bc53022b2135b385a1159a95792be4417a4723222bcf206dcdadaacd80cc.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Marek Szczepanek",
+      "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/botaurus_stellaris/f7e9bc53022b2135b385a1159a95792be4417a4723222bcf206dcdadaacd80cc_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/botaurus_stellaris/39d4dc4fad3decb10cccfb77f78711d334f8d395ec46897e3734a3ce49d59bf6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/botaurus_stellaris/39d4dc4fad3decb10cccfb77f78711d334f8d395ec46897e3734a3ce49d59bf6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/botaurus_stellaris/73ba987b2a7f29ec9a933239bdcea6ad01d2d08a8957da8759925ca622ae7167.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve  F",
+        "url": "https://www.geograph.org.uk/profile/15341"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/botaurus_stellaris/73ba987b2a7f29ec9a933239bdcea6ad01d2d08a8957da8759925ca622ae7167_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/botaurus_stellaris/a8b33c2ba6d20ed79145b2566e8f79f9c4b230c892b2d8289a823fc3ae6874b5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/botaurus_stellaris/a8b33c2ba6d20ed79145b2566e8f79f9c4b230c892b2d8289a823fc3ae6874b5_thumb.jpg"
+    }
+  ]
+}

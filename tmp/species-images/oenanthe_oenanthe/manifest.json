@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/oenanthe_oenanthe/6a9b42567ed6492f486253b5b8e84e1d2b9545cb0c8ebf361a61c7c57cdb2b24.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Zeynel Cebeci",
+      "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/oenanthe_oenanthe/6a9b42567ed6492f486253b5b8e84e1d2b9545cb0c8ebf361a61c7c57cdb2b24_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/oenanthe_oenanthe/07c9256a3fbac45fe9f57c338720f6b893f591b36aa9de6c32adf7f8c8958a0a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oenanthe_oenanthe/07c9256a3fbac45fe9f57c338720f6b893f591b36aa9de6c32adf7f8c8958a0a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oenanthe_oenanthe/353c444ccf3f376d3810e35864b95db8cb6ef79fb28460c56a702c5dbd26bb27.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kaiserm123",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Kaiserm123&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oenanthe_oenanthe/353c444ccf3f376d3810e35864b95db8cb6ef79fb28460c56a702c5dbd26bb27_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oenanthe_oenanthe/547a142ae638d5fc6b30fe8629c7f2d27251750b10c713c7efe5d69d41a8f8cf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oenanthe_oenanthe/547a142ae638d5fc6b30fe8629c7f2d27251750b10c713c7efe5d69d41a8f8cf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oenanthe_oenanthe/6348246f8aec91af23b51ba8e1a5e98d6e0f2428d3cc9c1dec450ded919aeaf1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/oenanthe_oenanthe/6348246f8aec91af23b51ba8e1a5e98d6e0f2428d3cc9c1dec450ded919aeaf1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oenanthe_oenanthe/9b1f1b05f9f22e2f11279a9f174255fda1f7c9c3a9f48b76caf324d30a357d67.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, sighmanb",
+        "url": "https://www.flickr.com/people/23632548@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oenanthe_oenanthe/9b1f1b05f9f22e2f11279a9f174255fda1f7c9c3a9f48b76caf324d30a357d67_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/oenanthe_oenanthe/e25ba6569999a526b649d73675669cc18c0147f4368f77292a098b232530a290.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/oenanthe_oenanthe/e25ba6569999a526b649d73675669cc18c0147f4368f77292a098b232530a290_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/sterna_hirundo/782c66c1304ba789d6168820a593625f0f61cecbc9e81f42e8cb50c5ff29d4d8.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Juan Emilio",
+      "url": "https://www.flickr.com/people/22009023@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/sterna_hirundo/782c66c1304ba789d6168820a593625f0f61cecbc9e81f42e8cb50c5ff29d4d8_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/sterna_hirundo/078f5f2b876cfb365059e22210f603dd0df6001a4666b1d4fe797aa9e662e893.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sterna_hirundo/078f5f2b876cfb365059e22210f603dd0df6001a4666b1d4fe797aa9e662e893_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_hirundo/0adb514b11517d8f8ea365c7a58415a942399948e887c99fbae51522641a85c1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_hirundo/0adb514b11517d8f8ea365c7a58415a942399948e887c99fbae51522641a85c1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_hirundo/612258d4ece3e29ba5e539631c03fd1be847f2c18ce31eeb209df9cd099a9bed.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_hirundo/612258d4ece3e29ba5e539631c03fd1be847f2c18ce31eeb209df9cd099a9bed_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_hirundo/7493f0304e4a2d7c825f772f480b7a970fe2bf5f27d998c0c080ffe64ba53702.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_hirundo/7493f0304e4a2d7c825f772f480b7a970fe2bf5f27d998c0c080ffe64ba53702_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_hirundo/867e3b7c16aa0b90c2282dc7a0aa027c3a347ded9ffa94db327ecb5e721b3ead.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sterna_hirundo/867e3b7c16aa0b90c2282dc7a0aa027c3a347ded9ffa94db327ecb5e721b3ead_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_hirundo/a5f62df07e18a441d55409bd82b1674a536ec865e1de1b90528646307ca632b7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/sterna_hirundo/a5f62df07e18a441d55409bd82b1674a536ec865e1de1b90528646307ca632b7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sterna_hirundo/b8b065fa9db4e2acad53311ccb524c7dc8b0ac47aa5472d48b15c60c3bc1c25f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sterna_hirundo/b8b065fa9db4e2acad53311ccb524c7dc8b0ac47aa5472d48b15c60c3bc1c25f_thumb.jpg"
+    }
+  ]
+}

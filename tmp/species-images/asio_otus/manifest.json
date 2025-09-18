@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/asio_otus/002bc3922671d9cfcd2d645a4da89ec510aaabd4386fad8b2a4d27a4412f9c5e.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Marton Berntsen",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Marton_Berntsen&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/asio_otus/002bc3922671d9cfcd2d645a4da89ec510aaabd4386fad8b2a4d27a4412f9c5e_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/asio_otus/00dbf3f33920ed59f1635a6d10f08ab42b33ef0cd0f4ef1b46cb3e5ef7d0cef2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stebunik",
+        "url": "https://commons.wikimedia.org/wiki/User:Stebunik"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_otus/00dbf3f33920ed59f1635a6d10f08ab42b33ef0cd0f4ef1b46cb3e5ef7d0cef2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/034381aee9a430f08e34f3096e8a3a3b50e4613c501e7b79d5e7cfddebfd2460.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/asio_otus/034381aee9a430f08e34f3096e8a3a3b50e4613c501e7b79d5e7cfddebfd2460_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/1d4348d814d4ec140c7cd15a19962d68a779f122538cd7e58b8779285db9b0fe.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gllawm",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Gllawm&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_otus/1d4348d814d4ec140c7cd15a19962d68a779f122538cd7e58b8779285db9b0fe_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/30f3523e75773fd01f95d138ae2e35b051576c3491793a6f4da7f7cc3df61f61.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lukasz Lukasik",
+        "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Lukasz_Lukasik"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_otus/30f3523e75773fd01f95d138ae2e35b051576c3491793a6f4da7f7cc3df61f61_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/a1f368ec52599a0273af7d25bdf18018929d4c06ca645c988b310f12b37df0c7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/asio_otus/a1f368ec52599a0273af7d25bdf18018929d4c06ca645c988b310f12b37df0c7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/b56ea6f02a52c0a49dde1b2a5932e69158f9dd59b86a5acbc06b885d2034b6a3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/asio_otus/b56ea6f02a52c0a49dde1b2a5932e69158f9dd59b86a5acbc06b885d2034b6a3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/c082536ae375cc8f40406dfb4c37260667e91361a9c82e93eb2df0a3575d2237.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/asio_otus/c082536ae375cc8f40406dfb4c37260667e91361a9c82e93eb2df0a3575d2237_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/db311d1910fc1afd36340cb76bfcb08708c546e658d63107b984d8b870df18dc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/asio_otus/db311d1910fc1afd36340cb76bfcb08708c546e658d63107b984d8b870df18dc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/asio_otus/e5b4fe0be44af4fa8e89572b7656cce85328d89e8127ac19fead20c65099de14.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gllawm",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Gllawm&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/asio_otus/e5b4fe0be44af4fa8e89572b7656cce85328d89e8127ac19fead20c65099de14_thumb.jpg"
+    }
+  ]
+}

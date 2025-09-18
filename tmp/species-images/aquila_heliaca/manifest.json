@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aquila_heliaca/9c34ec828dd70bb975e895e5d6d5cfd951b48c5596fcd132240cdece0bbc0362.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Sumeet Moghe",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Sumeetmoghe&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aquila_heliaca/9c34ec828dd70bb975e895e5d6d5cfd951b48c5596fcd132240cdece0bbc0362_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aquila_heliaca/4813da7abaf8b855a123a4ffc603243814a25895545e567ef3ce079a1c79b403.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aquila_heliaca/4813da7abaf8b855a123a4ffc603243814a25895545e567ef3ce079a1c79b403_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_heliaca/4b35d502c41960a144240fedab96b7f2f2678fa9562eed747614f6a0fa6037c3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aquila_heliaca/4b35d502c41960a144240fedab96b7f2f2678fa9562eed747614f6a0fa6037c3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_heliaca/558caeb7408ce35468ca82081831feaded37acb8fa40c70075232fd1f1636f08.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aquila_heliaca/558caeb7408ce35468ca82081831feaded37acb8fa40c70075232fd1f1636f08_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_heliaca/a7108e3a18d2178bab7787816b1a9865bcdd4ac49e87a762dba58183ae704278.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aquila_heliaca/a7108e3a18d2178bab7787816b1a9865bcdd4ac49e87a762dba58183ae704278_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_heliaca/ce4f42728b2de7af610bb2c7b4477437dc474c0c6428ab05feffee14d36cc858.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aquila_heliaca/ce4f42728b2de7af610bb2c7b4477437dc474c0c6428ab05feffee14d36cc858_thumb.jpg"
+    }
+  ]
+}

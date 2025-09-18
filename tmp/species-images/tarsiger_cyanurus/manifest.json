@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tarsiger_cyanurus/461c1a633e435f887dc6429165a9c3aee73dae680ebc1e3855477909a35eb8ff.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, M.Nishimura",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tarsiger_cyanurus/461c1a633e435f887dc6429165a9c3aee73dae680ebc1e3855477909a35eb8ff_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tarsiger_cyanurus/3f7912c966ac0ccc3fd5aab81f2565cc31fd89f935f77f10fcdb110404a74c4b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tarsiger_cyanurus/3f7912c966ac0ccc3fd5aab81f2565cc31fd89f935f77f10fcdb110404a74c4b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tarsiger_cyanurus/4d44739850e314dc8f2b3904c3d1fbbddc666f3f59f3858797c6c8bc7e87a420.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tarsiger_cyanurus/4d44739850e314dc8f2b3904c3d1fbbddc666f3f59f3858797c6c8bc7e87a420_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tarsiger_cyanurus/93fa423d4d4b00d08573802a38c2da46ce5b524a0d321ffc0e58dbf64bde1618.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tarsiger_cyanurus/93fa423d4d4b00d08573802a38c2da46ce5b524a0d321ffc0e58dbf64bde1618_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tarsiger_cyanurus/b03ecb83395004b407d03bfba510d059ea43ef34928589d9a404b1c433ef3e05.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tarsiger_cyanurus/b03ecb83395004b407d03bfba510d059ea43ef34928589d9a404b1c433ef3e05_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tarsiger_cyanurus/bb71b6df2c57b639338e78726c60bfe47d8f09ba63acacda2098b05a6fc73d43.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tarsiger_cyanurus/bb71b6df2c57b639338e78726c60bfe47d8f09ba63acacda2098b05a6fc73d43_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tetrastes_bonasia/f6a304cd8dd7abf5e694b97969b61c1bcf520fc3f57ba919f5920e1208eda400.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, kallerna",
+      "url": "https://commons.wikimedia.org/wiki/User:Kallerna"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tetrastes_bonasia/f6a304cd8dd7abf5e694b97969b61c1bcf520fc3f57ba919f5920e1208eda400_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tetrastes_bonasia/05ffb84e8c4ba5875f4f7bcbbae39f2e561809d8fd427bc198eb87a0f1daca7b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Chinmay Rahane",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Crahane&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrastes_bonasia/05ffb84e8c4ba5875f4f7bcbbae39f2e561809d8fd427bc198eb87a0f1daca7b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrastes_bonasia/1eeb7554a666b5adb6a39f6765bfd1290933e01036e0b4e65a5e7b5f5f7ff51a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Sgbeer",
+        "url": "https://commons.wikimedia.org/wiki/User:Sgbeer"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrastes_bonasia/1eeb7554a666b5adb6a39f6765bfd1290933e01036e0b4e65a5e7b5f5f7ff51a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrastes_bonasia/59ad38e2a30a3e1e42f23001452ad74272662d0fa4ba6d0dbbcef1a70f753dec.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Scosse",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Scosse&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrastes_bonasia/59ad38e2a30a3e1e42f23001452ad74272662d0fa4ba6d0dbbcef1a70f753dec_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrastes_bonasia/98dabbd654e4743dad9becaa510a7e02f028770836e9bc3341b126cb7b3984a5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Honza Sterba",
+        "url": "https://www.flickr.com/photos/41821536@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrastes_bonasia/98dabbd654e4743dad9becaa510a7e02f028770836e9bc3341b126cb7b3984a5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tetrastes_bonasia/c16901b567f0fdca929556c1677f38e150e29eb60235cfb12a236677bf95926b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Teemu Lehtinen",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tetrastes_bonasia/c16901b567f0fdca929556c1677f38e150e29eb60235cfb12a236677bf95926b_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gavia_arctica/0130bb06f2e6e5fc79e76e20514cf69927b87587d9c86094d5694d33def07e03.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Bengt Nyman",
+      "url": "https://www.flickr.com/people/97469566@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gavia_arctica/0130bb06f2e6e5fc79e76e20514cf69927b87587d9c86094d5694d33def07e03_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gavia_arctica/6006e521866e4d1d7d778288682e928dc8aa1625c895a3667914b57114411fb7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Daniel Thornton",
+        "url": "https://www.flickr.com/people/73440891@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_arctica/6006e521866e4d1d7d778288682e928dc8aa1625c895a3667914b57114411fb7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_arctica/6f6eedfec6fb133f716bdd8c9648b7995e24c819bab52bb88682f1bccaf4ad84.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Daniel Thornton",
+        "url": "https://www.flickr.com/people/73440891@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_arctica/6f6eedfec6fb133f716bdd8c9648b7995e24c819bab52bb88682f1bccaf4ad84_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_arctica/6fb53a83bc0a83cdc68e9022b30782eacf9cb2dc323e44420a1205cffb501f0b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Robert Bergman, U.S. Fish and Wildlife Service",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_arctica/6fb53a83bc0a83cdc68e9022b30782eacf9cb2dc323e44420a1205cffb501f0b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_arctica/8132df4c98a136dcecfb6929e077ecf435b24f8c111f5a692c48554fe8b57c16.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Francesco Veronesi",
+        "url": "https://www.flickr.com/people/30818542@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_arctica/8132df4c98a136dcecfb6929e077ecf435b24f8c111f5a692c48554fe8b57c16_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gavia_arctica/d12badb0609fb77b7a1a3c6707406813d7c76789815582ad8066efe67cf721d9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Des Colhoun",
+        "url": "https://www.geograph.org.uk/profile/6284"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gavia_arctica/d12badb0609fb77b7a1a3c6707406813d7c76789815582ad8066efe67cf721d9_thumb.jpg"
+    }
+  ]
+}

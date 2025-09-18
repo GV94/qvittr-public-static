@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/acrocephalus_dumetorum/e7cbd612543a51733acbb0a804cd14468a3575802899cf63b70c00bfc28fc807.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Daniel Pettersson",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/acrocephalus_dumetorum/e7cbd612543a51733acbb0a804cd14468a3575802899cf63b70c00bfc28fc807_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/acrocephalus_dumetorum/2b9da8f951976d9aa7c3ae10d11d896298c26626ba0c2b7c8f849d3e04c5f3fd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ShinePhantom",
+        "url": "https://commons.wikimedia.org/wiki/User:ShinePhantom"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_dumetorum/2b9da8f951976d9aa7c3ae10d11d896298c26626ba0c2b7c8f849d3e04c5f3fd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_dumetorum/3167c8a6dbc758fcb68157a627df84f38a9934fe7595e420ff7339cc65b921c2.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acrocephalus_dumetorum/3167c8a6dbc758fcb68157a627df84f38a9934fe7595e420ff7339cc65b921c2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_dumetorum/68c0e9c774ae957adc9003321ccae0e28caf4c2cb611640a0235b5ac525656d3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acrocephalus_dumetorum/68c0e9c774ae957adc9003321ccae0e28caf4c2cb611640a0235b5ac525656d3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_dumetorum/982c5f53beee190106a387bf61f98d96b64a9d0b54fbb9f6e94ba3395ffc7225.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Afsarnayakkan",
+        "url": "https://commons.wikimedia.org/wiki/User:Afsarnayakkan"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_dumetorum/982c5f53beee190106a387bf61f98d96b64a9d0b54fbb9f6e94ba3395ffc7225_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_dumetorum/b2956beda07e5f30a0624c387a134b7f4ed31899063b09d90a3b56673844b060.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Afsarnayakkan",
+        "url": "https://commons.wikimedia.org/wiki/User:Afsarnayakkan"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_dumetorum/b2956beda07e5f30a0624c387a134b7f4ed31899063b09d90a3b56673844b060_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/acrocephalus_dumetorum/f46ab6227bdd64e044dcb5c49b005b75cf24ab426fc76c5cb4bc706a20f2648f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/acrocephalus_dumetorum/f46ab6227bdd64e044dcb5c49b005b75cf24ab426fc76c5cb4bc706a20f2648f_thumb.jpg"
+    }
+  ]
+}

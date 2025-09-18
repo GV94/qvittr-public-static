@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/haematopus_ostralegus/0e75d4c65d13c3dedc6f245114c45826d7fc45c421023d511a79eaf3b921db20.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/haematopus_ostralegus/0e75d4c65d13c3dedc6f245114c45826d7fc45c421023d511a79eaf3b921db20_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/09181142fd3c20e74c6208db353c8f0358a4a486dc940e520b4ba8b1e9024417.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haematopus_ostralegus/09181142fd3c20e74c6208db353c8f0358a4a486dc940e520b4ba8b1e9024417_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/232641cc4a55e57d9384159da36435aa3cecac145a07aee4e890c72005105d55.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, celsius",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Celsius&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/haematopus_ostralegus/232641cc4a55e57d9384159da36435aa3cecac145a07aee4e890c72005105d55_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/5322ca0d4e8ecac592221fe2bcbc14fc473e0905618d549a442f758ac3cb4a22.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Neokortex",
+        "url": "https://commons.wikimedia.org/wiki/User:Neokortex"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/haematopus_ostralegus/5322ca0d4e8ecac592221fe2bcbc14fc473e0905618d549a442f758ac3cb4a22_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/55fa799348f1233fed750c66dba44e7b2da8fc2b0f9cd34b1ac1cc26c9652d59.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haematopus_ostralegus/55fa799348f1233fed750c66dba44e7b2da8fc2b0f9cd34b1ac1cc26c9652d59_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/5ed30f3bdc728afba1c74f4eb4d15b428d36ead0e56c5bba055699ee5e2a3e4a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pieter Delicaat",
+        "url": "https://commons.wikimedia.org/wiki/User:Pelikana"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/haematopus_ostralegus/5ed30f3bdc728afba1c74f4eb4d15b428d36ead0e56c5bba055699ee5e2a3e4a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/7051d8aeee1afe2c0d84db4091eeba9b6d8f3b475bbe45dd680a1bd7b1f10a2d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haematopus_ostralegus/7051d8aeee1afe2c0d84db4091eeba9b6d8f3b475bbe45dd680a1bd7b1f10a2d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/9a46c33d729a7cef99a5b50ff58a40041a356838e0d0f6eaf01c50f98daf0ca7.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haematopus_ostralegus/9a46c33d729a7cef99a5b50ff58a40041a356838e0d0f6eaf01c50f98daf0ca7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/c74104e78e5bc313e42f2d9f7d5a918183e09a9e65fe397f47a725867ce53201.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rayeshman",
+        "url": "https://commons.wikimedia.org/wiki/User:Rayeshman"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/haematopus_ostralegus/c74104e78e5bc313e42f2d9f7d5a918183e09a9e65fe397f47a725867ce53201_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/haematopus_ostralegus/d1a9a76c9e1da91aab53fc6631e34bce6ca4f64467d90f819ca897a011c7b242.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/haematopus_ostralegus/d1a9a76c9e1da91aab53fc6631e34bce6ca4f64467d90f819ca897a011c7b242_thumb.jpg"
+    }
+  ]
+}

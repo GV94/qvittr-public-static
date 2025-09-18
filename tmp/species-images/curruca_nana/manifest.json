@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/curruca_nana/195605151562950e520dc6fd5e33d80372148cb8fc4772ae8c96e0698b02e26c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, https://www.flickr.com/photos/45155157@N05",
+      "url": "https://www.flickr.com/photos/45155157@N05"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/curruca_nana/195605151562950e520dc6fd5e33d80372148cb8fc4772ae8c96e0698b02e26c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/curruca_nana/063ee5b87cb7e6a66ef112225fb5dcf21d299178e6fab4736338be78b6bbae8c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nana/063ee5b87cb7e6a66ef112225fb5dcf21d299178e6fab4736338be78b6bbae8c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_nana/4c3d0113ce34b6476742d4dcdfe50e18d9c71b140ce48d668dd20941424b5914.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nana/4c3d0113ce34b6476742d4dcdfe50e18d9c71b140ce48d668dd20941424b5914_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_nana/9b4d9cbc2e5cfd1a559ac73262f0cf49865103415d71f2acbfcff978c30601ed.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nana/9b4d9cbc2e5cfd1a559ac73262f0cf49865103415d71f2acbfcff978c30601ed_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/curruca_nana/c0d8e7e6e8046a3c5d4c720c8583c4cb98e3eac2aec3f410cd8a4eb8a374f5c5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.flickr.com/people/68466173@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/curruca_nana/c0d8e7e6e8046a3c5d4c720c8583c4cb98e3eac2aec3f410cd8a4eb8a374f5c5_thumb.jpg"
+    }
+  ]
+}

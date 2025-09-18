@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_albifrons/f3707c32daf1bf0e25c2fde71befa834125c121bda7540173260b166426138d2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andy Reago &amp; Chrissy McClarren",
+      "url": "https://www.flickr.com/people/80270393@N06"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_albifrons/f3707c32daf1bf0e25c2fde71befa834125c121bda7540173260b166426138d2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_albifrons/1a43c480bf2de8c89f918298e9f75c5673b5ce5161b38d91a7c568d26df6e38b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0418\u0432\u0430\u043d \u0412\u0435\u0437\u0435\u043d\u043a\u043e\u0432\u0438\u045b",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:VezeIvan&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_albifrons/1a43c480bf2de8c89f918298e9f75c5673b5ce5161b38d91a7c568d26df6e38b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_albifrons/1a67e82f2ed219a258da75712234f84aa083e7bc97dc776fdcab0bbe212b32a3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_albifrons/1a67e82f2ed219a258da75712234f84aa083e7bc97dc776fdcab0bbe212b32a3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_albifrons/88a03b43a06d23ed740404fcdcc2c2e3d7204b0909879fcbbf45494a317eebf6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, (c) David McCorquodale, some rights reserved (CC BY)",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_albifrons/88a03b43a06d23ed740404fcdcc2c2e3d7204b0909879fcbbf45494a317eebf6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_albifrons/c85103fb6cb51b853add4e80d7d88fff13316eb66f949d5d3ff3c64eb00661f2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, (c) David McCorquodale, some rights reserved (CC BY)",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_albifrons/c85103fb6cb51b853add4e80d7d88fff13316eb66f949d5d3ff3c64eb00661f2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_albifrons/e2ab9acf007224d8f9c8396a1ae4252f0197756a9d485169f0c4fd4cd3f778d7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, (c) David McCorquodale, some rights reserved (CC BY)",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_albifrons/e2ab9acf007224d8f9c8396a1ae4252f0197756a9d485169f0c4fd4cd3f778d7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_albifrons/fc8582289cef983bad842f16d73adba749f12273213441a56bdc5920f2b6ffe1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_albifrons/fc8582289cef983bad842f16d73adba749f12273213441a56bdc5920f2b6ffe1_thumb.jpg"
+    }
+  ]
+}

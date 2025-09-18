@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/locustella_fluviatilis/ebd3bca7ad79fbd730fe204846c8f3d048dcb918470fe823393142dab51d5420.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Lasse Olsson",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Lasse_Olsson&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/locustella_fluviatilis/ebd3bca7ad79fbd730fe204846c8f3d048dcb918470fe823393142dab51d5420_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/locustella_fluviatilis/854c9736aa4b6c9cb75cba1472ea82407a1f72270b175f6f158534e42a5931f3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_fluviatilis/854c9736aa4b6c9cb75cba1472ea82407a1f72270b175f6f158534e42a5931f3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_fluviatilis/a140b531e41cbde3f10407a3d8c45cfdc384d4abd08fb3ef878c637f29d57b50.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_fluviatilis/a140b531e41cbde3f10407a3d8c45cfdc384d4abd08fb3ef878c637f29d57b50_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/locustella_fluviatilis/f3e42b09729cc800ae06a07d91cf69273447533ecf57d161c0e73a9d269b7dba.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/locustella_fluviatilis/f3e42b09729cc800ae06a07d91cf69273447533ecf57d161c0e73a9d269b7dba_thumb.jpg"
+    }
+  ]
+}

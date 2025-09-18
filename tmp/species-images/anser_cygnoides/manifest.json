@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_cygnoides/eaefb314dd82be4b5b649bf7899b875fd0967258130e926bc1198b72ed3944cf.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_cygnoides/eaefb314dd82be4b5b649bf7899b875fd0967258130e926bc1198b72ed3944cf_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_cygnoides/1c84f4061a583b27114b0f840ce8cbc2e45e6391900de4db7f473cfe78f5a40b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_cygnoides/1c84f4061a583b27114b0f840ce8cbc2e45e6391900de4db7f473cfe78f5a40b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_cygnoides/63891b8f485d21ddc189f0f79bbcfdaa4f886db24e9fea0400400427eead19ba.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, KongFu Wang",
+        "url": "https://www.flickr.com/people/83782886@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_cygnoides/63891b8f485d21ddc189f0f79bbcfdaa4f886db24e9fea0400400427eead19ba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_cygnoides/7874a6ddb0cbb533ee84e60fec914a11401835c6e82095b1b4b1b7a998dcb54b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_cygnoides/7874a6ddb0cbb533ee84e60fec914a11401835c6e82095b1b4b1b7a998dcb54b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_cygnoides/797ef0ec450490d0f0197604288c19b60785d50b8bb97816d8b63caa687d09c0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, KongFu Wang",
+        "url": "https://www.flickr.com/people/83782886@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_cygnoides/797ef0ec450490d0f0197604288c19b60785d50b8bb97816d8b63caa687d09c0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_cygnoides/89c967c7d5b7112f078f4b1630c042a04af13846e183194091accff772e4d715.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_cygnoides/89c967c7d5b7112f078f4b1630c042a04af13846e183194091accff772e4d715_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_cygnoides/9785fb95a4b4959474f6c85ebbaa30c44470925697a7b4d2ece59fed510cb590.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Aquila",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_cygnoides/9785fb95a4b4959474f6c85ebbaa30c44470925697a7b4d2ece59fed510cb590_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_cygnoides/a737b8eebc6981de994f62db0fa4e4e174d4b880ac3feb754b0f5f545ba59ef3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_cygnoides/a737b8eebc6981de994f62db0fa4e4e174d4b880ac3feb754b0f5f545ba59ef3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_cygnoides/b0411ac9581b1a04ff600d6b6a3bf72ba44b416e7c8e8d00738ea592ef3658f0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_cygnoides/b0411ac9581b1a04ff600d6b6a3bf72ba44b416e7c8e8d00738ea592ef3658f0_thumb.jpg"
+    }
+  ]
+}

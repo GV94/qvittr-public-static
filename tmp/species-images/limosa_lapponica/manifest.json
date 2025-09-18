@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/limosa_lapponica/aaed393ee960b88257282ca0fd38ebd8deef0ce7bded696ec994b96e7522eb52.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Onioram",
+      "url": "https://commons.wikimedia.org/wiki/User:Onioram"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/limosa_lapponica/aaed393ee960b88257282ca0fd38ebd8deef0ce7bded696ec994b96e7522eb52_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/limosa_lapponica/0407011ae2fb949fe69026f5ccd68da4ade5bc8b512f7b2250222302ac44f93e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_lapponica/0407011ae2fb949fe69026f5ccd68da4ade5bc8b512f7b2250222302ac44f93e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_lapponica/1a57956bf3942fdcb1b65d05273df3ca783e0a887587db90879c8243d5ff5109.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_lapponica/1a57956bf3942fdcb1b65d05273df3ca783e0a887587db90879c8243d5ff5109_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_lapponica/49f43fc893995e7c7f61f6a6fa400663850b508b8f3326687a66674d6df81582.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/limosa_lapponica/49f43fc893995e7c7f61f6a6fa400663850b508b8f3326687a66674d6df81582_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_lapponica/8324dab80a5a8e3a76034d63bc86a84887898afa01e47fe41afa4ae4241ab766.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Emilio",
+        "url": "https://www.flickr.com/people/22009023@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limosa_lapponica/8324dab80a5a8e3a76034d63bc86a84887898afa01e47fe41afa4ae4241ab766_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_lapponica/99cb5b1efa7242bebd86d9c3d0c1ad522b08e5cc0e413af7c934f867927f517c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Emilio",
+        "url": "https://www.flickr.com/people/22009023@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limosa_lapponica/99cb5b1efa7242bebd86d9c3d0c1ad522b08e5cc0e413af7c934f867927f517c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_lapponica/ac27977ba64944218d06dc317d780d80bde566def0805e0496e1f291f23811bf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Emilio",
+        "url": "https://www.flickr.com/people/22009023@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limosa_lapponica/ac27977ba64944218d06dc317d780d80bde566def0805e0496e1f291f23811bf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_lapponica/e15240bc4eb40a9ccbc8c5e771a9d9735c313016ac031ed5a439b334e1536fb7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Juan Emilio",
+        "url": "https://www.flickr.com/people/22009023@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limosa_lapponica/e15240bc4eb40a9ccbc8c5e771a9d9735c313016ac031ed5a439b334e1536fb7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/limosa_lapponica/e94463a8b33d7f657f68cff66590a77dc01cafd18e9c258fd9ca88a1ca9efc3e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ian Kirk",
+        "url": "https://www.flickr.com/people/76592037@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/limosa_lapponica/e94463a8b33d7f657f68cff66590a77dc01cafd18e9c258fd9ca88a1ca9efc3e_thumb.jpg"
+    }
+  ]
+}

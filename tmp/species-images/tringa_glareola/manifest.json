@@ -1,0 +1,103 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/tringa_glareola/db62e1200578e5c44b11dbf1d0a456d46269ac358a5963307f3f43c28721770a.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Alnus",
+      "url": "https://commons.wikimedia.org/wiki/User:Alnus"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/tringa_glareola/db62e1200578e5c44b11dbf1d0a456d46269ac358a5963307f3f43c28721770a_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/tringa_glareola/183e67abcb079cde1c614c1b0a90dd8c3e62bdab6e80b89d7c17b9268a661fd5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_glareola/183e67abcb079cde1c614c1b0a90dd8c3e62bdab6e80b89d7c17b9268a661fd5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/319918713783d54af5e87a89968927c0c2299a6ef8700ffc5bd4702fd48d2327.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_glareola/319918713783d54af5e87a89968927c0c2299a6ef8700ffc5bd4702fd48d2327_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/327946c6bc393c267f78ae814b14f631e45edcdb7ce43723e1e4dc4db1289058.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Shanthanu Bhardwaj",
+        "url": "https://www.flickr.com/people/86124626@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_glareola/327946c6bc393c267f78ae814b14f631e45edcdb7ce43723e1e4dc4db1289058_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/37d35c1020f18465fe872bba3769d838e80a211c31022ac52e9bbd5e4aeae9ba.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dinesh Valke",
+        "url": "https://www.flickr.com/people/91314344@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_glareola/37d35c1020f18465fe872bba3769d838e80a211c31022ac52e9bbd5e4aeae9ba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/7da72aec85bd5da2d4737e6dd5546c2851b898b0bfede527f4825def7a1c13e6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_glareola/7da72aec85bd5da2d4737e6dd5546c2851b898b0bfede527f4825def7a1c13e6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/9670436cb1fe4dc8cf83656039132be4aa4ae2c721aeb310f7a19d1fad42dd86.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mark S Jobling",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_glareola/9670436cb1fe4dc8cf83656039132be4aa4ae2c721aeb310f7a19d1fad42dd86_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/a1893b2792cc52f430fb16e4cdbcbb57a1a8e313f406dcf9ed81a7e8a4ec6fda.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Thomueller",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Thomueller&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_glareola/a1893b2792cc52f430fb16e4cdbcbb57a1a8e313f406dcf9ed81a7e8a4ec6fda_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/aa8b0beae84a5ae379970b03d7c27d2da67374d8120dda457311e97d7b29eefb.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_glareola/aa8b0beae84a5ae379970b03d7c27d2da67374d8120dda457311e97d7b29eefb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/c228ca02304b830386a8e24f1bb4f6f29992737b3b122afe627eed0be069be65.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/tringa_glareola/c228ca02304b830386a8e24f1bb4f6f29992737b3b122afe627eed0be069be65_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/tringa_glareola/eb32d4ec4394d4c0911ecd2f0c986ee3d157c8ee5c59ddba2323f69783c6a526.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ColinTrainor",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:ColinTrainor&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/tringa_glareola/eb32d4ec4394d4c0911ecd2f0c986ee3d157c8ee5c59ddba2323f69783c6a526_thumb.jpg"
+    }
+  ]
+}

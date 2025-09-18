@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/regulus_ignicapilla/b8055387938eaeda823a8c097acfee40c15271d99605a65b930233fc3fe293df.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/regulus_ignicapilla/b8055387938eaeda823a8c097acfee40c15271d99605a65b930233fc3fe293df_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/regulus_ignicapilla/10300354849349488c2967e4486adb2fc27ce854ca7fbd9227cd655445c4a714.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alexis Lours",
+        "url": "https://commons.wikimedia.org/wiki/User:Alexis_Lours"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/regulus_ignicapilla/10300354849349488c2967e4486adb2fc27ce854ca7fbd9227cd655445c4a714_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/regulus_ignicapilla/750109b16caf9c598fa852e9d4bc3dfa9eb20fde0015ca766fb1598aa5e0beb8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alexis Lours",
+        "url": "https://commons.wikimedia.org/wiki/User:Alexis_Lours"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/regulus_ignicapilla/750109b16caf9c598fa852e9d4bc3dfa9eb20fde0015ca766fb1598aa5e0beb8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/regulus_ignicapilla/7aef46313e9a547ef973b71efbd9b4f6b77c50818b10626f19ab420aaad040da.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, hedera.baltica",
+        "url": "https://www.flickr.com/people/125741467@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/regulus_ignicapilla/7aef46313e9a547ef973b71efbd9b4f6b77c50818b10626f19ab420aaad040da_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/regulus_ignicapilla/89d8be52546e9a0d8bb876cf580fca5a0d42741f14b7bfb2bf121359110bc8ad.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alexis Lours",
+        "url": "https://commons.wikimedia.org/wiki/User:Alexis_Lours"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/regulus_ignicapilla/89d8be52546e9a0d8bb876cf580fca5a0d42741f14b7bfb2bf121359110bc8ad_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/regulus_ignicapilla/da807a88e94b730a2be9fb6974eb7fb392e86d2fa6a97a8d79462798daba17cc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Norelius",
+        "url": "https://www.flickr.com/people/96457262@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/regulus_ignicapilla/da807a88e94b730a2be9fb6974eb7fb392e86d2fa6a97a8d79462798daba17cc_thumb.jpg"
+    }
+  ]
+}

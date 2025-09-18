@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aegolius_funereus/020bb1a5aa20e10a3c2939c5f392a6861147fb8ba8720f0c5425bf4892acede9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Denali National Park and Preserve",
+      "url": "https://www.flickr.com/people/57557144@N06"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aegolius_funereus/020bb1a5aa20e10a3c2939c5f392a6861147fb8ba8720f0c5425bf4892acede9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aegolius_funereus/13b347fb56889710a088b3da90dacd0a7b08681cd91d69d5358be0b73420ff65.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aegolius_funereus/13b347fb56889710a088b3da90dacd0a7b08681cd91d69d5358be0b73420ff65_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegolius_funereus/43193447fb076f05746bc678700fb25da63fc7881e9e8c422a2f37357422da57.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aegolius_funereus/43193447fb076f05746bc678700fb25da63fc7881e9e8c422a2f37357422da57_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegolius_funereus/96724a4964e477edf526b64ceb95be94ac75fa4f8fb0d53cea8f4b42e6e5465d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steven Katovich",
+        "url": "http://www.forestryimages.org/browse/autimages.cfm?aut=1552"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aegolius_funereus/96724a4964e477edf526b64ceb95be94ac75fa4f8fb0d53cea8f4b42e6e5465d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegolius_funereus/a85adbd4bbd0908d9582709cff7e81b0f99504986de412d9248a816917d39815.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrea Pokrzywinski",
+        "url": "https://www.flickr.com/people/65781065@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aegolius_funereus/a85adbd4bbd0908d9582709cff7e81b0f99504986de412d9248a816917d39815_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aegolius_funereus/c4e428a4af6422082b51c73fe4137f2a4631bec526c2e64aee9fe3b83fa42853.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Alastair Rae",
+        "url": "https://www.flickr.com/people/55663585@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aegolius_funereus/c4e428a4af6422082b51c73fe4137f2a4631bec526c2e64aee9fe3b83fa42853_thumb.jpg"
+    }
+  ]
+}

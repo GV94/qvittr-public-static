@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_richardi/62719e77ad8c737f9ce367f3724d47ad4fd4b1f22eb185fd94977b46265d3902.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, J.M.Garg",
+      "url": "https://commons.wikimedia.org/wiki/User:J.M.Garg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_richardi/62719e77ad8c737f9ce367f3724d47ad4fd4b1f22eb185fd94977b46265d3902_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_richardi/2514b02deae68d6f9b4ddc92c4acf63021bf9c86a4658c05ba6278f4d86558c4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Francesco Veronesi",
+        "url": "https://www.flickr.com/people/30818542@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_richardi/2514b02deae68d6f9b4ddc92c4acf63021bf9c86a4658c05ba6278f4d86558c4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_richardi/5196ea85c0719ba3287fda4468388fc0676cb1148fa2d3c18ad3abe83795d23e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_richardi/5196ea85c0719ba3287fda4468388fc0676cb1148fa2d3c18ad3abe83795d23e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_richardi/5d95987e45554c2a5fb2b33dc1a1b8d064e221792ec1c79462ecd278b2c75378.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_richardi/5d95987e45554c2a5fb2b33dc1a1b8d064e221792ec1c79462ecd278b2c75378_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_richardi/86fecfd5939bec7d0b7ff40c3c9901c55c3c3c9c9866dfa8597bfa3fe997f361.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, JJ Harrison",
+        "url": "https://commons.wikimedia.org/wiki/User:JJ_Harrison"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_richardi/86fecfd5939bec7d0b7ff40c3c9901c55c3c3c9c9866dfa8597bfa3fe997f361_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_richardi/fabec72fcb9581e39f97c63c287bd56a5378b83ad618c3b2db2bd52d7992a930.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_richardi/fabec72fcb9581e39f97c63c287bd56a5378b83ad618c3b2db2bd52d7992a930_thumb.jpg"
+    }
+  ]
+}

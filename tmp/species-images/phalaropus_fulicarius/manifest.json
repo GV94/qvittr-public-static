@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phalaropus_fulicarius/ba33ce56f53a9891d7a538ca3faa19e8d5c13f7fce4c5e4bb30486821be04689.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phalaropus_fulicarius/ba33ce56f53a9891d7a538ca3faa19e8d5c13f7fce4c5e4bb30486821be04689_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phalaropus_fulicarius/013105c2f393ce046d35057f7a946b782d998678398065d0cb26e98133b9ebec.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_fulicarius/013105c2f393ce046d35057f7a946b782d998678398065d0cb26e98133b9ebec_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_fulicarius/31aa7b3fab3ff677e0ba8eac9490bbce9b3341fea3199e5bd365226c0a1fcf38.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Smudge 9000",
+        "url": "https://www.flickr.com/people/7599112@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_fulicarius/31aa7b3fab3ff677e0ba8eac9490bbce9b3341fea3199e5bd365226c0a1fcf38_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_fulicarius/34d08f6fc7912bcebce45bb5868d015a10dbfeec049aae0c3041c1299fea3d90.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Pennington",
+        "url": "https://www.geograph.org.uk/profile/9715"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_fulicarius/34d08f6fc7912bcebce45bb5868d015a10dbfeec049aae0c3041c1299fea3d90_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_fulicarius/61b02d79eae93edc806c219cd8f0962d6b71370058d39bc345fd6e0c9a88db71.jpeg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rick Elis Simpson",
+        "url": "https://500px.com/Rick_Elis_Simpson"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_fulicarius/61b02d79eae93edc806c219cd8f0962d6b71370058d39bc345fd6e0c9a88db71_thumb.jpeg"
+    },
+    {
+      "largeUrl": "species-images/phalaropus_fulicarius/8aa8ea416b6feaab111eda812d1ac228adc79b6a42e60812a0745fdce41420f6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Smudge 9000",
+        "url": "https://www.flickr.com/people/7599112@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phalaropus_fulicarius/8aa8ea416b6feaab111eda812d1ac228adc79b6a42e60812a0745fdce41420f6_thumb.jpg"
+    }
+  ]
+}

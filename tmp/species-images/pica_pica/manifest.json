@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/pica_pica/86e9d1dc5f61924b2c5d2e7343552715f76b07d01fa9e20134cb67965ab53e92.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dion Art",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Dion_Art&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/pica_pica/86e9d1dc5f61924b2c5d2e7343552715f76b07d01fa9e20134cb67965ab53e92_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/pica_pica/03d1517d476c69cbe4a64c18328c9462a89564bdf14f5f8e7dd14b9847fc579e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Pierre-Marie Epiney",
+        "url": "https://www.flickr.com/people/83657186@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pica_pica/03d1517d476c69cbe4a64c18328c9462a89564bdf14f5f8e7dd14b9847fc579e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/31ec23c0f77b04f1a81b9df8970ac99ecf83bebf88bde411405e7be76f747823.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bengt Nyman",
+        "url": "https://commons.wikimedia.org/wiki/User:Bengt_Nyman"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pica_pica/31ec23c0f77b04f1a81b9df8970ac99ecf83bebf88bde411405e7be76f747823_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/37db34b9fd1d4b4cffc82b43cb33bef6ec46e998d2eeeed33d6ae416522da636.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pica_pica/37db34b9fd1d4b4cffc82b43cb33bef6ec46e998d2eeeed33d6ae416522da636_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/4baffe2c0a5b9434eb52863b7a9a7660079325433d7ae51ec3c90a5e47c0ecab.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pica_pica/4baffe2c0a5b9434eb52863b7a9a7660079325433d7ae51ec3c90a5e47c0ecab_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/8057653c0c94c07e476a4bc543c0cae5b4ba008dc61d0d74d2ec99dca481f03f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pica_pica/8057653c0c94c07e476a4bc543c0cae5b4ba008dc61d0d74d2ec99dca481f03f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/8867fa2eb73a5e46b0f65ff5405d497e248d23162ca4f24659611dd8e150065d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Janusz Jakubowski",
+        "url": "https://www.flickr.com/people/129661548@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pica_pica/8867fa2eb73a5e46b0f65ff5405d497e248d23162ca4f24659611dd8e150065d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/b5e009d41d87c54297e7585e56d02a788092d01540e6b2e9bf4567f3868f6d23.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pica_pica/b5e009d41d87c54297e7585e56d02a788092d01540e6b2e9bf4567f3868f6d23_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/e6f987db49c6505b1fef8782c6fae0649381383115bc4e85e0fbc6f525460592.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lucyin",
+        "url": "https://commons.wikimedia.org/wiki/User:Lucyin"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/pica_pica/e6f987db49c6505b1fef8782c6fae0649381383115bc4e85e0fbc6f525460592_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/pica_pica/ffb1e40d6e885a52d711ff986fafaed0b503c4670791c7f9af2392e37bd12d99.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/pica_pica/ffb1e40d6e885a52d711ff986fafaed0b503c4670791c7f9af2392e37bd12d99_thumb.jpg"
+    }
+  ]
+}

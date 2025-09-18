@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_rustica/092da2f413e437e0ace2218db10b7066ee8f77d6ca6b13eb0e512e2eeae3ea16.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Gin tonic",
+      "url": "https://commons.wikimedia.org/wiki/User:Gin_tonic"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_rustica/092da2f413e437e0ace2218db10b7066ee8f77d6ca6b13eb0e512e2eeae3ea16_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_rustica/25598a3097f7a5d6ac318877dc3413e32409e4aa7627374a2ee35d80cb9c018f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zinogre",
+        "url": "https://www.inaturalist.org/users/1151287"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_rustica/25598a3097f7a5d6ac318877dc3413e32409e4aa7627374a2ee35d80cb9c018f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_rustica/28f1dbfab43e506175f5aba5e0cb69a80b6f87cda37e027700acdcbfea370837.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u041b\u0430\u0440\u0438\u0441\u0430 \u0410\u0440\u0442\u0435\u043c\u044c\u0435\u0432\u0430",
+        "url": "https://www.inaturalist.org/users/3160036"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_rustica/28f1dbfab43e506175f5aba5e0cb69a80b6f87cda37e027700acdcbfea370837_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_rustica/31795c0d444ee10e4dc166853ec6d8fb401aebf38890557f8661367949c0a3c9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u041b\u0430\u0440\u0438\u0441\u0430 \u0410\u0440\u0442\u0435\u043c\u044c\u0435\u0432\u0430",
+        "url": "https://www.inaturalist.org/users/3160036"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_rustica/31795c0d444ee10e4dc166853ec6d8fb401aebf38890557f8661367949c0a3c9_thumb.jpg"
+    }
+  ]
+}

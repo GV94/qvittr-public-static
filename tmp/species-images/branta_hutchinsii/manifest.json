@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/branta_hutchinsii/d19ca7c970fbfe81f1a2bea09381d60cb3d3db62bb59029ed7334e7618586866.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Dominic Sherony",
+      "url": "https://www.flickr.com/people/9765210@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/branta_hutchinsii/d19ca7c970fbfe81f1a2bea09381d60cb3d3db62bb59029ed7334e7618586866_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/branta_hutchinsii/549c84fa70000df7c739acc1e41d7276abe2d5a1c2a7362a0a8965465890a518.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_hutchinsii/549c84fa70000df7c739acc1e41d7276abe2d5a1c2a7362a0a8965465890a518_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_hutchinsii/70b204f29be10214eeb2a4091734334410ba9b231e73ad471e8902dc061281c2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, U.S. Fish and Wildlife Service Headquarters",
+        "url": "https://www.flickr.com/people/50838842@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_hutchinsii/70b204f29be10214eeb2a4091734334410ba9b231e73ad471e8902dc061281c2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_hutchinsii/b875db6960cf5659aab7da937d812d4978a488cd1d2b5b7d59e72dcf1b59df32.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, USFWS - Pacific Region",
+        "url": "https://www.flickr.com/people/52133016@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_hutchinsii/b875db6960cf5659aab7da937d812d4978a488cd1d2b5b7d59e72dcf1b59df32_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_hutchinsii/bf9333f0c81441dc819a8dc5a5d5e4d73b0b9e3f7d2f35b84e56caafff8db867.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_hutchinsii/bf9333f0c81441dc819a8dc5a5d5e4d73b0b9e3f7d2f35b84e56caafff8db867_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_hutchinsii/cafeadd70935105b53cf45a4a54a5fc1fd73c0bdceae5fb88580f478265797b5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_hutchinsii/cafeadd70935105b53cf45a4a54a5fc1fd73c0bdceae5fb88580f478265797b5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_hutchinsii/e909fe8e6536874ac2b0efcb96904f3d6cfd0b37012e235697b15e1a7792c702.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_hutchinsii/e909fe8e6536874ac2b0efcb96904f3d6cfd0b37012e235697b15e1a7792c702_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/troglodytes_troglodytes/8b2bc2c1d114aa0f9f5810abd37baf155fc757fef5a361c340bca9b83df3ec9d.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Robert Lorch",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/troglodytes_troglodytes/8b2bc2c1d114aa0f9f5810abd37baf155fc757fef5a361c340bca9b83df3ec9d_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/troglodytes_troglodytes/1c44553956fcd8d189144409b021d1d1f429d57ef8c58817f1dd56ed6b381138.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/troglodytes_troglodytes/1c44553956fcd8d189144409b021d1d1f429d57ef8c58817f1dd56ed6b381138_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/troglodytes_troglodytes/28418d1413a3689ddcbbcdd307ff6e51ab58a92329f2c04cda7c1b05bd8ddd8e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/troglodytes_troglodytes/28418d1413a3689ddcbbcdd307ff6e51ab58a92329f2c04cda7c1b05bd8ddd8e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/troglodytes_troglodytes/61113cce9d6580c8b34991dc8d3099f57e1f43fb47889684f35a9b61ed09e893.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/troglodytes_troglodytes/61113cce9d6580c8b34991dc8d3099f57e1f43fb47889684f35a9b61ed09e893_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/troglodytes_troglodytes/728ca504fe747b87f43e2c8b5ec09e0bb37308636d867bebd2827298b0bccf84.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/troglodytes_troglodytes/728ca504fe747b87f43e2c8b5ec09e0bb37308636d867bebd2827298b0bccf84_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/troglodytes_troglodytes/75e6397c7db642f478cc04b5ed2127958ed6e39c17c43f73dddbe56c67749cca.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/troglodytes_troglodytes/75e6397c7db642f478cc04b5ed2127958ed6e39c17c43f73dddbe56c67749cca_thumb.jpg"
+    }
+  ]
+}

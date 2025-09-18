@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/garrulus_glandarius/cc6f2cb3179cf59c2097e644311ffc0ad3604f5bf9cd1adad00b263c67bd5bd3.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Bengt Nyman",
+      "url": "https://www.flickr.com/people/97469566@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/garrulus_glandarius/cc6f2cb3179cf59c2097e644311ffc0ad3604f5bf9cd1adad00b263c67bd5bd3_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/garrulus_glandarius/5dc017b82978ba2efeb55f737b3d0edd9d10eb2cecd71503001f2acce4360bd9.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/garrulus_glandarius/5dc017b82978ba2efeb55f737b3d0edd9d10eb2cecd71503001f2acce4360bd9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/garrulus_glandarius/6eee0e9a8e132c572eed1a36c0919413ee8e92e09d79177a3e7cf5341cf4353f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u041e\u043b\u0435\u043d\u0430\u0421\u0443\u0433\u0430\u043a",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:%D0%9E%D0%BB%D0%B5%D0%BD%D0%B0%D0%A1%D1%83%D0%B3%D0%B0%D0%BA&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/garrulus_glandarius/6eee0e9a8e132c572eed1a36c0919413ee8e92e09d79177a3e7cf5341cf4353f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/garrulus_glandarius/6fb6cc8a0d363e353c92c911d95ab278363bd16cff1a6ebf67a1cf85c3015794.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/garrulus_glandarius/6fb6cc8a0d363e353c92c911d95ab278363bd16cff1a6ebf67a1cf85c3015794_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/garrulus_glandarius/99ed20b606199013f3460664cdccebe9df366d499808d324c40e31b63c8e3ef8.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/garrulus_glandarius/99ed20b606199013f3460664cdccebe9df366d499808d324c40e31b63c8e3ef8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/garrulus_glandarius/b39b6b8a9620d8adb5c6f8cf82055ddae1c414d4209a593621d0d1a5906b308d.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/garrulus_glandarius/b39b6b8a9620d8adb5c6f8cf82055ddae1c414d4209a593621d0d1a5906b308d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/garrulus_glandarius/c48b7e538e050e9969eab0e77f75ce165d71674935b36d2cace0f54b1f7f33a3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/garrulus_glandarius/c48b7e538e050e9969eab0e77f75ce165d71674935b36d2cace0f54b1f7f33a3_thumb.jpg"
+    }
+  ]
+}

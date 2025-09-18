@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/stercorarius_longicaudus/6167985e8037137bab059218da5c73c515e80845169d7226bdee5bb8329d78fa.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Jerzy Strzelecki",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/stercorarius_longicaudus/6167985e8037137bab059218da5c73c515e80845169d7226bdee5bb8329d78fa_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/stercorarius_longicaudus/93840e27ebae762bd282fbc74d1863b3a8f5cc8c83fc4e6cac1ec9e0dfb593bd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, dfaulder",
+        "url": "https://www.flickr.com/people/38345583@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_longicaudus/93840e27ebae762bd282fbc74d1863b3a8f5cc8c83fc4e6cac1ec9e0dfb593bd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/stercorarius_longicaudus/fc58ac610240d61092da66026fd24e3b7e8e7a2abc80b28310b5f8532758d045.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mary Lewandowski",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/stercorarius_longicaudus/fc58ac610240d61092da66026fd24e3b7e8e7a2abc80b28310b5f8532758d045_thumb.jpg"
+    }
+  ]
+}

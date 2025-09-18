@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/spatula_discors/640bcf1cb3a73743b92d5e20363c7976898d26566bc4a8036efd2999b4892278.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, P Bonenfant / pbonenfant",
+      "url": "https://www.flickr.com/people/7715395@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/spatula_discors/640bcf1cb3a73743b92d5e20363c7976898d26566bc4a8036efd2999b4892278_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/spatula_discors/4fc391bbad1c2c63e529fc9bfeb8fb750b8c910d900ed64b919f031559254305.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_discors/4fc391bbad1c2c63e529fc9bfeb8fb750b8c910d900ed64b919f031559254305_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_discors/d20017ff4d20d882146b991c3057141033c85edaef3506c4e74cc839e805419f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_discors/d20017ff4d20d882146b991c3057141033c85edaef3506c4e74cc839e805419f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_discors/e4e3264bbb14f24e63280a621deecef7831951fa5efd7c5b89b509a70a8ed598.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_discors/e4e3264bbb14f24e63280a621deecef7831951fa5efd7c5b89b509a70a8ed598_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_discors/e69ca34321e92aae81d3b620eb88a2a64c14abe3664ab320be5a71948faff4f7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_discors/e69ca34321e92aae81d3b620eb88a2a64c14abe3664ab320be5a71948faff4f7_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/spatula_discors/fd998417301372f3bae97a612a5d0bc2b79538e1c2499c20d98b44678423e2d4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/spatula_discors/fd998417301372f3bae97a612a5d0bc2b79538e1c2499c20d98b44678423e2d4_thumb.jpg"
+    }
+  ]
+}

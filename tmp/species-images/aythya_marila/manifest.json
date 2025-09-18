@@ -1,0 +1,22 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aythya_marila/fd4de89e4aab087b3ac91fdbc348e0f479d272b5e160ab7fa63ff0f106cb0245.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Donna Dewhurst, USFWS",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aythya_marila/fd4de89e4aab087b3ac91fdbc348e0f479d272b5e160ab7fa63ff0f106cb0245_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aythya_marila/a87d947d9ec4572cb2be3075c76c69da89c68138243dd55e0d8a88cc19b07994.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Dominique Armange",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Dominique_Armange&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_marila/a87d947d9ec4572cb2be3075c76c69da89c68138243dd55e0d8a88cc19b07994_thumb.jpg"
+    }
+  ]
+}

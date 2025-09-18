@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aythya_collaris/40ff27c987dc187badb1032af023059a695666c319d3b0a46f50b32563cb6229.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mdf",
+      "url": "https://commons.wikimedia.org/wiki/User:Mdf"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aythya_collaris/40ff27c987dc187badb1032af023059a695666c319d3b0a46f50b32563cb6229_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aythya_collaris/3aeb893b19b1c271ce54e56595a11bddc08429b09a2ee99b89db4f5d29f6a329.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_collaris/3aeb893b19b1c271ce54e56595a11bddc08429b09a2ee99b89db4f5d29f6a329_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_collaris/6ab86de73c2ca2240d62b50f977378c8e1caaed3fd3bd26163ed9764be23cda9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_collaris/6ab86de73c2ca2240d62b50f977378c8e1caaed3fd3bd26163ed9764be23cda9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_collaris/9ca3e0e514743e265bb5f8cb520dd7c580bdb841fdb015faaa0566c6cd91bde2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_collaris/9ca3e0e514743e265bb5f8cb520dd7c580bdb841fdb015faaa0566c6cd91bde2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_collaris/bf5ce04fc6ea6fdfb88713f70c787bfb73757e2955fe272b5d6f77ed4a15e899.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_collaris/bf5ce04fc6ea6fdfb88713f70c787bfb73757e2955fe272b5d6f77ed4a15e899_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_collaris/c30b2b72502f53b0c87f49fa6284cf2f0ea0b42ffeb6994dd5593e5dd9d2f401.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_collaris/c30b2b72502f53b0c87f49fa6284cf2f0ea0b42ffeb6994dd5593e5dd9d2f401_thumb.jpg"
+    }
+  ]
+}

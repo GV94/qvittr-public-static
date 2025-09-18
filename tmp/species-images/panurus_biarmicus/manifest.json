@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/panurus_biarmicus/2425ba59bff74a64d0b054e3e6ccc1157f812b3b095f60d1ce8e6cf3db9c562c.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Kaeptn chemnitz",
+      "url": "https://commons.wikimedia.org/wiki/User:Kaeptn_chemnitz"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/panurus_biarmicus/2425ba59bff74a64d0b054e3e6ccc1157f812b3b095f60d1ce8e6cf3db9c562c_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/panurus_biarmicus/09002bb191b9dc1057c0d9cce53b58eaefaae058103d05565fdd6e92c33a795c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/panurus_biarmicus/09002bb191b9dc1057c0d9cce53b58eaefaae058103d05565fdd6e92c33a795c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/297b338a15a6b21c34020f4ba95e6d0d45f55af62d99b0caac22e9a306d938e9.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/panurus_biarmicus/297b338a15a6b21c34020f4ba95e6d0d45f55af62d99b0caac22e9a306d938e9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/42084c0ce532788e5c92ec800d923e3fc7fd95324dbde043ac14a493c82a0cb6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/panurus_biarmicus/42084c0ce532788e5c92ec800d923e3fc7fd95324dbde043ac14a493c82a0cb6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/55a361de24fdc16fccc7e56a18822bbc9eb82b9a1d55973cbe8da006afe7ae24.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/panurus_biarmicus/55a361de24fdc16fccc7e56a18822bbc9eb82b9a1d55973cbe8da006afe7ae24_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/5e1e24b1885090a857e74fa6f50dc54f8fde3d70704d110fea06c60d380a1f06.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/panurus_biarmicus/5e1e24b1885090a857e74fa6f50dc54f8fde3d70704d110fea06c60d380a1f06_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/660db0a1b584b5db095d5dd659f8c8843c57c6134b3b410fa74ad2fce3ca58cc.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/panurus_biarmicus/660db0a1b584b5db095d5dd659f8c8843c57c6134b3b410fa74ad2fce3ca58cc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/687416af9be69fe6675fa4c28a9bb0de566d38fa7093d4aae2df061c451157dd.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/panurus_biarmicus/687416af9be69fe6675fa4c28a9bb0de566d38fa7093d4aae2df061c451157dd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/988afbf720eae261a362c05a6d149ce4a4d89b77eda7352766f92ab0248d3821.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/panurus_biarmicus/988afbf720eae261a362c05a6d149ce4a4d89b77eda7352766f92ab0248d3821_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/panurus_biarmicus/a32788751716533135cbc673cbb8fcccd8e673da704727e4bdf17161537ff6e6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/panurus_biarmicus/a32788751716533135cbc673cbb8fcccd8e673da704727e4bdf17161537ff6e6_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aythya_affinis/3f556a3e357a316cd2c7d7686910cc249d7837786dfb051a734959ad8b242e58.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, https://www.flickr.com/people/sherseydc/",
+      "url": "https://www.flickr.com/people/sherseydc/"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aythya_affinis/3f556a3e357a316cd2c7d7686910cc249d7837786dfb051a734959ad8b242e58_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aythya_affinis/4c20e42c316a1e90fe7c0ad60443a79ebf631091bfca8980cbaa8b03a336bafe.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, USFWS Mountain-Prairie",
+        "url": "https://www.flickr.com/people/51986662@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_affinis/4c20e42c316a1e90fe7c0ad60443a79ebf631091bfca8980cbaa8b03a336bafe_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_affinis/735044f1749bc360f739f7cda115b31d06996e73b083298e39219e9d7cb0276a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Murray Foubister",
+        "url": "https://www.flickr.com/people/61456446@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_affinis/735044f1749bc360f739f7cda115b31d06996e73b083298e39219e9d7cb0276a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_affinis/91f99b0cf1fb22045fa74d6ae67f0f0e28a85779940a8f57a8620d81be95a429.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Murray Foubister",
+        "url": "https://www.flickr.com/people/61456446@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_affinis/91f99b0cf1fb22045fa74d6ae67f0f0e28a85779940a8f57a8620d81be95a429_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_affinis/b3d10ed2090565d71b5068760e1791a132d0a605850202f856647e10d6dc4742.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ALAN SCHMIERER",
+        "url": "https://www.flickr.com/people/8101022@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_affinis/b3d10ed2090565d71b5068760e1791a132d0a605850202f856647e10d6dc4742_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aythya_affinis/f98b226e03c45e352d1a4a970bcf461015d1cd6207bb3be0b55dd7621fea76b2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Murray Foubister",
+        "url": "https://www.flickr.com/people/61456446@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aythya_affinis/f98b226e03c45e352d1a4a970bcf461015d1cd6207bb3be0b55dd7621fea76b2_thumb.jpg"
+    }
+  ]
+}

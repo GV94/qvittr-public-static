@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_spodocephala/6f28f87e6128767540d66410d4cdd08be59d004f98b87a9895a6b51c8d1fb2ba.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_spodocephala/6f28f87e6128767540d66410d4cdd08be59d004f98b87a9895a6b51c8d1fb2ba_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_spodocephala/18135c440a8843d59ba33ba1862904c2a2866f32a106059db46f46262904df7b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lip Kee",
+        "url": "https://www.flickr.com/people/64565252@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_spodocephala/18135c440a8843d59ba33ba1862904c2a2866f32a106059db46f46262904df7b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_spodocephala/3a31034a85523ccec9ca04dec7de177766cefb10976d6b000d5ad97eb58418b6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lip Kee",
+        "url": "https://www.flickr.com/people/64565252@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_spodocephala/3a31034a85523ccec9ca04dec7de177766cefb10976d6b000d5ad97eb58418b6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_spodocephala/89b052ce4944a13cb274ca6aed49cf0a81d412ead71552cfc74be00f66066e27.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Lip Kee Yap",
+        "url": "https://www.flickr.com/people/64565252@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_spodocephala/89b052ce4944a13cb274ca6aed49cf0a81d412ead71552cfc74be00f66066e27_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_spodocephala/d5f06efe5f8f1210248665ea935e6b15232a3ff14a6225c9777a23c3bcd5a814.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, coniferconifer",
+        "url": "https://www.flickr.com/people/7656600@N06"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_spodocephala/d5f06efe5f8f1210248665ea935e6b15232a3ff14a6225c9777a23c3bcd5a814_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_spodocephala/fd12192f4fcb40188e038e3e8976903b67ddef0a47cef0193431008319b218a6.jpeg",
+      "attribution": {
+        "label": "Wikimedia Commons, Greg Peterson",
+        "url": "https://500px.com/glpjp"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_spodocephala/fd12192f4fcb40188e038e3e8976903b67ddef0a47cef0193431008319b218a6_thumb.jpeg"
+    }
+  ]
+}

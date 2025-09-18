@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/cuculus_canorus/8a873a6ccfa90083d82a2d1447c46d138d2c6bfa99616d7019b2b104c8b691d9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, GabrielBuissart",
+      "url": "https://commons.wikimedia.org/wiki/User:GabrielBuissart"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/cuculus_canorus/8a873a6ccfa90083d82a2d1447c46d138d2c6bfa99616d7019b2b104c8b691d9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/cuculus_canorus/30266ae6b0fec9c473a7552bac67e210054f838da0ea81f06505ba47dfda8709.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cuculus_canorus/30266ae6b0fec9c473a7552bac67e210054f838da0ea81f06505ba47dfda8709_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cuculus_canorus/302d10e3ccf018fe51d83dd16704240fb047b13d581d2423b8de71b31d5cdd88.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Prince",
+        "url": "https://www.flickr.com/people/70804987@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cuculus_canorus/302d10e3ccf018fe51d83dd16704240fb047b13d581d2423b8de71b31d5cdd88_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cuculus_canorus/4028a9faf643d5ced9ab5594d7d2dd91650a026ca3e99b3adbc168a15d1ba41d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cuculus_canorus/4028a9faf643d5ced9ab5594d7d2dd91650a026ca3e99b3adbc168a15d1ba41d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cuculus_canorus/7ee4545f962859e9a05426ad3e63794553fb4f7f40a66c5355f611ede867aef3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/cuculus_canorus/7ee4545f962859e9a05426ad3e63794553fb4f7f40a66c5355f611ede867aef3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cuculus_canorus/a9b47e545b75cc5d6ee2bea768366f92367153d8de8021657d58723284391d76.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cuculus_canorus/a9b47e545b75cc5d6ee2bea768366f92367153d8de8021657d58723284391d76_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/cuculus_canorus/fda9297b4b6fd8c9bdc5215fcac67560daffe6b2ac0e0e737380f925082ad6f7.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": "https://www.flickr.com/people/9919745@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/cuculus_canorus/fda9297b4b6fd8c9bdc5215fcac67560daffe6b2ac0e0e737380f925082ad6f7_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/luscinia_svecica/d8224153de816ea260deb2fad9e5e18dc512dac0d39934a5d6e5551ce5560d87.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Alpo Roikola",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/luscinia_svecica/d8224153de816ea260deb2fad9e5e18dc512dac0d39934a5d6e5551ce5560d87_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/luscinia_svecica/20c9f8bda73fe9e5a3b2d263c711fe9004a7f702b321eb1d42ef975c34f7f00d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Michael Graf",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Sieglinde_Festkochend&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_svecica/20c9f8bda73fe9e5a3b2d263c711fe9004a7f702b321eb1d42ef975c34f7f00d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_svecica/5ef2a71ff238aaf7e86c6736c58289a910cb7b25eb7ab819b8750d00a4673430.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Matthiaswenig.naturfotografie",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Matthiaswenig.naturfotografie&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_svecica/5ef2a71ff238aaf7e86c6736c58289a910cb7b25eb7ab819b8750d00a4673430_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_svecica/83724138dcdd0946372b5eacd3862759108d7fa3979f362112ee474a4ca01bf8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stephan Sprinz",
+        "url": "https://commons.wikimedia.org/wiki/User:Stephan_Sprinz"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_svecica/83724138dcdd0946372b5eacd3862759108d7fa3979f362112ee474a4ca01bf8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_svecica/9fb94367021f2034baefc6551f4332106d40494b2c1ec73bd0317727927f8e18.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ottenby Bird Observatory",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_svecica/9fb94367021f2034baefc6551f4332106d40494b2c1ec73bd0317727927f8e18_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/luscinia_svecica/fc698eeacdd8485c1994015e5459adcbdce75bf84989afd04b6bcadab28c2c0e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Michael Graf",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Sieglinde_Festkochend&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/luscinia_svecica/fc698eeacdd8485c1994015e5459adcbdce75bf84989afd04b6bcadab28c2c0e_thumb.jpg"
+    }
+  ]
+}

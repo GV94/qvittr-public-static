@@ -1,0 +1,76 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/branta_ruficollis/49f27c97d6c1e0e9e5dfa604f5ddca52cb4765204a3c13de86e41ece32c0546d.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Frebeck",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Frebeck&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/branta_ruficollis/49f27c97d6c1e0e9e5dfa604f5ddca52cb4765204a3c13de86e41ece32c0546d_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/branta_ruficollis/21281ba868f704dffd43685e5491d236b7090be962884e99c14fad55e12575b6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_ruficollis/21281ba868f704dffd43685e5491d236b7090be962884e99c14fad55e12575b6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_ruficollis/32ba4e2b1c4f08200c1c74def58bcfeb061cd49de724040102f93ccd3ccbb51e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stephan Sprinz",
+        "url": "https://commons.wikimedia.org/wiki/User:Ssprmannheim"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_ruficollis/32ba4e2b1c4f08200c1c74def58bcfeb061cd49de724040102f93ccd3ccbb51e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_ruficollis/66ccf5ba656d9f6c6d841ea96a7afa8132f75f247409b10d31f3d92cbf4059ec.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Medenica Ivan",
+        "url": "https://commons.wikimedia.org/wiki/User:Medeniacus"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_ruficollis/66ccf5ba656d9f6c6d841ea96a7afa8132f75f247409b10d31f3d92cbf4059ec_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_ruficollis/71e8eabf719ed32a62db1fcaaf9e09142efe476c113f2300d34584b839d886cd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u041f\u043e\u0441\u043f\u0435\u043b\u043e\u0432 \u0418\u0433\u043e\u0440\u044c \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_ruficollis/71e8eabf719ed32a62db1fcaaf9e09142efe476c113f2300d34584b839d886cd_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_ruficollis/78b344af01673a8293e86b1a2c3ace1742b6f20af69327ee309e71aa04c7c364.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andy  Morffew",
+        "url": "https://www.flickr.com/people/66020093@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/branta_ruficollis/78b344af01673a8293e86b1a2c3ace1742b6f20af69327ee309e71aa04c7c364_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_ruficollis/7f13e87d61cdefb873810839814bad87c5666124405a979e79d1f4f0c35845d6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_ruficollis/7f13e87d61cdefb873810839814bad87c5666124405a979e79d1f4f0c35845d6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/branta_ruficollis/ccb0833d678b323426bf4707082328b8e6ffe6d6f623142824874a3c08210459.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/branta_ruficollis/ccb0833d678b323426bf4707082328b8e6ffe6d6f623142824874a3c08210459_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_brachyrhynchus/78835857e63b2bb19b7b120520dfe732f122e32af332f28de92911e579ba6536.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, MPF",
+      "url": "https://commons.wikimedia.org/wiki/User:MPF"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_brachyrhynchus/78835857e63b2bb19b7b120520dfe732f122e32af332f28de92911e579ba6536_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_brachyrhynchus/2f3af8761ace6b5bc506e434b75b37e48799d9127afc8fc3493ea7d9dfcce4e9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_brachyrhynchus/2f3af8761ace6b5bc506e434b75b37e48799d9127afc8fc3493ea7d9dfcce4e9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_brachyrhynchus/382d741086abc138b96e9bed8d04c58312d020f70391509630d92a6061ddec14.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_brachyrhynchus/382d741086abc138b96e9bed8d04c58312d020f70391509630d92a6061ddec14_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_brachyrhynchus/a389a89e7cd35168b3f0c25d3eb60d8111a7e3e62b74a614a64928cb28665913.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_brachyrhynchus/a389a89e7cd35168b3f0c25d3eb60d8111a7e3e62b74a614a64928cb28665913_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_brachyrhynchus/d41a84640dd4f2cbf0ef8952db01d2ab7c4d20d3585190fc844475edc5c85114.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_brachyrhynchus/d41a84640dd4f2cbf0ef8952db01d2ab7c4d20d3585190fc844475edc5c85114_thumb.jpg"
+    }
+  ]
+}

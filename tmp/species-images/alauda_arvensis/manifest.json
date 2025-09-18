@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/alauda_arvensis/1ed34a9ff5e53f0688845bb3f4f27246cd420ff1534c4780c582e485abc27944.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Frebeck",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Frebeck&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/alauda_arvensis/1ed34a9ff5e53f0688845bb3f4f27246cd420ff1534c4780c582e485abc27944_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/alauda_arvensis/1ae819d0169411e0d64075dac72b4f51b997771a03ec3101be0501c9ce4898c8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alauda_arvensis/1ae819d0169411e0d64075dac72b4f51b997771a03ec3101be0501c9ce4898c8_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alauda_arvensis/1f36e3779d6a200f1540cf70349fc41e8c2afc807e59042f5396cc3ebcc8787c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alauda_arvensis/1f36e3779d6a200f1540cf70349fc41e8c2afc807e59042f5396cc3ebcc8787c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alauda_arvensis/4b718d725364c6ad53413ef69cd4077884f512799715a2149abe762019e792cf.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/alauda_arvensis/4b718d725364c6ad53413ef69cd4077884f512799715a2149abe762019e792cf_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alauda_arvensis/5d5ab6e8b77257310adad177f6f1a95a729faeab0a37a1f14cbf4164420c7e7f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Zeynel Cebeci",
+        "url": "https://commons.wikimedia.org/wiki/User:Zcebeci"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alauda_arvensis/5d5ab6e8b77257310adad177f6f1a95a729faeab0a37a1f14cbf4164420c7e7f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alauda_arvensis/9d20320a9cfbf7b2eed2f207f6d90542abd0c38c08336374463694825ac4d522.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Evelyn Simak",
+        "url": "https://www.geograph.org.uk/profile/14840"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/alauda_arvensis/9d20320a9cfbf7b2eed2f207f6d90542abd0c38c08336374463694825ac4d522_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/alauda_arvensis/a73ea8a21c63d23fc66d11bf34e9251ea90601eccd159f88b447fc2c43aabd73.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/alauda_arvensis/a73ea8a21c63d23fc66d11bf34e9251ea90601eccd159f88b447fc2c43aabd73_thumb.jpg"
+    }
+  ]
+}

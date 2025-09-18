@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anser_anser/0660aa21fe2b8fdb9405236914ad34e517414a2ed710e6a91e7da44874be1bd0.JPG",
+    "attribution": {
+      "label": "Wikimedia Commons, Magnus Kjaergaard",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Kjaergaard&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anser_anser/0660aa21fe2b8fdb9405236914ad34e517414a2ed710e6a91e7da44874be1bd0_thumb.JPG"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anser_anser/0b35824218449dae3cc9576c3dac44293e64eca580508d8c33170f4ddbb3c472.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, M(e)ister Eiskalt",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:M(e)ister_Eiskalt&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_anser/0b35824218449dae3cc9576c3dac44293e64eca580508d8c33170f4ddbb3c472_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/107e7daa035bab3bb35db0ddc32c158a039e44d9ffcc61685fb353672a8a018b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Adrian Tync",
+        "url": "https://commons.wikimedia.org/wiki/User:Gower"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_anser/107e7daa035bab3bb35db0ddc32c158a039e44d9ffcc61685fb353672a8a018b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/30773d4c89c6fc7d6369c9e99cd5d32589d280b361a76e961fcb6175ebbe42d5.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_anser/30773d4c89c6fc7d6369c9e99cd5d32589d280b361a76e961fcb6175ebbe42d5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/4b8fb8add40a6a0e3fd098b7b1234bea4b757b429e1250c5f1628128787ba889.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_anser/4b8fb8add40a6a0e3fd098b7b1234bea4b757b429e1250c5f1628128787ba889_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/a83aa5a1d0c16eabbd782f4be25a3a4995a07486ec48008151fc7c548ea01f8b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_anser/a83aa5a1d0c16eabbd782f4be25a3a4995a07486ec48008151fc7c548ea01f8b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/ada7051e75603b45b9325576045618992c9b5ae307f4be4f5368c22e93489f25.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ",
+        "url": "https://commons.wikimedia.org/wiki/File:Aspitates_ochrearia.jpg"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_anser/ada7051e75603b45b9325576045618992c9b5ae307f4be4f5368c22e93489f25_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/bf7a82df4c2f5ff41ecf80e9e7445f8fba2f4ef266db4440f7c49e49935b7aa3.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_anser/bf7a82df4c2f5ff41ecf80e9e7445f8fba2f4ef266db4440f7c49e49935b7aa3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/d213448030776b5800de27a2a367a2db507e73d288d861176c2a29be9f86b7e9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, TRom12",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:TRom12&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anser_anser/d213448030776b5800de27a2a367a2db507e73d288d861176c2a29be9f86b7e9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anser_anser/ebc497c5d6011c23b7d83bcd58777ae1d4338c6a2e2ef9a141e23eed8d0c770f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/anser_anser/ebc497c5d6011c23b7d83bcd58777ae1d4338c6a2e2ef9a141e23eed8d0c770f_thumb.jpg"
+    }
+  ]
+}

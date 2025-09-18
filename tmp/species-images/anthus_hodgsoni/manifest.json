@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/anthus_hodgsoni/079e8fbfc48110364e9cb4c25b26b9d2faace9ecf9e42785868860d3d4c550f0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, J.M.Garg",
+      "url": "https://commons.wikimedia.org/wiki/User:J.M.Garg"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/anthus_hodgsoni/079e8fbfc48110364e9cb4c25b26b9d2faace9ecf9e42785868860d3d4c550f0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/anthus_hodgsoni/62503d69bd2310eb53d3c98c569af8d04939a3bd171357ba6d425a88feb034b1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_hodgsoni/62503d69bd2310eb53d3c98c569af8d04939a3bd171357ba6d425a88feb034b1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_hodgsoni/894d4a5aba2b3142032e7ce62bec4015aa6bd48987bdb4740d73b099a8e5e6f4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_hodgsoni/894d4a5aba2b3142032e7ce62bec4015aa6bd48987bdb4740d73b099a8e5e6f4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_hodgsoni/9e7cee947773d8fc0f8b4130268c2222460841516befda44d06f4c2398015cf2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_hodgsoni/9e7cee947773d8fc0f8b4130268c2222460841516befda44d06f4c2398015cf2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_hodgsoni/daeb208e3c21d7736d26811e169796868198de6c07a7520f47042973412f180a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_hodgsoni/daeb208e3c21d7736d26811e169796868198de6c07a7520f47042973412f180a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/anthus_hodgsoni/f7907d1d27ebb68be7daff6096cacbc0d48c829f1f3e61693636759ecb6d6ae8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Donald Hobern",
+        "url": "https://www.flickr.com/people/25401497@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/anthus_hodgsoni/f7907d1d27ebb68be7daff6096cacbc0d48c829f1f3e61693636759ecb6d6ae8_thumb.jpg"
+    }
+  ]
+}

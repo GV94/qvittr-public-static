@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/corvus_frugilegus/2bd035596f36036e89a05916a063a0a32e46c1528e6d63d2c7c8213b0b5e4f15.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Axel Mauruszat",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/corvus_frugilegus/2bd035596f36036e89a05916a063a0a32e46c1528e6d63d2c7c8213b0b5e4f15_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/corvus_frugilegus/0879c28229af62c939c07c82c0c584411d67ce7ce6c72a70093eb9eb3fa0100d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_frugilegus/0879c28229af62c939c07c82c0c584411d67ce7ce6c72a70093eb9eb3fa0100d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_frugilegus/118bb95ac0b62932cad9b044be16dd2025ccbd442b19fd0039c92e8e79c4fec6.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_frugilegus/118bb95ac0b62932cad9b044be16dd2025ccbd442b19fd0039c92e8e79c4fec6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_frugilegus/3ec509eaefc37aeafae710b35bda1afe655835f166a58338e43c157aade9a3f4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_frugilegus/3ec509eaefc37aeafae710b35bda1afe655835f166a58338e43c157aade9a3f4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_frugilegus/4d9a3b5f53585a4b93bfdc9134f581d1069aeb24d06bd8f3fa56d0b2051c81a1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_frugilegus/4d9a3b5f53585a4b93bfdc9134f581d1069aeb24d06bd8f3fa56d0b2051c81a1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_frugilegus/7feae876a6a8d44e548abdda6b823d43e68dd5e6e2ae3b24ab636d7028a06d59.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_frugilegus/7feae876a6a8d44e548abdda6b823d43e68dd5e6e2ae3b24ab636d7028a06d59_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_frugilegus/7ff22eacac98ab93993d58ab5bb822f86e242e2e64a21966cf71ea0170e75399.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_frugilegus/7ff22eacac98ab93993d58ab5bb822f86e242e2e64a21966cf71ea0170e75399_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_frugilegus/cf26a0b0cb987c1e9abcd57a3e75eed170c749cc110b4a5e6a19c6a93505548e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/corvus_frugilegus/cf26a0b0cb987c1e9abcd57a3e75eed170c749cc110b4a5e6a19c6a93505548e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/corvus_frugilegus/d58132e031d4e4bd3929813e1afd8411b99a3f0a220fe6defd442f828bb4c136.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/corvus_frugilegus/d58132e031d4e4bd3929813e1afd8411b99a3f0a220fe6defd442f828bb4c136_thumb.jpg"
+    }
+  ]
+}

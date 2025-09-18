@@ -1,0 +1,85 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/aquila_nipalensis/3014726ccbb73215f29607116e36a09a8bca4d09897047dd3d536e549b70528f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Quartl",
+      "url": "https://commons.wikimedia.org/wiki/User:Quartl"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/aquila_nipalensis/3014726ccbb73215f29607116e36a09a8bca4d09897047dd3d536e549b70528f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/aquila_nipalensis/5427a206c7c844ff9c46bebe2992f0ca45251801f433d1be15bf048ca2d53cc0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aquila_nipalensis/5427a206c7c844ff9c46bebe2992f0ca45251801f433d1be15bf048ca2d53cc0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_nipalensis/7cb72f72cb2f71a022225435fb22afa20f37a3b7160467a7b591eb4d217f5470.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aquila_nipalensis/7cb72f72cb2f71a022225435fb22afa20f37a3b7160467a7b591eb4d217f5470_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_nipalensis/825f9e0139efd90234ae878dc9a430b2a96d7749527752ec23fccd6033187c75.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Parth Kansara",
+        "url": "https://www.inaturalist.org/users/2630936"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aquila_nipalensis/825f9e0139efd90234ae878dc9a430b2a96d7749527752ec23fccd6033187c75_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_nipalensis/9e435629709765f3e053ee90c3af5e0300522711f18a09088d7605665cac7ac9.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aquila_nipalensis/9e435629709765f3e053ee90c3af5e0300522711f18a09088d7605665cac7ac9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_nipalensis/bbd6c81fc3290df46f2f797cac816af87fb50c8c25e6a10b2718facaf4cd047e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Geetanjalidhar",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Geetanjalidhar&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aquila_nipalensis/bbd6c81fc3290df46f2f797cac816af87fb50c8c25e6a10b2718facaf4cd047e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_nipalensis/c027d24bdf786cbdc279377f8eb17702eb106def88b90a16c1f43100f6788b2a.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aquila_nipalensis/c027d24bdf786cbdc279377f8eb17702eb106def88b90a16c1f43100f6788b2a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_nipalensis/c8eb4b9981d0a0923f5842b90a24fb17d447b2c4acacffe52a5d11ca2f54f72c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/aquila_nipalensis/c8eb4b9981d0a0923f5842b90a24fb17d447b2c4acacffe52a5d11ca2f54f72c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/aquila_nipalensis/e28ff6146248145abadb66c60a3191f9d3d7ae722fccee2302b133d3fac674e0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Parth Kansara",
+        "url": "https://www.inaturalist.org/users/2630936"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/aquila_nipalensis/e28ff6146248145abadb66c60a3191f9d3d7ae722fccee2302b133d3fac674e0_thumb.jpg"
+    }
+  ]
+}

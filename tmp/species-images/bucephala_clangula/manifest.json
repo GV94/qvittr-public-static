@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/bucephala_clangula/d4fc8b3b59c1fa64bfb5e605176164298af64e5bf44d84ca12aae9964e4758f4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, user:Arpingstone",
+      "url": "https://commons.wikimedia.org/wiki/User:Arpingstone"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/bucephala_clangula/d4fc8b3b59c1fa64bfb5e605176164298af64e5bf44d84ca12aae9964e4758f4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/bucephala_clangula/1014563b4aba18864ff1e876db74b2a070552e9128e225f214cfed646abb9a8c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/bucephala_clangula/1014563b4aba18864ff1e876db74b2a070552e9128e225f214cfed646abb9a8c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bucephala_clangula/2a78ca68665e29c4d485d312d35d9af7dc59f7afd03cc63cf815ad51f4abb15b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, TRinaud",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:TRinaud&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/bucephala_clangula/2a78ca68665e29c4d485d312d35d9af7dc59f7afd03cc63cf815ad51f4abb15b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/bucephala_clangula/fdd9b8753f1ce6a218dd66488ebafa51812217f57b2258e487eded5bd430eaaf.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/bucephala_clangula/fdd9b8753f1ce6a218dd66488ebafa51812217f57b2258e487eded5bd430eaaf_thumb.jpg"
+    }
+  ]
+}

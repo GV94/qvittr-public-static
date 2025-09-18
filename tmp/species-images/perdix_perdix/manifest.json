@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/perdix_perdix/dc17c01d25bf98b66be1a75101d94c90cd24c0500d5d8ef72b445b25787e6c00.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, ",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/perdix_perdix/dc17c01d25bf98b66be1a75101d94c90cd24c0500d5d8ef72b445b25787e6c00_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/perdix_perdix/040749fb00856eb5add5d27473593c1eae6ab173893c291548065ae7bb800a25.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Stanley Howe",
+        "url": "https://www.geograph.org.uk/profile/7629"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perdix_perdix/040749fb00856eb5add5d27473593c1eae6ab173893c291548065ae7bb800a25_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perdix_perdix/598fcd827728d0984eadfaeb6502b0d84dac745a995917a520dfb675a93df8e9.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Frank Vassen",
+        "url": "https://www.flickr.com/people/42244964@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perdix_perdix/598fcd827728d0984eadfaeb6502b0d84dac745a995917a520dfb675a93df8e9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perdix_perdix/6f57411d781f5fc222a0ea6677d4f7208848376c367e1853cb3a6583b8f7753a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bernard Stam",
+        "url": "https://www.flickr.com/people/65808763@N02"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perdix_perdix/6f57411d781f5fc222a0ea6677d4f7208848376c367e1853cb3a6583b8f7753a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perdix_perdix/bbe297139affd8727772cce975e3c6a6d90307dcc0fa88cc3f59d45b82e5bfb6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Pennington",
+        "url": "https://www.geograph.org.uk/profile/9715"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perdix_perdix/bbe297139affd8727772cce975e3c6a6d90307dcc0fa88cc3f59d45b82e5bfb6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/perdix_perdix/d9fd7a793ef1dc2fbd4644d4159ec2bb53c76dc2adee33b242b83bebe1033822.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve Garvie",
+        "url": "https://www.flickr.com/photos/50079771@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/perdix_perdix/d9fd7a793ef1dc2fbd4644d4159ec2bb53c76dc2adee33b242b83bebe1033822_thumb.jpg"
+    }
+  ]
+}

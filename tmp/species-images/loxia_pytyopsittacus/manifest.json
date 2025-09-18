@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/loxia_pytyopsittacus/1a6218bb0717c4d43eed0f9776c05b1fd6d38a33fcb4bc0dde11ddd930eb32b2.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Marton Berntsen",
+      "url": "https://commons.wikimedia.org/w/index.php?title=User:Marton_Berntsen&amp;action=edit&amp;redlink=1"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/loxia_pytyopsittacus/1a6218bb0717c4d43eed0f9776c05b1fd6d38a33fcb4bc0dde11ddd930eb32b2_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/loxia_pytyopsittacus/51c4b84a3603ef9fcbdda7afb44631ec5f65f7949f0102470fca5b7b3d59ef45.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_pytyopsittacus/51c4b84a3603ef9fcbdda7afb44631ec5f65f7949f0102470fca5b7b3d59ef45_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_pytyopsittacus/654ec40175e827b2c6af628f21dcbdb2be15de9d7fa16a2c17ac642e5cb63052.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_pytyopsittacus/654ec40175e827b2c6af628f21dcbdb2be15de9d7fa16a2c17ac642e5cb63052_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_pytyopsittacus/ab3a9a135b3a6fa316f615d07f4730786b3ab367f7251c9728212a6bff6651fc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_pytyopsittacus/ab3a9a135b3a6fa316f615d07f4730786b3ab367f7251c9728212a6bff6651fc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_pytyopsittacus/e3b052f280455e11d4f1ab1a704b173ad9acdda66302454a202701be10fa1376.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Petri Pihlaja",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Pihpe&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_pytyopsittacus/e3b052f280455e11d4f1ab1a704b173ad9acdda66302454a202701be10fa1376_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/loxia_pytyopsittacus/f6d5592e94bcc72fb7b52cc5f5ffc03209cab02c572eede65f0147170ed1e99f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, MPF",
+        "url": "https://commons.wikimedia.org/wiki/User:MPF"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/loxia_pytyopsittacus/f6d5592e94bcc72fb7b52cc5f5ffc03209cab02c572eede65f0147170ed1e99f_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/columba_livia/64428439d807027160a1fd3942ce5aad1221fed0435b4c3e472bb6306857d3eb.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mike Pennington",
+      "url": "https://www.geograph.org.uk/profile/9715"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/columba_livia/64428439d807027160a1fd3942ce5aad1221fed0435b4c3e472bb6306857d3eb_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/columba_livia/575a143b4aab79af543173d3e5f5d1f64629830f06dcc8634d332027741364e4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/columba_livia/575a143b4aab79af543173d3e5f5d1f64629830f06dcc8634d332027741364e4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/columba_livia/74f07814b377406fd08961773c29fef5c29ce765bf6c2414662e6117b1116829.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/columba_livia/74f07814b377406fd08961773c29fef5c29ce765bf6c2414662e6117b1116829_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/columba_livia/a5b3ea1c7b651892419824799f951afbc39a34836ea82ea3be55d23a9d5e55b1.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/columba_livia/a5b3ea1c7b651892419824799f951afbc39a34836ea82ea3be55d23a9d5e55b1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/columba_livia/adda4ee0826ca7c7316cf4acc07b583baaff4d7be5784a37ed4fbb5e16bc21d4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/columba_livia/adda4ee0826ca7c7316cf4acc07b583baaff4d7be5784a37ed4fbb5e16bc21d4_thumb.jpg"
+    }
+  ]
+}

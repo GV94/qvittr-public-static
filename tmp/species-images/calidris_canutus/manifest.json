@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_canutus/d4ef8f761ad69c9601f8e9dc62f352586c191f6bba8f55b5b8604fdecc5e71b9.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Hans Hillewaert",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_canutus/d4ef8f761ad69c9601f8e9dc62f352586c191f6bba8f55b5b8604fdecc5e71b9_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_canutus/021328cd1fedbf821196f530540dab572be19b733659d79b9daeeae045285ca0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ewa Dryjanska",
+        "url": "https://commons.wikimedia.org/wiki/User:Ewa_Dryjanska"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_canutus/021328cd1fedbf821196f530540dab572be19b733659d79b9daeeae045285ca0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/158a93745e7851b840accddd2ad32ebf099bb228304b88a3b432291b3b8d2dc3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Choirek",
+        "url": "https://commons.wikimedia.org/wiki/User:Choirek"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_canutus/158a93745e7851b840accddd2ad32ebf099bb228304b88a3b432291b3b8d2dc3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/3a50805e180d556b89287a6b65b814e9dfa7c9f84bff9135abb525d991e4f20b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_canutus/3a50805e180d556b89287a6b65b814e9dfa7c9f84bff9135abb525d991e4f20b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/3f690698c13f35dd952fd83719a6d503fb08b29a42788e2c5bc5bdc5e1c85c65.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_canutus/3f690698c13f35dd952fd83719a6d503fb08b29a42788e2c5bc5bdc5e1c85c65_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/5101fb3544fa390268ddf6fb5b16631bf3d115754fad9a1038212f0aa13ca14c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_canutus/5101fb3544fa390268ddf6fb5b16631bf3d115754fad9a1038212f0aa13ca14c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/7907bab50f1fc9b7e4999c5ca96743ae42b1099c2564b0284b20e70ec3f4e1ee.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_canutus/7907bab50f1fc9b7e4999c5ca96743ae42b1099c2564b0284b20e70ec3f4e1ee_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/830b793f70334e997c6d76fc703b96c66fd5ae53fa1266ac6f1f2243a2b3be0f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ewa Dryjanska",
+        "url": "https://commons.wikimedia.org/wiki/User:Ewa_Dryjanska"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_canutus/830b793f70334e997c6d76fc703b96c66fd5ae53fa1266ac6f1f2243a2b3be0f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/ca226305f2811564620d6922e228365a6bd7ad7da4c4acc7559945b87e3f0145.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/calidris_canutus/ca226305f2811564620d6922e228365a6bd7ad7da4c4acc7559945b87e3f0145_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_canutus/e2d48694237582a5303e5e320cb6a833595701722f66215e5dba19d77000039c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Hans Hillewaert",
+        "url": "https://commons.wikimedia.org/wiki/User:Biopics"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_canutus/e2d48694237582a5303e5e320cb6a833595701722f66215e5dba19d77000039c_thumb.jpg"
+    }
+  ]
+}

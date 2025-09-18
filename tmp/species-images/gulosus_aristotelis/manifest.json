@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gulosus_aristotelis/938fd3a06daf955f5de9d917a77685f9402c62f5edf563705fcfbf8e5fd5d9f4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Jason Thompson",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gulosus_aristotelis/938fd3a06daf955f5de9d917a77685f9402c62f5edf563705fcfbf8e5fd5d9f4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gulosus_aristotelis/2922d619a24e8ab1fe989a2be0f29130f121b3cbd5820048befd8b8c840b191a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Javier Albertos",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Javieralbertos&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gulosus_aristotelis/2922d619a24e8ab1fe989a2be0f29130f121b3cbd5820048befd8b8c840b191a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gulosus_aristotelis/700f0fd2569fd1d642a886cf2907554eef55da90effb9485991ba941887eb211.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Javier Albertos",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Javieralbertos&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gulosus_aristotelis/700f0fd2569fd1d642a886cf2907554eef55da90effb9485991ba941887eb211_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gulosus_aristotelis/b50dc1b4e9e3f59c6b7dca7ef847ad1872420a62d01ea448c52e2aa4e8b54309.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Kilezz",
+        "url": "https://commons.wikimedia.org/wiki/User:Kilezz"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gulosus_aristotelis/b50dc1b4e9e3f59c6b7dca7ef847ad1872420a62d01ea448c52e2aa4e8b54309_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gulosus_aristotelis/ee892ccb7b1fea4d07b51701aa4a2352aeb6ceb1ac0aa201165054b5351b2b2c.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Javier Albertos",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Javieralbertos&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gulosus_aristotelis/ee892ccb7b1fea4d07b51701aa4a2352aeb6ceb1ac0aa201165054b5351b2b2c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gulosus_aristotelis/f56652e9072bd62ae947c8fc6a2288da5072120c62c0d39ccdf523a3d1440faf.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Maxime Metzmacher",
+        "url": "https://commons.wikimedia.org/wiki/User:MaximeA"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gulosus_aristotelis/f56652e9072bd62ae947c8fc6a2288da5072120c62c0d39ccdf523a3d1440faf_thumb.jpg"
+    }
+  ]
+}

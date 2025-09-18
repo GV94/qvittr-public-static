@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/coturnix_coturnix/22cbfdeeb197585a572fcdee241b33ac3337734e787151611b62c5f911595b37.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Raniero Massoli Novelli",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/coturnix_coturnix/22cbfdeeb197585a572fcdee241b33ac3337734e787151611b62c5f911595b37_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/coturnix_coturnix/1ecb4c3e4b54573ca74e1f8d872ecb465157c70e070041052ff49b6936d32f31.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u09a6\u09bf\u09ac\u09cd\u09af \u09a6\u09a4\u09cd\u09a4",
+        "url": "https://commons.wikimedia.org/wiki/User:%E0%A6%A6%E0%A6%BF%E0%A6%AC%E0%A7%8D%E0%A6%AF_%E0%A6%A6%E0%A6%A4%E0%A7%8D%E0%A6%A4"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coturnix_coturnix/1ecb4c3e4b54573ca74e1f8d872ecb465157c70e070041052ff49b6936d32f31_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coturnix_coturnix/2c186b4966bc6e0c40a380c82edfb3a1bb56136f57cc8e27a2b5a5783cfa9701.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, LuisNDamas",
+        "url": "https://commons.wikimedia.org/wiki/User:LuisNDamas"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coturnix_coturnix/2c186b4966bc6e0c40a380c82edfb3a1bb56136f57cc8e27a2b5a5783cfa9701_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coturnix_coturnix/3d48a7685e68e70d1f103b15cfaecdc11c995f7d43fd13a57c4f275cb9ea2eba.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mildeep",
+        "url": "https://commons.wikimedia.org/wiki/User:Mildeep"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coturnix_coturnix/3d48a7685e68e70d1f103b15cfaecdc11c995f7d43fd13a57c4f275cb9ea2eba_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/coturnix_coturnix/d930f2a1440fbe3c30cff0d9a120d91d2c5e75f38872e7b51254c22fd264f57e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/coturnix_coturnix/d930f2a1440fbe3c30cff0d9a120d91d2c5e75f38872e7b51254c22fd264f57e_thumb.jpg"
+    }
+  ]
+}

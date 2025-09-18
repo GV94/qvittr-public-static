@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/calidris_temminckii/b13bfc73b6a9909f1418b8ad8011d0fea0cc73c4e4b17b809a629c67050dd4d4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/calidris_temminckii/b13bfc73b6a9909f1418b8ad8011d0fea0cc73c4e4b17b809a629c67050dd4d4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/calidris_temminckii/17e3e5534e64a116eb4f53ca4e38b46d0cfee2e4b5b45e3dfeccd26c4ff2113d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marek Szczepanek",
+        "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_temminckii/17e3e5534e64a116eb4f53ca4e38b46d0cfee2e4b5b45e3dfeccd26c4ff2113d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_temminckii/501ad35995fb58d33021b3b9e7abd609703ae07d4d5a2bd7a206ca4d5fc97597.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mlkniemi",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Mlkniemi&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_temminckii/501ad35995fb58d33021b3b9e7abd609703ae07d4d5a2bd7a206ca4d5fc97597_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/calidris_temminckii/5d74a4a14449a3fedcb1419b600d3c28e107a2f118d725d99dc3a1966fb043b4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Marek Szczepanek",
+        "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/calidris_temminckii/5d74a4a14449a3fedcb1419b600d3c28e107a2f118d725d99dc3a1966fb043b4_thumb.jpg"
+    }
+  ]
+}

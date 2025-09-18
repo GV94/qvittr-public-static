@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/galerida_cristata/30693a133272e4dc78293e2e2b6c297ab7f8eed7c03ba5ddac8678959a13b48e.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Aranyaparva",
+      "url": "https://commons.wikimedia.org/wiki/User:Aranyaparva"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/galerida_cristata/30693a133272e4dc78293e2e2b6c297ab7f8eed7c03ba5ddac8678959a13b48e_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/galerida_cristata/3eef5c69628d1fddde8115827e5d8931cbe999290c1a86f24df5c6ea71236bf9.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/galerida_cristata/3eef5c69628d1fddde8115827e5d8931cbe999290c1a86f24df5c6ea71236bf9_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/galerida_cristata/4c6fe4a319ed8f8ca0642d62e5f0c21bae5c57a8c8a18b56393d8e48c64fafc1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0645\u062d\u0645\u062f \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:%D9%85%D8%AD%D9%85%D8%AF_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/galerida_cristata/4c6fe4a319ed8f8ca0642d62e5f0c21bae5c57a8c8a18b56393d8e48c64fafc1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/galerida_cristata/a74bb9835793b706f2c65457c5b99374521f42f6b2279fe1e4f528fd5f420a07.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/galerida_cristata/a74bb9835793b706f2c65457c5b99374521f42f6b2279fe1e4f528fd5f420a07_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/galerida_cristata/d6d905dd6c0cf03d55236098cbdb5925cd1195f328956dadc7b7e53314a29653.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Saycheezstudios",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Saycheezstudios&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/galerida_cristata/d6d905dd6c0cf03d55236098cbdb5925cd1195f328956dadc7b7e53314a29653_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/galerida_cristata/f096eeaa0504ed94d677df841990da515a7d637d13460428ddb56bd2352f380f.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/galerida_cristata/f096eeaa0504ed94d677df841990da515a7d637d13460428ddb56bd2352f380f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/galerida_cristata/f5242177f7f910256c837273483c2d807d83e1e56ae52b79fcd35b55d5ca7b16.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andrey Butko",
+        "url": "https://www.wikidata.org/wiki/Q108287599"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/galerida_cristata/f5242177f7f910256c837273483c2d807d83e1e56ae52b79fcd35b55d5ca7b16_thumb.jpg"
+    }
+  ]
+}

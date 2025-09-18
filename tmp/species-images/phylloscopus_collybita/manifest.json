@@ -1,0 +1,94 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_collybita/3e0c3d00d5bf63ff474492ed50d3434aba392deea6de631c4d5b6a0d4b1ea9b5.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Andreas Trepte",
+      "url": "http://photo-natur.de"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_collybita/3e0c3d00d5bf63ff474492ed50d3434aba392deea6de631c4d5b6a0d4b1ea9b5_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/06ebe043378594c243f28906006bc148fef77524b87e2515182d6b99eec5ed81.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_collybita/06ebe043378594c243f28906006bc148fef77524b87e2515182d6b99eec5ed81_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/11705e7f9e6b18aa0b18f5991606fe9325d79a2dfe464f369ad19eda214f7665.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_collybita/11705e7f9e6b18aa0b18f5991606fe9325d79a2dfe464f369ad19eda214f7665_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/1c41c4f01fe3d988199755c43c37dfecb11013492d88ea7acb2ae90835daa2b4.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_collybita/1c41c4f01fe3d988199755c43c37dfecb11013492d88ea7acb2ae90835daa2b4_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/3568cf204fd592637b10a82dcf949a2bb93fda27b57944d28a8a59e699b49960.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_collybita/3568cf204fd592637b10a82dcf949a2bb93fda27b57944d28a8a59e699b49960_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/489175554d50bb1ff2e47a95bffa7b21e12475135e552cf8c0f3153178f640d5.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_collybita/489175554d50bb1ff2e47a95bffa7b21e12475135e552cf8c0f3153178f640d5_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/68dbf16e1f3df9e25f25bc930e1ed8d81c0dba151d94b2151a850b3dbe2a15ac.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_collybita/68dbf16e1f3df9e25f25bc930e1ed8d81c0dba151d94b2151a850b3dbe2a15ac_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/6d1e260ce3c7ece1f4d1fc61ee36cf305c63ba508343ec7e7abef6ff80245740.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_collybita/6d1e260ce3c7ece1f4d1fc61ee36cf305c63ba508343ec7e7abef6ff80245740_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/ade1ac2c513c2c5218794f1c1d39b55763ec567a94a58af5e3aa603e26a5aee1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Andreas Eichler",
+        "url": "https://commons.wikimedia.org/wiki/User:Hockei"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_collybita/ade1ac2c513c2c5218794f1c1d39b55763ec567a94a58af5e3aa603e26a5aee1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_collybita/f5bd00cfba9da48d641f342dbb7b44cab48223bbcc354d53b71b2c0074ecb5d0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/phylloscopus_collybita/f5bd00cfba9da48d641f342dbb7b44cab48223bbcc354d53b71b2c0074ecb5d0_thumb.jpg"
+    }
+  ]
+}

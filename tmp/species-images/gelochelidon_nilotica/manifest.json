@@ -1,0 +1,49 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/gelochelidon_nilotica/36361b807a04bf7eda9e7b5fd12e94a8811634353ef21c63c7d86a4ec401cf14.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Eric Kershner/USFWS",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/gelochelidon_nilotica/36361b807a04bf7eda9e7b5fd12e94a8811634353ef21c63c7d86a4ec401cf14_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/gelochelidon_nilotica/06bf5300131a067d535bb43cec067afe5b2b5311b925aa095a9ed91e79972ec2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gelochelidon_nilotica/06bf5300131a067d535bb43cec067afe5b2b5311b925aa095a9ed91e79972ec2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gelochelidon_nilotica/7f10b1c16a82194a10ec7703145f1569c21b2e3b5f9c6394ebab6b7621ecfb4a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, leppyone (Vincent P. Lucas)",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gelochelidon_nilotica/7f10b1c16a82194a10ec7703145f1569c21b2e3b5f9c6394ebab6b7621ecfb4a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gelochelidon_nilotica/919b24285158def20c8622ee789a022a8e52cbe06504da1fb1c88592cf7e912d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bettina Arrigoni",
+        "url": "https://www.flickr.com/people/69683857@N05"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gelochelidon_nilotica/919b24285158def20c8622ee789a022a8e52cbe06504da1fb1c88592cf7e912d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/gelochelidon_nilotica/d32d88f6dd2dc5720e7b1472130a16940505ee20c35cc1679ad1e7f55467004b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Charles Lam",
+        "url": "https://www.flickr.com/people/49296659@N00"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/gelochelidon_nilotica/d32d88f6dd2dc5720e7b1472130a16940505ee20c35cc1679ad1e7f55467004b_thumb.jpg"
+    }
+  ]
+}

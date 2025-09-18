@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/carpodacus_erythrinus/73f0fdd2916fb76d8124c3a10e8c658559e55d4b838f0d0b30512a11facbd22c.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Adam Kumiszcza",
+      "url": "https://commons.wikimedia.org/wiki/User:Akumiszcza"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/carpodacus_erythrinus/73f0fdd2916fb76d8124c3a10e8c658559e55d4b838f0d0b30512a11facbd22c_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/carpodacus_erythrinus/3bbc6310245824844f306ce91cb29afbad1fd4611764463a354035a63e2762e1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rohit Naniwadekar",
+        "url": "https://commons.wikimedia.org/wiki/User:Rohitjahnavi"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carpodacus_erythrinus/3bbc6310245824844f306ce91cb29afbad1fd4611764463a354035a63e2762e1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carpodacus_erythrinus/915ec2b3d954a92f39f19587b203a8f5df08a15ccd3e2f5d225beb5cb18bfb5e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Imran Shah",
+        "url": "https://www.inaturalist.org/users/915900"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carpodacus_erythrinus/915ec2b3d954a92f39f19587b203a8f5df08a15ccd3e2f5d225beb5cb18bfb5e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carpodacus_erythrinus/a8564bf9ca1966f8d3e76e5aa18df1707253a6cd7fded99bab95bce554e8801b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rohit Naniwadekar",
+        "url": "https://commons.wikimedia.org/wiki/User:Rohitjahnavi"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carpodacus_erythrinus/a8564bf9ca1966f8d3e76e5aa18df1707253a6cd7fded99bab95bce554e8801b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carpodacus_erythrinus/b609ff6c423c384e6ed3298c2d06681aed9c5fbfc4980f071196bac97ffe4d6f.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/carpodacus_erythrinus/b609ff6c423c384e6ed3298c2d06681aed9c5fbfc4980f071196bac97ffe4d6f_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carpodacus_erythrinus/c04919730064d68901c22a72d29bf7c624bb13fc436cb85789170439ac1dce15.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jakub Ha\u0142un",
+        "url": "https://commons.wikimedia.org/wiki/User:Jakubhal"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/carpodacus_erythrinus/c04919730064d68901c22a72d29bf7c624bb13fc436cb85789170439ac1dce15_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/carpodacus_erythrinus/c365dc286ddf716c4e332e11cbed5cccd20eb744548c84a1a322a740139e1bad.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/carpodacus_erythrinus/c365dc286ddf716c4e332e11cbed5cccd20eb744548c84a1a322a740139e1bad_thumb.jpg"
+    }
+  ]
+}

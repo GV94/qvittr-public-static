@@ -1,0 +1,40 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_inornatus/b1a1a63c0f36360c8c87d658a81aed506210d26582ff38e5a2c8514c79e02c94.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Frank Vassen",
+      "url": "https://www.flickr.com/people/42244964@N03"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_inornatus/b1a1a63c0f36360c8c87d658a81aed506210d26582ff38e5a2c8514c79e02c94_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_inornatus/0477241d6b3c2d3f4ac19cca1a2b38a421edcc2f09294bae5731ec2e28e335a3.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Martin Vav\u0159\u00edk",
+        "url": "https://commons.wikimedia.org/wiki/User:Vavrik"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_inornatus/0477241d6b3c2d3f4ac19cca1a2b38a421edcc2f09294bae5731ec2e28e335a3_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_inornatus/27d3955e909ebc863e43c3faab699a32850e8d2137f048c7088755ce39096e1d.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, E.HOBA",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_inornatus/27d3955e909ebc863e43c3faab699a32850e8d2137f048c7088755ce39096e1d_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_inornatus/4d91b241bfaab6e3490006921a6c7a58aa1c626597215b6f8ff7fb6e7f889abd.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_inornatus/4d91b241bfaab6e3490006921a6c7a58aa1c626597215b6f8ff7fb6e7f889abd_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/acrocephalus_palustris/285895a96af57282bbf35899a4646e42d578fe2dbd8d9def3ba304d46020fe29.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Perhols",
+      "url": "https://en.wikipedia.org/wiki/User:Perhols"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/acrocephalus_palustris/285895a96af57282bbf35899a4646e42d578fe2dbd8d9def3ba304d46020fe29_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/acrocephalus_palustris/6e14b6ff7948a47c54eae663905a2547c2d704396f0f3ed816d855101cb1f514.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, ",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/acrocephalus_palustris/6e14b6ff7948a47c54eae663905a2547c2d704396f0f3ed816d855101cb1f514_thumb.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/sylvia_borin/8532334a9cf24e2482fe1dbab11be01988b91c7047bebf70fb720dcd3e65d571.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Biillyboy",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/sylvia_borin/8532334a9cf24e2482fe1dbab11be01988b91c7047bebf70fb720dcd3e65d571_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/sylvia_borin/7a90565cf33987bd07ed659ad3fbd30b1c4ee44b3308d4d65ad47448ee47d6f1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Francesco Veronesi",
+        "url": "https://www.flickr.com/people/30818542@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sylvia_borin/7a90565cf33987bd07ed659ad3fbd30b1c4ee44b3308d4d65ad47448ee47d6f1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sylvia_borin/b5080d8baf7534e98c19207e01b66b3e4890f09740a89193144ee3c52ff226a1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Jac. Janssen",
+        "url": "https://www.flickr.com/people/78782622@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sylvia_borin/b5080d8baf7534e98c19207e01b66b3e4890f09740a89193144ee3c52ff226a1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sylvia_borin/e66e5e977d01bc909eee87b97cebbc2675f95bbeb8aa48d8048798998402a87e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Steve Garvie",
+        "url": "https://www.flickr.com/photos/50079771@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sylvia_borin/e66e5e977d01bc909eee87b97cebbc2675f95bbeb8aa48d8048798998402a87e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sylvia_borin/ea742a154f175c991f4f8937cb4376944b4d835de17c9bf47bbd3bf39f2e3e52.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Victor Scharnhorst",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Victor1806&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sylvia_borin/ea742a154f175c991f4f8937cb4376944b4d835de17c9bf47bbd3bf39f2e3e52_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/sylvia_borin/f51aaec0fb8d3af23cda45d45ca16b8121f24dbe3cfc15712c4215c2c0429ec4.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Mike Pennington",
+        "url": "https://www.geograph.org.uk/profile/9715"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/sylvia_borin/f51aaec0fb8d3af23cda45d45ca16b8121f24dbe3cfc15712c4215c2c0429ec4_thumb.jpg"
+    }
+  ]
+}

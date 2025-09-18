@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/certhia_familiaris/d3bb9368b21b03de1897a8f3ee19c1136b84a32fdf3c3f2b8f697fb66f33eebf.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, sighmanb",
+      "url": "https://www.flickr.com/people/23632548@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/certhia_familiaris/d3bb9368b21b03de1897a8f3ee19c1136b84a32fdf3c3f2b8f697fb66f33eebf_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/certhia_familiaris/38782a23810c8182f5ea55291563428ea950f078d6ab3606ba3d0ec41f1853d6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rory",
+        "url": "https://www.flickr.com/people/73714450@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_familiaris/38782a23810c8182f5ea55291563428ea950f078d6ab3606ba3d0ec41f1853d6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_familiaris/3b8c5927ae05f1909141c7e649588cac2b3e0d540d807df4a9eeff5df1c1b184.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rory",
+        "url": "https://www.flickr.com/people/73714450@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_familiaris/3b8c5927ae05f1909141c7e649588cac2b3e0d540d807df4a9eeff5df1c1b184_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_familiaris/402936803a37bf180468c69d4a9e2db0cc7fd8d1942ecbcddcfd1a8cfaf0b6bb.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Rory",
+        "url": "https://www.flickr.com/people/73714450@N08"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_familiaris/402936803a37bf180468c69d4a9e2db0cc7fd8d1942ecbcddcfd1a8cfaf0b6bb_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_familiaris/74dd437a0411be3c5d05af93b106b43af62f3c2dcbcb48a6b480ec9607005d97.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/certhia_familiaris/74dd437a0411be3c5d05af93b106b43af62f3c2dcbcb48a6b480ec9607005d97_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_familiaris/bab6bfbd34fe0a0f2507bf944a67418359a073fdd10658f2cf8e79b15a12e26b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, NobbiP",
+        "url": "https://commons.wikimedia.org/wiki/User:NobbiP"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/certhia_familiaris/bab6bfbd34fe0a0f2507bf944a67418359a073fdd10658f2cf8e79b15a12e26b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/certhia_familiaris/bd4de04875d934e79d4c54da4507d44b4127f4f3d0c88ca201b798858fd8506b.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/certhia_familiaris/bd4de04875d934e79d4c54da4507d44b4127f4f3d0c88ca201b798858fd8506b_thumb.jpg"
+    }
+  ]
+}

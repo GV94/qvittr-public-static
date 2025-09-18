@@ -1,0 +1,31 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/podiceps_nigricollis/c7a1a6f81762fdb6641ced027727da4641ed8e6d2a3aecda0d77ead9c3a9b1ba.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Marek Szczepanek",
+      "url": "https://commons.wikimedia.org/wiki/User:Pkuczynski/Marek_Szczepanek"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/podiceps_nigricollis/c7a1a6f81762fdb6641ced027727da4641ed8e6d2a3aecda0d77ead9c3a9b1ba_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/podiceps_nigricollis/7b5f9b9600fba4425f5e233f9bdc1ac22242033d4ad83d0d16998241da8bf66e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/podiceps_nigricollis/7b5f9b9600fba4425f5e233f9bdc1ac22242033d4ad83d0d16998241da8bf66e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/podiceps_nigricollis/d48c81b83c169c93eeef7d8cb57b82c80879db6f5ef7d1b240327d77ac0c0fa0.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, \u0418\u0432\u0430\u043d \u0412\u0435\u0437\u0435\u043d\u043a\u043e\u0432\u0438\u045b",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:VezeIvan&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/podiceps_nigricollis/d48c81b83c169c93eeef7d8cb57b82c80879db6f5ef7d1b240327d77ac0c0fa0_thumb.jpg"
+    }
+  ]
+}

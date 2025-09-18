@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/lagopus_muta/c8041b89f2f5adb09a3e84df5237c049bd8f410b96d7f77df0764aa39ab01704.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Jan Frode Haugseth",
+      "url": "https://commons.wikimedia.org/wiki/User:Jafro"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/lagopus_muta/c8041b89f2f5adb09a3e84df5237c049bd8f410b96d7f77df0764aa39ab01704_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/lagopus_muta/2a2b09a682863e5e55331f424a61e8e45053819ec71506e14d48b1c5b861d4dc.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bouke ten Cate",
+        "url": "https://commons.wikimedia.org/wiki/User:BouketenCate"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lagopus_muta/2a2b09a682863e5e55331f424a61e8e45053819ec71506e14d48b1c5b861d4dc_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lagopus_muta/6017f4df96945c2ffa3c6e3008db6d7c5103a5e5ab20e775c9848bbdb2cfdb8e.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lagopus_muta/6017f4df96945c2ffa3c6e3008db6d7c5103a5e5ab20e775c9848bbdb2cfdb8e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lagopus_muta/80fe62356e2cbfc478910d495f13adaff5872f0ea788df783b7107ab6daf73ab.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lagopus_muta/80fe62356e2cbfc478910d495f13adaff5872f0ea788df783b7107ab6daf73ab_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lagopus_muta/9b0d8e29c8b580cffacbae4e667cb3d25661dcb10d4885583ac62e0f196405d0.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/lagopus_muta/9b0d8e29c8b580cffacbae4e667cb3d25661dcb10d4885583ac62e0f196405d0_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lagopus_muta/d09c7b6cbf9e22004f6753776bc3d1f47f79b08dc1fbc1657291e33b248d5d09.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Bouke ten Cate",
+        "url": "https://commons.wikimedia.org/wiki/User:BouketenCate"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lagopus_muta/d09c7b6cbf9e22004f6753776bc3d1f47f79b08dc1fbc1657291e33b248d5d09_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/lagopus_muta/f435f8016eb8948f330134ef92839f87c9b69b669f726df2920e85f615557f54.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, USFWSAlaska",
+        "url": "https://www.flickr.com/people/usfws_alaska/"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/lagopus_muta/f435f8016eb8948f330134ef92839f87c9b69b669f726df2920e85f615557f54_thumb.jpg"
+    }
+  ]
+}

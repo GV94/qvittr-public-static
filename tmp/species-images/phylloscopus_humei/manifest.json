@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/phylloscopus_humei/302f373baad687ab14b777a3681792187f14468462eca7673ced3ffa2c27c7c4.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Francesco Veronesi",
+      "url": "https://www.flickr.com/people/30818542@N04"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/phylloscopus_humei/302f373baad687ab14b777a3681792187f14468462eca7673ced3ffa2c27c7c4_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/phylloscopus_humei/148e92f2ff3ff2bd6fb2d9d5a60c64ed850f63fa18812d5342f823711cfb2522.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_humei/148e92f2ff3ff2bd6fb2d9d5a60c64ed850f63fa18812d5342f823711cfb2522_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_humei/5bb1f61e4f14af361770d3f163e3d3c0f77c12049dd3692c448f48dea90d8c5e.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_humei/5bb1f61e4f14af361770d3f163e3d3c0f77c12049dd3692c448f48dea90d8c5e_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_humei/7ef8adeda325989ded94abfb30d9e840906585ae296249b63ea404c83e04ab88.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Achat1999",
+        "url": "https://commons.wikimedia.org/wiki/User:Achat1999"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_humei/7ef8adeda325989ded94abfb30d9e840906585ae296249b63ea404c83e04ab88_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_humei/854371338ba3836c6f5d8f836052ff66dc4e87c6a9c1b824ac50d5a584e9cb50.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ron Knight",
+        "url": ""
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_humei/854371338ba3836c6f5d8f836052ff66dc4e87c6a9c1b824ac50d5a584e9cb50_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/phylloscopus_humei/f688497d9e69ede0b864be831327dacef5a23561736997553ba4937ecf7b0d9a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Achat1999",
+        "url": "https://commons.wikimedia.org/wiki/User:Achat1999"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/phylloscopus_humei/f688497d9e69ede0b864be831327dacef5a23561736997553ba4937ecf7b0d9a_thumb.jpg"
+    }
+  ]
+}

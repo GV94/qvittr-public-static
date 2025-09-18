@@ -1,0 +1,22 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/alca_torda/f5ae06d9f58568e1487951fecf6736228fa795d78a6fbc8ada6ae24c2216263f.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, jack_spellingbacon",
+      "url": "https://www.flickr.com/people/13422316@N00"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/alca_torda/f5ae06d9f58568e1487951fecf6736228fa795d78a6fbc8ada6ae24c2216263f_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/alca_torda/bcc1e768ecf984b18de2e2a2a8c99243b9ceda03545810dc8537e65f4b9082bd.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/alca_torda/bcc1e768ecf984b18de2e2a2a8c99243b9ceda03545810dc8537e65f4b9082bd_thumb.jpg"
+    }
+  ]
+}

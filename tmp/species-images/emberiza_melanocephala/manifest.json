@@ -1,0 +1,58 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/emberiza_melanocephala/2406f5c04eab4c1da8114970f6ecb00f6e752738f27a1ca4cb2a45893f6eb1ac.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Mark S Jobling",
+      "url": ""
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/emberiza_melanocephala/2406f5c04eab4c1da8114970f6ecb00f6e752738f27a1ca4cb2a45893f6eb1ac_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/emberiza_melanocephala/06f8667eb0bcc8980ccc3db537a34976b26564fb5b2e75d829403d579c22161b.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ivan Petrov",
+        "url": "https://bg.wikipedia.org/wiki/User:IvanGeoPetrov"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_melanocephala/06f8667eb0bcc8980ccc3db537a34976b26564fb5b2e75d829403d579c22161b_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_melanocephala/0a218276aac157852a520974ed7929f93b0a373678d3bc67319d655a63e015c2.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ivan Petrov",
+        "url": "https://bg.wikipedia.org/wiki/User:IvanGeoPetrov"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_melanocephala/0a218276aac157852a520974ed7929f93b0a373678d3bc67319d655a63e015c2_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_melanocephala/86e05993441f4c3155d57f5fa48adff54e99c929dd95b36a1b9f4364e6bb9a27.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/emberiza_melanocephala/86e05993441f4c3155d57f5fa48adff54e99c929dd95b36a1b9f4364e6bb9a27_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_melanocephala/bbc972c7b0a5b0f9c9ea2bed605df7e5d6c952cdf72600387b3d4c864658c8a1.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Ivan Petrov",
+        "url": "https://bg.wikipedia.org/wiki/User:IvanGeoPetrov"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_melanocephala/bbc972c7b0a5b0f9c9ea2bed605df7e5d6c952cdf72600387b3d4c864658c8a1_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/emberiza_melanocephala/d38a3a52913d1c685c4722b3166b328871870ea4612746c2e3e7d3f9e6ef2071.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, 28-090504-black-headed-bunting-at-first-layby.jpg",
+        "url": "https://commons.wikimedia.org/wiki/File:28-090504-black-headed-bunting-at-first-layby.jpg"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/emberiza_melanocephala/d38a3a52913d1c685c4722b3166b328871870ea4612746c2e3e7d3f9e6ef2071_thumb.jpg"
+    }
+  ]
+}

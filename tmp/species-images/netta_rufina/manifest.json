@@ -1,0 +1,67 @@
+{
+  "defaultImage": {
+    "largeUrl": "species-images/netta_rufina/2819fed89111261dc1b7478524f333374e8df68ac972f27073b3e383aee2c4d0.jpg",
+    "attribution": {
+      "label": "Wikimedia Commons, Diliff",
+      "url": "https://commons.wikimedia.org/wiki/User:Diliff"
+    },
+    "source": "Wikipedia",
+    "previewUrl": "species-images/netta_rufina/2819fed89111261dc1b7478524f333374e8df68ac972f27073b3e383aee2c4d0_thumb.jpg"
+  },
+  "images": [
+    {
+      "largeUrl": "species-images/netta_rufina/2a808905d1653e5aded5691f432b59becfb999541fb1c60722a28837394c0960.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, Gio46ti",
+        "url": "https://commons.wikimedia.org/w/index.php?title=User:Gio46ti&amp;action=edit&amp;redlink=1"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/netta_rufina/2a808905d1653e5aded5691f432b59becfb999541fb1c60722a28837394c0960_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/netta_rufina/347c92927df4aff2c5948d17b215fcf7037cb595ca7f0d7a112f818611256378.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/netta_rufina/347c92927df4aff2c5948d17b215fcf7037cb595ca7f0d7a112f818611256378_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/netta_rufina/4e18af12db0713bd7830cfbd85241f8feaf07a53c538a4211703af58b76fced6.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/netta_rufina/4e18af12db0713bd7830cfbd85241f8feaf07a53c538a4211703af58b76fced6_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/netta_rufina/6729a86df8b5aade68201fa0b43957af4bf6a6152fe9e2c3a5ac994becf0774c.jpg",
+      "attribution": {
+        "label": "Pixabay",
+        "url": "https://pixabay.com"
+      },
+      "source": "Pixabay",
+      "previewUrl": "species-images/netta_rufina/6729a86df8b5aade68201fa0b43957af4bf6a6152fe9e2c3a5ac994becf0774c_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/netta_rufina/daf3b912213b10d64f0f21ba0dd988809a7284685fd6ae182e946ec8b9009e4a.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, flybyeigenheer",
+        "url": "https://www.flickr.com/people/78631472@N03"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/netta_rufina/daf3b912213b10d64f0f21ba0dd988809a7284685fd6ae182e946ec8b9009e4a_thumb.jpg"
+    },
+    {
+      "largeUrl": "species-images/netta_rufina/e52b5caf6c567dc4921712e13c9a05fb4aeaf43ebea90079a4eaa59d88a77be8.jpg",
+      "attribution": {
+        "label": "Wikimedia Commons, yves hoebeke",
+        "url": "https://www.flickr.com/people/60322572@N04"
+      },
+      "source": "Wikipedia",
+      "previewUrl": "species-images/netta_rufina/e52b5caf6c567dc4921712e13c9a05fb4aeaf43ebea90079a4eaa59d88a77be8_thumb.jpg"
+    }
+  ]
+}
