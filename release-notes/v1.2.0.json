@@ -1,5 +1,7 @@
 {
   "version": "1.2.0",
   "date": "2026-03-19",
-  "notes": null
+  "notes": [
+    "Uppdateringsmeddelandet visas nu som ett fast fält högst upp på sidan istället för en tillfällig popup"
+  ]
 }
