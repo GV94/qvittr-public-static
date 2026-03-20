@@ -2,7 +2,7 @@
   "version": "1.2.1",
   "date": "2026-03-20",
   "notes": [
-    "Vi har fixat så att aviseringmärken nu visar rätt antal istället för alltid nolla",
-    "Du kan nu se faktisk prestationsförloppning på andra användares profiler"
+    "Vi har fixat ett fel där aviseringsmärket alltid visade noll och aviseringar inte levererades korrekt.",
+    "Vi har fixat ett fel där andra användares faktiska prestationsframsteg inte visades korrekt på deras profiler."
   ]
 }
