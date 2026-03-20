@@ -1,0 +1,8 @@
+{
+  "version": "1.2.1",
+  "date": "2026-03-20",
+  "notes": [
+    "Vi har fixat så att aviseringmärken nu visar rätt antal istället för alltid nolla",
+    "Du kan nu se faktisk prestationsförloppning på andra användares profiler"
+  ]
+}
