@@ -1,0 +1,8 @@
+{
+  "version": "1.3.0",
+  "date": "2026-03-22",
+  "notes": [
+    "Inloggningsknappar och Skapa konto-knappar döljs nu på startsidan om du redan är inloggad.",
+    "Din profil uppdateras nu automatiskt efter att du registrerat en observation eller avslutat en session."
+  ]
+}
