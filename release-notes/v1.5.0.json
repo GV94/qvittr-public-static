@@ -1,0 +1,8 @@
+{
+  "version": "1.5.0",
+  "date": "2026-03-28",
+  "notes": [
+    "Nästa och föregående bild i fågelguidens bildkarusell laddas nu i förväg, så att det går snabbare att bläddra mellan bilder.",
+    "Sessionskort i flödet visar nu de ovanligaste arterna först bland förhandsvisningarna, så att sällsynta fynd syns direkt."
+  ]
+}
