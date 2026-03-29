@@ -1,0 +1,7 @@
+{
+  "version": "1.5.2",
+  "date": "2026-03-29",
+  "notes": [
+    "Åtgärdat ett problem som förhindrade att backend-servern startade efter uppdatering."
+  ]
+}
