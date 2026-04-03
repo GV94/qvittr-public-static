@@ -1,0 +1,11 @@
+{
+  "version": "1.7.1",
+  "date": "2026-04-03",
+  "notes": [
+    "Förbättringar under huven för ökad stabilitet och prestanda.",
+    "Inbjudningslänkar fungerar nu korrekt och leder direkt till registreringssidan.",
+    "Räkningen för prestationen att rapportera observationer ett visst antal dagar i följd fungerar nu korrekt",
+    "XP-uppdelningen visar nu tydligt att bonus för nya arter är ett kryss-bonus, så att det inte förväxlas med vanlig observations-XP.",
+    "Länkar i appen ändrar inte längre färg efter att de besökts."
+  ]
+}
