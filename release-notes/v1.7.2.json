@@ -1,0 +1,7 @@
+{
+  "version": "1.7.2",
+  "date": "2026-04-03",
+  "notes": [
+    "Fixade ett problem som gjorde att vissa sidor (registrering, inloggning, fågelguiden m.fl.) inte gick att nå via direktlänk."
+  ]
+}
