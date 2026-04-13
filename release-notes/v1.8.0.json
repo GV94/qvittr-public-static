@@ -2,7 +2,7 @@
   "version": "1.8.0",
   "date": "2026-04-13",
   "notes": [
-    "Profilsidan har fatt en ny design med ett oversiktligt rutnatlayout. Observationer, krysslista, utmaningar, prestationer och tavlingar visas som egna kort som laddar var for sig.",
+    "Profilsidan har fått en ny design med ett översiktligt rutnätslayout. Observationer, krysslista, utmaningar, prestationer och tävlingar visas som egna kort som laddar var för sig.",
     "Dina följare får nu ett meddelande när du lägger till nya arter på din artlista via en session.",
     "Artens sällsynthet visas nu som en färgad prick bredvid artnamnet i artväljarens rullgardinslista.",
     "Åtgärdat fel där observationer på exakt 0 meters avstånd visade tid istället för 0 m i flödet.",
