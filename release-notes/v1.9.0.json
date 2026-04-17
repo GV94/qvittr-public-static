@@ -1,0 +1,9 @@
+{
+  "version": "1.9.0",
+  "date": "2026-04-17",
+  "notes": [
+    "Aktivitetsflödet och dina observationer har fått en ny, kompaktare design. Varje observation visas som en rad i en lista, och du kan klicka fram detaljer eller reagera direkt från flödet.",
+    "Du kan nu svepa mellan bilder i bildgalleriet med fingret eller musen, och bilderna glider mjukt när du byter i stället för att hoppa direkt.",
+    "Nu finns ett sökverktyg högst upp i appen. Tryck på förstoringsglaset för att söka efter fåglar på svenskt eller vetenskapligt namn, eller hitta andra användare på användarnamn."
+  ]
+}
