@@ -1,0 +1,10 @@
+{
+  "version": "1.10.0",
+  "date": "2026-04-17",
+  "notes": [
+    "I reaktionslistan visas varje person nu på en rad, med sina reaktioner samlade bredvid namnet.",
+    "Reaktionerna i listan visas nu som små färgade cirklar, precis som i sammanfattningen ovanför.",
+    "Ny design för reaktioner i flödet: en knapp öppnar en liten meny där du väljer gilla eller wow, och bredvid ser du vilka som reagerat.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
