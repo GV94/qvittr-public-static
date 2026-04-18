@@ -1,0 +1,8 @@
+{
+  "version": "1.11.0",
+  "date": "2026-04-18",
+  "notes": [
+    "Du kan nu använda webbläsarens bakåtknapp för att gå tillbaka till startsidan i fågelquizet.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
