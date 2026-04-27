@@ -1,0 +1,15 @@
+{
+  "version": "1.12.0",
+  "date": "2026-04-27",
+  "notes": [
+    "Dina bevakningar har en ny design. Alla bevakningar visas nu på en karta och det är enklare att se var och när de har larmat. Du kan också redigera en befintlig bevakning.",
+    "På din profil visas nu en ny ruta med dina bevakningar. Den listar de bevakningar som larmat senast och hur många träffar varje bevakning har haft de senaste sju dagarna.",
+    "Dolda nominatunderarter visas inte längre i artval, sökning och sällsynthetslistor.",
+    "Krysslistan har fått en ny översiktsvy med en tydlig framstegsring, fördelning per sällsynthet och en förbättrad sökning bland arterna.",
+    "Ny typografi i hela appen för en lugnare och mer läsbar känsla.",
+    "Qvittrs fågel har fått en uppstädad form. Den nya logotypen syns överallt i appen, på hemskärmen och i delade länkar.",
+    "Nytt utseende: uppdaterade typsnitt, logotyp och färger för sällsynthetsmärken.",
+    "Du kan nu söka bland dina följare och personerna du följer.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
