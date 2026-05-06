@@ -1,0 +1,8 @@
+{
+  "version": "1.13.0",
+  "date": "2026-05-06",
+  "notes": [
+    "Förbättringar under huven för ökad stabilitet och prestanda.",
+    "Underarter visas inte längre i artväljaren som standard. När du rapporterar en observation kan du välja att visa underarter genom en kryssruta, och ditt val sparas till nästa gång. Du kan fortfarande rapportera och se underarter i din artlista och i flödet."
+  ]
+}
