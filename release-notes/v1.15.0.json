@@ -1,0 +1,9 @@
+{
+  "version": "1.15.0",
+  "date": "2026-05-11",
+  "notes": [
+    "Utmaningar visas nu uppdelade i Dagens utmaningar och Veckans utmaningar, så att du snabbt ser vad som hör till vilken period.",
+    "Nytt på din profilsida: Statistik. Här ser du dina årssiffror på ett samlat ställe - antal observationer, antal arter, sällsyntaste fyndet, mest rapporterade art, längsta serien av rapporteringsdagar i rad, favoritplats och en månadsöversikt. Välj år för att jämföra med tidigare år.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
