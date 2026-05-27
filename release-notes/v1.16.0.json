@@ -1,0 +1,10 @@
+{
+  "version": "1.16.0",
+  "date": "2026-05-27",
+  "notes": [
+    "Fågelquizet har fått en ny design. Du kan nu välja om du vill testa alla arter, fokusera på en sällsynthetsnivå, eller på utvalda fågelfamiljer (t.ex. bara mesar eller bara ugglor). Klassiskt läge har nu 10 frågor istället för 5. Resultatskärmen visar dina svar tydligare och i Skriv själv-läget visas bara fåglar som kan dyka upp i quizet.",
+    "Startsidan har designats om. Appens funktioner — krysslistan, fågellarmen, det sociala flödet och prestationerna — visas nu direkt i exempelvyer från appen, så att man snabbt ser vad Qvittr kan.",
+    "På statistiksidans karta är pinnarna nu färgade efter hur sällsynt arten är och visar artnamnet under sig. Klicka på en pin för att se observationen i detalj, eller på ett kluster för att zooma in och bläddra mellan alla observationer på samma plats.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
