@@ -1,0 +1,8 @@
+{
+  "version": "1.17.0",
+  "date": "2026-05-30",
+  "notes": [
+    "Nu kan du trycka på bilden i fågelquizet för att se den i helskärm, så att du lättare ser fågelns alla kännetecken. Tryck på krysset eller utanför bilden för att stänga den igen.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
