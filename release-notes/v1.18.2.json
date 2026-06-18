@@ -1,0 +1,11 @@
+{
+  "version": "1.18.2",
+  "date": "2026-06-18",
+  "notes": [
+    "Kryssar du fel art i flödet kan du nu ångra direkt med en knapp, utan att gå till krysslistan.",
+    "Vi visar fler fågelljud.",
+    "Artlistan i fågelguiden har fått en tydligare design där du kan söka, filtrera och sortera arterna.",
+    "Fler fåglar har läten att lyssna på, och du hittar nu olika sorters läten som sång och lockläten.",
+    "När du spelar upp ett fågelljud ser du nu att det laddas och hur långt det är."
+  ]
+}
