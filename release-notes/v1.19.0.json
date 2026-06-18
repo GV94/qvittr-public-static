@@ -1,0 +1,8 @@
+{
+  "version": "1.19.0",
+  "date": "2026-06-18",
+  "notes": [
+    "En laddningssnurra visas nu på arten medan du lägger till eller tar bort den i din krysslista, så att du ser att ändringen sparas.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
