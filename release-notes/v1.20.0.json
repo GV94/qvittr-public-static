@@ -1,0 +1,8 @@
+{
+  "version": "1.20.0",
+  "date": "2026-06-21",
+  "notes": [
+    "Artlistan i fågelguiden visar nu bara arter som regelbundet förekommer i Sverige, och du kan slå på Visa alla arter för att även se ovanliga och aldrig påträffade arter.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
