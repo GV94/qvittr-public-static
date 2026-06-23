@@ -1,0 +1,9 @@
+{
+  "version": "1.22.0",
+  "date": "2026-06-23",
+  "notes": [
+    "Fler arter kan nu visas med foton tack vare en ny bildkälla.",
+    "När du lägger till en ny art i din artlista får dina följare alltid en notis, även om du valt att inte meddela följare om observationen.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
