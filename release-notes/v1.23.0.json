@@ -1,0 +1,10 @@
+{
+  "version": "1.23.0",
+  "date": "2026-06-29",
+  "notes": [
+    "Inloggade användare kommer nu direkt till sitt flöde när appen öppnas, utan att startsidan visas en kort stund först.",
+    "När du tar bort din enda observation av en art får du nu frågan om arten även ska tas bort från din livslista.",
+    "Det går nu att stänga fler fönster med en tydlig stängknapp (kryss) uppe i hörnet, så att de blir enklare att stänga.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
