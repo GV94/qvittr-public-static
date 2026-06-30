@@ -1,0 +1,11 @@
+{
+  "version": "1.24.0",
+  "date": "2026-06-30",
+  "notes": [
+    "På artkartans djupaste zoomnivå visas nu antalet observationer per plats, och kartan laddar betydligt snabbare.",
+    "Du kan nu oppna sidan Om Qvittr aven nar du ar inloggad.",
+    "Sidfoten har fått en ny, tydligare design som fungerar bra på både stora och små skärmar.",
+    "På artsidan kan du nu lyssna på fågelns olika läten direkt, med uppgift om vem som gjort varje inspelning.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
