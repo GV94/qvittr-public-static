@@ -1,0 +1,10 @@
+{
+  "version": "1.25.0",
+  "date": "2026-07-02",
+  "notes": [
+    "Arternas observationskarta är nu en levande karta du kan zooma i, från län och kommuner hela vägen ner till enskilda fynd.",
+    "På artens observationskarta kan du nu välja hur långt bakåt i tiden du vill se, från senaste dygnet till hela året, så att du enkelt kan följa var arten har rapporterats den senaste tiden.",
+    "Nu kan du anmäla en felaktig bild direkt i fågelquizet med ett knapptryck, så öppnas ett förifyllt mejl där du kan berätta vad som är fel.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
