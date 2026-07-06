@@ -1,0 +1,8 @@
+{
+  "version": "1.28.0",
+  "date": "2026-07-06",
+  "notes": [
+    "Nästa kryss har fått en egen sida som visar fler föreslagna arter, där du kan pausa arter som du inte tror att du kommer att se på ett tag.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
