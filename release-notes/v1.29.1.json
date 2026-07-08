@@ -1,0 +1,7 @@
+{
+  "version": "1.29.1",
+  "date": "2026-07-08",
+  "notes": [
+    "Fixat ett problem där tangentbordet på små mobilskärmar kunde skymma Klar-knappen så att det inte gick att spara sin observation."
+  ]
+}
