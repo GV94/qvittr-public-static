@@ -1,0 +1,9 @@
+{
+  "version": "1.30.0",
+  "date": "2026-07-09",
+  "notes": [
+    "Du kan nu rapportera en observation direkt från artens sida i fågelguiden, med arten redan ifylld.",
+    "Fågelguiden svarar nu på hur en fågel låter bland de vanliga frågorna på varje artsida, med en hänvisning till ljudspelaren.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
