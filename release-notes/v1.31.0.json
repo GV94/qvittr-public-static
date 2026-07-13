@@ -1,0 +1,15 @@
+{
+  "version": "1.31.0",
+  "date": "2026-07-13",
+  "notes": [
+    "Bevakningar har fått ny design och buggar har åtgärdats. Du kan också pausa en bevakning och välja om aviseringar ska komma direkt eller som en daglig sammanfattning.",
+    "Ny design för tävlingar, med möjlighet att namnge din tävling.",
+    "Fler ljudinspelningar visas nu för fler arter i fågelguiden.",
+    "Nu kan du ange vad fågeln gjorde när du rapporterar en observation, till exempel sjungande, rastande, förbiflygande, sträckande eller födosökande.",
+    "Aktivitet och kommentar visas nu direkt på observationen i flödet.",
+    "Observationskartan visar nu vilket län och vilken kommun du tittar på när du zoomar in, direkt ovanpå kartan.",
+    "Få en påminnelse när din dagliga streak håller på att ta slut, så att du hinner rapportera en observation innan dagen är slut.",
+    "Ljudinspelningarna för en fågelart visas nu i en tydligare lista där du kan spela upp och spola i varje inspelning och se inspelare, källa och licens.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
