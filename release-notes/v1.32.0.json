@@ -1,0 +1,9 @@
+{
+  "version": "1.32.0",
+  "date": "2026-07-24",
+  "notes": [
+    "Fågelquizet kommer nu ihåg dina senaste inställningar, och du kan återställa allt med en knapp.",
+    "Från en art i fågelguiden finns nu en Tillbaka-knapp som tar dig åter till artlistan med dina filter, sortering och läsposition kvar, så att det är lätt att hoppa in och ut ur artiklar.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
