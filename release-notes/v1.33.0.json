@@ -1,0 +1,11 @@
+{
+  "version": "1.33.0",
+  "date": "2026-08-03",
+  "notes": [
+    "Förbättringar under huven för ökad stabilitet och prestanda.",
+    "När du rapporterar en mycket eller extremt sällsynt fågel får du nu en fråga där du bekräftar att du är säker på artbestämningen.",
+    "På din profil kan du nu trycka på en art under Sällsyntast i Statistik eller under Sällsyntaste kryss i Krysslista för att läsa om fågeln, och på en bevakning under Bevakningar för att öppna den.",
+    "Artväljaren sorteras nu först efter raritetskategori, sedan bokstavsordning inom varje grupp.",
+    "Åtgärdat ett problem där knappen Visa alla arter i krysslistan tidigare inte gjorde någonting, och där en del arter som Rallhäger och Rostsparv inte kunde kryssas."
+  ]
+}
