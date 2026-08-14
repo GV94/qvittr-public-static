@@ -1,0 +1,10 @@
+{
+  "version": "1.34.0",
+  "date": "2026-08-14",
+  "notes": [
+    "I krysslistorna kan du nu följa hur många av Sveriges 100 vanligaste arter du har sett.",
+    "Nu kan du se årslistor i krysslistorna, med arterna du rapporterat under ett visst år.",
+    "Krysslistan heter nu Krysslistor i menyn.",
+    "Rapporteringen är ny och görs nu steg för steg, med en fråga i taget."
+  ]
+}
