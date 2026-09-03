@@ -1,0 +1,17 @@
+{
+  "version": "1.35.0",
+  "date": "2026-09-03",
+  "notes": [
+    "Krysslistan har fått kosmetiska förbättringar.",
+    "Krysslistan visar nu också årslistor, vilka baseras på observationer du gjort i Qvittr.",
+    "Krysslistan har fått en underlista med de 100 vanligaste arterna.",
+    "Nya utmärkelser för hur många olika arter du hinner rapportera under en och samma dag.",
+    "Extremt sällsynta arter visas nu direkt i fågelguiden, utan att du behöver slå på ”visa alla arter”.",
+    "En ny utmärkelse när du lägger till Qvittr på hemskärmen och öppnar appen därifrån.",
+    "Nya undersidor för läten för vissa arter, fler kommer.",
+    "Artlistan i livslistan har nu kategorierna sorterade från vanligast till sällsyntast.",
+    "Sällsynthetsgraderingen är omgjord. Den bygger nu på BirdLife Sveriges officiella artlista och på var och hur ofta varje art faktiskt setts i Sverige de senaste fem åren, i stället för på antalet rapporter. Extremt sällsynta arter graderas efter Raritetskatalogens godkända fynd. Tryck på en sällsynthetsnivå i appen och öppna Om graderingen för att läsa mer.",
+    "Har du rapporterat en underart hittar du den nu under sin art i livslistan.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
