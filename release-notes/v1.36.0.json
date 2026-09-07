@@ -1,0 +1,8 @@
+{
+  "version": "1.36.0",
+  "date": "2026-09-07",
+  "notes": [
+    "Förbättringar under huven för ökad stabilitet och prestanda.",
+    "Lagt till marginaler vid kartan på artikelsidorna i fågelguiden, för att lättare kunna scrolla förbi kartan."
+  ]
+}
