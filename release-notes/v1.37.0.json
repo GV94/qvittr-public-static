@@ -1,0 +1,8 @@
+{
+  "version": "1.37.0",
+  "date": "2026-09-09",
+  "notes": [
+    "På observationskartan finns nu en knapp som zoomar in på din plats.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
