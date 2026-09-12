@@ -1,0 +1,9 @@
+{
+  "version": "1.39.0",
+  "date": "2026-09-12",
+  "notes": [
+    "Fågelguiden har nu sidor även för de allra ovanligaste arterna, de som bara setts i Sverige ett fåtal gånger.",
+    "På artsidor där inga observationer rapporterats det senaste året står det nu i klartext, istället för en tom karta.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
