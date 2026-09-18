@@ -1,0 +1,11 @@
+{
+  "version": "1.40.0",
+  "date": "2026-09-18",
+  "notes": [
+    "Aviseringarna har fått ett nytt utseende.",
+    "Förbättringar av fågellarmssidorna.",
+    "På artsidorna scrollar du nu förbi kartan med ett finger och flyttar kartan med två fingrar.",
+    "Navigationsmenyerna har fått kosmetiska förbättringar.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
