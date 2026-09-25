@@ -1,0 +1,11 @@
+{
+  "version": "1.42.0",
+  "date": "2026-09-25",
+  "notes": [
+    "På mobilen kan du nu stänga aviseringarna genom att svepa nedåt.",
+    "Förbättringar under huven för ökad stabilitet och prestanda.",
+    "Menyraden längst ner i mobilen har fått ett nytt utseende, och där hittar du nu också Meny.",
+    "I Flöde tar du nu bort den valda platsen med knappen Rensa plats inne i kartan.",
+    "Statistiksidan har fått en ny karta och en lista med alla årets observationer."
+  ]
+}
