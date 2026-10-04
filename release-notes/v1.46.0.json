@@ -1,0 +1,10 @@
+{
+  "version": "1.46.0",
+  "date": "2026-10-04",
+  "notes": [
+    "Prestationerna har fått ett nytt utseende och fler prestationer att låsa upp.",
+    "Krysslistan visar nu hur långt du har kommit i varje ordning och familj, och vilka arter du har kryssat och vilka du saknar.",
+    "Förbättringar under huven för ökad stabilitet och prestanda.",
+    "I den installerade appen uppdaterar du nu sidan genom att dra ner från toppen."
+  ]
+}
