@@ -1,0 +1,8 @@
+{
+  "version": "1.49.0",
+  "date": "2026-10-16",
+  "notes": [
+    "Funktioner som vi fortfarande testar har nu en speciell ikon. Du kan trycka på ikonen för att läsa mer.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
