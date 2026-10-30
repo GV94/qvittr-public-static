@@ -1,0 +1,12 @@
+{
+  "version": "1.51.0",
+  "date": "2026-10-30",
+  "notes": [
+    "Flera menyer har fått ett handtag som indikerar att du kan svepa för att stänga dem.",
+    "Du kan nu ladda ner din livslista som en fil som går att öppna i Excel.",
+    "När du är inloggad visar artsidorna nu rapporter längre bak i tiden, per dag, månad och år.",
+    "Du kan nu söka fram en plats med namn i kartan i Flöde.",
+    "Du kan nu stänga av pushnotiser från enstaka personer som du följer, med klockan på deras profil.",
+    "Förbättringar under huven för ökad stabilitet och prestanda."
+  ]
+}
