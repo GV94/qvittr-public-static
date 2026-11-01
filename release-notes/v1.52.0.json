@@ -1,0 +1,10 @@
+{
+  "version": "1.52.0",
+  "date": "2026-11-01",
+  "notes": [
+    "Förbättringar under huven för ökad stabilitet och prestanda.",
+    "Experimentellt: Under Platser i flödet ser du vad som har setts runt en plats och sparar dina favoritplatser.",
+    "I fågelquizet rapporterar du nu en felaktig bild direkt i appen.",
+    "Under Inställningar väljer du nu själv vilka experimentella funktioner du vill prova."
+  ]
+}
